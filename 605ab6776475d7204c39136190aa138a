@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Klodzko",
+               "short_name" : "Klodzko",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Kłodzko",
+               "short_name" : "Gmina Kłodzko",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kłodzko County",
+               "short_name" : "Kłodzko County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Klodzko, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4662176,
+                  "lng" : 16.693675
+               },
+               "southwest" : {
+                  "lat" : 50.4019258,
+                  "lng" : 16.607732
+               }
+            },
+            "location" : {
+               "lat" : 50.4345636,
+               "lng" : 16.6613941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4662176,
+                  "lng" : 16.693675
+               },
+               "southwest" : {
+                  "lat" : 50.4019258,
+                  "lng" : 16.607732
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

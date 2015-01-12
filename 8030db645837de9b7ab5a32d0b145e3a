@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chefchaouen",
+               "short_name" : "Chefchaouen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chefchaouen",
+               "short_name" : "Chefchaouen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tangier-Tetouan",
+               "short_name" : "Tangier-Tetouan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chefchaouen, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.185559,
+                  "lng" : -5.2556705
+               },
+               "southwest" : {
+                  "lat" : 35.152179,
+                  "lng" : -5.287148999999999
+               }
+            },
+            "location" : {
+               "lat" : 35.171389,
+               "lng" : -5.269722000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.185559,
+                  "lng" : -5.2556705
+               },
+               "southwest" : {
+                  "lat" : 35.152179,
+                  "lng" : -5.287148999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

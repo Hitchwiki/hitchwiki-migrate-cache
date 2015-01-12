@@ -1,0 +1,844 @@
+{
+  "totalResultsCount": 22,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 18.506880307456274,
+        "south": 43.74034348824146,
+        "north": 43.95693923233895,
+        "west": 18.205995058754727
+      },
+      "asciiName": "Sarajevo",
+      "countryId": "3277605",
+      "fcl": "P",
+      "score": 241.79071044921875,
+      "adminId2": "3343737",
+      "countryCode": "BA",
+      "adminId1": "3229999",
+      "lat": "43.84864",
+      "fcode": "PPLC",
+      "continentCode": "EU",
+      "adminCode2": "3343737",
+      "adminCode1": "01",
+      "lng": "18.35644",
+      "geonameId": 3191281,
+      "toponymName": "Sarajevo",
+      "population": 696731,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "ሳራዬቮ",
+          "lang": "am"
+        },
+        {
+          "name": "سراييفو",
+          "lang": "ar"
+        },
+        {
+          "name": "ساراييفو",
+          "lang": "arz"
+        },
+        {
+          "name": "Sarayevu",
+          "lang": "ast"
+        },
+        {
+          "name": "Sarayevo",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Сараева",
+          "lang": "be"
+        },
+        {
+          "name": "Сараево",
+          "lang": "bg"
+        },
+        {
+          "name": "সারায়েভো",
+          "lang": "bn"
+        },
+        {
+          "name": "ས་ར་ཇི་བོ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "bs"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "ca"
+        },
+        {
+          "name": "سارایێڤۆ",
+          "lang": "ckb"
+        },
+        {
+          "name": "Sarayevo",
+          "lang": "crh"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "cs"
+        },
+        {
+          "name": "Сараѥво",
+          "lang": "cu"
+        },
+        {
+          "name": "Сараево",
+          "lang": "cv"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "da"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "de"
+        },
+        {
+          "name": "Serayevo",
+          "lang": "diq"
+        },
+        {
+          "name": "Sarajewo",
+          "lang": "dsb"
+        },
+        {
+          "name": "Σαράγεβο",
+          "lang": "el"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "en"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "eo"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "es"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "et"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "eu"
+        },
+        {
+          "name": "سارایوو",
+          "lang": "fa"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "fi"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "fr"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "frp"
+        },
+        {
+          "name": "Sairéavó",
+          "lang": "ga"
+        },
+        {
+          "name": "Saraievo",
+          "lang": "gl"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "hbs"
+        },
+        {
+          "name": "סראייבו",
+          "lang": "he"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "hr"
+        },
+        {
+          "name": "Sarajewo",
+          "lang": "hsb"
+        },
+        {
+          "name": "Sarayevo",
+          "lang": "ht"
+        },
+        {
+          "name": "Szarajevó",
+          "lang": "hu"
+        },
+        {
+          "name": "Սարաևո",
+          "lang": "hy"
+        },
+        {
+          "name": "SJJ",
+          "lang": "iata"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "id"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "io"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "is"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "it"
+        },
+        {
+          "name": "サラエヴォ",
+          "lang": "ja"
+        },
+        {
+          "name": "სარაევო",
+          "lang": "ka"
+        },
+        {
+          "name": "Сараево",
+          "lang": "kk"
+        },
+        {
+          "name": "사라예보",
+          "lang": "ko"
+        },
+        {
+          "name": "Sarayevo",
+          "lang": "ku"
+        },
+        {
+          "name": "Seraium",
+          "lang": "la"
+        },
+        {
+          "name": "Sarajèvo",
+          "lang": "lij"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sarajevo",
+          "lang": "link"
+        },
+        {
+          "name": "Sarajevas",
+          "lang": "lt"
+        },
+        {
+          "name": "Sarajeva",
+          "lang": "lv"
+        },
+        {
+          "name": "Сараево",
+          "lang": "mk"
+        },
+        {
+          "name": "सारायेव्हो",
+          "lang": "mr"
+        },
+        {
+          "name": "Sarayevo",
+          "lang": "nah"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "nl"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "nn"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "no"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "oc"
+        },
+        {
+          "name": "Сараево",
+          "lang": "os"
+        },
+        {
+          "name": "ਸਾਰਾਯੇਵੋ",
+          "lang": "pa"
+        },
+        {
+          "name": "Sarajewo",
+          "lang": "pl"
+        },
+        {
+          "name": "ساراجیوو",
+          "lang": "pnb"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "pt"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "qu"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "ro"
+        },
+        {
+          "name": "Сараево",
+          "lang": "ru"
+        },
+        {
+          "name": "Сараево",
+          "lang": "sah"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "sk"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "sl"
+        },
+        {
+          "name": "Sarajeva",
+          "lang": "sq"
+        },
+        {
+          "name": "Сарајево",
+          "lang": "sr"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "sv"
+        },
+        {
+          "name": "Sarayevo",
+          "lang": "sw"
+        },
+        {
+          "name": "சாரயேவோ",
+          "lang": "ta"
+        },
+        {
+          "name": "Сараево",
+          "lang": "tg"
+        },
+        {
+          "name": "ซาราเยโว",
+          "lang": "th"
+        },
+        {
+          "name": "Saraybosna",
+          "lang": "tr"
+        },
+        {
+          "name": "Сараево",
+          "lang": "tt"
+        },
+        {
+          "name": "Сараево",
+          "lang": "udm"
+        },
+        {
+          "name": "سارايېۋو",
+          "lang": "ug"
+        },
+        {
+          "name": "Сараєво",
+          "lang": "uk"
+        },
+        {
+          "name": "SJJ",
+          "lang": "unlc"
+        },
+        {
+          "name": "سرائیوو",
+          "lang": "ur"
+        },
+        {
+          "name": "Saarayego",
+          "lang": "wo"
+        },
+        {
+          "name": "סאראיעווא",
+          "lang": "yi"
+        },
+        {
+          "name": "塞拉耶佛",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Sarajevo Canton",
+      "name": "Sarajevo",
+      "fclName": "city, village,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Federation of Bosnia and Herzegovina"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "asciiName": "Istocno Novo Sarajevo",
+      "countryId": "3277605",
+      "fcl": "A",
+      "score": 48.85927963256836,
+      "adminId2": "3344107",
+      "countryCode": "BA",
+      "adminId1": "3230000",
+      "lat": "43.80472",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "3344107",
+      "adminCode1": "02",
+      "lng": "18.405",
+      "geonameId": 3344107,
+      "toponymName": "Istočno Novo Sarajevo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Istočno Novo Sarajevo",
+      "name": "Istočno Novo Sarajevo",
+      "fclName": "country, state, region,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Republika Srpska"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "asciiName": "Kanton Sarajevo",
+      "countryId": "3277605",
+      "fcl": "A",
+      "score": 43.026973724365234,
+      "cc2": "BA",
+      "adminId2": "3343737",
+      "countryCode": "BA",
+      "adminId1": "3229999",
+      "lat": "43.84333",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "3343737",
+      "adminCode1": "01",
+      "lng": "18.24222",
+      "geonameId": 3343737,
+      "toponymName": "Kanton Sarajevo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Сараевски кантон",
+          "lang": "bg"
+        },
+        {
+          "name": "Kanton Sarajevo",
+          "lang": "bs"
+        },
+        {
+          "name": "Cantó de Sarajevo",
+          "lang": "ca"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "cs"
+        },
+        {
+          "name": "Kanton Sarajevo",
+          "lang": "de"
+        },
+        {
+          "name": "Sarajevo Canton",
+          "lang": "en"
+        },
+        {
+          "name": "Kantono de Sarajevo",
+          "lang": "eo"
+        },
+        {
+          "name": "Cantón de Sarajevo",
+          "lang": "es"
+        },
+        {
+          "name": "Canton de Sarajevo",
+          "lang": "fr"
+        },
+        {
+          "name": "Sarajevo kanton",
+          "lang": "hbs"
+        },
+        {
+          "name": "Sarajevska županija",
+          "lang": "hr"
+        },
+        {
+          "name": "Szarajevó kanton",
+          "lang": "hu"
+        },
+        {
+          "name": "Kanton Sarajevo",
+          "lang": "id"
+        },
+        {
+          "name": "Cantone di Sarajevo",
+          "lang": "it"
+        },
+        {
+          "name": "サラエヴォ県",
+          "lang": "ja"
+        },
+        {
+          "name": "Сараевск кантоны",
+          "lang": "kk"
+        },
+        {
+          "name": "사라예보 주",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sarajevo_Canton",
+          "lang": "link"
+        },
+        {
+          "name": "Сараевски кантон",
+          "lang": "mk"
+        },
+        {
+          "name": "Wilayah Sarajevo",
+          "lang": "ms"
+        },
+        {
+          "name": "Kanton Sarajevo",
+          "lang": "nl"
+        },
+        {
+          "name": "Sarajevo kanton",
+          "lang": "no"
+        },
+        {
+          "name": "Kanton sarajewski",
+          "lang": "pl"
+        },
+        {
+          "name": "Cantonul Sarajevo",
+          "lang": "ro"
+        },
+        {
+          "name": "Сараевский кантон",
+          "lang": "ru"
+        },
+        {
+          "name": "Кантон Сарајево",
+          "lang": "sr"
+        },
+        {
+          "name": "Sarajevo kanton",
+          "lang": "sv"
+        },
+        {
+          "name": "Saraybosna Kantonu",
+          "lang": "tr"
+        },
+        {
+          "name": "Сараєвський кантон",
+          "lang": "uk"
+        },
+        {
+          "name": "Sarajevo",
+          "lang": "vi"
+        },
+        {
+          "name": "薩拉熱窩州",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Sarajevo Canton",
+      "name": "Sarajevo Canton",
+      "fclName": "country, state, region,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Federation of Bosnia and Herzegovina"
+    },
+    {
+      "elevation": 520,
+      "lng": "18.33147",
+      "geonameId": 6299696,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "toponymName": "Sarajevo Airport",
+      "asciiName": "Sarajevo Airport",
+      "countryId": "3277605",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 41.8793830871582,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "SJJ",
+          "lang": "iata"
+        },
+        {
+          "name": "LQSA",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sarajevo_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "BA",
+      "name": "Sarajevo Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "43.82458",
+      "fcode": "AIRP",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "asciiName": "Opcina Centar-Sarajevo",
+      "countryId": "3277605",
+      "fcl": "A",
+      "score": 27.919588088989258,
+      "cc2": "BA",
+      "adminId3": "3294796",
+      "countryCode": "BA",
+      "adminId1": "3229999",
+      "lat": "43.88583",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "Kanton Sarajevo",
+      "adminCode3": "3294796",
+      "adminCode1": "01",
+      "lng": "18.40083",
+      "geonameId": 3294796,
+      "toponymName": "Općina Centar-Sarajevo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Općina Centar-Sarajevo",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Centar_Municipality%2C_Sarajevo",
+        "lang": "link"
+      }],
+      "adminName2": "BA.01.Kanton Sarajevo",
+      "name": "Općina Centar-Sarajevo",
+      "fclName": "country, state, region,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Federation of Bosnia and Herzegovina"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "asciiName": "Opcina Novi Grad Sarajevo",
+      "countryId": "3277605",
+      "fcl": "A",
+      "score": 27.03302574157715,
+      "cc2": "BA",
+      "adminId3": "3344077",
+      "countryCode": "BA",
+      "adminId1": "3229999",
+      "lat": "43.85806",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "Kanton Sarajevo",
+      "adminCode3": "3344077",
+      "adminCode1": "01",
+      "lng": "18.32",
+      "geonameId": 3344077,
+      "toponymName": "Općina Novi Grad Sarajevo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Općina Novi Grad Sarajevo",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Novi_Grad%2C_Sarajevo",
+        "lang": "link"
+      }],
+      "adminName2": "BA.01.Kanton Sarajevo",
+      "name": "Općina Novi Grad Sarajevo",
+      "fclName": "country, state, region,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Federation of Bosnia and Herzegovina"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "asciiName": "Istocni Stari Grad",
+      "countryId": "3277605",
+      "fcl": "A",
+      "score": 25.645780563354492,
+      "adminId2": "3344106",
+      "countryCode": "BA",
+      "adminId1": "3230000",
+      "lat": "43.85722",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "3344106",
+      "adminCode1": "02",
+      "lng": "18.48833",
+      "geonameId": 3344106,
+      "toponymName": "Istočni Stari Grad",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Istočni Stari Grad",
+      "name": "Istočni Stari Grad",
+      "fclName": "country, state, region,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Republika Srpska"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "asciiName": "Opcina Stari Grad Sarajevo",
+      "countryId": "3277605",
+      "fcl": "A",
+      "score": 25.1663761138916,
+      "cc2": "BA",
+      "adminId3": "3344078",
+      "countryCode": "BA",
+      "adminId1": "3229999",
+      "lat": "43.88778",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "Kanton Sarajevo",
+      "adminCode3": "3344078",
+      "adminCode1": "01",
+      "lng": "18.45083",
+      "geonameId": 3344078,
+      "toponymName": "Općina Stari Grad Sarajevo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Općina Stari Grad Sarajevo",
+      "adminName2": "BA.01.Kanton Sarajevo",
+      "name": "Općina Stari Grad Sarajevo",
+      "fclName": "country, state, region,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Federation of Bosnia and Herzegovina"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "asciiName": "Opcina Novo Sarajevo",
+      "countryId": "3277605",
+      "fcl": "A",
+      "score": 25.1663761138916,
+      "adminId3": "3294782",
+      "countryCode": "BA",
+      "adminId1": "3229999",
+      "lat": "43.85333",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "Kanton Sarajevo",
+      "adminCode3": "3294782",
+      "adminCode1": "01",
+      "lng": "18.37583",
+      "geonameId": 3294782,
+      "toponymName": "Općina Novo Sarajevo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Općina Novo Sarajevo",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Novo_Sarajevo",
+        "lang": "link"
+      }],
+      "adminName2": "BA.01.Kanton Sarajevo",
+      "name": "Općina Novo Sarajevo",
+      "fclName": "country, state, region,...",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Federation of Bosnia and Herzegovina"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "16.99472",
+      "geonameId": 3286927,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Sarajevo",
+        "dstOffset": 2
+      },
+      "toponymName": "Sarajevo",
+      "asciiName": "Sarajevo",
+      "countryId": "3277605",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 17.449743270874023,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "BA",
+      "name": "Sarajevo",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Bosnia and Herzegovina",
+      "fcodeName": "hill",
+      "adminId1": "3230000",
+      "adminName1": "Republika Srpska",
+      "lat": "45.06861",
+      "fcode": "HLL",
+      "continentCode": "EU"
+    }
+  ]
+}

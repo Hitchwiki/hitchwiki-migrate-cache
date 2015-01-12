@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Jean-sur-Richelieu",
+               "short_name" : "Saint-Jean-sur-Richelieu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Le Haut-Richelieu Regional County Municipality",
+               "short_name" : "Le Haut-Richelieu Regional County Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Jean-sur-Richelieu, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.412861,
+                  "lng" : -73.1680229
+               },
+               "southwest" : {
+                  "lat" : 45.233267,
+                  "lng" : -73.41137789999999
+               }
+            },
+            "location" : {
+               "lat" : 45.305771,
+               "lng" : -73.2544903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.412861,
+                  "lng" : -73.1680229
+               },
+               "southwest" : {
+                  "lat" : 45.233267,
+                  "lng" : -73.41137789999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

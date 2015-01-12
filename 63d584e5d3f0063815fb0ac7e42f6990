@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A11",
+               "short_name" : "A11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villach",
+               "short_name" : "Villach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Villach",
+               "short_name" : "Villach",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kärnten",
+               "short_name" : "Kärnten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A11, Villach, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6148415,
+                  "lng" : 14.0312605
+               },
+               "southwest" : {
+                  "lat" : 46.48092949999999,
+                  "lng" : 13.9083808
+               }
+            },
+            "location" : {
+               "lat" : 46.55490959999999,
+               "lng" : 14.0064016
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6148415,
+                  "lng" : 14.0312605
+               },
+               "southwest" : {
+                  "lat" : 46.48092949999999,
+                  "lng" : 13.9083808
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

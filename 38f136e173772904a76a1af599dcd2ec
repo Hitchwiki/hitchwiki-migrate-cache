@@ -1,0 +1,123 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "معلولا",
+          "lang": "ar"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Maloula",
+          "lang": "link"
+        },
+        {
+          "name": "Маалюля",
+          "lang": "ru"
+        }
+      ],
+      "countryName": "Syria",
+      "adminCode1": "08",
+      "score": 20.40628433227539,
+      "lng": "36.54689",
+      "adminName2": "",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 33.835205351248575,
+        "east": 36.557715619992486,
+        "north": 33.85319264875143,
+        "west": 36.536056380007516
+      },
+      "name": "Ma‘lūlā",
+      "fcode": "PPLA3",
+      "geonameId": 167375,
+      "asciiName": "Ma`lula",
+      "lat": "33.8442",
+      "population": 5000,
+      "adminName1": "Rif-dimashq",
+      "countryId": "163843",
+      "adminId1": "170652",
+      "fclName": "city, village,...",
+      "countryCode": "SY",
+      "toponymName": "Ma‘lūlā",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "جبل معلولا",
+        "lang": "ar"
+      }],
+      "countryName": "Syria",
+      "adminCode1": "08",
+      "score": 13.884716987609863,
+      "lng": "36.61881",
+      "adminName2": "",
+      "fcodeName": "ridge(s)",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Jabal Ma‘lūlā",
+      "fcode": "RDGE",
+      "geonameId": 167373,
+      "asciiName": "Jabal Ma`lula",
+      "lat": "33.89931",
+      "population": 0,
+      "adminName1": "Rif-dimashq",
+      "countryId": "163843",
+      "adminId1": "170652",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "SY",
+      "toponymName": "Jabal Ma‘lūlā",
+      "fcl": "T",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "شارة معلولا",
+        "lang": "ar"
+      }],
+      "countryName": "Syria",
+      "adminCode1": "08",
+      "score": 13.884716987609863,
+      "lng": "36.63503",
+      "adminName2": "",
+      "fcodeName": "peak",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Shārat Ma‘lūlā",
+      "fcode": "PK",
+      "geonameId": 167374,
+      "asciiName": "Sharat Ma`lula",
+      "lat": "33.91083",
+      "population": 0,
+      "adminName1": "Rif-dimashq",
+      "countryId": "163843",
+      "adminId1": "170652",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "SY",
+      "toponymName": "Shārat Ma‘lūlā",
+      "fcl": "T",
+      "continentCode": "AS"
+    }
+  ]
+}

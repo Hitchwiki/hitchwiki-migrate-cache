@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwest Territories",
+               "short_name" : "NT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northwest Territories, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 78.76134209999999,
+                  "lng" : -101.999999
+               },
+               "southwest" : {
+                  "lat" : 59.99995399999999,
+                  "lng" : -136.4687051
+               }
+            },
+            "location" : {
+               "lat" : 64.8255441,
+               "lng" : -124.8457334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 78.76134209999999,
+                  "lng" : -101.999999
+               },
+               "southwest" : {
+                  "lat" : 59.99995399999999,
+                  "lng" : -136.4687051
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Saint Mary",
+               "short_name" : "Port St Mary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Man",
+               "short_name" : "IM",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IM9 5AQ",
+               "short_name" : "IM9 5AQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Port Saint Mary IM9 5AQ, Isle of Man",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.07611,
+               "lng" : -4.739268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.082656,
+                  "lng" : -4.7232606
+               },
+               "southwest" : {
+                  "lat" : 54.069563,
+                  "lng" : -4.755275399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huanuco",
+               "short_name" : "Huanuco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huanuco",
+               "short_name" : "Huanuco",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Huanuco",
+               "short_name" : "Huanuco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huanuco, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.8383029,
+                  "lng" : -76.18090509999999
+               },
+               "southwest" : {
+                  "lat" : -9.9442711,
+                  "lng" : -76.4056207
+               }
+            },
+            "location" : {
+               "lat" : -9.9298454,
+               "lng" : -76.24326529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.8383029,
+                  "lng" : -76.18090509999999
+               },
+               "southwest" : {
+                  "lat" : -9.9442711,
+                  "lng" : -76.4056207
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

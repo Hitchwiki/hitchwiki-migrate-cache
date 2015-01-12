@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R7",
+               "short_name" : "R7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R7, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2131115,
+                  "lng" : 14.2962017
+               },
+               "southwest" : {
+                  "lat" : 50.0918713,
+                  "lng" : 14.1204258
+               }
+            },
+            "location" : {
+               "lat" : 50.1545171,
+               "lng" : 14.213814
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2131115,
+                  "lng" : 14.2962017
+               },
+               "southwest" : {
+                  "lat" : 50.0918713,
+                  "lng" : 14.1204258
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R7",
+               "short_name" : "R7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R7, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4510346,
+                  "lng" : 13.627469
+               },
+               "southwest" : {
+                  "lat" : 50.3696873,
+                  "lng" : 13.3763539
+               }
+            },
+            "location" : {
+               "lat" : 50.4078643,
+               "lng" : 13.498352
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4510346,
+                  "lng" : 13.627469
+               },
+               "southwest" : {
+                  "lat" : 50.3696873,
+                  "lng" : 13.3763539
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

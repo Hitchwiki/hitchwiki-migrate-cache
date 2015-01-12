@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kapitan Andreevo",
+               "short_name" : "Kapitan Andreevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svilengrad",
+               "short_name" : "Svilengrad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haskovo",
+               "short_name" : "Haskovo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6530",
+               "short_name" : "6530",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6530 Kapitan Andreevo, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.725625,
+                  "lng" : 26.3284764
+               },
+               "southwest" : {
+                  "lat" : 41.7159399,
+                  "lng" : 26.3099988
+               }
+            },
+            "location" : {
+               "lat" : 41.7207301,
+               "lng" : 26.317757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.725625,
+                  "lng" : 26.3284764
+               },
+               "southwest" : {
+                  "lat" : 41.7159399,
+                  "lng" : 26.3099988
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

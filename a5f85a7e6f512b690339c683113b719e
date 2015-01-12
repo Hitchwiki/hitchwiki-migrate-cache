@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crete",
+               "short_name" : "Crete",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crete, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6956944,
+                  "lng" : 26.3524769
+               },
+               "southwest" : {
+                  "lat" : 34.8009319,
+                  "lng" : 23.4739911
+               }
+            },
+            "location" : {
+               "lat" : 35.240117,
+               "lng" : 24.8092691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6956944,
+                  "lng" : 26.3524087
+               },
+               "southwest" : {
+                  "lat" : 34.8009319,
+                  "lng" : 23.4739911
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

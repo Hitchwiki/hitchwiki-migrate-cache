@@ -1,0 +1,157 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.17121814847464,
+        "south": 46.07557380370855,
+        "north": 46.091151260291454,
+        "west": -73.19367981152537
+      },
+      "asciiName": "Berthierville",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 43.284263610839844,
+      "adminId2": "6049141",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.08336",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode2": "14",
+      "adminCode1": "10",
+      "lng": "-73.18245",
+      "geonameId": 5899017,
+      "toponymName": "Berthierville",
+      "population": 4411,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Berthierville",
+          "lang": "link"
+        },
+        {
+          "name": "BER",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Lanaudière",
+      "name": "Berthierville",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.16366039199994,
+        "south": 46.06549482200006,
+        "north": 46.09586967800004,
+        "west": -73.20607612799995
+      },
+      "asciiName": "Berthierville",
+      "countryId": "6251999",
+      "fcl": "A",
+      "score": 33.19087600708008,
+      "adminId2": "6049141",
+      "adminId3": "8673794",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.08226",
+      "fcode": "ADM3",
+      "continentCode": "NA",
+      "adminCode2": "14",
+      "adminCode3": "52035",
+      "adminCode1": "10",
+      "lng": "-73.18732",
+      "geonameId": 8673794,
+      "toponymName": "Berthierville",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Berthierville",
+      "adminName2": "Lanaudière",
+      "name": "Berthierville",
+      "fclName": "country, state, region,...",
+      "countryName": "Canada",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Berthierville",
+      "countryId": "6251999",
+      "fcl": "S",
+      "score": 5.807193756103516,
+      "adminId2": "6049141",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.08086",
+      "fcode": "PO",
+      "continentCode": "NA",
+      "adminCode2": "14",
+      "adminCode1": "10",
+      "lng": "-73.17745",
+      "geonameId": 5899018,
+      "toponymName": "Berthierville",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Lanaudière",
+      "name": "Berthierville",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "post office",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "DAYS INN BERTHIERVILLE",
+      "countryId": "6251999",
+      "fcl": "S",
+      "score": 5.4105329513549805,
+      "adminId2": "6049141",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.0881",
+      "fcode": "HTL",
+      "continentCode": "NA",
+      "adminCode2": "14",
+      "adminCode1": "10",
+      "lng": "-73.1939",
+      "geonameId": 6512995,
+      "toponymName": "Days Inn Berthierville",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Lanaudière",
+      "name": "Days Inn Berthierville",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "hotel",
+      "adminName1": "Quebec"
+    }
+  ]
+}

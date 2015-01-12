@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Skien",
+               "short_name" : "Skien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skien",
+               "short_name" : "Skien",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Telemark",
+               "short_name" : "Telemark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skien, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.2360512,
+                  "lng" : 9.688575199999999
+               },
+               "southwest" : {
+                  "lat" : 59.1364446,
+                  "lng" : 9.541366799999999
+               }
+            },
+            "location" : {
+               "lat" : 59.2089131,
+               "lng" : 9.605752599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.2360512,
+                  "lng" : 9.688575199999999
+               },
+               "southwest" : {
+                  "lat" : 59.1364446,
+                  "lng" : 9.541366799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monterrey",
+               "short_name" : "Monterrey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nuevo Leon",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monterrey, Nuevo Leon, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7972378,
+                  "lng" : -100.1841891
+               },
+               "southwest" : {
+                  "lat" : 25.5003874,
+                  "lng" : -100.4219686
+               }
+            },
+            "location" : {
+               "lat" : 25.6866142,
+               "lng" : -100.3161126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7972378,
+                  "lng" : -100.1841891
+               },
+               "southwest" : {
+                  "lat" : 25.5003874,
+                  "lng" : -100.4219686
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

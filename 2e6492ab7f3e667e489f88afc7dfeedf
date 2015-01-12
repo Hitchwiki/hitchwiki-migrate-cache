@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S1",
+               "short_name" : "S1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "śląskie",
+               "short_name" : "śląskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S1, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4570295,
+                  "lng" : 19.250745
+               },
+               "southwest" : {
+                  "lat" : 49.7624621,
+                  "lng" : 18.6130981
+               }
+            },
+            "location" : {
+               "lat" : 50.1348776,
+               "lng" : 19.0288329
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4570295,
+                  "lng" : 19.250745
+               },
+               "southwest" : {
+                  "lat" : 49.7624621,
+                  "lng" : 18.6130981
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

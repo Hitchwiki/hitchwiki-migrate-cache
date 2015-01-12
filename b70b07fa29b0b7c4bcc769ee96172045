@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svaneti Street",
+               "short_name" : "Svaneti Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gldani-Nadzaladevi",
+               "short_name" : "Gldani-Nadzaladevi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tbilisi",
+               "short_name" : "Tbilisi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tbilisi",
+               "short_name" : "Tbilisi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Svaneti Street, Tbilisi, Georgia",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7353816,
+               "lng" : 44.7976354
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7367305802915,
+                  "lng" : 44.79898438029149
+               },
+               "southwest" : {
+                  "lat" : 41.7340326197085,
+                  "lng" : 44.7962864197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

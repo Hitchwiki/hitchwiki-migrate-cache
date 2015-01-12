@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A719",
+               "short_name" : "A719",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gannat",
+               "short_name" : "Gannat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allier",
+               "short_name" : "03",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne",
+               "short_name" : "Auvergne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03800",
+               "short_name" : "03800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A719, 03800 Gannat, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1170431,
+                  "lng" : 3.2305408
+               },
+               "southwest" : {
+                  "lat" : 46.096091,
+                  "lng" : 3.1349257
+               }
+            },
+            "location" : {
+               "lat" : 46.1159511,
+               "lng" : 3.1838216
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1170431,
+                  "lng" : 3.2305408
+               },
+               "southwest" : {
+                  "lat" : 46.096091,
+                  "lng" : 3.1349257
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

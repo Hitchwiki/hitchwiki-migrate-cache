@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zugdidi",
+               "short_name" : "Zugdidi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Samegrelo-Zemo Svaneti",
+               "short_name" : "Samegrelo-Zemo Svaneti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zugdidi, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5382517,
+                  "lng" : 41.8955897
+               },
+               "southwest" : {
+                  "lat" : 42.4777707,
+                  "lng" : 41.8210029
+               }
+            },
+            "location" : {
+               "lat" : 42.5,
+               "lng" : 41.85
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5382517,
+                  "lng" : 41.8955897
+               },
+               "southwest" : {
+                  "lat" : 42.4777707,
+                  "lng" : 41.8210029
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

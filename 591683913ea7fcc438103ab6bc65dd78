@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A430",
+               "short_name" : "A430",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Savoie",
+               "short_name" : "73",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A430, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6495323,
+                  "lng" : 6.343254099999999
+               },
+               "southwest" : {
+                  "lat" : 45.56423969999999,
+                  "lng" : 6.2111228
+               }
+            },
+            "location" : {
+               "lat" : 45.604418,
+               "lng" : 6.282872999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6495323,
+                  "lng" : 6.343254099999999
+               },
+               "southwest" : {
+                  "lat" : 45.56423969999999,
+                  "lng" : 6.2111228
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

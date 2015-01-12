@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arriaga",
+               "short_name" : "Arriaga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "CHIS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arriaga, Chiapas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.2535967,
+                  "lng" : -93.86301569999999
+               },
+               "southwest" : {
+                  "lat" : 16.214917,
+                  "lng" : -93.9254687
+               }
+            },
+            "location" : {
+               "lat" : 16.235,
+               "lng" : -93.895556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.2535967,
+                  "lng" : -93.86301569999999
+               },
+               "southwest" : {
+                  "lat" : 16.214917,
+                  "lng" : -93.9254687
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

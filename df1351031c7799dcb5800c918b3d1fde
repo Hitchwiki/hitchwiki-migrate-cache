@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A7",
+               "short_name" : "A7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A7, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.80579419999999,
+                  "lng" : 10.6621002
+               },
+               "southwest" : {
+                  "lat" : 47.5593571,
+                  "lng" : 9.32727
+               }
+            },
+            "location" : {
+               "lat" : 51.4066813,
+               "lng" : 9.8169465
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.80579419999999,
+                  "lng" : 10.6621002
+               },
+               "southwest" : {
+                  "lat" : 47.5593571,
+                  "lng" : 9.32727
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

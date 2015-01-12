@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A20",
+               "short_name" : "A20",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A20, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.0911813,
+                  "lng" : 14.0133833
+               },
+               "southwest" : {
+                  "lat" : 53.2428281,
+                  "lng" : 10.2720163
+               }
+            },
+            "location" : {
+               "lat" : 53.92070649999999,
+               "lng" : 11.7968114
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0911813,
+                  "lng" : 14.0133833
+               },
+               "southwest" : {
+                  "lat" : 53.2428281,
+                  "lng" : 10.2720163
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

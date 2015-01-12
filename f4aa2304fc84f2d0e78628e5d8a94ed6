@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A48",
+               "short_name" : "A48",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A48, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4575387,
+                  "lng" : 7.7568432
+               },
+               "southwest" : {
+                  "lat" : 50.1738919,
+                  "lng" : 6.8951139
+               }
+            },
+            "location" : {
+               "lat" : 50.3156038,
+               "lng" : 7.326114
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4575387,
+                  "lng" : 7.7568432
+               },
+               "southwest" : {
+                  "lat" : 50.1738919,
+                  "lng" : 6.8951139
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seiches-sur-le-Loir",
+               "short_name" : "Seiches-sur-le-Loir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine-et-Loire",
+               "short_name" : "Maine-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seiches-sur-le-Loir, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.633574,
+                  "lng" : -0.3180941
+               },
+               "southwest" : {
+                  "lat" : 47.5590921,
+                  "lng" : -0.4110639
+               }
+            },
+            "location" : {
+               "lat" : 47.57753599999999,
+               "lng" : -0.3635399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.633574,
+                  "lng" : -0.3180941
+               },
+               "southwest" : {
+                  "lat" : 47.5590921,
+                  "lng" : -0.4110639
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

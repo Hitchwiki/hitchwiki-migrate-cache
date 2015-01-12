@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mechelen",
+               "short_name" : "Mechelen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerp",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mechelen, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.07859,
+                  "lng" : 4.548929999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9911199,
+                  "lng" : 4.3701001
+               }
+            },
+            "location" : {
+               "lat" : 51.0258761,
+               "lng" : 4.477536199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.07859,
+                  "lng" : 4.548929999999999
+               },
+               "southwest" : {
+                  "lat" : 50.9911199,
+                  "lng" : 4.3701001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mechelen",
+               "short_name" : "Mechelen",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mechelen",
+               "short_name" : "Mechelen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerpen",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vlaams Gewest",
+               "short_name" : "Vlaams Gewest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2800",
+               "short_name" : "2800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mechelen, 2800 Mechelen, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.0258791,
+               "lng" : 4.477536499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0272280802915,
+                  "lng" : 4.478885480291502
+               },
+               "southwest" : {
+                  "lat" : 51.0245301197085,
+                  "lng" : 4.476187519708497
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

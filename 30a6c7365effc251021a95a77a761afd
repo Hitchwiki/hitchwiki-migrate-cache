@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Larisa",
+               "short_name" : "Larisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larisa",
+               "short_name" : "Larisa",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Larissa",
+               "short_name" : "Larissa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Larissa",
+               "short_name" : "Larissa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Thessalia",
+               "short_name" : "Thessalia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Thessalia Sterea Ellada",
+               "short_name" : "Thessalia Sterea Ellada",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Larisa, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.66467799999999,
+                  "lng" : 22.4631126
+               },
+               "southwest" : {
+                  "lat" : 39.5973394,
+                  "lng" : 22.3851797
+               }
+            },
+            "location" : {
+               "lat" : 39.63902239999999,
+               "lng" : 22.4191254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.66467799999999,
+                  "lng" : 22.4631126
+               },
+               "southwest" : {
+                  "lat" : 39.5973394,
+                  "lng" : 22.3851797
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

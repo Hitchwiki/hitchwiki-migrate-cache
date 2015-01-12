@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ra'iātea",
+               "short_name" : "Ra'iātea",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ra'iātea, French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.7206991,
+                  "lng" : -151.3521225
+               },
+               "southwest" : {
+                  "lat" : -16.9180288,
+                  "lng" : -151.4934181
+               }
+            },
+            "location" : {
+               "lat" : -16.8039551,
+               "lng" : -151.4435474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.7206991,
+                  "lng" : -151.3521225
+               },
+               "southwest" : {
+                  "lat" : -16.9180288,
+                  "lng" : -151.4934181
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

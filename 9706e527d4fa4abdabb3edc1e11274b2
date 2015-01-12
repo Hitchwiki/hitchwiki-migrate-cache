@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bad Oeynhausen",
+               "short_name" : "Bad Oeynhausen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minden-Lübbecke",
+               "short_name" : "Minden-Lübbecke",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Detmold",
+               "short_name" : "Detmold",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bad Oeynhausen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2764804,
+                  "lng" : 8.871959300000002
+               },
+               "southwest" : {
+                  "lat" : 52.1624754,
+                  "lng" : 8.720738299999999
+               }
+            },
+            "location" : {
+               "lat" : 52.2084623,
+               "lng" : 8.800970599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2764804,
+                  "lng" : 8.871959300000002
+               },
+               "southwest" : {
+                  "lat" : 52.1624754,
+                  "lng" : 8.720738299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vladimir",
+               "short_name" : "Vladimir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Vladimir",
+               "short_name" : "g. Vladimir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimir Oblast",
+               "short_name" : "Vladimir Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vladimir, Vladimir Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.187198,
+                  "lng" : 40.649389
+               },
+               "southwest" : {
+                  "lat" : 56.0881251,
+                  "lng" : 40.3027931
+               }
+            },
+            "location" : {
+               "lat" : 56.1445956,
+               "lng" : 40.4178686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.187198,
+                  "lng" : 40.52416789999999
+               },
+               "southwest" : {
+                  "lat" : 56.0881251,
+                  "lng" : 40.3027931
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

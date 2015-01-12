@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A16",
+               "short_name" : "A16",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A16, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2445341,
+                  "lng" : 16.0160661
+               },
+               "southwest" : {
+                  "lat" : 40.8951376,
+                  "lng" : 14.3248764
+               }
+            },
+            "location" : {
+               "lat" : 41.0896002,
+               "lng" : 15.1683073
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2445341,
+                  "lng" : 16.0160661
+               },
+               "southwest" : {
+                  "lat" : 40.8951376,
+                  "lng" : 14.3248764
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

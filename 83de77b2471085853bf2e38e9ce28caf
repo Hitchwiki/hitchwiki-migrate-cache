@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A43",
+               "short_name" : "A43",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A43, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7296751,
+                  "lng" : 6.6743909
+               },
+               "southwest" : {
+                  "lat" : 45.18763149999999,
+                  "lng" : 4.8940003
+               }
+            },
+            "location" : {
+               "lat" : 45.553944,
+               "lng" : 5.752905999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7296751,
+                  "lng" : 6.6743909
+               },
+               "southwest" : {
+                  "lat" : 45.18763149999999,
+                  "lng" : 4.8940003
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

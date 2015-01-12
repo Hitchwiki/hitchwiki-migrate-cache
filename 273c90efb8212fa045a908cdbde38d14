@@ -1,0 +1,385 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-14",
+               "short_name" : "A-14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lérida",
+               "short_name" : "Lérida",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cataluña",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-14, Lérida, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7970262,
+                  "lng" : 0.5631509
+               },
+               "southwest" : {
+                  "lat" : 41.7089221,
+                  "lng" : 0.5532249
+               }
+            },
+            "location" : {
+               "lat" : 41.7534945,
+               "lng" : 0.5621646
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7970262,
+                  "lng" : 0.5631509
+               },
+               "southwest" : {
+                  "lat" : 41.7089221,
+                  "lng" : 0.5532249
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-14",
+               "short_name" : "A-14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hellín",
+               "short_name" : "Hellín",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-14, Hellín, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4165334,
+                  "lng" : -1.6373846
+               },
+               "southwest" : {
+                  "lat" : 38.3161887,
+                  "lng" : -1.6793777
+               }
+            },
+            "location" : {
+               "lat" : 38.366978,
+               "lng" : -1.661962
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4165334,
+                  "lng" : -1.6373846
+               },
+               "southwest" : {
+                  "lat" : 38.3161887,
+                  "lng" : -1.6793777
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-14",
+               "short_name" : "A-14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yecla",
+               "short_name" : "Yecla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Murcia",
+               "short_name" : "MU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-14, Yecla, Murcia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7385047,
+                  "lng" : -1.1156432
+               },
+               "southwest" : {
+                  "lat" : 38.7073951,
+                  "lng" : -1.1668021
+               }
+            },
+            "location" : {
+               "lat" : 38.7279008,
+               "lng" : -1.1364941
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7385047,
+                  "lng" : -1.1156432
+               },
+               "southwest" : {
+                  "lat" : 38.7073951,
+                  "lng" : -1.1668021
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C-14",
+               "short_name" : "C-14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "T",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C-14, Tarragona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3706543,
+                  "lng" : 1.1970918
+               },
+               "southwest" : {
+                  "lat" : 41.1385326,
+                  "lng" : 1.1307914
+               }
+            },
+            "location" : {
+               "lat" : 41.2528286,
+               "lng" : 1.1733906
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3706543,
+                  "lng" : 1.1970918
+               },
+               "southwest" : {
+                  "lat" : 41.1385326,
+                  "lng" : 1.1307914
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C-14",
+               "short_name" : "C-14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lleida",
+               "short_name" : "Lleida",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C-14, Lleida, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3257319,
+                  "lng" : 1.3988404
+               },
+               "southwest" : {
+                  "lat" : 41.8782621,
+                  "lng" : 1.0516244
+               }
+            },
+            "location" : {
+               "lat" : 42.0929174,
+               "lng" : 1.2920397
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3257319,
+                  "lng" : 1.3988404
+               },
+               "southwest" : {
+                  "lat" : 41.8782621,
+                  "lng" : 1.0516244
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C-14",
+               "short_name" : "C-14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C-14, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6402981,
+                  "lng" : 1.1927268
+               },
+               "southwest" : {
+                  "lat" : 41.3997393,
+                  "lng" : 1.1255805
+               }
+            },
+            "location" : {
+               "lat" : 41.5221382,
+               "lng" : 1.1643952
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6402981,
+                  "lng" : 1.1927268
+               },
+               "southwest" : {
+                  "lat" : 41.3997393,
+                  "lng" : 1.1255805
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "C-14",
+               "short_name" : "C-14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reus",
+               "short_name" : "Reus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "T",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "C-14, Reus, Tarragona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1525131,
+                  "lng" : 1.1388788
+               },
+               "southwest" : {
+                  "lat" : 41.07981909999999,
+                  "lng" : 1.1121856
+               }
+            },
+            "location" : {
+               "lat" : 41.1162822,
+               "lng" : 1.124784
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1525131,
+                  "lng" : 1.1388788
+               },
+               "southwest" : {
+                  "lat" : 41.07981909999999,
+                  "lng" : 1.1121856
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

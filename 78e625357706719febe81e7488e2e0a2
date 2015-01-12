@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frankfurt an der Oder",
+               "short_name" : "Frankfurt an der Oder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Frankfurt an der Oder, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.398199,
+                  "lng" : 14.6014472
+               },
+               "southwest" : {
+                  "lat" : 52.2528701,
+                  "lng" : 14.3949617
+               }
+            },
+            "location" : {
+               "lat" : 52.3472237,
+               "lng" : 14.5505673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.398199,
+                  "lng" : 14.6014472
+               },
+               "southwest" : {
+                  "lat" : 52.2528701,
+                  "lng" : 14.3949617
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

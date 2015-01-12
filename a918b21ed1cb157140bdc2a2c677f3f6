@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A66",
+               "short_name" : "A66",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A66, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6684215,
+                  "lng" : -1.1452023
+               },
+               "southwest" : {
+                  "lat" : 54.4424341,
+                  "lng" : -3.5429989
+               }
+            },
+            "location" : {
+               "lat" : 54.5321497,
+               "lng" : -2.3479587
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6684215,
+                  "lng" : -1.1452023
+               },
+               "southwest" : {
+                  "lat" : 54.4424341,
+                  "lng" : -3.5429989
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A66",
+               "short_name" : "A66",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kirkby Stephen",
+               "short_name" : "Kirkby Stephen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CA17 4DS",
+               "short_name" : "CA17 4DS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A66, Kirkby Stephen, Cumbria CA17 4DS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.53067110000001,
+                  "lng" : -2.3340795
+               },
+               "southwest" : {
+                  "lat" : 54.5302348,
+                  "lng" : -2.3348819
+               }
+            },
+            "location" : {
+               "lat" : 54.5303141,
+               "lng" : -2.334417
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5318019302915,
+                  "lng" : -2.333131719708498
+               },
+               "southwest" : {
+                  "lat" : 54.5291039697085,
+                  "lng" : -2.335829680291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cape Breton Island",
+               "short_name" : "Cape Breton Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cape Breton Island, Nova Scotia, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.04559889999999,
+                  "lng" : -59.78444200000001
+               },
+               "southwest" : {
+                  "lat" : 45.5507068,
+                  "lng" : -61.5515391
+               }
+            },
+            "location" : {
+               "lat" : 46.2486851,
+               "lng" : -60.851817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.04559889999999,
+                  "lng" : -59.78444200000001
+               },
+               "southwest" : {
+                  "lat" : 45.5507068,
+                  "lng" : -61.5515391
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

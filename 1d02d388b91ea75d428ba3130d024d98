@@ -1,0 +1,241 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "Netherlands",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rue Pau",
+               "short_name" : "Rue Pau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boneleke",
+               "short_name" : "Boneleke",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Akwa I",
+               "short_name" : "Akwa I",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Douala",
+               "short_name" : "Douala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wouri",
+               "short_name" : "Wouri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Littoral",
+               "short_name" : "Littoral",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands, Rue Pau, Douala, Cameroon",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.0489752,
+               "lng" : 9.695419099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.050324180291502,
+                  "lng" : 9.6967680802915
+               },
+               "southwest" : {
+                  "lat" : 4.047626219708498,
+                  "lng" : 9.694070119708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "Netherlands",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "United Nations Avenue",
+               "short_name" : "United Nations Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cathedral Hill",
+               "short_name" : "Cathedral Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lusaka Central",
+               "short_name" : "Lusaka Central",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands, United Nations Avenue, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4220759,
+               "lng" : 28.3116066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.4207269197085,
+                  "lng" : 28.3129555802915
+               },
+               "southwest" : {
+                  "lat" : -15.4234248802915,
+                  "lng" : 28.3102576197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "Netherlands",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Al Mirqab Tower (Old Q-Tel), 6th floor,Al Dafna, Corniche",
+               "short_name" : "Al Mirqab Tower (Old Q-Tel), 6th floor,Al Dafna, Corniche",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Bay Lagoon",
+               "short_name" : "West Bay Lagoon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Doha",
+               "short_name" : "Doha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doha",
+               "short_name" : "Doha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands, Al Mirqab Tower (Old Q-Tel), 6th floor,Al Dafna, Corniche, Doha, Qatar",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.3545987,
+               "lng" : 51.50629379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3559476802915,
+                  "lng" : 51.5076427802915
+               },
+               "southwest" : {
+                  "lat" : 25.3532497197085,
+                  "lng" : 51.5049448197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "Netherlands",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parañaque",
+               "short_name" : "Parañaque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands, Parañaque, Metro Manila, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.4787763,
+                  "lng" : 121.0343324
+               },
+               "southwest" : {
+                  "lat" : 14.4773159,
+                  "lng" : 121.0339591
+               }
+            },
+            "location" : {
+               "lat" : 14.4787763,
+               "lng" : 121.0339591
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.4793950802915,
+                  "lng" : 121.0354947302915
+               },
+               "southwest" : {
+                  "lat" : 14.4766971197085,
+                  "lng" : 121.0327967697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

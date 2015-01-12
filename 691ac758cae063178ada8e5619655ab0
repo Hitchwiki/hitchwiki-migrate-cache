@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhosra",
+               "short_name" : "Bhosra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nanded",
+               "short_name" : "Nanded",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "504307",
+               "short_name" : "504307",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhosra, Maharashtra 504307, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.48315,
+                  "lng" : 78.4020101
+               },
+               "southwest" : {
+                  "lat" : 19.4572499,
+                  "lng" : 78.37689
+               }
+            },
+            "location" : {
+               "lat" : 19.4732023,
+               "lng" : 78.3899108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.48315,
+                  "lng" : 78.4020101
+               },
+               "southwest" : {
+                  "lat" : 19.4572499,
+                  "lng" : 78.37689
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bosra",
+               "short_name" : "Bosra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kgalagadi",
+               "short_name" : "Kgalagadi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kalahari District Council",
+               "short_name" : "Kalahari District Council",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Cape",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bosra, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.944817,
+                  "lng" : 23.0911278
+               },
+               "southwest" : {
+                  "lat" : -26.9576809,
+                  "lng" : 23.0849178
+               }
+            },
+            "location" : {
+               "lat" : -26.9515282,
+               "lng" : 23.089061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.944817,
+                  "lng" : 23.0911278
+               },
+               "southwest" : {
+                  "lat" : -26.9576809,
+                  "lng" : 23.0849178
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zuid-Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0352442,
+                  "lng" : 4.4490093
+               },
+               "southwest" : {
+                  "lat" : 51.9290543,
+                  "lng" : 4.352954599999999
+               }
+            },
+            "location" : {
+               "lat" : 51.9811193,
+               "lng" : 4.3957017
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0352442,
+                  "lng" : 4.4490093
+               },
+               "southwest" : {
+                  "lat" : 51.9290543,
+                  "lng" : 4.352954599999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

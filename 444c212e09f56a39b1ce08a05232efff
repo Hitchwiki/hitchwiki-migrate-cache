@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Augustow",
+               "short_name" : "Augustow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Augustów",
+               "short_name" : "Gmina Augustów",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Augustów County",
+               "short_name" : "Augustów County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podlaskie Voivodeship",
+               "short_name" : "Podlaskie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Augustow, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8849272,
+                  "lng" : 23.1532132
+               },
+               "southwest" : {
+                  "lat" : 53.80509920000001,
+                  "lng" : 22.8664214
+               }
+            },
+            "location" : {
+               "lat" : 53.84344309999999,
+               "lng" : 22.9796023
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8849272,
+                  "lng" : 23.1532132
+               },
+               "southwest" : {
+                  "lat" : 53.80509920000001,
+                  "lng" : 22.8664214
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

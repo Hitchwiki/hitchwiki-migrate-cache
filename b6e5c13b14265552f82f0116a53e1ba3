@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nevşehir",
+               "short_name" : "Nevşehir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevşehir",
+               "short_name" : "Nevşehir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevşehir",
+               "short_name" : "Nevşehir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nevşehir/Nevşehir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.676487,
+                  "lng" : 34.7477789
+               },
+               "southwest" : {
+                  "lat" : 38.589047,
+                  "lng" : 34.6697521
+               }
+            },
+            "location" : {
+               "lat" : 38.62442,
+               "lng" : 34.7239689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.676487,
+                  "lng" : 34.7477789
+               },
+               "southwest" : {
+                  "lat" : 38.589047,
+                  "lng" : 34.6697521
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

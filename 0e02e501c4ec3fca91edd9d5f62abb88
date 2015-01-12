@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niue",
+               "short_name" : "NU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niue",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -18.95297,
+                  "lng" : -169.7743248
+               },
+               "southwest" : {
+                  "lat" : -19.1555664,
+                  "lng" : -169.9498487
+               }
+            },
+            "location" : {
+               "lat" : -19.054445,
+               "lng" : -169.867233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.95297,
+                  "lng" : -169.7743248
+               },
+               "southwest" : {
+                  "lat" : -19.1555664,
+                  "lng" : -169.9498487
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

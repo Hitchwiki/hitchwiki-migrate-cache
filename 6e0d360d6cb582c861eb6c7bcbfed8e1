@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M876",
+               "short_name" : "M876",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Falkirk",
+               "short_name" : "Falkirk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FK2",
+               "short_name" : "FK2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M876, Falkirk, Falkirk FK2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0553841,
+                  "lng" : -3.7521425
+               },
+               "southwest" : {
+                  "lat" : 55.99993689999999,
+                  "lng" : -3.9227209
+               }
+            },
+            "location" : {
+               "lat" : 56.0348263,
+               "lng" : -3.8415573
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0553841,
+                  "lng" : -3.7521425
+               },
+               "southwest" : {
+                  "lat" : 55.99993689999999,
+                  "lng" : -3.9227209
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nyköping",
+               "short_name" : "Nyköping",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nyköping",
+               "short_name" : "Nyköping",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sodermanland County",
+               "short_name" : "Sodermanland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nyköping, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.7828721,
+                  "lng" : 17.080087
+               },
+               "southwest" : {
+                  "lat" : 58.7389799,
+                  "lng" : 16.9630387
+               }
+            },
+            "location" : {
+               "lat" : 58.75284389999999,
+               "lng" : 17.0091593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.7828721,
+                  "lng" : 17.080087
+               },
+               "southwest" : {
+                  "lat" : 58.7389799,
+                  "lng" : 16.9630387
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

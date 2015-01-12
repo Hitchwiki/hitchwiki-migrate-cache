@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S5",
+               "short_name" : "S5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S5, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4211795,
+                  "lng" : 18.4879142
+               },
+               "southwest" : {
+                  "lat" : 51.1645255,
+                  "lng" : 16.5349191
+               }
+            },
+            "location" : {
+               "lat" : 52.433172,
+               "lng" : 17.3326558
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4211795,
+                  "lng" : 18.4879142
+               },
+               "southwest" : {
+                  "lat" : 51.1645255,
+                  "lng" : 16.5349191
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

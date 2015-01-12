@@ -1,0 +1,127 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Rava-Ruska",
+          "lang": "link"
+        },
+        {
+          "name": "Rawa Ruska",
+          "lang": "pl"
+        },
+        {
+          "name": "Рава-Русская",
+          "lang": "ru"
+        },
+        {
+          "name": "Рава-Руська",
+          "lang": "uk"
+        }
+      ],
+      "countryName": "Ukraine",
+      "adminCode1": "15",
+      "score": 52.373260498046875,
+      "lng": "23.62826",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Kiev"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 50.21977807481659,
+        "east": 23.645477960756047,
+        "north": 50.24180792518341,
+        "west": 23.611032039243952
+      },
+      "name": "Rava-Rus’ka",
+      "fcode": "PPL",
+      "geonameId": 695781,
+      "asciiName": "Rava-Rus'ka",
+      "lat": "50.23079",
+      "population": 8328,
+      "adminName1": "Lviv",
+      "countryId": "690791",
+      "adminId1": "702549",
+      "fclName": "city, village,...",
+      "countryCode": "UA",
+      "toponymName": "Rava-Rus’ka",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "alternateNames": [{
+        "name": "Rava-Rus’ka",
+        "lang": "uk"
+      }],
+      "countryName": "Ukraine",
+      "adminCode1": "15",
+      "score": 17.4058780670166,
+      "lng": "23.63766",
+      "adminName2": "",
+      "fcodeName": "railroad station",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Kiev"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Stantsiya Rava-Rus’ka",
+      "fcode": "RSTN",
+      "geonameId": 8422942,
+      "asciiName": "Stantsiya Rava-Rus'ka",
+      "lat": "50.23112",
+      "population": 0,
+      "adminName1": "Lviv",
+      "countryId": "690791",
+      "adminId1": "702549",
+      "fclName": "spot, building, farm",
+      "countryCode": "UA",
+      "toponymName": "Stantsiya Rava-Rus’ka",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "alternateNames": [{
+        "name": "Прикордонний Пункт Пропуску Рава-Руська",
+        "lang": "uk"
+      }],
+      "countryName": "Ukraine",
+      "adminCode1": "15",
+      "score": 8.976856231689453,
+      "lng": "23.59268",
+      "adminName2": "",
+      "fcodeName": "border post",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Kiev"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Prykordonnyy Punkt Propusku Rava-Rus’ka",
+      "fcode": "PSTB",
+      "geonameId": 8422924,
+      "asciiName": "Prykordonnyy Punkt Propusku Rava-Rus'ka",
+      "lat": "50.26918",
+      "population": 0,
+      "adminName1": "Lviv",
+      "countryId": "690791",
+      "adminId1": "702549",
+      "fclName": "spot, building, farm",
+      "countryCode": "UA",
+      "toponymName": "Prykordonnyy Punkt Propusku Rava-Rus’ka",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

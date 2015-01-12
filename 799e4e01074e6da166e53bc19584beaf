@@ -1,0 +1,313 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sost",
+               "short_name" : "Sost",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Sost",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.6953327,
+                  "lng" : 74.8414849
+               },
+               "southwest" : {
+                  "lat" : 36.6734617,
+                  "lng" : 74.817077
+               }
+            },
+            "location" : {
+               "lat" : 36.6895532,
+               "lng" : 74.8200069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.6953327,
+                  "lng" : 74.8414849
+               },
+               "southwest" : {
+                  "lat" : 36.6734617,
+                  "lng" : 74.817077
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sost",
+               "short_name" : "Sost",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hautes-Pyrénées",
+               "short_name" : "65",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sost, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.939289,
+                  "lng" : 0.5922898999999999
+               },
+               "southwest" : {
+                  "lat" : 42.860221,
+                  "lng" : 0.521772
+               }
+            },
+            "location" : {
+               "lat" : 42.9273,
+               "lng" : 0.557379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.939289,
+                  "lng" : 0.5922898999999999
+               },
+               "southwest" : {
+                  "lat" : 42.860221,
+                  "lng" : 0.521772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Söst",
+               "short_name" : "Söst",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wincheringen",
+               "short_name" : "Wincheringen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54457",
+               "short_name" : "54457",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Söst, 54457 Wincheringen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.62896,
+                  "lng" : 6.46632
+               },
+               "southwest" : {
+                  "lat" : 49.621799,
+                  "lng" : 6.45523
+               }
+            },
+            "location" : {
+               "lat" : 49.6243019,
+               "lng" : 6.4584416
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.62896,
+                  "lng" : 6.46632
+               },
+               "southwest" : {
+                  "lat" : 49.621799,
+                  "lng" : 6.45523
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Søst",
+               "short_name" : "Søst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aabenraa Municipality",
+               "short_name" : "Aabenraa Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region Syddanmark",
+               "short_name" : "Region Syddanmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6230",
+               "short_name" : "6230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6230 Søst, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.042901,
+               "lng" : 9.344434
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0442499802915,
+                  "lng" : 9.345782980291503
+               },
+               "southwest" : {
+                  "lat" : 55.0415520197085,
+                  "lng" : 9.343085019708498
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SOST",
+               "short_name" : "SOST",
+               "types" : []
+            },
+            {
+               "long_name" : "Harvard University",
+               "short_name" : "Harvard University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02138",
+               "short_name" : "02138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SOST, Harvard University, Cambridge, MA 02138, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.37151590000001,
+               "lng" : -71.1203539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.37286488029151,
+                  "lng" : -71.11900491970849
+               },
+               "southwest" : {
+                  "lat" : 42.37016691970851,
+                  "lng" : -71.12170288029149
+               }
+            }
+         },
+         "types" : []
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Søst",
+               "short_name" : "Søst",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Rødekro",
+               "short_name" : "Rødekro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aabenraa Municipality",
+               "short_name" : "Aabenraa Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6230",
+               "short_name" : "6230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Søst, 6230 Rødekro, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.04750800000001,
+               "lng" : 9.343294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.04885698029151,
+                  "lng" : 9.344642980291502
+               },
+               "southwest" : {
+                  "lat" : 55.04615901970851,
+                  "lng" : 9.341945019708497
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,343 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cheshire West and Chester",
+               "short_name" : "Cheshire West and Chester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chester, Chester, Cheshire West and Chester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2206226,
+                  "lng" : -2.8402174
+               },
+               "southwest" : {
+                  "lat" : 53.1643553,
+                  "lng" : -2.9355461
+               }
+            },
+            "location" : {
+               "lat" : 53.193392,
+               "lng" : -2.893075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2206226,
+                  "lng" : -2.8402174
+               },
+               "southwest" : {
+                  "lat" : 53.1643553,
+                  "lng" : -2.9355461
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delaware County",
+               "short_name" : "Delaware County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chester, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8756119,
+                  "lng" : -75.3439492
+               },
+               "southwest" : {
+                  "lat" : 39.8221978,
+                  "lng" : -75.4081379
+               }
+            },
+            "location" : {
+               "lat" : 39.849557,
+               "lng" : -75.3557457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8756119,
+                  "lng" : -75.3439492
+               },
+               "southwest" : {
+                  "lat" : 39.8221978,
+                  "lng" : -75.4081379
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bermuda",
+               "short_name" : "Bermuda",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chesterfield County",
+               "short_name" : "Chesterfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chester, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3917779,
+                  "lng" : -77.39971
+               },
+               "southwest" : {
+                  "lat" : 37.3073139,
+                  "lng" : -77.480452
+               }
+            },
+            "location" : {
+               "lat" : 37.3568157,
+               "lng" : -77.44165049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3917779,
+                  "lng" : -77.39971
+               },
+               "southwest" : {
+                  "lat" : 37.3073139,
+                  "lng" : -77.480452
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester Township",
+               "short_name" : "Chester Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morris County",
+               "short_name" : "Morris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chester Township, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8405001,
+                  "lng" : -74.62370199999999
+               },
+               "southwest" : {
+                  "lat" : 40.7194349,
+                  "lng" : -74.74063509999999
+               }
+            },
+            "location" : {
+               "lat" : 40.776312,
+               "lng" : -74.687645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8405001,
+                  "lng" : -74.62370199999999
+               },
+               "southwest" : {
+                  "lat" : 40.7194349,
+                  "lng" : -74.74063509999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chester, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.371274,
+                  "lng" : -74.2494111
+               },
+               "southwest" : {
+                  "lat" : 41.313785,
+                  "lng" : -74.29885299999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3625937,
+               "lng" : -74.27126129999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.371274,
+                  "lng" : -74.2494111
+               },
+               "southwest" : {
+                  "lat" : 41.313785,
+                  "lng" : -74.29885299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester County",
+               "short_name" : "Chester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29706",
+               "short_name" : "29706",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chester, SC 29706, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7193849,
+                  "lng" : -81.190793
+               },
+               "southwest" : {
+                  "lat" : 34.6907889,
+                  "lng" : -81.23528109999999
+               }
+            },
+            "location" : {
+               "lat" : 34.7048613,
+               "lng" : -81.2142561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7193849,
+                  "lng" : -81.190793
+               },
+               "southwest" : {
+                  "lat" : 34.6907889,
+                  "lng" : -81.23528109999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

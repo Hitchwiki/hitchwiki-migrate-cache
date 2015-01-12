@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A49",
+               "short_name" : "A49",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A49, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3050512,
+                  "lng" : 5.6221672
+               },
+               "southwest" : {
+                  "lat" : 45.01725889999999,
+                  "lng" : 5.029535399999999
+               }
+            },
+            "location" : {
+               "lat" : 45.144967,
+               "lng" : 5.343319
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3050512,
+                  "lng" : 5.6221672
+               },
+               "southwest" : {
+                  "lat" : 45.01725889999999,
+                  "lng" : 5.029535399999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

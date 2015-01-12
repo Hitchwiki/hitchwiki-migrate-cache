@@ -1,0 +1,436 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autovía del Este",
+               "short_name" : "A-3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-3, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4060772,
+                  "lng" : -0.4203253
+               },
+               "southwest" : {
+                  "lat" : 39.4288199,
+                  "lng" : -3.660626
+               }
+            },
+            "location" : {
+               "lat" : 39.787394,
+               "lng" : -2.4265215
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4060772,
+                  "lng" : -0.4203253
+               },
+               "southwest" : {
+                  "lat" : 39.4288199,
+                  "lng" : -3.660626
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-3",
+               "short_name" : "A-3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-3, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9316505,
+                  "lng" : -1.829378
+               },
+               "southwest" : {
+                  "lat" : 38.7253661,
+                  "lng" : -1.9164006
+               }
+            },
+            "location" : {
+               "lat" : 38.8213051,
+               "lng" : -1.8541197
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9316505,
+                  "lng" : -1.829378
+               },
+               "southwest" : {
+                  "lat" : 38.7253661,
+                  "lng" : -1.9164006
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-3",
+               "short_name" : "A-3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liétor",
+               "short_name" : "Liétor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liétor",
+               "short_name" : "Liétor",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02410",
+               "short_name" : "02410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-3, 02410 Liétor, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5216959,
+                  "lng" : -1.9882718
+               },
+               "southwest" : {
+                  "lat" : 38.5053341,
+                  "lng" : -2.0437162
+               }
+            },
+            "location" : {
+               "lat" : 38.5125875,
+               "lng" : -2.0141917
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5216959,
+                  "lng" : -1.9882718
+               },
+               "southwest" : {
+                  "lat" : 38.5053341,
+                  "lng" : -2.0437162
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-3",
+               "short_name" : "A-3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45007",
+               "short_name" : "45007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-3, 45007 Toledo, Toledo, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8818304,
+                  "lng" : -3.9246139
+               },
+               "southwest" : {
+                  "lat" : 39.8814388,
+                  "lng" : -3.9256382
+               }
+            },
+            "location" : {
+               "lat" : 39.8816328,
+               "lng" : -3.9251149
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.88298358029149,
+                  "lng" : -3.923777069708498
+               },
+               "southwest" : {
+                  "lat" : 39.8802856197085,
+                  "lng" : -3.926475030291503
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-3",
+               "short_name" : "A-3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mislata",
+               "short_name" : "Mislata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "V",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad Valenciana",
+               "short_name" : "Comunidad Valenciana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46920",
+               "short_name" : "46920",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-3, 46920 Mislata, Valencia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4723952,
+                  "lng" : -0.4298953
+               },
+               "southwest" : {
+                  "lat" : 39.4719929,
+                  "lng" : -0.4313384
+               }
+            },
+            "location" : {
+               "lat" : 39.4721659,
+               "lng" : -0.4307251
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.47354303029149,
+                  "lng" : -0.429267869708498
+               },
+               "southwest" : {
+                  "lat" : 39.4708450697085,
+                  "lng" : -0.431965830291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-3",
+               "short_name" : "A-3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mequinenza",
+               "short_name" : "Mequinenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mequinenza",
+               "short_name" : "Mequinenza",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zaragoza",
+               "short_name" : "Z",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragón",
+               "short_name" : "Aragón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50170",
+               "short_name" : "50170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-3, 50170 Mequinenza, Zaragoza, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3793679,
+                  "lng" : 0.3046723
+               },
+               "southwest" : {
+                  "lat" : 41.3788632,
+                  "lng" : 0.3043886
+               }
+            },
+            "location" : {
+               "lat" : 41.3791079,
+               "lng" : 0.3045262
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3804645302915,
+                  "lng" : 0.3058794302915021
+               },
+               "southwest" : {
+                  "lat" : 41.3777665697085,
+                  "lng" : 0.303181469708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-3",
+               "short_name" : "A-3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manacor",
+               "short_name" : "Manacor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manacor",
+               "short_name" : "Manacor",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Illes Balears",
+               "short_name" : "Illes Balears",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illes Balears",
+               "short_name" : "PM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07500",
+               "short_name" : "07500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-3, 07500 Manacor, Illes Balears, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5780313,
+                  "lng" : 3.2178474
+               },
+               "southwest" : {
+                  "lat" : 39.5773538,
+                  "lng" : 3.2168534
+               }
+            },
+            "location" : {
+               "lat" : 39.5776496,
+               "lng" : 3.2174053
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.57904153029151,
+                  "lng" : 3.218699380291501
+               },
+               "southwest" : {
+                  "lat" : 39.57634356970851,
+                  "lng" : 3.216001419708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

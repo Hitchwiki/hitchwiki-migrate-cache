@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trier",
+               "short_name" : "TR",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trier-Saarburg",
+               "short_name" : "Trier-Saarburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trier, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8571326,
+                  "lng" : 6.7471828
+               },
+               "southwest" : {
+                  "lat" : 49.6986301,
+                  "lng" : 6.5517368
+               }
+            },
+            "location" : {
+               "lat" : 49.749992,
+               "lng" : 6.6371433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8571326,
+                  "lng" : 6.7471828
+               },
+               "southwest" : {
+                  "lat" : 49.6986301,
+                  "lng" : 6.5517368
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

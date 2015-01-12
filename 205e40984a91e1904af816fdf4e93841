@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.8942145,
+                  "lng" : 47.9999999
+               },
+               "southwest" : {
+                  "lat" : 3.4041356,
+                  "lng" : 32.997734
+               }
+            },
+            "location" : {
+               "lat" : 9.145000000000001,
+               "lng" : 40.489673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.8942145,
+                  "lng" : 47.9999999
+               },
+               "southwest" : {
+                  "lat" : 3.4041356,
+                  "lng" : 32.997734
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

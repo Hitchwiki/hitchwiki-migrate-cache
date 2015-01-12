@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.223000799999999,
+                  "lng" : 35.0330493
+               },
+               "southwest" : {
+                  "lat" : -1.4815418,
+                  "lng" : 29.5734335
+               }
+            },
+            "location" : {
+               "lat" : 1.373333,
+               "lng" : 32.290275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.223000799999999,
+                  "lng" : 35.0330493
+               },
+               "southwest" : {
+                  "lat" : -1.4815418,
+                  "lng" : 29.5734335
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

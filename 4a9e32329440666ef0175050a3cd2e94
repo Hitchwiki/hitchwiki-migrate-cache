@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A76",
+               "short_name" : "A76",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A76, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9674425,
+                  "lng" : 6.0246618
+               },
+               "southwest" : {
+                  "lat" : 50.818624,
+                  "lng" : 5.754156999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.9135144,
+               "lng" : 5.9046216
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9674425,
+                  "lng" : 6.0246618
+               },
+               "southwest" : {
+                  "lat" : 50.818624,
+                  "lng" : 5.754156999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

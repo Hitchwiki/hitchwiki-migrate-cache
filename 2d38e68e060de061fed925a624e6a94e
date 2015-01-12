@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brig",
+               "short_name" : "Brig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brig",
+               "short_name" : "Brig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valais",
+               "short_name" : "VS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brig, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.32295999999999,
+                  "lng" : 8.0334299
+               },
+               "southwest" : {
+                  "lat" : 46.25492,
+                  "lng" : 7.91029
+               }
+            },
+            "location" : {
+               "lat" : 46.3158171,
+               "lng" : 7.987546500000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.32295999999999,
+                  "lng" : 8.0334299
+               },
+               "southwest" : {
+                  "lat" : 46.25492,
+                  "lng" : 7.91029
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

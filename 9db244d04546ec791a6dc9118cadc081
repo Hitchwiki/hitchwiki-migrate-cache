@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keetmanshoop",
+               "short_name" : "Keetmanshoop",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karas",
+               "short_name" : "Karas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Keetmanshoop, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.5261863,
+                  "lng" : 18.167696
+               },
+               "southwest" : {
+                  "lat" : -26.6046443,
+                  "lng" : 18.1029796
+               }
+            },
+            "location" : {
+               "lat" : -26.578611,
+               "lng" : 18.133333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.5261863,
+                  "lng" : 18.167696
+               },
+               "southwest" : {
+                  "lat" : -26.6046443,
+                  "lng" : 18.1029796
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

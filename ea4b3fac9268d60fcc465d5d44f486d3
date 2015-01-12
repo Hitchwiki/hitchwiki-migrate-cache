@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novosibirsk Oblast",
+               "short_name" : "Novosibirsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novosibirsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            },
+            "location" : {
+               "lat" : 55.4467133,
+               "lng" : 80.10439239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.236193,
+                  "lng" : 85.11756299999999
+               },
+               "southwest" : {
+                  "lat" : 53.2909191,
+                  "lng" : 75.08785499999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

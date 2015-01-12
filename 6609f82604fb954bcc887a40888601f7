@@ -1,0 +1,506 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lutherstadt Wittenberg, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.86766,
+               "lng" : 12.64863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8690089802915,
+                  "lng" : 12.6499789802915
+               },
+               "southwest" : {
+                  "lat" : 51.8663110197085,
+                  "lng" : 12.6472810197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lutherstadt Wittenberg West",
+               "short_name" : "Lutherstadt Wittenberg West",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lutherstadt Wittenberg West, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.870532,
+               "lng" : 12.608262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.87188098029149,
+                  "lng" : 12.6096109802915
+               },
+               "southwest" : {
+                  "lat" : 51.8691830197085,
+                  "lng" : 12.6069130197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "56",
+               "short_name" : "56",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lutherstraße",
+               "short_name" : "Lutherstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lutherstadt Wittenberg, Lutherstraße 56, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.87142,
+               "lng" : 12.64419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8727689802915,
+                  "lng" : 12.6455389802915
+               },
+               "southwest" : {
+                  "lat" : 51.8700710197085,
+                  "lng" : 12.6428410197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HoF Wittenberg",
+               "short_name" : "HoF Wittenberg",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "62",
+               "short_name" : "62",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Collegienstraße",
+               "short_name" : "Collegienstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "HoF Wittenberg, Collegienstraße 62, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.86453909999999,
+               "lng" : 12.6503701
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.86588808029149,
+                  "lng" : 12.6517190802915
+               },
+               "southwest" : {
+                  "lat" : 51.86319011970849,
+                  "lng" : 12.6490211197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tourist-Information Wittenberg, Lutherstadt",
+               "short_name" : "Tourist-Information Wittenberg, Lutherstadt",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schloßplatz",
+               "short_name" : "Schloßpl.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wittenberg",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tourist-Information Wittenberg, Lutherstadt, Schloßplatz 2, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.86662150000001,
+               "lng" : 12.6380499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.86797048029151,
+                  "lng" : 12.6393988802915
+               },
+               "southwest" : {
+                  "lat" : 51.86527251970851,
+                  "lng" : 12.6367009197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lutherstadt English",
+               "short_name" : "Lutherstadt English",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Markt",
+               "short_name" : "Markt",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wittenberg",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lutherstadt English, Markt 8, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.86624,
+               "lng" : 12.64194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.86758898029149,
+                  "lng" : 12.6432889802915
+               },
+               "southwest" : {
+                  "lat" : 51.8648910197085,
+                  "lng" : 12.6405910197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lutherstadt English",
+               "short_name" : "Lutherstadt English",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schlossstraße",
+               "short_name" : "Schlossstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lutherstadt English, Schlossstraße 4, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.86624,
+               "lng" : 12.64194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.86758898029149,
+                  "lng" : 12.6432889802915
+               },
+               "southwest" : {
+                  "lat" : 51.8648910197085,
+                  "lng" : 12.6405910197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lutherstadt Wittenberg, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.867531,
+               "lng" : 12.662015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8688799802915,
+                  "lng" : 12.6633639802915
+               },
+               "southwest" : {
+                  "lat" : 51.8661820197085,
+                  "lng" : 12.6606660197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alaris Schmetterlingspark Lutherstadt Wittenberg",
+               "short_name" : "Alaris Schmetterlingspark Lutherstadt Wittenberg",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lutherstadt Wittenberg",
+               "short_name" : "Lutherstadt Wittenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06886",
+               "short_name" : "06886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alaris Schmetterlingspark Lutherstadt Wittenberg, 06886 Lutherstadt Wittenberg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.87777,
+               "lng" : 12.60342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.87911898029149,
+                  "lng" : 12.6047689802915
+               },
+               "southwest" : {
+                  "lat" : 51.87642101970849,
+                  "lng" : 12.6020710197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "zoo", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derbent",
+               "short_name" : "Derbent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Derbent",
+               "short_name" : "g. Derbent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dagestan Republic",
+               "short_name" : "Dagestan Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derbent, Dagestan Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1286906,
+                  "lng" : 48.336137
+               },
+               "southwest" : {
+                  "lat" : 42.00565599999999,
+                  "lng" : 48.248297
+               }
+            },
+            "location" : {
+               "lat" : 42.05,
+               "lng" : 48.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1286906,
+                  "lng" : 48.336137
+               },
+               "southwest" : {
+                  "lat" : 42.00565599999999,
+                  "lng" : 48.248297
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

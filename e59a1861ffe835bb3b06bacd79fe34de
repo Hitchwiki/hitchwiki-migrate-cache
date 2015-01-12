@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aarburg",
+               "short_name" : "Aarburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zofingen District",
+               "short_name" : "Zofingen District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aargau",
+               "short_name" : "Aktiengesellschaft",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aarburg, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.34188,
+                  "lng" : 7.927119899999999
+               },
+               "southwest" : {
+                  "lat" : 47.30728999999999,
+                  "lng" : 7.89174
+               }
+            },
+            "location" : {
+               "lat" : 47.3223328,
+               "lng" : 7.904751900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.34188,
+                  "lng" : 7.927119899999999
+               },
+               "southwest" : {
+                  "lat" : 47.30728999999999,
+                  "lng" : 7.89174
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A51",
+               "short_name" : "A51",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A51, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.119342,
+                  "lng" : 6.0294056
+               },
+               "southwest" : {
+                  "lat" : 43.3932156,
+                  "lng" : 5.35098
+               }
+            },
+            "location" : {
+               "lat" : 44.277842,
+               "lng" : 5.899553999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.119342,
+                  "lng" : 6.0294056
+               },
+               "southwest" : {
+                  "lat" : 43.3932156,
+                  "lng" : 5.35098
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

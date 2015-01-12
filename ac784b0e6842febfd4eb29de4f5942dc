@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A32",
+               "short_name" : "A32",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Torino",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piemonte",
+               "short_name" : "Piemonte",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A32, Torino, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.147461,
+                  "lng" : 7.544822000000001
+               },
+               "southwest" : {
+                  "lat" : 45.0381106,
+                  "lng" : 6.712345999999999
+               }
+            },
+            "location" : {
+               "lat" : 45.1253871,
+               "lng" : 7.131398
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.147461,
+                  "lng" : 7.544822000000001
+               },
+               "southwest" : {
+                  "lat" : 45.0381106,
+                  "lng" : 6.712345999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

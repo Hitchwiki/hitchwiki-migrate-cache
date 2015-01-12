@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Side",
+               "short_name" : "Side",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07600",
+               "short_name" : "07600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "07600 Side, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.829063,
+                  "lng" : 31.4507729
+               },
+               "southwest" : {
+                  "lat" : 36.75073,
+                  "lng" : 31.2814688
+               }
+            },
+            "location" : {
+               "lat" : 36.766667,
+               "lng" : 31.388889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.829063,
+                  "lng" : 31.4507729
+               },
+               "southwest" : {
+                  "lat" : 36.75073,
+                  "lng" : 31.2814688
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

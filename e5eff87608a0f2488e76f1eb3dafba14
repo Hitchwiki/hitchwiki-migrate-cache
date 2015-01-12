@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bermuda",
+               "short_name" : "BM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bermuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.391305,
+                  "lng" : -64.6473774
+               },
+               "southwest" : {
+                  "lat" : 32.24705,
+                  "lng" : -64.886788
+               }
+            },
+            "location" : {
+               "lat" : 32.3078,
+               "lng" : -64.7505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.391305,
+                  "lng" : -64.6473774
+               },
+               "southwest" : {
+                  "lat" : 32.24705,
+                  "lng" : -64.886788
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

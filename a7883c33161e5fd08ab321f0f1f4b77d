@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M7",
+               "short_name" : "M7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M7, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.0210879,
+                  "lng" : 56.0179668
+               },
+               "southwest" : {
+                  "lat" : 54.7464203,
+                  "lng" : 37.6997505
+               }
+            },
+            "location" : {
+               "lat" : 56.0368472,
+               "lng" : 46.82511290000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.0210879,
+                  "lng" : 56.0179668
+               },
+               "southwest" : {
+                  "lat" : 54.7464203,
+                  "lng" : 37.6997505
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

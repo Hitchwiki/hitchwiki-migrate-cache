@@ -1,0 +1,134 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "Chiapas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "CHIS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiapas, CHIS, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 16.3224417,
+               "lng" : -91.7910619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.3652701,
+                  "lng" : -91.7270322
+               },
+               "southwest" : {
+                  "lat" : 16.2796039,
+                  "lng" : -91.85509160000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ejido Chiapas",
+               "short_name" : "Ejido Chiapas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "CHIS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ejido Chiapas, CHIS, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.3906375,
+                  "lng" : -91.85291289999999
+               },
+               "southwest" : {
+                  "lat" : 16.376721,
+                  "lng" : -91.87394140000001
+               }
+            },
+            "location" : {
+               "lat" : 16.3823299,
+               "lng" : -91.86354089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.3906375,
+                  "lng" : -91.85291289999999
+               },
+               "southwest" : {
+                  "lat" : 16.376721,
+                  "lng" : -91.87394140000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "CHIS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiapas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.9844961,
+                  "lng" : -90.3716439
+               },
+               "southwest" : {
+                  "lat" : 14.529252,
+                  "lng" : -94.23022890000001
+               }
+            },
+            "location" : {
+               "lat" : 16.7569318,
+               "lng" : -93.12923529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.9844961,
+                  "lng" : -90.3716439
+               },
+               "southwest" : {
+                  "lat" : 14.529252,
+                  "lng" : -94.23022890000001
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saarbrücken",
+               "short_name" : "Saarbrücken",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saarbrücken",
+               "short_name" : "Saarbrücken",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Saarland",
+               "short_name" : "SL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saarbrücken, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3221392,
+                  "lng" : 7.138042599999999
+               },
+               "southwest" : {
+                  "lat" : 49.1721753,
+                  "lng" : 6.8270341
+               }
+            },
+            "location" : {
+               "lat" : 49.24015720000001,
+               "lng" : 6.996932699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3221392,
+                  "lng" : 7.138042599999999
+               },
+               "southwest" : {
+                  "lat" : 49.1721753,
+                  "lng" : 6.8270341
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

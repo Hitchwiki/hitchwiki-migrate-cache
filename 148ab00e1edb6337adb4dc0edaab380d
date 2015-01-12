@@ -1,0 +1,173 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Frankfurt-Hahn",
+          "lang": "ca"
+        },
+        {
+          "name": "Flughafen Frankfurt-Hahn",
+          "lang": "de"
+        },
+        {
+          "name": "Frankfurt-Hahn",
+          "lang": "en"
+        },
+        {
+          "name": "Fráncfort-Hahn",
+          "lang": "es"
+        },
+        {
+          "name": "Francfort-Hahn",
+          "lang": "fr"
+        },
+        {
+          "name": "HHN",
+          "lang": "iata"
+        },
+        {
+          "name": "EDFH",
+          "lang": "icao"
+        },
+        {
+          "name": "Francoforte-Hahn",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Frankfurt%E2%80%93Hahn_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Germany",
+      "adminCode1": "08",
+      "score": 28.064891815185547,
+      "lng": "7.26389",
+      "adminName2": "",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Frankfurt-Hahn",
+      "fcode": "AIRP",
+      "geonameId": 6296512,
+      "asciiName": "Frankfurt-Hahn Airport",
+      "lat": "49.94867",
+      "population": 0,
+      "adminName1": "Rheinland-Pfalz",
+      "countryId": "2921044",
+      "adminId1": "2847618",
+      "fclName": "spot, building, farm",
+      "elevation": 502,
+      "countryCode": "DE",
+      "toponymName": "Frankfurt-Hahn Airport",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "131",
+      "countryName": "United States",
+      "adminCode1": "WI",
+      "score": 12.460375785827637,
+      "lng": "-88.2926",
+      "adminName2": "Washington County",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hahn Sky Ranch Airport",
+      "fcode": "AIRP",
+      "geonameId": 5255305,
+      "asciiName": "Hahn Sky Ranch Airport",
+      "lat": "43.46968",
+      "population": 0,
+      "adminName1": "Wisconsin",
+      "countryId": "6252001",
+      "adminId1": "5279468",
+      "fclName": "spot, building, farm",
+      "elevation": 326,
+      "countryCode": "US",
+      "adminId2": "5277887",
+      "toponymName": "Hahn Sky Ranch Airport",
+      "fcl": "S",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "011",
+      "countryName": "United States",
+      "adminCode1": "IL",
+      "score": 12.460375785827637,
+      "lng": "-89.20425",
+      "adminName2": "Bureau County",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hahn Airport",
+      "fcode": "AIRP",
+      "geonameId": 4894907,
+      "asciiName": "Hahn Airport",
+      "lat": "41.41198",
+      "population": 0,
+      "adminName1": "Illinois",
+      "countryId": "6252001",
+      "adminId1": "4896861",
+      "fclName": "spot, building, farm",
+      "elevation": 205,
+      "countryCode": "US",
+      "adminId2": "4885994",
+      "toponymName": "Hahn Airport",
+      "fcl": "S",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "105",
+      "countryName": "United States",
+      "adminCode1": "IL",
+      "score": 10.778778076171875,
+      "lng": "-88.267",
+      "adminName2": "Livingston County",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hahn Landing Strip",
+      "fcode": "AIRP",
+      "geonameId": 4894908,
+      "asciiName": "Hahn Landing Strip",
+      "lat": "40.87448",
+      "population": 0,
+      "adminName1": "Illinois",
+      "countryId": "6252001",
+      "adminId1": "4896861",
+      "fclName": "spot, building, farm",
+      "elevation": 207,
+      "countryCode": "US",
+      "adminId2": "4900233",
+      "toponymName": "Hahn Landing Strip",
+      "fcl": "S",
+      "continentCode": "NA"
+    }
+  ]
+}

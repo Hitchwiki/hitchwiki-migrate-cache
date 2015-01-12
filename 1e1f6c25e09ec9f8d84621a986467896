@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poprad",
+               "short_name" : "Poprad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poprad District",
+               "short_name" : "Poprad District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prešov Region",
+               "short_name" : "Prešov Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poprad, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.106586,
+                  "lng" : 20.3751777
+               },
+               "southwest" : {
+                  "lat" : 49.0109738,
+                  "lng" : 20.2197182
+               }
+            },
+            "location" : {
+               "lat" : 49.055188,
+               "lng" : 20.3014328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.106586,
+                  "lng" : 20.3751777
+               },
+               "southwest" : {
+                  "lat" : 49.0109738,
+                  "lng" : 20.2197182
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poprad",
+               "short_name" : "Poprad",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Poprad",
+               "short_name" : "Poprad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Poprad District",
+               "short_name" : "Poprad District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prešov Region",
+               "short_name" : "Prešov Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poprad, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0600278,
+                  "lng" : 20.315239
+               },
+               "southwest" : {
+                  "lat" : 49.0415468,
+                  "lng" : 20.2768526
+               }
+            },
+            "location" : {
+               "lat" : 49.0491679,
+               "lng" : 20.3009783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0600278,
+                  "lng" : 20.315239
+               },
+               "southwest" : {
+                  "lat" : 49.0415468,
+                  "lng" : 20.2768526
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

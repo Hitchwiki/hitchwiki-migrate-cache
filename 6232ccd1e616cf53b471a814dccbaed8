@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M56",
+               "short_name" : "M56",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warrington",
+               "short_name" : "Warrington",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WA4",
+               "short_name" : "WA4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M56, Warrington WA4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3990478,
+                  "lng" : -2.2297386
+               },
+               "southwest" : {
+                  "lat" : 53.2415208,
+                  "lng" : -2.9464655
+               }
+            },
+            "location" : {
+               "lat" : 53.333396,
+               "lng" : -2.588187
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3990478,
+                  "lng" : -2.2297386
+               },
+               "southwest" : {
+                  "lat" : 53.2415208,
+                  "lng" : -2.9464655
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

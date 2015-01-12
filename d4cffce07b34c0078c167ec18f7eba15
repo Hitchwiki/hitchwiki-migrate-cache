@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abkhazia",
+               "short_name" : "Abkhazia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Abkhazia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.586627,
+                  "lng" : 42.149976
+               },
+               "southwest" : {
+                  "lat" : 42.4124548,
+                  "lng" : 40.0075855
+               }
+            },
+            "location" : {
+               "lat" : 43.1357207,
+               "lng" : 41.0721094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.586627,
+                  "lng" : 42.149976
+               },
+               "southwest" : {
+                  "lat" : 42.4124548,
+                  "lng" : 40.0075855
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

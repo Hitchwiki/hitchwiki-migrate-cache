@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Sahara",
+               "short_name" : "EH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Sahara",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6666775,
+                  "lng" : -8.6666659
+               },
+               "southwest" : {
+                  "lat" : 20.7699217,
+                  "lng" : -17.1045269
+               }
+            },
+            "location" : {
+               "lat" : 24.215527,
+               "lng" : -12.885834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6667028,
+                  "lng" : -8.6666659
+               },
+               "southwest" : {
+                  "lat" : 20.7699217,
+                  "lng" : -17.1045269
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

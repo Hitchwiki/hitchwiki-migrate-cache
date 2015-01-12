@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A115",
+               "short_name" : "A115",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Val-d'Oise",
+               "short_name" : "95",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A115, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0495557,
+                  "lng" : 2.2465997
+               },
+               "southwest" : {
+                  "lat" : 48.9810373,
+                  "lng" : 2.1816461
+               }
+            },
+            "location" : {
+               "lat" : 49.0160136,
+               "lng" : 2.2155559
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0495557,
+                  "lng" : 2.2465997
+               },
+               "southwest" : {
+                  "lat" : 48.9810373,
+                  "lng" : 2.1816461
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

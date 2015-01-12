@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burundi",
+               "short_name" : "BI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burundi",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.309987,
+                  "lng" : 30.8501728
+               },
+               "southwest" : {
+                  "lat" : -4.4692284,
+                  "lng" : 29.000993
+               }
+            },
+            "location" : {
+               "lat" : -3.373056,
+               "lng" : 29.918886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.309987,
+                  "lng" : 30.8501728
+               },
+               "southwest" : {
+                  "lat" : -4.4692284,
+                  "lng" : 29.000993
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

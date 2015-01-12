@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trelleborg",
+               "short_name" : "Trelleborg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trelleborg",
+               "short_name" : "Trelleborg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Skane County",
+               "short_name" : "Skane County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trelleborg, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.39599399999999,
+                  "lng" : 13.2304151
+               },
+               "southwest" : {
+                  "lat" : 55.357829,
+                  "lng" : 13.0963618
+               }
+            },
+            "location" : {
+               "lat" : 55.3762427,
+               "lng" : 13.1574231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.39599399999999,
+                  "lng" : 13.2304151
+               },
+               "southwest" : {
+                  "lat" : 55.357829,
+                  "lng" : 13.0963618
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

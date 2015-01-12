@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poza Rica de Hidalgo",
+               "short_name" : "Poza Rica de Hidalgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Vereda",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poza Rica de Hidalgo, Veracruz, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5690854,
+                  "lng" : -97.40068029999999
+               },
+               "southwest" : {
+                  "lat" : 20.4882196,
+                  "lng" : -97.48808419999999
+               }
+            },
+            "location" : {
+               "lat" : 20.5270592,
+               "lng" : -97.46291189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5690854,
+                  "lng" : -97.40068029999999
+               },
+               "southwest" : {
+                  "lat" : 20.4882196,
+                  "lng" : -97.48808419999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

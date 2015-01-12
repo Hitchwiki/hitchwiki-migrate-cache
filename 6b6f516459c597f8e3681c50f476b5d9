@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R6",
+               "short_name" : "R6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Karlovy Vary Region",
+               "short_name" : "Karlovy Vary Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R6, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2302707,
+                  "lng" : 12.8294319
+               },
+               "southwest" : {
+                  "lat" : 50.0867482,
+                  "lng" : 12.3841907
+               }
+            },
+            "location" : {
+               "lat" : 50.14403100000001,
+               "lng" : 12.6255656
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2302707,
+                  "lng" : 12.8294319
+               },
+               "southwest" : {
+                  "lat" : 50.0867482,
+                  "lng" : 12.3841907
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R6",
+               "short_name" : "R6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R6, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1616347,
+                  "lng" : 14.289488
+               },
+               "southwest" : {
+                  "lat" : 50.07558539999999,
+                  "lng" : 13.8937193
+               }
+            },
+            "location" : {
+               "lat" : 50.1049077,
+               "lng" : 14.0939994
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1616347,
+                  "lng" : 14.289488
+               },
+               "southwest" : {
+                  "lat" : 50.07558539999999,
+                  "lng" : 13.8937193
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R6",
+               "short_name" : "R6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malé Přítočno",
+               "short_name" : "Malé Přítočno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kladno District",
+               "short_name" : "Kladno District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "273 51",
+               "short_name" : "273 51",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R6, 273 51 Malé Přítočno, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.102707,
+                  "lng" : 14.1400697
+               },
+               "southwest" : {
+                  "lat" : 50.102174,
+                  "lng" : 14.1384138
+               }
+            },
+            "location" : {
+               "lat" : 50.10269659999999,
+               "lng" : 14.1393102
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1037894802915,
+                  "lng" : 14.1405907302915
+               },
+               "southwest" : {
+                  "lat" : 50.1010915197085,
+                  "lng" : 14.1378927697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

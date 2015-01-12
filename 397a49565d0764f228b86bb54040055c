@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A411",
+               "short_name" : "A411",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gaillard",
+               "short_name" : "Gaillard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74240",
+               "short_name" : "74240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A411, 74240 Gaillard, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1885102,
+                  "lng" : 6.222180199999999
+               },
+               "southwest" : {
+                  "lat" : 46.183111,
+                  "lng" : 6.202175599999999
+               }
+            },
+            "location" : {
+               "lat" : 46.1850011,
+               "lng" : 6.2117945
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1885102,
+                  "lng" : 6.222180199999999
+               },
+               "southwest" : {
+                  "lat" : 46.183111,
+                  "lng" : 6.202175599999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

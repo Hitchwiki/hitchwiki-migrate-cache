@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S3",
+               "short_name" : "S3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hollabrunn",
+               "short_name" : "Hollabrunn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hollabrunn",
+               "short_name" : "Hollabrunn",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hollabrunn",
+               "short_name" : "Hollabrunn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Niederösterreich",
+               "short_name" : "Niederösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S3, Hollabrunn, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5438868,
+                  "lng" : 16.1861703
+               },
+               "southwest" : {
+                  "lat" : 48.3826542,
+                  "lng" : 16.0796013
+               }
+            },
+            "location" : {
+               "lat" : 48.4662742,
+               "lng" : 16.1376407
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5438868,
+                  "lng" : 16.1861703
+               },
+               "southwest" : {
+                  "lat" : 48.3826542,
+                  "lng" : 16.0796013
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

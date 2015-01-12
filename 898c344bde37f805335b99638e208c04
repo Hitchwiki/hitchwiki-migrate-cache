@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lelystad",
+               "short_name" : "Lelystad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lelystad",
+               "short_name" : "Lelystad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flevoland",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lelystad, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6928126,
+                  "lng" : 5.6059638
+               },
+               "southwest" : {
+                  "lat" : 52.3843956,
+                  "lng" : 5.2584712
+               }
+            },
+            "location" : {
+               "lat" : 52.51853699999999,
+               "lng" : 5.471422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6928126,
+                  "lng" : 5.6059638
+               },
+               "southwest" : {
+                  "lat" : 52.3843956,
+                  "lng" : 5.2584712
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

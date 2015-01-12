@@ -1,0 +1,106 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.18892646509202,
+        "south": 52.30256654341709,
+        "north": 52.3337214565829,
+        "west": 7.137941534907979
+      },
+      "asciiName": "Bad Bentheim",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 34.23897933959961,
+      "countryCode": "DE",
+      "adminId1": "2862926",
+      "lat": "52.31814",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "06",
+      "lng": "7.16343",
+      "geonameId": 2953552,
+      "toponymName": "Bad Bentheim",
+      "population": 15508,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بادبنتهایم",
+          "lang": "fa"
+        },
+        {
+          "name": "Бад-Бентхайм",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bad_Bentheim",
+          "lang": "link"
+        },
+        {
+          "name": "Бад-Бентхайм",
+          "lang": "ru"
+        },
+        {
+          "name": "Бад Бентхајм",
+          "lang": "sr"
+        },
+        {
+          "name": "BDB",
+          "lang": "unlc"
+        },
+        {
+          "name": "巴德本泰姆",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bad Bentheim",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "Lower Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Bad Bentheim",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 24.699209213256836,
+      "adminId3": "3221075",
+      "countryCode": "DE",
+      "adminId4": "6557468",
+      "adminId1": "2862926",
+      "lat": "52.3046",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode3": "03456",
+      "adminCode1": "06",
+      "lng": "7.1506",
+      "geonameId": 6557468,
+      "toponymName": "Bad Bentheim",
+      "adminCode4": "03456001",
+      "population": 15063,
+      "adminName5": "",
+      "adminName4": "Bad Bentheim",
+      "adminName3": "Landkreis Grafschaft Bentheim",
+      "adminName2": "",
+      "name": "Bad Bentheim",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "Lower Saxony"
+    }
+  ]
+}

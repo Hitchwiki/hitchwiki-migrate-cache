@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turda",
+               "short_name" : "Turda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turda",
+               "short_name" : "Turda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cluj County",
+               "short_name" : "CJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turda, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5982111,
+                  "lng" : 23.8797926
+               },
+               "southwest" : {
+                  "lat" : 46.521991,
+                  "lng" : 23.7448025
+               }
+            },
+            "location" : {
+               "lat" : 46.564676,
+               "lng" : 23.7971063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5982111,
+                  "lng" : 23.8797926
+               },
+               "southwest" : {
+                  "lat" : 46.521991,
+                  "lng" : 23.7448025
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

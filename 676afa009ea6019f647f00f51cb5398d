@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Klagenfurt",
+               "short_name" : "Klagenfurt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klagenfurt am Wörthersee",
+               "short_name" : "Klagenfurt am Wörthersee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Carinthia",
+               "short_name" : "Kärnten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Klagenfurt, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.70822,
+                  "lng" : 14.41526
+               },
+               "southwest" : {
+                  "lat" : 46.57443,
+                  "lng" : 14.21025
+               }
+            },
+            "location" : {
+               "lat" : 46.62794,
+               "lng" : 14.30899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.70822,
+                  "lng" : 14.41526
+               },
+               "southwest" : {
+                  "lat" : 46.57443,
+                  "lng" : 14.21025
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

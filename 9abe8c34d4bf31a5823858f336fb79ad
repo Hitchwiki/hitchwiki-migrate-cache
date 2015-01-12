@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 55",
+               "short_name" : "Autoroute 55",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 55, Québec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6408908,
+                  "lng" : -71.9539745
+               },
+               "southwest" : {
+                  "lat" : 45.0058363,
+                  "lng" : -72.80290669999999
+               }
+            },
+            "location" : {
+               "lat" : 45.8025665,
+               "lng" : -72.40375209999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6408908,
+                  "lng" : -71.9539745
+               },
+               "southwest" : {
+                  "lat" : 45.0058363,
+                  "lng" : -72.80290669999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa 55",
+               "short_name" : "55",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Orléans",
+               "short_name" : "Orléans",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1C",
+               "short_name" : "K1C",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ottawa 55, Orléans, ON K1C, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.47097230000001,
+                  "lng" : -75.54121619999999
+               },
+               "southwest" : {
+                  "lat" : 45.4654017,
+                  "lng" : -75.5473485
+               }
+            },
+            "location" : {
+               "lat" : 45.46789750000001,
+               "lng" : -75.54497859999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.47097230000001,
+                  "lng" : -75.54121619999999
+               },
+               "southwest" : {
+                  "lat" : 45.4654017,
+                  "lng" : -75.5473485
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A14",
+               "short_name" : "A14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A14, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8944066,
+                  "lng" : 13.378957
+               },
+               "southwest" : {
+                  "lat" : 51.0533884,
+                  "lng" : 11.4661739
+               }
+            },
+            "location" : {
+               "lat" : 52.2029069,
+               "lng" : 11.5471297
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8944066,
+                  "lng" : 13.378957
+               },
+               "southwest" : {
+                  "lat" : 51.0533884,
+                  "lng" : 11.4661739
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

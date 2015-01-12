@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caye Caulker",
+               "short_name" : "Caye Caulker",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "BZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caye Caulker, Belize",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.7965014,
+                  "lng" : -88.01786899999999
+               },
+               "southwest" : {
+                  "lat" : 17.7285762,
+                  "lng" : -88.0384684
+               }
+            },
+            "location" : {
+               "lat" : 17.7611578,
+               "lng" : -88.02774869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.7965014,
+                  "lng" : -88.01786899999999
+               },
+               "southwest" : {
+                  "lat" : 17.7285762,
+                  "lng" : -88.0384684
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

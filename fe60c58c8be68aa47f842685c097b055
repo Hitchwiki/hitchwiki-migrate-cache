@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3582873,
+                  "lng" : 11.5992173
+               },
+               "southwest" : {
+                  "lat" : 30.2280336,
+                  "lng" : 7.522313400000001
+               }
+            },
+            "location" : {
+               "lat" : 33.886917,
+               "lng" : 9.537499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3582873,
+                  "lng" : 11.5992173
+               },
+               "southwest" : {
+                  "lat" : 30.2280336,
+                  "lng" : 7.522313400000001
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

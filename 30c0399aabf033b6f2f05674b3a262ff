@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A215",
+               "short_name" : "A215",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A215, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.31567949999999,
+                  "lng" : 10.1104077
+               },
+               "southwest" : {
+                  "lat" : 54.1499809,
+                  "lng" : 9.956750099999999
+               }
+            },
+            "location" : {
+               "lat" : 54.23532849999999,
+               "lng" : 10.0193183
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.31567949999999,
+                  "lng" : 10.1104077
+               },
+               "southwest" : {
+                  "lat" : 54.1499809,
+                  "lng" : 9.956750099999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A24",
+               "short_name" : "A24",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A24, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.667669,
+                  "lng" : 13.7573987
+               },
+               "southwest" : {
+                  "lat" : 41.89908339999999,
+                  "lng" : 12.5308818
+               }
+            },
+            "location" : {
+               "lat" : 42.3063253,
+               "lng" : 13.3045861
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.667669,
+                  "lng" : 13.7573987
+               },
+               "southwest" : {
+                  "lat" : 41.89908339999999,
+                  "lng" : 12.5308818
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

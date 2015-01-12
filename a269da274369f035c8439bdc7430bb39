@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.449235,
+                  "lng" : 24.000001
+               },
+               "southwest" : {
+                  "lat" : 7.442975,
+                  "lng" : 13.47
+               }
+            },
+            "location" : {
+               "lat" : 15.454166,
+               "lng" : 18.732207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.449235,
+                  "lng" : 24.000001
+               },
+               "southwest" : {
+                  "lat" : 7.442975,
+                  "lng" : 13.47
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

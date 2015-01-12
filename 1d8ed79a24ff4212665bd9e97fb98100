@@ -1,0 +1,740 @@
+{
+  "totalResultsCount": 3820,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 37.3652131193475,
+        "south": 36.03693759669647,
+        "north": 36.36554440330354,
+        "west": 36.957132880652495
+      },
+      "asciiName": "Aleppo",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 114.92615509033203,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.20124",
+      "fcode": "PPLA",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "37.16117",
+      "geonameId": 170063,
+      "toponymName": "Aleppo",
+      "population": 1602264,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Halab",
+          "lang": "ace"
+        },
+        {
+          "name": "حلب",
+          "lang": "ar"
+        },
+        {
+          "name": "ܚܠܒ",
+          "lang": "arc"
+        },
+        {
+          "name": "حلب",
+          "lang": "arz"
+        },
+        {
+          "name": "ХӀалаб",
+          "lang": "av"
+        },
+        {
+          "name": "Hələb",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Халеб",
+          "lang": "be"
+        },
+        {
+          "name": "Халеб",
+          "lang": "bg"
+        },
+        {
+          "name": "আলেপ্পো",
+          "lang": "bn"
+        },
+        {
+          "name": "Alep",
+          "lang": "ca"
+        },
+        {
+          "name": "Халеб",
+          "lang": "ce"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "da"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "de"
+        },
+        {
+          "name": "Χαλέπι",
+          "lang": "el"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "en"
+        },
+        {
+          "name": "Alepo",
+          "lang": "eo"
+        },
+        {
+          "name": "Alepo",
+          "lang": "es"
+        },
+        {
+          "name": "Ḩalab",
+          "lang": "et"
+        },
+        {
+          "name": "Alepo",
+          "lang": "eu"
+        },
+        {
+          "name": "حلب",
+          "lang": "fa"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "fi"
+        },
+        {
+          "name": "Alep",
+          "lang": "fr"
+        },
+        {
+          "name": "Alepo",
+          "lang": "gl"
+        },
+        {
+          "name": "Alepo",
+          "lang": "gn"
+        },
+        {
+          "name": "חאלב",
+          "lang": "he"
+        },
+        {
+          "name": "हलब",
+          "lang": "hi"
+        },
+        {
+          "name": "Aleppó",
+          "lang": "hu"
+        },
+        {
+          "name": "Հալեպ",
+          "lang": "hy"
+        },
+        {
+          "name": "ALP",
+          "lang": "iata"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "id"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "it"
+        },
+        {
+          "name": "アレッポ",
+          "lang": "ja"
+        },
+        {
+          "name": "ალეპო",
+          "lang": "ka"
+        },
+        {
+          "name": "Алеппо",
+          "lang": "kk"
+        },
+        {
+          "name": "알레포",
+          "lang": "ko"
+        },
+        {
+          "name": "Heleb",
+          "lang": "ku"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Aleppo",
+          "lang": "link"
+        },
+        {
+          "name": "Alepas",
+          "lang": "lt"
+        },
+        {
+          "name": "Haleba",
+          "lang": "lv"
+        },
+        {
+          "name": "Халеб",
+          "lang": "mhr"
+        },
+        {
+          "name": "ആലെപ്പോ",
+          "lang": "ml"
+        },
+        {
+          "name": "Халеб хот",
+          "lang": "mn"
+        },
+        {
+          "name": "अलेप्पो",
+          "lang": "mr"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "nl"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "no"
+        },
+        {
+          "name": "Alèp",
+          "lang": "oc"
+        },
+        {
+          "name": "Халеб",
+          "lang": "os"
+        },
+        {
+          "name": "ਹਲਬ",
+          "lang": "pa"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "pl"
+        },
+        {
+          "name": "حلب",
+          "lang": "pnb"
+        },
+        {
+          "name": "Alepo",
+          "lang": "pt"
+        },
+        {
+          "name": "Алеппо",
+          "lang": "ru"
+        },
+        {
+          "name": "Alepo",
+          "lang": "rw"
+        },
+        {
+          "name": "Aleppu",
+          "lang": "scn"
+        },
+        {
+          "name": "Halab",
+          "lang": "sk"
+        },
+        {
+          "name": "Alep",
+          "lang": "sl"
+        },
+        {
+          "name": "Xalab",
+          "lang": "so"
+        },
+        {
+          "name": "Алеп",
+          "lang": "sr"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "sv"
+        },
+        {
+          "name": "அலெப்போ",
+          "lang": "ta"
+        },
+        {
+          "name": "อะเลปโป",
+          "lang": "th"
+        },
+        {
+          "name": "Halep",
+          "lang": "tr"
+        },
+        {
+          "name": "Хәлеб",
+          "lang": "tt"
+        },
+        {
+          "name": "Алеппо",
+          "lang": "uk"
+        },
+        {
+          "name": "ALP",
+          "lang": "unlc"
+        },
+        {
+          "name": "حلب",
+          "lang": "ur"
+        },
+        {
+          "name": "Halab",
+          "lang": "uz"
+        },
+        {
+          "name": "阿勒颇",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Aleppo",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Aleppo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 38.671653747558594,
+        "south": 35.429718017578125,
+        "north": 36.91444396972656,
+        "west": 36.549163818359375
+      },
+      "asciiName": "Aleppo Governorate",
+      "countryId": "163843",
+      "fcl": "A",
+      "score": 41.378150939941406,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.25",
+      "fcode": "ADM1",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "37.61667",
+      "geonameId": 170062,
+      "toponymName": "Aleppo Governorate",
+      "population": 3115559,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "حلب",
+          "lang": "ar"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Aleppo_Governorate",
+          "lang": "link"
+        },
+        {
+          "name": "Aleppo",
+          "lang": "no"
+        },
+        {
+          "name": "Мухафаза Халеб",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Aleppo",
+      "fclName": "country, state, region,...",
+      "countryName": "Syria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aleppo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 37.575952755229984,
+        "south": 36.323205630251294,
+        "north": 36.4166703697487,
+        "west": 37.45980724477001
+      },
+      "asciiName": "Al Bab",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 35.38808059692383,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.36994",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "37.51788",
+      "geonameId": 174018,
+      "toponymName": "Al Bāb",
+      "population": 130745,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "الباب",
+          "lang": "ar"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Al-Bab",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Al Bāb",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Aleppo"
+    },
+    {
+      "elevation": 388,
+      "lng": "37.22436",
+      "geonameId": 6300127,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "toponymName": "Aleppo International Airport",
+      "asciiName": "Aleppo International Airport",
+      "countryId": "163843",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 26.541061401367188,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "ALP",
+          "lang": "iata"
+        },
+        {
+          "name": "OSAP",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Aleppo_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "SY",
+      "name": "Aleppo International Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Syria",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "36.18068",
+      "fcode": "AIRP",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 37.99722216280791,
+        "south": 36.494202720478874,
+        "north": 36.56210327952113,
+        "west": 37.91268583719209
+      },
+      "asciiName": "Manbij",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 22.117549896240234,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.52815",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "37.95495",
+      "geonameId": 167357,
+      "toponymName": "Manbij",
+      "population": 68888,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "منبج",
+          "lang": "ar"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Manbij",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Manbij",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Aleppo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 37.42198943389048,
+        "south": 36.03699135068668,
+        "north": 36.11692864931332,
+        "west": 37.32303456610952
+      },
+      "asciiName": "As Safirah",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 22.117549896240234,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.07696",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "37.37251",
+      "geonameId": 172503,
+      "toponymName": "As Safīrah",
+      "population": 95832,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "سفيرة",
+          "lang": "ar"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Al-Safira",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "As Safīrah",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Aleppo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 37.08782714066075,
+        "south": 36.5532746578681,
+        "north": 36.6199733421319,
+        "west": 37.00472485933925
+      },
+      "asciiName": "I`zaz",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 22.117549896240234,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.58662",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "37.04628",
+      "geonameId": 172082,
+      "toponymName": "I‘zāz",
+      "population": 66138,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "أعزاز",
+          "lang": "ar"
+        },
+        {
+          "name": "Azaz",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Azaz",
+          "lang": "link"
+        },
+        {
+          "name": "Азаз",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Azaz",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Aleppo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 37.139909426566355,
+        "south": 36.09283335124857,
+        "north": 36.11082064875143,
+        "west": 37.117644573433644
+      },
+      "asciiName": "Wudeihi",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 17.694040298461914,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.10183",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "37.12878",
+      "geonameId": 12971,
+      "toponymName": "Wudeihi",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "وضيحي",
+        "lang": "ar"
+      }],
+      "adminName2": "",
+      "name": "Wudeihi",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "populated place",
+      "adminName1": "Aleppo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 38.27475672675094,
+        "south": 36.815626351248575,
+        "north": 36.83361364875143,
+        "west": 38.25228327324906
+      },
+      "asciiName": "Qaruf",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 17.694040298461914,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.82462",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "38.26352",
+      "geonameId": 9215,
+      "toponymName": "Qarūf",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "قروف",
+          "lang": "ar"
+        },
+        {
+          "name": "قەرۆف",
+          "lang": "ku"
+        }
+      ],
+      "adminName2": "",
+      "name": "Qarūf",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "populated place",
+      "adminName1": "Aleppo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 38.47226336551638,
+        "south": 36.819974351248575,
+        "north": 36.83796164875143,
+        "west": 38.44978863448361
+      },
+      "asciiName": "Kharab Jil",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 17.694040298461914,
+      "countryCode": "SY",
+      "adminId1": "170062",
+      "lat": "36.82897",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "09",
+      "lng": "38.46103",
+      "geonameId": 9223,
+      "toponymName": "Kharāb Jīl",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "جيل",
+          "lang": "ar"
+        },
+        {
+          "name": "چێلەك",
+          "lang": "ku"
+        }
+      ],
+      "adminName2": "",
+      "name": "Kharāb Jīl",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "populated place",
+      "adminName1": "Aleppo"
+    }
+  ]
+}

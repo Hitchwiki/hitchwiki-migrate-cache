@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Ceará",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fortaleza - State of Ceará, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.694526499999999,
+                  "lng" : -38.4018292
+               },
+               "southwest" : {
+                  "lat" : -3.8881764,
+                  "lng" : -38.6365725
+               }
+            },
+            "location" : {
+               "lat" : -3.7318616,
+               "lng" : -38.5266704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.694526499999999,
+                  "lng" : -38.4018292
+               },
+               "southwest" : {
+                  "lat" : -3.8881764,
+                  "lng" : -38.6365725
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

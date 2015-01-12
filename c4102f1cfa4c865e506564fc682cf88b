@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarifa",
+               "short_name" : "Tarifa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarifa",
+               "short_name" : "Tarifa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Campo de Gibraltar",
+               "short_name" : "Campo de Gibraltar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cádiz",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarifa, Cádiz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0203594,
+                  "lng" : -5.597980799999999
+               },
+               "southwest" : {
+                  "lat" : 36.008551,
+                  "lng" : -5.6113367
+               }
+            },
+            "location" : {
+               "lat" : 36.0143209,
+               "lng" : -5.6044497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0203594,
+                  "lng" : -5.597980799999999
+               },
+               "southwest" : {
+                  "lat" : 36.008551,
+                  "lng" : -5.6113367
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarifa",
+               "short_name" : "Tarifa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cúllar",
+               "short_name" : "Cúllar",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Baza",
+               "short_name" : "Baza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18859",
+               "short_name" : "18859",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "18859 Tarifa, Granada, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.587788,
+                  "lng" : -2.4176124
+               },
+               "southwest" : {
+                  "lat" : 37.5861028,
+                  "lng" : -2.4200084
+               }
+            },
+            "location" : {
+               "lat" : 37.5870261,
+               "lng" : -2.4187097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5882943802915,
+                  "lng" : -2.417461419708498
+               },
+               "southwest" : {
+                  "lat" : 37.5855964197085,
+                  "lng" : -2.420159380291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

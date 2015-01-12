@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rosenheim",
+               "short_name" : "RO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rosenheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8870319,
+                  "lng" : 12.1531668
+               },
+               "southwest" : {
+                  "lat" : 47.809122,
+                  "lng" : 12.0538641
+               }
+            },
+            "location" : {
+               "lat" : 47.8571272,
+               "lng" : 12.1181047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8870319,
+                  "lng" : 12.1531668
+               },
+               "southwest" : {
+                  "lat" : 47.809122,
+                  "lng" : 12.0538641
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

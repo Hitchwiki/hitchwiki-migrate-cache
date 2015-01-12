@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A23",
+               "short_name" : "A23",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A23, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1902213,
+                  "lng" : 9.916572799999999
+               },
+               "southwest" : {
+                  "lat" : 53.6112957,
+                  "lng" : 9.046275999999999
+               }
+            },
+            "location" : {
+               "lat" : 53.895004,
+               "lng" : 9.516674199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1902213,
+                  "lng" : 9.916572799999999
+               },
+               "southwest" : {
+                  "lat" : 53.6112957,
+                  "lng" : 9.046275999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A23",
+               "short_name" : "A23",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ehingen",
+               "short_name" : "Ehingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86678",
+               "short_name" : "86678",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A23, 86678 Ehingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6012079,
+                  "lng" : 10.8270554
+               },
+               "southwest" : {
+                  "lat" : 48.5888588,
+                  "lng" : 10.7591516
+               }
+            },
+            "location" : {
+               "lat" : 48.59621689999999,
+               "lng" : 10.7927087
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6012079,
+                  "lng" : 10.8270554
+               },
+               "southwest" : {
+                  "lat" : 48.5888588,
+                  "lng" : 10.7591516
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

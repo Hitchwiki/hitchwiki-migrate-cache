@@ -1,0 +1,433 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 16.662230758648356,
+        "south": 50.28906694922404,
+        "north": 50.314504829303026,
+        "west": 16.622395248431722
+      },
+      "asciiName": "Bystrzyca Klodzka",
+      "countryId": "798544",
+      "fcl": "P",
+      "score": 43.03984069824219,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.30179",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.64231",
+      "geonameId": 3101968,
+      "toponymName": "Bystrzyca Kłodzka",
+      "population": 10375,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "alternateNames": [
+        {
+          "name": "Habelschwerdt",
+          "lang": "de"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka",
+          "lang": "link"
+        },
+        {
+          "name": "Bistšica Klodzka",
+          "lang": "lv"
+        },
+        {
+          "name": "Быстшица-Клодзкая",
+          "lang": "ru"
+        },
+        {
+          "name": "Бистрица Клодска",
+          "lang": "sr"
+        },
+        {
+          "name": "Бистшиця-Клодзька",
+          "lang": "uk"
+        },
+        {
+          "name": "BYK",
+          "lang": "unlc"
+        },
+        {
+          "name": "Bystrzyca Klodzka",
+          "lang": "vi"
+        },
+        {
+          "name": "貝斯奇察克沃茲卡",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Powiat kłodzki",
+      "name": "Bystrzyca Kłodzka",
+      "fclName": "city, village,...",
+      "countryName": "Poland",
+      "fcodeName": "populated place",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 16.8375667874043,
+        "south": 50.1950283668448,
+        "north": 50.379539953083,
+        "west": 16.4365336258634
+      },
+      "asciiName": "Bystrzyca Klodzka",
+      "countryId": "798544",
+      "fcl": "A",
+      "score": 29.21625518798828,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.2953",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.6499",
+      "geonameId": 7533073,
+      "toponymName": "Bystrzyca Kłodzka",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "alternateNames": [
+        {
+          "name": "Gmina Bystrzyca Kłodzka",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Gmina_Bystrzyca_K%C5%82odzka",
+          "lang": "link"
+        },
+        {
+          "name": "Comuna de Bystrzyca Kłodzka",
+          "lang": "pt"
+        },
+        {
+          "name": "Быстшица-Клодзка",
+          "lang": "ru"
+        },
+        {
+          "name": "Gmina Bystrzyca Kłodzka",
+          "lang": "sk"
+        },
+        {
+          "name": "Ґміна Бистшиця-Клодзька",
+          "lang": "uk"
+        },
+        {
+          "name": "Gmina Bystrzyca Kłodzka",
+          "lang": "war"
+        }
+      ],
+      "adminName2": "Powiat kłodzki",
+      "name": "Gmina Bystrzyca Kłodzka",
+      "fclName": "country, state, region,...",
+      "countryName": "Poland",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Smrekowiec",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.22958",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "elevation": 1123,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.80814",
+      "geonameId": 3085320,
+      "toponymName": "Smrekowiec",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Smrekowiec",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "mountain",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Igliczna",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.24419",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "elevation": 845,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.74956",
+      "geonameId": 8714875,
+      "toponymName": "Igliczna",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Igliczna",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "mountain",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Jaworowa Kopa",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.24663",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "elevation": 1138,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.80367",
+      "geonameId": 8714878,
+      "toponymName": "Jaworowa Kopa",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Jaworowa Kopa",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "mountain",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Przelecz Spalona",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.27716",
+      "fcode": "PASS",
+      "continentCode": "EU",
+      "elevation": 812,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.53859",
+      "geonameId": 6944009,
+      "toponymName": "Przełęcz Spalona",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Przełęcz Spalona",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "pass",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Przelecz Puchaczowka",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.26419",
+      "fcode": "PASS",
+      "continentCode": "EU",
+      "elevation": 862,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.8135",
+      "geonameId": 6285601,
+      "toponymName": "Przełęcz Puchaczówka",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Przełęcz Puchaczówka",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "pass",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Debosz",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.22",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "elevation": 772,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.58107",
+      "geonameId": 8617205,
+      "toponymName": "Dębosz",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Dębosz",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "mountain",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Sasanka",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.26134",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "elevation": 986,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.56082",
+      "geonameId": 8617206,
+      "toponymName": "Sasanka",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Sasanka",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "mountain",
+      "adminName1": "Lower Silesian Voivodeship"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Lomnicka Rownia",
+      "countryId": "798544",
+      "fcl": "T",
+      "score": 10.329496383666992,
+      "adminId2": "7530821",
+      "adminId3": "7533073",
+      "countryCode": "PL",
+      "adminId1": "3337492",
+      "lat": "50.34499",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "elevation": 899,
+      "adminCode2": "0208",
+      "adminCode3": "020806",
+      "adminCode1": "72",
+      "lng": "16.52211",
+      "geonameId": 8617207,
+      "toponymName": "Łomnicka Równia",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gmina Bystrzyca Kłodzka",
+      "adminName2": "Powiat kłodzki",
+      "name": "Łomnicka Równia",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Poland",
+      "fcodeName": "mountain",
+      "adminName1": "Lower Silesian Voivodeship"
+    }
+  ]
+}

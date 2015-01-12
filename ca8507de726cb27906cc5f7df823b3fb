@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkmenbashi",
+               "short_name" : "Turkmenbashi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Balkan",
+               "short_name" : "Balkan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkmenistan",
+               "short_name" : "TM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkmenbashi, Turkmenistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0825372,
+                  "lng" : 53.0215645
+               },
+               "southwest" : {
+                  "lat" : 39.9880006,
+                  "lng" : 52.9072809
+               }
+            },
+            "location" : {
+               "lat" : 40.016667,
+               "lng" : 52.966667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0825372,
+                  "lng" : 53.0215645
+               },
+               "southwest" : {
+                  "lat" : 39.9880006,
+                  "lng" : 52.9072809
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

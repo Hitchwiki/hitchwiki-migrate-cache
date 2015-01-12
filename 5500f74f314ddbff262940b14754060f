@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odessa",
+               "short_name" : "Odessa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Odes'ka city council",
+               "short_name" : "Odes'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Odessa, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.60042199999999,
+                  "lng" : 30.8118901
+               },
+               "southwest" : {
+                  "lat" : 46.319522,
+                  "lng" : 30.6116849
+               }
+            },
+            "location" : {
+               "lat" : 46.482526,
+               "lng" : 30.7233095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.60042199999999,
+                  "lng" : 30.8118901
+               },
+               "southwest" : {
+                  "lat" : 46.319522,
+                  "lng" : 30.6116849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odessa",
+               "short_name" : "Odessa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ector County",
+               "short_name" : "Ector County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Odessa, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.954475,
+                  "lng" : -102.2456889
+               },
+               "southwest" : {
+                  "lat" : 31.798745,
+                  "lng" : -102.4414181
+               }
+            },
+            "location" : {
+               "lat" : 31.8456816,
+               "lng" : -102.3676431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.954475,
+                  "lng" : -102.2456889
+               },
+               "southwest" : {
+                  "lat" : 31.798745,
+                  "lng" : -102.4414181
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odessa",
+               "short_name" : "Odessa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pasco County",
+               "short_name" : "Pasco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Odessa, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1950641,
+                  "lng" : -82.515879
+               },
+               "southwest" : {
+                  "lat" : 28.172714,
+                  "lng" : -82.5924299
+               }
+            },
+            "location" : {
+               "lat" : 28.1793926,
+               "lng" : -82.5579537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1950641,
+                  "lng" : -82.515879
+               },
+               "southwest" : {
+                  "lat" : 28.172714,
+                  "lng" : -82.5924299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

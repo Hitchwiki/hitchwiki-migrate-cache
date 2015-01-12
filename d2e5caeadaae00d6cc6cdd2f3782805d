@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Esslingen",
+               "short_name" : "Esslingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Esslingen",
+               "short_name" : "Esslingen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Stuttgart",
+               "short_name" : "Süd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Esslingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7757653,
+                  "lng" : 9.4165852
+               },
+               "southwest" : {
+                  "lat" : 48.70656049999999,
+                  "lng" : 9.2562468
+               }
+            },
+            "location" : {
+               "lat" : 48.7433425,
+               "lng" : 9.320112199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7757653,
+                  "lng" : 9.4165852
+               },
+               "southwest" : {
+                  "lat" : 48.70656049999999,
+                  "lng" : 9.2562468
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

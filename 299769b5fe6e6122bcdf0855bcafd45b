@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Luis",
+               "short_name" : "San Luis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Capital",
+               "short_name" : "La Capital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "San Luis Province",
+               "short_name" : "SL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Luis, San Luis Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.2583568,
+                  "lng" : -66.2345254
+               },
+               "southwest" : {
+                  "lat" : -33.3412384,
+                  "lng" : -66.38436519999999
+               }
+            },
+            "location" : {
+               "lat" : -33.3022202,
+               "lng" : -66.3367976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.2583568,
+                  "lng" : -66.2345254
+               },
+               "southwest" : {
+                  "lat" : -33.3412384,
+                  "lng" : -66.38436519999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Louis",
+               "short_name" : "St Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Louis, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.166409
+               },
+               "southwest" : {
+                  "lat" : 38.5318519,
+                  "lng" : -90.320515
+               }
+            },
+            "location" : {
+               "lat" : 38.6270025,
+               "lng" : -90.19940419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.166409
+               },
+               "southwest" : {
+                  "lat" : 38.5318519,
+                  "lng" : -90.320515
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Luis",
+               "short_name" : "San Luis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yuma County",
+               "short_name" : "Yuma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Luis, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5236809,
+                  "lng" : -114.631002
+               },
+               "southwest" : {
+                  "lat" : 32.4394641,
+                  "lng" : -114.8165909
+               }
+            },
+            "location" : {
+               "lat" : 32.4869996,
+               "lng" : -114.7821796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5236809,
+                  "lng" : -114.631002
+               },
+               "southwest" : {
+                  "lat" : 32.4394641,
+                  "lng" : -114.8165909
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

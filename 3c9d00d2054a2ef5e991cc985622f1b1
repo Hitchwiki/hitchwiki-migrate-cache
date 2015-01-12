@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.885645,
+                  "lng" : 14.6779815
+               },
+               "southwest" : {
+                  "lat" : 4.269857099999999,
+                  "lng" : 2.676932
+               }
+            },
+            "location" : {
+               "lat" : 9.081999,
+               "lng" : 8.675276999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.885645,
+                  "lng" : 14.6779815
+               },
+               "southwest" : {
+                  "lat" : 4.269857099999999,
+                  "lng" : 2.676932
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,175 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.368030227278202,
+        "south": 52.32231837481659,
+        "north": 52.34434822518341,
+        "west": 7.331969772721798
+      },
+      "asciiName": "Salzbergen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 25.607316970825195,
+      "adminId3": "3221073",
+      "countryCode": "DE",
+      "adminId4": "6552916",
+      "adminId1": "2862926",
+      "lat": "52.33333",
+      "fcode": "PPLA4",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode3": "03454",
+      "adminCode1": "06",
+      "lng": "7.35",
+      "geonameId": 2842175,
+      "toponymName": "Salzbergen",
+      "adminCode4": "03454045",
+      "population": 7602,
+      "adminName5": "",
+      "adminName4": "Salzbergen",
+      "adminName3": "Landkreis Emsland",
+      "alternateNames": [
+        {
+          "name": "Зальцберген",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Salzbergen",
+          "lang": "link"
+        },
+        {
+          "name": "Saoltbiärgen",
+          "lang": "nds"
+        },
+        {
+          "name": "Зальцберген",
+          "lang": "ru"
+        },
+        {
+          "name": "Залцберген",
+          "lang": "sr"
+        },
+        {
+          "name": "DZR",
+          "lang": "unlc"
+        },
+        {
+          "name": "萨尔茨贝尔根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Salzbergen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "seat of a fourth-order administrative division",
+      "adminName1": "Lower Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Salzbergen",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 17.313705444335938,
+      "adminId3": "3221073",
+      "countryCode": "DE",
+      "adminId4": "6552916",
+      "adminId1": "2862926",
+      "lat": "52.3256",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode3": "03454",
+      "adminCode1": "06",
+      "lng": "7.4305",
+      "geonameId": 6552916,
+      "toponymName": "Salzbergen",
+      "adminCode4": "03454045",
+      "population": 7503,
+      "adminName5": "",
+      "adminName4": "Salzbergen",
+      "adminName3": "Landkreis Emsland",
+      "adminName2": "",
+      "name": "Salzbergen",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "Lower Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Unterwerk Salzbergen",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 15.485849380493164,
+      "countryCode": "DE",
+      "adminId1": "2862926",
+      "lat": "52.32843",
+      "fcode": "PS",
+      "continentCode": "EU",
+      "adminCode1": "06",
+      "lng": "7.34426",
+      "geonameId": 7282903,
+      "toponymName": "Unterwerk Salzbergen",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Salzbergen_station",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Unterwerk Salzbergen",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "power station",
+      "adminName1": "Lower Saxony"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "16.64028",
+      "geonameId": 3321793,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Vienna",
+        "dstOffset": 2
+      },
+      "toponymName": "Salzbergen",
+      "asciiName": "Salzbergen",
+      "countryId": "2782113",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 7.742924690246582,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AT",
+      "name": "Salzbergen",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Austria",
+      "fcodeName": "slope(s)",
+      "adminId1": "2770542",
+      "adminName1": "Lower Austria",
+      "lat": "48.70417",
+      "fcode": "SLP",
+      "continentCode": "EU"
+    }
+  ]
+}

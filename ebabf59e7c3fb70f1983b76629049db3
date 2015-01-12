@@ -1,0 +1,927 @@
+{
+  "totalResultsCount": 59879,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -79.974306,
+        "south": 24.396307999999998,
+        "north": 31.000968,
+        "west": -87.634896
+      },
+      "asciiName": "Florida",
+      "countryId": "6252001",
+      "fcl": "A",
+      "score": 37.573272705078125,
+      "countryCode": "US",
+      "adminId1": "4155751",
+      "lat": "28.75054",
+      "fcode": "ADM1",
+      "continentCode": "NA",
+      "elevation": 26,
+      "adminCode1": "FL",
+      "lng": "-82.5001",
+      "geonameId": 4155751,
+      "toponymName": "Florida",
+      "population": 17671452,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "FL",
+          "lang": "abbr"
+        },
+        {
+          "name": "ፍሎሪዳ",
+          "lang": "am"
+        },
+        {
+          "name": "فلوريدا",
+          "lang": "ar"
+        },
+        {
+          "name": "فلوريدا",
+          "lang": "arz"
+        },
+        {
+          "name": "Florida suyu",
+          "lang": "ay"
+        },
+        {
+          "name": "Флорида",
+          "lang": "ba"
+        },
+        {
+          "name": "Штат Фларыда",
+          "lang": "be"
+        },
+        {
+          "name": "Флорида",
+          "lang": "bg"
+        },
+        {
+          "name": "ফ্লোরিডা",
+          "lang": "bn"
+        },
+        {
+          "name": "ཧྥོ་ལོ་རི་ཌ།",
+          "lang": "bo"
+        },
+        {
+          "name": "ফ্লোরিডা",
+          "lang": "bpy"
+        },
+        {
+          "name": "فلۆریدا",
+          "lang": "ckb"
+        },
+        {
+          "name": "Флорида",
+          "lang": "cv"
+        },
+        {
+          "name": "Φλόριντα",
+          "lang": "el"
+        },
+        {
+          "name": "Florida",
+          "lang": "en"
+        },
+        {
+          "name": "Florido",
+          "lang": "eo"
+        },
+        {
+          "name": "Florida",
+          "lang": "es"
+        },
+        {
+          "name": "فلوریدا",
+          "lang": "fa"
+        },
+        {
+          "name": "Floride",
+          "lang": "fr"
+        },
+        {
+          "name": "Floarida",
+          "lang": "fy"
+        },
+        {
+          "name": "Fu-lò-lî-tha̍t",
+          "lang": "hak"
+        },
+        {
+          "name": "Pololika",
+          "lang": "haw"
+        },
+        {
+          "name": "פלורידה",
+          "lang": "he"
+        },
+        {
+          "name": "फ़्लोरिडा",
+          "lang": "hi"
+        },
+        {
+          "name": "Florid",
+          "lang": "ht"
+        },
+        {
+          "name": "Ֆլորիդա",
+          "lang": "hy"
+        },
+        {
+          "name": "Flórídạ",
+          "lang": "ig"
+        },
+        {
+          "name": "Flórída",
+          "lang": "is"
+        },
+        {
+          "name": "ᑉᓘᕇᑖ",
+          "lang": "iu"
+        },
+        {
+          "name": "フロリダ州",
+          "lang": "ja"
+        },
+        {
+          "name": "ფლორიდა",
+          "lang": "ka"
+        },
+        {
+          "name": "ಫ್ಲಾರಿಡ",
+          "lang": "kn"
+        },
+        {
+          "name": "플로리다 주",
+          "lang": "ko"
+        },
+        {
+          "name": "Флорида",
+          "lang": "krc"
+        },
+        {
+          "name": "Флорида",
+          "lang": "lez"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Florida",
+          "lang": "link"
+        },
+        {
+          "name": "Флорида",
+          "lang": "mk"
+        },
+        {
+          "name": "ഫ്ലോറിഡ",
+          "lang": "ml"
+        },
+        {
+          "name": "Флорида",
+          "lang": "mn"
+        },
+        {
+          "name": "फ्लोरिडा",
+          "lang": "mr"
+        },
+        {
+          "name": "Флорида",
+          "lang": "mrj"
+        },
+        {
+          "name": "ဖလော်ရီဒါပြည်နယ်",
+          "lang": "my"
+        },
+        {
+          "name": "فلوریدا",
+          "lang": "mzn"
+        },
+        {
+          "name": "फ्लोरिदा",
+          "lang": "new"
+        },
+        {
+          "name": "Łóodah Hahoodzo",
+          "lang": "nv"
+        },
+        {
+          "name": "Флоридæ",
+          "lang": "os"
+        },
+        {
+          "name": "ਫ਼ਲੌਰਿਡਾ",
+          "lang": "pa"
+        },
+        {
+          "name": "Floryda",
+          "lang": "pl"
+        },
+        {
+          "name": "فلوریڈا",
+          "lang": "pnb"
+        },
+        {
+          "name": "Flórida",
+          "lang": "pt"
+        },
+        {
+          "name": "Florida suyu",
+          "lang": "qu"
+        },
+        {
+          "name": "Флорида",
+          "lang": "ru"
+        },
+        {
+          "name": "फ्‍लोरिडा",
+          "lang": "sa"
+        },
+        {
+          "name": "Флорида",
+          "lang": "sah"
+        },
+        {
+          "name": "Флорида",
+          "lang": "sr"
+        },
+        {
+          "name": "புளோரிடா",
+          "lang": "ta"
+        },
+        {
+          "name": "ఫ్లోరిడా",
+          "lang": "te"
+        },
+        {
+          "name": "รัฐฟลอริดา",
+          "lang": "th"
+        },
+        {
+          "name": "Флорида",
+          "lang": "tt"
+        },
+        {
+          "name": "Florida Shitati",
+          "lang": "ug"
+        },
+        {
+          "name": "Флорида",
+          "lang": "uk"
+        },
+        {
+          "name": "فلوریڈا",
+          "lang": "ur"
+        },
+        {
+          "name": "佛罗里达州",
+          "lang": "wuu"
+        },
+        {
+          "name": "Плоорид",
+          "lang": "xal"
+        },
+        {
+          "name": "פלארידע",
+          "lang": "yi"
+        },
+        {
+          "name": "科利打省",
+          "lang": "yue"
+        },
+        {
+          "name": "佛罗里达州",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Florida",
+      "fclName": "country, state, region,...",
+      "countryName": "United States",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Florida"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Montevideo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -55.09027862548828,
+        "south": -34.43302917480469,
+        "north": -33.118263244628906,
+        "west": -56.533058166503906
+      },
+      "asciiName": "Departamento de Florida",
+      "countryId": "3439705",
+      "fcl": "A",
+      "score": 37.32526397705078,
+      "countryCode": "UY",
+      "adminId1": "3442584",
+      "lat": "-33.83333",
+      "fcode": "ADM1",
+      "continentCode": "SA",
+      "adminCode1": "07",
+      "lng": "-55.91667",
+      "geonameId": 3442584,
+      "toponymName": "Departamento de Florida",
+      "population": 68334,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Departament de Florida",
+          "lang": "ca"
+        },
+        {
+          "name": "Departamento Florida",
+          "lang": "de"
+        },
+        {
+          "name": "Florida",
+          "lang": "en"
+        },
+        {
+          "name": "Florida",
+          "lang": "es"
+        },
+        {
+          "name": "Florida",
+          "lang": "fr"
+        },
+        {
+          "name": "Departemen Florida",
+          "lang": "id"
+        },
+        {
+          "name": "Dipartimento di Florida",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Florida_Department",
+          "lang": "link"
+        },
+        {
+          "name": "Florida",
+          "lang": "nl"
+        },
+        {
+          "name": "Departamento de Florida",
+          "lang": "pt"
+        }
+      ],
+      "adminName2": "",
+      "name": "Florida",
+      "fclName": "country, state, region,...",
+      "countryName": "Uruguay",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Florida"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -66.5311279296875,
+        "south": 18.337860107421875,
+        "north": 18.413721084594727,
+        "west": -66.59065246582031
+      },
+      "asciiName": "Florida Municipio",
+      "countryId": "4566966",
+      "fcl": "A",
+      "score": 34.4796028137207,
+      "countryCode": "PR",
+      "adminId1": "4564993",
+      "lat": "18.36051",
+      "fcode": "ADM1",
+      "continentCode": "NA",
+      "elevation": 196,
+      "adminCode1": "054",
+      "lng": "-66.56212",
+      "geonameId": 4564993,
+      "toponymName": "Florida Municipio",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Florida%2C_Puerto_Rico",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Florida Municipio",
+      "fclName": "country, state, region,...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Florida"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Montevideo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -56.18648516129529,
+        "south": -34.11848499524096,
+        "north": -34.07262620475903,
+        "west": -56.24184823870471
+      },
+      "asciiName": "Florida",
+      "countryId": "3439705",
+      "fcl": "P",
+      "score": 30.475950241088867,
+      "countryCode": "UY",
+      "adminId1": "3442584",
+      "lat": "-34.09556",
+      "fcode": "PPLA",
+      "continentCode": "SA",
+      "adminCode1": "07",
+      "lng": "-56.21417",
+      "geonameId": 3442585,
+      "toponymName": "Florida",
+      "population": 32234,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Florida%2C_Uruguay",
+          "lang": "link"
+        },
+        {
+          "name": "Флорида",
+          "lang": "ru"
+        },
+        {
+          "name": "FDA",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Florida",
+      "fclName": "city, village,...",
+      "countryName": "Uruguay",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Florida"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Havana",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -78.19096742338307,
+        "south": 21.492295138273217,
+        "north": 21.55714926172678,
+        "west": -78.26069917661694
+      },
+      "asciiName": "Florida",
+      "countryId": "3562981",
+      "fcl": "P",
+      "score": 24.189533233642578,
+      "countryCode": "CU",
+      "adminId1": "3566062",
+      "lat": "21.52472",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "05",
+      "lng": "-78.22583",
+      "geonameId": 3558771,
+      "toponymName": "Florida",
+      "population": 63007,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Florida%2C_Cuba",
+          "lang": "link"
+        },
+        {
+          "name": "Флорида",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Florida",
+      "fclName": "city, village,...",
+      "countryName": "Cuba",
+      "fcodeName": "populated place",
+      "adminName1": "Camagüey"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -66.530529,
+        "south": 18.337308,
+        "north": 18.413309,
+        "west": -66.591656
+      },
+      "asciiName": "Florida Adentro Barrio",
+      "countryId": "4566966",
+      "fcl": "A",
+      "score": 22.856962203979492,
+      "adminId2": "7268393",
+      "countryCode": "PR",
+      "adminId1": "4564993",
+      "lat": "18.37344",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "elevation": 193,
+      "adminCode2": "7268393",
+      "adminCode1": "054",
+      "lng": "-66.56017",
+      "geonameId": 7268393,
+      "toponymName": "Florida Adentro Barrio",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Florida Adentro Barrio",
+      "name": "Florida Adentro Barrio",
+      "fclName": "country, state, region,...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Florida"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Tegucigalpa",
+        "dstOffset": -6
+      },
+      "asciiName": "Florida",
+      "countryId": "3608932",
+      "fcl": "A",
+      "score": 22.395158767700195,
+      "adminId2": "3609683",
+      "countryCode": "HN",
+      "adminId1": "3613229",
+      "lat": "15.17",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "adminCode2": "0410",
+      "adminCode1": "05",
+      "lng": "-88.81",
+      "geonameId": 3609683,
+      "toponymName": "Florida",
+      "population": 24983,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Florida",
+      "name": "Florida",
+      "fclName": "country, state, region,...",
+      "countryName": "Honduras",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Copán"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -65.434559,
+        "south": 18.121904,
+        "north": 18.175305,
+        "west": -65.505358
+      },
+      "asciiName": "Florida Barrio",
+      "countryId": "4566966",
+      "fcl": "A",
+      "score": 22.395158767700195,
+      "adminId2": "7268396",
+      "countryCode": "PR",
+      "adminId1": "4568924",
+      "lat": "18.14327",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "elevation": 0,
+      "adminCode2": "7268396",
+      "adminCode1": "147",
+      "lng": "-65.47723",
+      "geonameId": 7268396,
+      "toponymName": "Florida Barrio",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Florida Barrio",
+      "name": "Florida Barrio",
+      "fclName": "country, state, region,...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Vieques"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -66.549369,
+        "south": 18.354685,
+        "north": 18.375238,
+        "west": -66.576981
+      },
+      "asciiName": "Florida",
+      "countryId": "4566966",
+      "fcl": "P",
+      "score": 20.15794563293457,
+      "countryCode": "PR",
+      "adminId1": "4564993",
+      "lat": "18.36245",
+      "fcode": "PPLA",
+      "continentCode": "NA",
+      "elevation": 192,
+      "adminCode1": "054",
+      "lng": "-66.56128",
+      "geonameId": 4564991,
+      "toponymName": "Florida",
+      "population": 5652,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Florida",
+      "fclName": "city, village,...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Florida"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -84.21660528777309,
+        "south": 30.382997996951048,
+        "north": 30.493513803048955,
+        "west": -84.34486051222692
+      },
+      "asciiName": "Tallahassee",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 18.66263198852539,
+      "adminId2": "4161831",
+      "countryCode": "US",
+      "adminId1": "4155751",
+      "lat": "30.43826",
+      "fcode": "PPLA",
+      "continentCode": "NA",
+      "elevation": 62,
+      "adminCode2": "073",
+      "adminCode1": "FL",
+      "lng": "-84.28073",
+      "geonameId": 4174715,
+      "toponymName": "Tallahassee",
+      "population": 181376,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "تالاهاسي",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Талахасі",
+          "lang": "be"
+        },
+        {
+          "name": "Талахаси",
+          "lang": "bg"
+        },
+        {
+          "name": "টালাহাসি",
+          "lang": "bn"
+        },
+        {
+          "name": "Таллахасси",
+          "lang": "ce"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "cs"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "da"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "de"
+        },
+        {
+          "name": "Ταλαχάσι",
+          "lang": "el"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "en"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "eo"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "es"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "eu"
+        },
+        {
+          "name": "تالاهاسی",
+          "lang": "fa"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "fi"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "fr"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "ga"
+        },
+        {
+          "name": "טאלאהאסי",
+          "lang": "he"
+        },
+        {
+          "name": "Թալահասի",
+          "lang": "hy"
+        },
+        {
+          "name": "TLH",
+          "lang": "iata"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "id"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "io"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "it"
+        },
+        {
+          "name": "タラハシー",
+          "lang": "ja"
+        },
+        {
+          "name": "ტალაჰასი",
+          "lang": "ka"
+        },
+        {
+          "name": "탤러해시",
+          "lang": "ko"
+        },
+        {
+          "name": "Tallahassia",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Tallahassee%2C_Florida",
+          "lang": "link"
+        },
+        {
+          "name": "Talahasis",
+          "lang": "lt"
+        },
+        {
+          "name": "Talahasī",
+          "lang": "lv"
+        },
+        {
+          "name": "Талахаси",
+          "lang": "mk"
+        },
+        {
+          "name": "ടലഹാസി",
+          "lang": "ml"
+        },
+        {
+          "name": "टॅलाहासी",
+          "lang": "mr"
+        },
+        {
+          "name": "Таллахасси",
+          "lang": "mrj"
+        },
+        {
+          "name": "तालाहासे",
+          "lang": "new"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "nl"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "nn"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "no"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "oc"
+        },
+        {
+          "name": "Таллахасси",
+          "lang": "os"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "pl"
+        },
+        {
+          "name": "ٹالیحسی",
+          "lang": "pnb"
+        },
+        {
+          "name": "32310",
+          "lang": "post"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "pt"
+        },
+        {
+          "name": "Таллахасси",
+          "lang": "ru"
+        },
+        {
+          "name": "Talahasis",
+          "lang": "sgs"
+        },
+        {
+          "name": "Талахаси",
+          "lang": "sr"
+        },
+        {
+          "name": "Tallahassee",
+          "lang": "sv"
+        },
+        {
+          "name": "டலஹாசி",
+          "lang": "ta"
+        },
+        {
+          "name": "แทลลาแฮสซี",
+          "lang": "th"
+        },
+        {
+          "name": "Таллахассі",
+          "lang": "uk"
+        },
+        {
+          "name": "TLH",
+          "lang": "unlc"
+        },
+        {
+          "name": "塔拉赫西",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Leon County",
+      "name": "Tallahassee",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Florida"
+    }
+  ]
+}

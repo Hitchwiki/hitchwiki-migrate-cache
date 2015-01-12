@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M48",
+               "short_name" : "M48",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rogiet",
+               "short_name" : "Rogiet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caldicot",
+               "short_name" : "Caldicot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NP26",
+               "short_name" : "NP26",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M48, Rogiet, Caldicot NP26, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6208821,
+                  "lng" : -2.5767299
+               },
+               "southwest" : {
+                  "lat" : 51.5692441,
+                  "lng" : -2.8132876
+               }
+            },
+            "location" : {
+               "lat" : 51.6165858,
+               "lng" : -2.6988656
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6208821,
+                  "lng" : -2.5767299
+               },
+               "southwest" : {
+                  "lat" : 51.5692441,
+                  "lng" : -2.8132876
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

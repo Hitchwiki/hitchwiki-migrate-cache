@@ -1,0 +1,622 @@
+{
+  "totalResultsCount": 15,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 47.407930709085186,
+        "south": 56.0454905923742,
+        "north": 56.2189538076258,
+        "west": 47.09595809091481
+      },
+      "asciiName": "Cheboksary",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 56.61544418334961,
+      "adminId2": "569698",
+      "countryCode": "RU",
+      "adminId1": "567395",
+      "lat": "56.13222",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "569698",
+      "adminCode1": "16",
+      "lng": "47.25194",
+      "geonameId": 569696,
+      "toponymName": "Cheboksary",
+      "population": 446781,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Tsjeboksari",
+          "lang": "af"
+        },
+        {
+          "name": "Shupashkar",
+          "lang": "an"
+        },
+        {
+          "name": "تشيبوكساري",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Чэбаксары",
+          "lang": "be"
+        },
+        {
+          "name": "Чебоксари",
+          "lang": "bg"
+        },
+        {
+          "name": "Txeboksari",
+          "lang": "ca"
+        },
+        {
+          "name": "Чебоксара",
+          "lang": "ce"
+        },
+        {
+          "name": "Čeboksary",
+          "lang": "cs"
+        },
+        {
+          "name": "Шоупашкаръ",
+          "lang": "cu"
+        },
+        {
+          "name": "Шупашкар",
+          "lang": "cv"
+        },
+        {
+          "name": "Tjeboksary",
+          "lang": "da"
+        },
+        {
+          "name": "Tscheboksary",
+          "lang": "de"
+        },
+        {
+          "name": "Cheboksary",
+          "lang": "en"
+        },
+        {
+          "name": "Ĉeboksari",
+          "lang": "eo"
+        },
+        {
+          "name": "Tšeboksarõ",
+          "lang": "et"
+        },
+        {
+          "name": "Txeboksary",
+          "lang": "eu"
+        },
+        {
+          "name": "چاباق‌سر",
+          "lang": "fa"
+        },
+        {
+          "name": "Tšeboksary",
+          "lang": "fi"
+        },
+        {
+          "name": "Tcheboksary",
+          "lang": "fr"
+        },
+        {
+          "name": "צבוקסרי",
+          "lang": "he"
+        },
+        {
+          "name": "Čeboksari",
+          "lang": "hr"
+        },
+        {
+          "name": "Csebokszári",
+          "lang": "hu"
+        },
+        {
+          "name": "CSY",
+          "lang": "iata"
+        },
+        {
+          "name": "Cheboksary",
+          "lang": "id"
+        },
+        {
+          "name": "Čeboksary",
+          "lang": "it"
+        },
+        {
+          "name": "チェボクサル",
+          "lang": "ja"
+        },
+        {
+          "name": "ჩებოქსარი",
+          "lang": "ka"
+        },
+        {
+          "name": "체복사리",
+          "lang": "ko"
+        },
+        {
+          "name": "Шубашкар",
+          "lang": "koi"
+        },
+        {
+          "name": "Шупашкар",
+          "lang": "kv"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Cheboksary",
+          "lang": "link"
+        },
+        {
+          "name": "Čeboksarai",
+          "lang": "lt"
+        },
+        {
+          "name": "Čeboksari",
+          "lang": "lv"
+        },
+        {
+          "name": "Шавашар",
+          "lang": "mhr"
+        },
+        {
+          "name": "Чебоксари",
+          "lang": "mk"
+        },
+        {
+          "name": "Шывашар",
+          "lang": "mrj"
+        },
+        {
+          "name": "Tsjeboksary",
+          "lang": "nl"
+        },
+        {
+          "name": "Tsjeboksary",
+          "lang": "nn"
+        },
+        {
+          "name": "Tsjeboksary",
+          "lang": "no"
+        },
+        {
+          "name": "Чебоксар",
+          "lang": "os"
+        },
+        {
+          "name": "Czeboksary",
+          "lang": "pl"
+        },
+        {
+          "name": "چیبوکسارے",
+          "lang": "pnb"
+        },
+        {
+          "name": "Ceboksarî",
+          "lang": "ro"
+        },
+        {
+          "name": "Чебоксары",
+          "lang": "ru"
+        },
+        {
+          "name": "Čeboksary",
+          "lang": "scn"
+        },
+        {
+          "name": "Čeboksary",
+          "lang": "sk"
+        },
+        {
+          "name": "Чебоксари",
+          "lang": "sr"
+        },
+        {
+          "name": "Tjeboksary",
+          "lang": "sv"
+        },
+        {
+          "name": "Şupaşkar",
+          "lang": "tr"
+        },
+        {
+          "name": "Чабаксар",
+          "lang": "tt"
+        },
+        {
+          "name": "Чебоксари",
+          "lang": "uk"
+        },
+        {
+          "name": "CSY",
+          "lang": "unlc"
+        },
+        {
+          "name": "Čeboksarad",
+          "lang": "vep"
+        },
+        {
+          "name": "切博克萨雷",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Cheboksarskiy Rayon",
+      "name": "Cheboksary",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Chuvashia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 40.98280343790574,
+        "south": 52.86380635124824,
+        "north": 52.88179364875175,
+        "west": 40.95299656209426
+      },
+      "asciiName": "Cheboksary",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 35.44687271118164,
+      "countryCode": "RU",
+      "adminId1": "484638",
+      "lat": "52.8728",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "72",
+      "lng": "40.9679",
+      "geonameId": 569697,
+      "toponymName": "Cheboksary",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Чебоксары",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Cheboksary",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "populated place",
+      "adminName1": "Tambov"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Yekaterinburg",
+        "dstOffset": 5
+      },
+      "bbox": {
+        "east": 64.65833957597667,
+        "south": 58.97820127024971,
+        "north": 58.98179872975028,
+        "west": 64.65135842402333
+      },
+      "asciiName": "Cheboksary",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 25.319194793701172,
+      "countryCode": "RU",
+      "adminId1": "1490542",
+      "lat": "58.98",
+      "fcode": "PPLQ",
+      "continentCode": "EU",
+      "adminCode1": "71",
+      "lng": "64.65485",
+      "geonameId": 1508343,
+      "toponymName": "Cheboksary",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Чебоксары",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Cheboksary",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "abandoned populated place",
+      "adminName1": "Sverdlovsk"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "asciiName": "Cheboksary Airport",
+      "countryId": "2017370",
+      "fcl": "S",
+      "score": 21.48404884338379,
+      "countryCode": "RU",
+      "adminId1": "567395",
+      "lat": "56.0903",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "adminCode1": "16",
+      "lng": "47.3473",
+      "geonameId": 7668563,
+      "toponymName": "Cheboksary Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "CSY",
+          "lang": "iata"
+        },
+        {
+          "name": "UWKS",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Cheboksary_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Cheboksary Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Russia",
+      "fcodeName": "airport",
+      "adminName1": "Chuvashia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 47.29785826494271,
+        "south": 56.17174554049943,
+        "north": 56.178940459500566,
+        "west": 47.28493173505729
+      },
+      "asciiName": "Oktjabrski",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 17.54165267944336,
+      "countryCode": "RU",
+      "adminId1": "567395",
+      "lat": "56.17534",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "16",
+      "lng": "47.2914",
+      "geonameId": 6198442,
+      "toponymName": "Oktjabrski",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Cheboksary",
+          "lang": "en"
+        },
+        {
+          "name": "Oktjabrskij",
+          "lang": "no"
+        },
+        {
+          "name": "Чебоксары",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Cheboksary",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "section of populated place",
+      "adminName1": "Chuvashia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "asciiName": "Stantsiya Cheboksary",
+      "countryId": "2017370",
+      "fcl": "S",
+      "score": 13.427530288696289,
+      "countryCode": "RU",
+      "adminId1": "567395",
+      "lat": "56.1132",
+      "fcode": "RSTN",
+      "continentCode": "EU",
+      "adminCode1": "16",
+      "lng": "47.2659",
+      "geonameId": 7782227,
+      "toponymName": "Stantsiya Cheboksary",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Станция Чебоксары",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Stantsiya Cheboksary",
+      "fclName": "spot, building, farm",
+      "countryName": "Russia",
+      "fcodeName": "railroad station",
+      "adminName1": "Chuvashia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "asciiName": "Stantsiya Cheboksary Vtoryye",
+      "countryId": "2017370",
+      "fcl": "S",
+      "score": 10.127677917480469,
+      "countryCode": "RU",
+      "adminId1": "567395",
+      "lat": "56.0746",
+      "fcode": "RSTN",
+      "continentCode": "EU",
+      "adminCode1": "16",
+      "lng": "47.2036",
+      "geonameId": 7782228,
+      "toponymName": "Stantsiya Cheboksary Vtoryye",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Станция Чебоксары Вторые",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Stantsiya Cheboksary Vtoryye",
+      "fclName": "spot, building, farm",
+      "countryName": "Russia",
+      "fcodeName": "railroad station",
+      "adminName1": "Chuvashia"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "47.29806",
+      "geonameId": 827560,
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "toponymName": "Cheboksarskoye Vodokhranilishche",
+      "asciiName": "Cheboksarskoye Vodokhranilishche",
+      "countryId": "2017370",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 7.161349773406982,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Cheboksary Reservoir",
+          "lang": "en"
+        },
+        {
+          "name": "Чебоксарское Водохранилище",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "RU",
+      "name": "Cheboksary Reservoir",
+      "fclName": "stream, lake, ...",
+      "countryName": "Russia",
+      "fcodeName": "reservoir(s)",
+      "adminName1": "",
+      "lat": "56.1575",
+      "fcode": "RSV",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 47.37186738566,
+        "south": 56.154635540499434,
+        "north": 56.16183045950057,
+        "west": 47.35894661433999
+      },
+      "asciiName": "Kuvshinka",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 6.266180992126465,
+      "countryCode": "RU",
+      "adminId1": "567395",
+      "lat": "56.15823",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "16",
+      "lng": "47.36541",
+      "geonameId": 6198445,
+      "toponymName": "Kuvshinka",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Кувшинка",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Kuvshinka",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "section of populated place",
+      "adminName1": "Chuvashia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 47.19198768546107,
+        "south": 56.11474754049943,
+        "north": 56.121942459500566,
+        "west": 47.17908031453892
+      },
+      "asciiName": "Koshkino",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 6.266180992126465,
+      "countryCode": "RU",
+      "adminId1": "567395",
+      "lat": "56.11834",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "16",
+      "lng": "47.18553",
+      "geonameId": 544177,
+      "toponymName": "Koshkino",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Кошкино",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Koshkino",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "section of populated place",
+      "adminName1": "Chuvashia"
+    }
+  ]
+}

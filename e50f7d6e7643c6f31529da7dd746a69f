@@ -1,0 +1,275 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.05255
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.450839999999999
+               }
+            },
+            "location" : {
+               "lat" : 53.3498053,
+               "lng" : -6.2603097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.05255
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.450839999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1632729,
+                  "lng" : -83.089778
+               },
+               "southwest" : {
+                  "lat" : 40.0636839,
+                  "lng" : -83.2020691
+               }
+            },
+            "location" : {
+               "lat" : 40.0992294,
+               "lng" : -83.1140771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1632729,
+                  "lng" : -83.089778
+               },
+               "southwest" : {
+                  "lat" : 40.0636839,
+                  "lng" : -83.2020691
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laurens County",
+               "short_name" : "Laurens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6028481,
+                  "lng" : -82.8750659
+               },
+               "southwest" : {
+                  "lat" : 32.4819039,
+                  "lng" : -82.985095
+               }
+            },
+            "location" : {
+               "lat" : 32.5404447,
+               "lng" : -82.90375399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6028481,
+                  "lng" : -82.8750659
+               },
+               "southwest" : {
+                  "lat" : 32.4819039,
+                  "lng" : -82.985095
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alameda County",
+               "short_name" : "Alameda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.739228,
+                  "lng" : -121.832054
+               },
+               "southwest" : {
+                  "lat" : 37.69723,
+                  "lng" : -121.98867
+               }
+            },
+            "location" : {
+               "lat" : 37.7021521,
+               "lng" : -121.9357918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.739228,
+                  "lng" : -121.832054
+               },
+               "southwest" : {
+                  "lat" : 37.69723,
+                  "lng" : -121.98867
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pulaski County",
+               "short_name" : "Pulaski County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24084",
+               "short_name" : "24084",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dublin, VA 24084, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1142639,
+                  "lng" : -80.6710848
+               },
+               "southwest" : {
+                  "lat" : 37.0805718,
+                  "lng" : -80.69499709999999
+               }
+            },
+            "location" : {
+               "lat" : 37.1056784,
+               "lng" : -80.6853433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1142639,
+                  "lng" : -80.6710848
+               },
+               "southwest" : {
+                  "lat" : 37.0805718,
+                  "lng" : -80.69499709999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

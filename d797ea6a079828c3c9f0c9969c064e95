@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A711",
+               "short_name" : "A711",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Puy-de-Dôme",
+               "short_name" : "63",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne",
+               "short_name" : "Auvergne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A711, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8231589,
+                  "lng" : 3.2246443
+               },
+               "southwest" : {
+                  "lat" : 45.7714538,
+                  "lng" : 3.1250998
+               }
+            },
+            "location" : {
+               "lat" : 45.7825142,
+               "lng" : 3.1905775
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8231589,
+                  "lng" : 3.2246443
+               },
+               "southwest" : {
+                  "lat" : 45.7714538,
+                  "lng" : 3.1250998
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

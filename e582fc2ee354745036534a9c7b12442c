@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M69",
+               "short_name" : "M69",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burbage",
+               "short_name" : "Burbage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hinckley",
+               "short_name" : "Hinckley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LE10 3JA",
+               "short_name" : "LE10 3JA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M69, Burbage, Hinckley LE10 3JA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6011751,
+                  "lng" : -1.1959146
+               },
+               "southwest" : {
+                  "lat" : 52.4286281,
+                  "lng" : -1.4255952
+               }
+            },
+            "location" : {
+               "lat" : 52.52650569999999,
+               "lng" : -1.3309517
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6011751,
+                  "lng" : -1.1959146
+               },
+               "southwest" : {
+                  "lat" : 52.4286281,
+                  "lng" : -1.4255952
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

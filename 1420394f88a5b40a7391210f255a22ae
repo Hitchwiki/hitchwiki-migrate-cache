@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyväskylä",
+               "short_name" : "JKL",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jyväskylä sub-region",
+               "short_name" : "Jyväskylä sub-region",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Central Finland",
+               "short_name" : "Central Finland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40100",
+               "short_name" : "40100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "40100 Jyväskylä, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 62.244747,
+               "lng" : 25.7472184
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.24994280000001,
+                  "lng" : 25.7632258
+               },
+               "southwest" : {
+                  "lat" : 62.2395503,
+                  "lng" : 25.731211
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

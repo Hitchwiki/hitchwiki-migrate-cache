@@ -1,0 +1,149 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durango",
+               "short_name" : "Durango",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durango",
+               "short_name" : "DGO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durango, DGO, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.0945669,
+                  "lng" : -104.5754014
+               },
+               "southwest" : {
+                  "lat" : 23.9633543,
+                  "lng" : -104.7151846
+               }
+            },
+            "location" : {
+               "lat" : 24.0277202,
+               "lng" : -104.6531759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.0945669,
+                  "lng" : -104.5754014
+               },
+               "southwest" : {
+                  "lat" : 23.9633543,
+                  "lng" : -104.7151846
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durango",
+               "short_name" : "Durango",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Plata County",
+               "short_name" : "La Plata County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durango, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.326594,
+                  "lng" : -107.814287
+               },
+               "southwest" : {
+                  "lat" : 37.2185008,
+                  "lng" : -107.920432
+               }
+            },
+            "location" : {
+               "lat" : 37.27528,
+               "lng" : -107.8800667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.326594,
+                  "lng" : -107.814287
+               },
+               "southwest" : {
+                  "lat" : 37.2185008,
+                  "lng" : -107.920432
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durango",
+               "short_name" : "DGO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durango, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8443838,
+                  "lng" : -102.4717558
+               },
+               "southwest" : {
+                  "lat" : 22.3450547,
+                  "lng" : -107.2094319
+               }
+            },
+            "location" : {
+               "lat" : 24.5592665,
+               "lng" : -104.6587821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8443838,
+                  "lng" : -102.4717558
+               },
+               "southwest" : {
+                  "lat" : 22.3450547,
+                  "lng" : -107.2094319
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode3": "HKV28-03",
+      "alternateNames": [
+        {
+          "name": "Капитан-Андреево",
+          "lang": "bg"
+        },
+        {
+          "name": "6530",
+          "lang": "post"
+        },
+        {
+          "name": "KAN",
+          "lang": "unlc"
+        }
+      ],
+      "adminCode2": "HKV28",
+      "countryName": "Bulgaria",
+      "adminCode1": "43",
+      "cc2": "BG",
+      "score": 44.918006896972656,
+      "lng": "26.31667",
+      "adminName2": "Obshtina Svilengrad",
+      "fcodeName": "populated place",
+      "adminName3": "Kapitan Andreevo",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 41.70767305124857,
+        "east": 26.32871703510151,
+        "north": 41.725660348751425,
+        "west": 26.30461636489849
+      },
+      "name": "Kapitan-Andreevo",
+      "fcode": "PPL",
+      "geonameId": 730641,
+      "asciiName": "Kapitan-Andreevo",
+      "lat": "41.71667",
+      "population": 0,
+      "adminName1": "Khaskovo",
+      "adminId1": "730436",
+      "countryId": "732800",
+      "fclName": "city, village,...",
+      "countryCode": "BG",
+      "adminId3": "6459472",
+      "adminId2": "726545",
+      "toponymName": "Kapitan-Andreevo",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "HKV28-03",
+      "adminCode2": "HKV28",
+      "alternateNames": [
+        {
+          "name": "Капитан Андреево",
+          "lang": "bg"
+        },
+        {
+          "name": "Kapitan Andreevo",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Kapitan_Andreevo",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Bulgaria",
+      "adminCode1": "43",
+      "score": 34.36387634277344,
+      "lng": "26.31667",
+      "adminName2": "Obshtina Svilengrad",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Kapitan Andreevo",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Kapitan Andreevo",
+      "fcode": "ADM3",
+      "geonameId": 6459472,
+      "asciiName": "Kapitan Andreevo",
+      "lat": "41.71667",
+      "population": 0,
+      "adminName1": "Khaskovo",
+      "adminId1": "730436",
+      "countryId": "732800",
+      "fclName": "country, state, region,...",
+      "countryCode": "BG",
+      "adminId3": "6459472",
+      "adminId2": "726545",
+      "toponymName": "Kapitan Andreevo",
+      "fcl": "A",
+      "continentCode": "EU"
+    }
+  ]
+}

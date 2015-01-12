@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A7",
+               "short_name" : "A7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A7, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4373278,
+                  "lng" : 9.171206699999999
+               },
+               "southwest" : {
+                  "lat" : 44.4117443,
+                  "lng" : 8.6462761
+               }
+            },
+            "location" : {
+               "lat" : 44.9544777,
+               "lng" : 8.873176899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4373278,
+                  "lng" : 9.171206699999999
+               },
+               "southwest" : {
+                  "lat" : 44.4117443,
+                  "lng" : 8.6462761
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

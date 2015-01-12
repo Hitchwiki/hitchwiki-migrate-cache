@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Geneva",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Geneva, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.232399,
+                  "lng" : 6.177856999999999
+               },
+               "southwest" : {
+                  "lat" : 46.17766,
+                  "lng" : 6.1103201
+               }
+            },
+            "location" : {
+               "lat" : 46.1983922,
+               "lng" : 6.142296099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.232399,
+                  "lng" : 6.177856999999999
+               },
+               "southwest" : {
+                  "lat" : 46.17766,
+                  "lng" : 6.1103201
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kane County",
+               "short_name" : "Kane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Geneva, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.89891,
+                  "lng" : -88.262317
+               },
+               "southwest" : {
+                  "lat" : 41.863467,
+                  "lng" : -88.3975662
+               }
+            },
+            "location" : {
+               "lat" : 41.8875281,
+               "lng" : -88.3053525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.89891,
+                  "lng" : -88.262317
+               },
+               "southwest" : {
+                  "lat" : 41.863467,
+                  "lng" : -88.3975662
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ontario County",
+               "short_name" : "Ontario County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14456",
+               "short_name" : "14456",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Geneva, NY 14456, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.89046,
+                  "lng" : -76.963307
+               },
+               "southwest" : {
+                  "lat" : 42.8378389,
+                  "lng" : -77.0112639
+               }
+            },
+            "location" : {
+               "lat" : 42.8679836,
+               "lng" : -76.985557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.89046,
+                  "lng" : -76.963307
+               },
+               "southwest" : {
+                  "lat" : 42.8378389,
+                  "lng" : -77.0112639
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ashtabula County",
+               "short_name" : "Ashtabula County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44041",
+               "short_name" : "44041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Geneva, OH 44041, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.81817789999999,
+                  "lng" : -80.92471999999999
+               },
+               "southwest" : {
+                  "lat" : 41.7745829,
+                  "lng" : -80.96701089999999
+               }
+            },
+            "location" : {
+               "lat" : 41.8050539,
+               "lng" : -80.94814889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.81817789999999,
+                  "lng" : -80.92471999999999
+               },
+               "southwest" : {
+                  "lat" : 41.7745829,
+                  "lng" : -80.96701089999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

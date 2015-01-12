@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taldykorgan",
+               "short_name" : "Taldykorgan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eskeldi District",
+               "short_name" : "Eskeldi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taldykorgan, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.051065,
+                  "lng" : 78.45663069999999
+               },
+               "southwest" : {
+                  "lat" : 44.9700447,
+                  "lng" : 78.32307809999999
+               }
+            },
+            "location" : {
+               "lat" : 45.016667,
+               "lng" : 78.36666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.051065,
+                  "lng" : 78.45663069999999
+               },
+               "southwest" : {
+                  "lat" : 44.9700447,
+                  "lng" : 78.32307809999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

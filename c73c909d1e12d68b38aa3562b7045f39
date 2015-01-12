@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frankfurt-Hahn Airport",
+               "short_name" : "Frankfurt-Hahn Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hahn-Flughafen",
+               "short_name" : "Hahn-Flughafen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55483",
+               "short_name" : "55483",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Frankfurt-Hahn Airport (HHN), 55483 Hahn-Flughafen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9620899,
+                  "lng" : 7.286837599999999
+               },
+               "southwest" : {
+                  "lat" : 49.9262088,
+                  "lng" : 7.241659400000001
+               }
+            },
+            "location" : {
+               "lat" : 49.9458052,
+               "lng" : 7.2641958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9620899,
+                  "lng" : 7.286837599999999
+               },
+               "southwest" : {
+                  "lat" : 49.9262088,
+                  "lng" : 7.241659400000001
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

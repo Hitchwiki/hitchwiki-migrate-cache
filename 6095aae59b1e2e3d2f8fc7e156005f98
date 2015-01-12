@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gori",
+               "short_name" : "Gori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shida Kartli",
+               "short_name" : "Shida Kartli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gori, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.002733,
+                  "lng" : 44.1359425
+               },
+               "southwest" : {
+                  "lat" : 41.9691333,
+                  "lng" : 44.1004944
+               }
+            },
+            "location" : {
+               "lat" : 41.9828244,
+               "lng" : 44.1193356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.002733,
+                  "lng" : 44.1359425
+               },
+               "southwest" : {
+                  "lat" : 41.9691333,
+                  "lng" : 44.1004944
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

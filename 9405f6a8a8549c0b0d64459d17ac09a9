@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Marino",
+               "short_name" : "SM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Marino",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.992075,
+                  "lng" : 12.5167041
+               },
+               "southwest" : {
+                  "lat" : 43.8936809,
+                  "lng" : 12.4034824
+               }
+            },
+            "location" : {
+               "lat" : 43.94236,
+               "lng" : 12.457777
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.992075,
+                  "lng" : 12.5167041
+               },
+               "southwest" : {
+                  "lat" : 43.8936809,
+                  "lng" : 12.4034824
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Marino",
+               "short_name" : "San Marino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Marino, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1376239,
+                  "lng" : -118.087946
+               },
+               "southwest" : {
+                  "lat" : 34.104976,
+                  "lng" : -118.1421629
+               }
+            },
+            "location" : {
+               "lat" : 34.121397,
+               "lng" : -118.1064585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1376239,
+                  "lng" : -118.087946
+               },
+               "southwest" : {
+                  "lat" : 34.104976,
+                  "lng" : -118.1421629
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

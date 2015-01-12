@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Düren",
+               "short_name" : "Düren",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düren",
+               "short_name" : "DN",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Düren, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8576726,
+                  "lng" : 6.5384388
+               },
+               "southwest" : {
+                  "lat" : 50.7409293,
+                  "lng" : 6.385622199999999
+               }
+            },
+            "location" : {
+               "lat" : 50.8029513,
+               "lng" : 6.481105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8576726,
+                  "lng" : 6.5384388
+               },
+               "southwest" : {
+                  "lat" : 50.7409293,
+                  "lng" : 6.385622199999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

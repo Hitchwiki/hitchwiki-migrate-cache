@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durrës",
+               "short_name" : "Durrës",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durrës, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3809305,
+                  "lng" : 19.5148087
+               },
+               "southwest" : {
+                  "lat" : 41.2817411,
+                  "lng" : 19.418378
+               }
+            },
+            "location" : {
+               "lat" : 41.316667,
+               "lng" : 19.45
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3809305,
+                  "lng" : 19.5148087
+               },
+               "southwest" : {
+                  "lat" : 41.2817411,
+                  "lng" : 19.418378
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

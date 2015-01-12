@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Semey",
+               "short_name" : "Semey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Kazakhstan",
+               "short_name" : "ВКО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "070000",
+               "short_name" : "070000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Semey 070000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4826399,
+                  "lng" : 80.4115963
+               },
+               "southwest" : {
+                  "lat" : 50.3487467,
+                  "lng" : 80.13839709999999
+               }
+            },
+            "location" : {
+               "lat" : 50.433333,
+               "lng" : 80.266667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4826399,
+                  "lng" : 80.4115963
+               },
+               "southwest" : {
+                  "lat" : 50.3487467,
+                  "lng" : 80.13839709999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

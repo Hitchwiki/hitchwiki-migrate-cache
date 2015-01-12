@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazan",
+               "short_name" : "Kazan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kazan'",
+               "short_name" : "g. Kazan'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tatarstan",
+               "short_name" : "Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazan, Tatarstan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9202911,
+                  "lng" : 49.31372200000001
+               },
+               "southwest" : {
+                  "lat" : 55.6707119,
+                  "lng" : 48.832884
+               }
+            },
+            "location" : {
+               "lat" : 55.790278,
+               "lng" : 49.134722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9202911,
+                  "lng" : 49.31372200000001
+               },
+               "southwest" : {
+                  "lat" : 55.6707119,
+                  "lng" : 48.832884
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

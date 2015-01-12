@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.491944,
+                  "lng" : 30.162538
+               },
+               "southwest" : {
+                  "lat" : 45.4688309,
+                  "lng" : 26.6168559
+               }
+            },
+            "location" : {
+               "lat" : 47.411631,
+               "lng" : 28.369885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.491944,
+                  "lng" : 30.162538
+               },
+               "southwest" : {
+                  "lat" : 45.4688309,
+                  "lng" : 26.6168559
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

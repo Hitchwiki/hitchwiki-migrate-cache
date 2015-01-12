@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lippstadt",
+               "short_name" : "Lippstadt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Soest",
+               "short_name" : "Südost",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lippstadt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7278099,
+                  "lng" : 8.485049499999999
+               },
+               "southwest" : {
+                  "lat" : 51.6252658,
+                  "lng" : 8.1827504
+               }
+            },
+            "location" : {
+               "lat" : 51.6712278,
+               "lng" : 8.340648099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7278099,
+                  "lng" : 8.485049499999999
+               },
+               "southwest" : {
+                  "lat" : 51.6252658,
+                  "lng" : 8.1827504
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

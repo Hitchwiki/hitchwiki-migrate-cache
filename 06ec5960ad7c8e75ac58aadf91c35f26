@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asia",
+               "short_name" : "Asia",
+               "types" : [ "continent", "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Asia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.669178,
+                  "lng" : -168.3545
+               },
+               "southwest" : {
+                  "lat" : -12.9403,
+                  "lng" : 25.0159
+               }
+            },
+            "location" : {
+               "lat" : 34.047863,
+               "lng" : 100.6196553
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70,
+                  "lng" : 175
+               },
+               "southwest" : {
+                  "lat" : -12,
+                  "lng" : 25
+               }
+            }
+         },
+         "types" : [ "continent", "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

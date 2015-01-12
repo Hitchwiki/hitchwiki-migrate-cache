@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halle",
+               "short_name" : "Halle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gütersloh",
+               "short_name" : "Gütersloh",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Detmold",
+               "short_name" : "Detmold",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halle, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0949012,
+                  "lng" : 8.418632799999999
+               },
+               "southwest" : {
+                  "lat" : 51.9940502,
+                  "lng" : 8.242244699999999
+               }
+            },
+            "location" : {
+               "lat" : 52.05889790000001,
+               "lng" : 8.3597982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0949012,
+                  "lng" : 8.418632799999999
+               },
+               "southwest" : {
+                  "lat" : 51.9940502,
+                  "lng" : 8.242244699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halle (Westfalen)",
+               "short_name" : "Halle (Westfalen)",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Halle (Westfalen)",
+               "short_name" : "Halle (Westfalen)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Detmold",
+               "short_name" : "Detmold",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33790",
+               "short_name" : "33790",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Halle (Westfalen), 33790 Halle (Westfalen), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0727021,
+                  "lng" : 8.386383
+               },
+               "southwest" : {
+                  "lat" : 52.0364914,
+                  "lng" : 8.3309742
+               }
+            },
+            "location" : {
+               "lat" : 52.056877,
+               "lng" : 8.3588627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0727021,
+                  "lng" : 8.386383
+               },
+               "southwest" : {
+                  "lat" : 52.0364914,
+                  "lng" : 8.3309742
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

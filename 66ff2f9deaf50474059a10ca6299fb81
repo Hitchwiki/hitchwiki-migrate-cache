@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.9317185,
+                  "lng" : -68.3234068
+               },
+               "southwest" : {
+                  "lat" : 17.4700909,
+                  "lng" : -72.00751
+               }
+            },
+            "location" : {
+               "lat" : 18.735693,
+               "lng" : -70.162651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9317185,
+                  "lng" : -68.3234068
+               },
+               "southwest" : {
+                  "lat" : 17.4700909,
+                  "lng" : -72.00751
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

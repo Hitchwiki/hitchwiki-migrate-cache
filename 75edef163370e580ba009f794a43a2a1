@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ezine",
+               "short_name" : "Ezine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ezine",
+               "short_name" : "Ezine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ezine/Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.79501399999999,
+                  "lng" : 26.353517
+               },
+               "southwest" : {
+                  "lat" : 39.771055,
+                  "lng" : 26.321234
+               }
+            },
+            "location" : {
+               "lat" : 39.788521,
+               "lng" : 26.333509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.79501399999999,
+                  "lng" : 26.353517
+               },
+               "southwest" : {
+                  "lat" : 39.771055,
+                  "lng" : 26.321234
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

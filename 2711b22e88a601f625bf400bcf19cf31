@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8112241,
+                  "lng" : 26.2565956
+               },
+               "southwest" : {
+                  "lat" : 44.4783003,
+                  "lng" : 23.3818986
+               }
+            },
+            "location" : {
+               "lat" : 46.5202045,
+               "lng" : 23.9177513
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8112241,
+                  "lng" : 26.2565956
+               },
+               "southwest" : {
+                  "lat" : 44.4783003,
+                  "lng" : 23.3818986
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Suplacu de Barcău",
+               "short_name" : "Suplacu de Barcău",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna Suplacu de Barcău",
+               "short_name" : "Comuna Suplacu de Barcău",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Bihor",
+               "short_name" : "BH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Suplacu de Barcău, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3025121,
+                  "lng" : 22.6091069
+               },
+               "southwest" : {
+                  "lat" : 47.1817401,
+                  "lng" : 21.8582869
+               }
+            },
+            "location" : {
+               "lat" : 47.2490574,
+               "lng" : 22.2138619
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3025121,
+                  "lng" : 22.6091069
+               },
+               "southwest" : {
+                  "lat" : 47.1817401,
+                  "lng" : 21.8582869
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autostrada Transilvania",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Comuna Tămășeu",
+               "short_name" : "Comuna Tămășeu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Bihor",
+               "short_name" : "BH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1899968,
+                  "lng" : 21.887175
+               },
+               "southwest" : {
+                  "lat" : 47.1877236,
+                  "lng" : 21.8583405
+               }
+            },
+            "location" : {
+               "lat" : 47.1899895,
+               "lng" : 21.8740475
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1902091802915,
+                  "lng" : 21.887175
+               },
+               "southwest" : {
+                  "lat" : 47.1875112197085,
+                  "lng" : 21.8583405
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

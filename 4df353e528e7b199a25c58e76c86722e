@@ -1,0 +1,168 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Luton Airport",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 27.635955810546875,
+      "adminId2": "3333168",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.87472",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 160,
+      "adminCode2": "I1",
+      "adminCode1": "ENG",
+      "lng": "-0.36833",
+      "geonameId": 6296589,
+      "toponymName": "Luton Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Flughafen London-Luton",
+          "lang": "de"
+        },
+        {
+          "name": "Luton Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport de Londres Luton",
+          "lang": "fr"
+        },
+        {
+          "name": "LTN",
+          "lang": "iata"
+        },
+        {
+          "name": "EGGW",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Luton_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "LUT",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Luton",
+      "name": "Luton Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "airport",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Easyhotel London Luton",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 2.8018431663513184,
+      "adminId2": "3333168",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.88117",
+      "fcode": "HTL",
+      "continentCode": "EU",
+      "adminCode2": "I1",
+      "adminCode1": "ENG",
+      "lng": "-0.41485",
+      "geonameId": 9258466,
+      "toponymName": "Easyhotel London Luton",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Luton",
+      "name": "Easyhotel London Luton",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "hotel",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "IBIS LONDON LUTON AIRPORT",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 2.6203055381774902,
+      "adminId2": "7290535",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.8696",
+      "fcode": "HTL",
+      "continentCode": "EU",
+      "adminCode2": "Z6",
+      "adminCode1": "ENG",
+      "lng": "-0.3974",
+      "geonameId": 6508369,
+      "toponymName": "Ibis London Luton Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Central Bedfordshire",
+      "name": "Ibis London Luton Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "hotel",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Hampton By Hilton London Luton",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 2.4195046424865723,
+      "adminId2": "2644974",
+      "adminId3": "2644973",
+      "countryCode": "GB",
+      "adminId4": "7295355",
+      "adminId1": "6269131",
+      "lat": "51.87389",
+      "fcode": "HTL",
+      "continentCode": "EU",
+      "adminCode2": "H2",
+      "adminCode3": "30UH",
+      "adminCode1": "ENG",
+      "lng": "-0.39474",
+      "geonameId": 9258626,
+      "toponymName": "Hampton By Hilton London Luton",
+      "adminCode4": "30UH012",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "Halton-with-Aughton",
+      "adminName3": "Lancaster",
+      "adminName2": "Lancashire",
+      "name": "Hampton By Hilton London Luton",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "hotel",
+      "adminName1": "England"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "Ferrara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "Ferrara",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "FE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ferrara, Ferrara, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8880833,
+                  "lng" : 11.6641086
+               },
+               "southwest" : {
+                  "lat" : 44.7977949,
+                  "lng" : 11.5487829
+               }
+            },
+            "location" : {
+               "lat" : 44.8381237,
+               "lng" : 11.619787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8880833,
+                  "lng" : 11.6641086
+               },
+               "southwest" : {
+                  "lat" : 44.7977949,
+                  "lng" : 11.5487829
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "Ferrara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jolanda di Savoia",
+               "short_name" : "Jolanda di Savoia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "FE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44037",
+               "short_name" : "44037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "44037 Ferrara FE, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9043181,
+                  "lng" : 12.0068839
+               },
+               "southwest" : {
+                  "lat" : 44.9028237,
+                  "lng" : 12.0020969
+               }
+            },
+            "location" : {
+               "lat" : 44.9032411,
+               "lng" : 12.0048752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9049198802915,
+                  "lng" : 12.0068839
+               },
+               "southwest" : {
+                  "lat" : 44.9022219197085,
+                  "lng" : 12.0020969
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

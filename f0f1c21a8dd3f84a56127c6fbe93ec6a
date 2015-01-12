@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Korea",
+               "short_name" : "KP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.01159,
+                  "lng" : 130.6884797
+               },
+               "southwest" : {
+                  "lat" : 37.6733322,
+                  "lng" : 124.1735518
+               }
+            },
+            "location" : {
+               "lat" : 40.339852,
+               "lng" : 127.510093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.01159,
+                  "lng" : 130.688459
+               },
+               "southwest" : {
+                  "lat" : 37.6733322,
+                  "lng" : 124.1735518
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

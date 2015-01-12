@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unna",
+               "short_name" : "Unna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Unna",
+               "short_name" : "Unna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unna, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5786539,
+                  "lng" : 7.842991499999999
+               },
+               "southwest" : {
+                  "lat" : 51.490388,
+                  "lng" : 7.628719100000001
+               }
+            },
+            "location" : {
+               "lat" : 51.5426349,
+               "lng" : 7.685311400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5786539,
+                  "lng" : 7.842991499999999
+               },
+               "southwest" : {
+                  "lat" : 51.490388,
+                  "lng" : 7.628719100000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

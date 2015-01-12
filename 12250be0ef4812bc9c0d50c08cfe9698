@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A31",
+               "short_name" : "A31",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A31, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4725159,
+                  "lng" : 6.185782199999999
+               },
+               "southwest" : {
+                  "lat" : 47.0177054,
+                  "lng" : 4.869036299999999
+               }
+            },
+            "location" : {
+               "lat" : 48.1573668,
+               "lng" : 5.6972464
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4725159,
+                  "lng" : 6.185782199999999
+               },
+               "southwest" : {
+                  "lat" : 47.0177054,
+                  "lng" : 4.869036299999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kranj, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2704589,
+                  "lng" : 14.3992928
+               },
+               "southwest" : {
+                  "lat" : 46.198773,
+                  "lng" : 14.3060005
+               }
+            },
+            "location" : {
+               "lat" : 46.2428344,
+               "lng" : 14.3555417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2704589,
+                  "lng" : 14.3992928
+               },
+               "southwest" : {
+                  "lat" : 46.198773,
+                  "lng" : 14.3060005
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

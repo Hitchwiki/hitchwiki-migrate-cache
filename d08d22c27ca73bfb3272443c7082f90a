@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fremantle",
+               "short_name" : "Fremantle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fremantle WA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.0396427,
+                  "lng" : 115.779874
+               },
+               "southwest" : {
+                  "lat" : -32.0639223,
+                  "lng" : 115.7321772
+               }
+            },
+            "location" : {
+               "lat" : -32.0560399,
+               "lng" : 115.7471797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.0396427,
+                  "lng" : 115.779874
+               },
+               "southwest" : {
+                  "lat" : -32.0639223,
+                  "lng" : 115.7321772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

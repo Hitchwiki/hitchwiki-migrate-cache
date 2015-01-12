@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A131",
+               "short_name" : "A131",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Haute-Normandie",
+               "short_name" : "Haute-Normandie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A131, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4991093,
+                  "lng" : 0.6155191999999999
+               },
+               "southwest" : {
+                  "lat" : 49.3793425,
+                  "lng" : 0.2156168
+               }
+            },
+            "location" : {
+               "lat" : 49.4618911,
+               "lng" : 0.475897
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4991093,
+                  "lng" : 0.6155191999999999
+               },
+               "southwest" : {
+                  "lat" : 49.3793425,
+                  "lng" : 0.2156168
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

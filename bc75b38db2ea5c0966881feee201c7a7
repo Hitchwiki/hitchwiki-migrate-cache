@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Şanlıurfa",
+               "short_name" : "Şanlıurfa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Şanlıurfa",
+               "short_name" : "Şanlıurfa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Şanlıurfa Province",
+               "short_name" : "Şanlıurfa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63000",
+               "short_name" : "63000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "63000 Şanlıurfa/Şanlıurfa Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.233371,
+                  "lng" : 38.891956
+               },
+               "southwest" : {
+                  "lat" : 37.100904,
+                  "lng" : 38.7599281
+               }
+            },
+            "location" : {
+               "lat" : 37.159149,
+               "lng" : 38.796909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.233371,
+                  "lng" : 38.891956
+               },
+               "southwest" : {
+                  "lat" : 37.100904,
+                  "lng" : 38.7599281
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

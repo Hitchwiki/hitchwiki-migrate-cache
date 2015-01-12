@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-21",
+               "short_name" : "A-21",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-21, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7594094,
+                  "lng" : -0.5436747
+               },
+               "southwest" : {
+                  "lat" : 42.5665725,
+                  "lng" : -1.6310634
+               }
+            },
+            "location" : {
+               "lat" : 42.6224837,
+               "lng" : -1.1131766
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7594094,
+                  "lng" : -0.5436747
+               },
+               "southwest" : {
+                  "lat" : 42.5665725,
+                  "lng" : -1.6310634
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

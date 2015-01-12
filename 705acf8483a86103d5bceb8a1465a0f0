@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.33280500000001,
+                  "lng" : 35.896244
+               },
+               "southwest" : {
+                  "lat" : 29.4906463,
+                  "lng" : 34.267387
+               }
+            },
+            "location" : {
+               "lat" : 31.046051,
+               "lng" : 34.851612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.33280500000001,
+                  "lng" : 35.896244
+               },
+               "southwest" : {
+                  "lat" : 29.4906463,
+                  "lng" : 34.267387
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

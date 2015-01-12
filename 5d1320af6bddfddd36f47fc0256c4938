@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ushuaia",
+               "short_name" : "Ushuaia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ushuaia",
+               "short_name" : "Ushuaia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ushuaia, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -54.7867601,
+                  "lng" : -68.224019
+               },
+               "southwest" : {
+                  "lat" : -54.8437438,
+                  "lng" : -68.37743639999999
+               }
+            },
+            "location" : {
+               "lat" : -54.8019121,
+               "lng" : -68.3029511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -54.7867601,
+                  "lng" : -68.224019
+               },
+               "southwest" : {
+                  "lat" : -54.8437438,
+                  "lng" : -68.37743639999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

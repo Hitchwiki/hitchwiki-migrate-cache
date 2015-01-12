@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kherson",
+               "short_name" : "Kherson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khersons'ka city council",
+               "short_name" : "Khersons'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khersons'ka oblast",
+               "short_name" : "Khersons'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kherson, Khersons'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.702189,
+                  "lng" : 32.6723952
+               },
+               "southwest" : {
+                  "lat" : 46.5969559,
+                  "lng" : 32.5434411
+               }
+            },
+            "location" : {
+               "lat" : 46.635417,
+               "lng" : 32.616867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.702189,
+                  "lng" : 32.6723952
+               },
+               "southwest" : {
+                  "lat" : 46.5969559,
+                  "lng" : 32.5434411
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

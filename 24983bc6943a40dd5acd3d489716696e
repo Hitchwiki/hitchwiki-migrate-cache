@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Provence-Alpes-Côte d'Azur, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.98199810000001,
+                  "lng" : 4.230207
+               }
+            },
+            "location" : {
+               "lat" : 43.9351691,
+               "lng" : 6.0679194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.12685099999999,
+                  "lng" : 7.718992999999998
+               },
+               "southwest" : {
+                  "lat" : 42.982022,
+                  "lng" : 4.230207
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

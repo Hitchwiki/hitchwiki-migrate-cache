@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A67",
+               "short_name" : "A67",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A67, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0217854,
+                  "lng" : 8.5978596
+               },
+               "southwest" : {
+                  "lat" : 49.54793069999999,
+                  "lng" : 8.4649324
+               }
+            },
+            "location" : {
+               "lat" : 49.7771908,
+               "lng" : 8.552216
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0217854,
+                  "lng" : 8.5978596
+               },
+               "southwest" : {
+                  "lat" : 49.54793069999999,
+                  "lng" : 8.4649324
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

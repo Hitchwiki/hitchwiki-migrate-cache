@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M275",
+               "short_name" : "M275",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portsmouth",
+               "short_name" : "Portsmouth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M275, Portsmouth, Portsmouth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8382765,
+                  "lng" : -1.0765332
+               },
+               "southwest" : {
+                  "lat" : 50.8088823,
+                  "lng" : -1.0929481
+               }
+            },
+            "location" : {
+               "lat" : 50.825409,
+               "lng" : -1.0914468
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8382765,
+                  "lng" : -1.0765332
+               },
+               "southwest" : {
+                  "lat" : 50.8088823,
+                  "lng" : -1.0929481
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode2": "1825",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Trofors",
+        "lang": "link"
+      }],
+      "countryName": "Norway",
+      "adminCode1": "09",
+      "score": 29.38776969909668,
+      "lng": "13.40631",
+      "adminName2": "Grane",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Oslo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 65.53245063512486,
+        "east": 13.408481596401908,
+        "north": 65.53424936487514,
+        "west": 13.404138403598092
+      },
+      "name": "Trofors",
+      "fcode": "PPLA2",
+      "geonameId": 3133983,
+      "asciiName": "Trofors",
+      "lat": "65.53335",
+      "population": 808,
+      "adminName1": "Nordland",
+      "adminId1": "3144301",
+      "countryId": "3144096",
+      "fclName": "city, village,...",
+      "countryCode": "NO",
+      "adminId2": "3155295",
+      "toponymName": "Trofors",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "1825",
+      "alternateNames": [{
+        "name": "Trofors jernbanestasjon",
+        "lang": "no"
+      }],
+      "countryName": "Norway",
+      "adminCode1": "09",
+      "score": 6.706809997558594,
+      "lng": "13.38224",
+      "adminName2": "Grane",
+      "fcodeName": "railroad station",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Oslo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Trofors jernbanestasjon",
+      "fcode": "RSTN",
+      "geonameId": 8558249,
+      "asciiName": "Trofors jernbanestasjon",
+      "lat": "65.53772",
+      "population": 0,
+      "adminName1": "Nordland",
+      "countryId": "3144096",
+      "adminId1": "3144301",
+      "fclName": "spot, building, farm",
+      "countryCode": "NO",
+      "adminId2": "3155295",
+      "toponymName": "Trofors jernbanestasjon",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

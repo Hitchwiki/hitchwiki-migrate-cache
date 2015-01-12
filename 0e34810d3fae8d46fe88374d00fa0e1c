@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sopot",
+               "short_name" : "Sopot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sopot",
+               "short_name" : "Sopot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sopot",
+               "short_name" : "Sopot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pomeranian Voivodeship",
+               "short_name" : "Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sopot, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4639775,
+                  "lng" : 18.5909821
+               },
+               "southwest" : {
+                  "lat" : 54.4198742,
+                  "lng" : 18.5042107
+               }
+            },
+            "location" : {
+               "lat" : 54.441581,
+               "lng" : 18.5600956
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4639775,
+                  "lng" : 18.5909821
+               },
+               "southwest" : {
+                  "lat" : 54.4198742,
+                  "lng" : 18.5042107
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

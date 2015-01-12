@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burkina Faso",
+               "short_name" : "BF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burkina Faso",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.085111,
+                  "lng" : 2.4042926
+               },
+               "southwest" : {
+                  "lat" : 9.3938889,
+                  "lng" : -5.5211114
+               }
+            },
+            "location" : {
+               "lat" : 12.238333,
+               "lng" : -1.561593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.085111,
+                  "lng" : 2.4042926
+               },
+               "southwest" : {
+                  "lat" : 9.3938889,
+                  "lng" : -5.5211114
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

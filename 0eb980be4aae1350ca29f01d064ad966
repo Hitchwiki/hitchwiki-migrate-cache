@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S10",
+               "short_name" : "S10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S10, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3530519,
+                  "lng" : 18.7360965
+               },
+               "southwest" : {
+                  "lat" : 52.9652548,
+                  "lng" : 14.9448234
+               }
+            },
+            "location" : {
+               "lat" : 53.1629317,
+               "lng" : 17.2211447
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3530519,
+                  "lng" : 18.7360965
+               },
+               "southwest" : {
+                  "lat" : 52.9652548,
+                  "lng" : 14.9448234
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

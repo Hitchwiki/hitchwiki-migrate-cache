@@ -1,0 +1,490 @@
+{
+  "totalResultsCount": 1893,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Viseu",
+          "lang": "es"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Viseu_District",
+          "lang": "link"
+        },
+        {
+          "name": "Viseu",
+          "lang": "pt"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "22",
+      "score": 47.5048828125,
+      "lng": "-7.79816",
+      "adminName2": "",
+      "fcodeName": "first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.3226382378678,
+        "east": -7.304573035638738,
+        "north": 41.21465782194243,
+        "west": -8.359447500784345
+      },
+      "name": "Distrito de Viseu",
+      "fcode": "ADM1",
+      "geonameId": 2732264,
+      "asciiName": "Distrito de Viseu",
+      "lat": "40.82747",
+      "population": 0,
+      "adminName1": "Viseu",
+      "countryId": "2264397",
+      "adminId1": "2732264",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "toponymName": "Distrito de Viseu",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "182328",
+      "adminCode2": "1823",
+      "alternateNames": [
+        {
+          "name": "VSE",
+          "lang": "iata"
+        },
+        {
+          "name": "http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B7%D0%B5%D1%83",
+          "lang": "link"
+        },
+        {
+          "name": "Визеу",
+          "lang": "ru"
+        },
+        {
+          "name": "VSE",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "22",
+      "score": 43.036041259765625,
+      "lng": "-7.90971",
+      "adminName2": "Viseu Municipality",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "Viseu (São José)",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.640406961911374,
+        "east": -7.8825402457097615,
+        "north": 40.68162103808863,
+        "west": -7.936887754290239
+      },
+      "name": "Viseu",
+      "fcode": "PPLA",
+      "geonameId": 2732265,
+      "asciiName": "Viseu",
+      "lat": "40.66101",
+      "population": 26364,
+      "adminName1": "Viseu",
+      "adminId1": "2732264",
+      "countryId": "2264397",
+      "fclName": "city, village,...",
+      "countryCode": "PT",
+      "adminId3": "8014005",
+      "adminId2": "8010671",
+      "toponymName": "Viseu",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "1508308",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Viseu,_Par%C3%A1",
+        "lang": "link"
+      }],
+      "countryName": "Brazil",
+      "adminCode1": "16",
+      "score": 31.57982063293457,
+      "lng": "-46.32078",
+      "adminName2": "Viseu",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Belem"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": -2.237214332970829,
+        "east": -46.060946792818896,
+        "north": -0.886354781087538,
+        "west": -46.84833392329449
+      },
+      "name": "Viseu",
+      "fcode": "ADM2",
+      "geonameId": 6324279,
+      "asciiName": "Viseu",
+      "lat": "-1.30201",
+      "population": 56681,
+      "adminName1": "Pará",
+      "adminId1": "3393129",
+      "countryId": "3469034",
+      "fclName": "country, state, region,...",
+      "countryCode": "BR",
+      "adminId2": "6324279",
+      "toponymName": "Viseu",
+      "fcl": "A",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode3": "182301",
+      "adminCode2": "1823",
+      "alternateNames": [
+        {
+          "name": "VSE",
+          "lang": "iata"
+        },
+        {
+          "name": "LPVZ",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Viseu_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "22",
+      "score": 30.19608497619629,
+      "lng": "-7.88899",
+      "adminName2": "Viseu Municipality",
+      "fcodeName": "airport",
+      "adminName3": "Abraveses",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Viseu Airport",
+      "fcode": "AIRP",
+      "geonameId": 7730103,
+      "asciiName": "Viseu Airport",
+      "lat": "40.7255",
+      "population": 0,
+      "adminName1": "Viseu",
+      "adminId1": "2732264",
+      "countryId": "2264397",
+      "fclName": "spot, building, farm",
+      "countryCode": "PT",
+      "adminId3": "8013982",
+      "adminId2": "8010671",
+      "toponymName": "Viseu Airport",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "1508308",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Viseu%2C_Par%C3%A1",
+        "lang": "link"
+      }],
+      "countryName": "Brazil",
+      "adminCode1": "16",
+      "score": 29.237234115600586,
+      "lng": "-46.14",
+      "adminName2": "Viseu",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Belem"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": -1.2140827929179578,
+        "east": -46.122580184601155,
+        "north": -1.179250541082042,
+        "west": -46.157419815398846
+      },
+      "name": "Viseu",
+      "fcode": "PPL",
+      "geonameId": 3385022,
+      "asciiName": "Viseu",
+      "lat": "-1.19667",
+      "population": 18958,
+      "adminName1": "Pará",
+      "adminId1": "3393129",
+      "countryId": "3469034",
+      "fclName": "city, village,...",
+      "countryCode": "BR",
+      "adminId2": "6324279",
+      "toponymName": "Viseu",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Vi%C8%99eu_de_Sus",
+          "lang": "link"
+        },
+        {
+          "name": "VDS",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Romania",
+      "adminCode1": "25",
+      "score": 27.00819969177246,
+      "lng": "24.43333",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 47.69984112385758,
+        "east": 24.45834976813731,
+        "north": 47.733492276142414,
+        "west": 24.40831683186269
+      },
+      "name": "Vişeu de Sus",
+      "fcode": "PPL",
+      "geonameId": 662699,
+      "asciiName": "Viseu de Sus",
+      "lat": "47.71667",
+      "population": 16938,
+      "adminName1": "Maramureş",
+      "countryId": "798549",
+      "adminId1": "673887",
+      "fclName": "city, village,...",
+      "countryCode": "RO",
+      "toponymName": "Vişeu de Sus",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "countryName": "Portugal",
+      "adminCode1": "22",
+      "score": 24.808612823486328,
+      "lng": "-7.98333",
+      "adminName2": "",
+      "fcodeName": "mountain",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Alto do Talefe",
+      "fcode": "MT",
+      "geonameId": 2733703,
+      "asciiName": "Alto do Talefe",
+      "lat": "40.98333",
+      "population": 0,
+      "adminName1": "Viseu",
+      "countryId": "2264397",
+      "adminId1": "2732264",
+      "fclName": "mountain,hill,rock,... ",
+      "elevation": 1982,
+      "countryCode": "PT",
+      "toponymName": "Alto do Talefe",
+      "fcl": "T",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "1823",
+      "alternateNames": [
+        {
+          "name": "فيسيو",
+          "lang": "ar"
+        },
+        {
+          "name": "ভিসেউ",
+          "lang": "bpy"
+        },
+        {
+          "name": "Viseu Municipality",
+          "lang": "en"
+        },
+        {
+          "name": "ویزئو",
+          "lang": "fa"
+        },
+        {
+          "name": "ヴィゼウ",
+          "lang": "ja"
+        },
+        {
+          "name": "ვიზეუ",
+          "lang": "ka"
+        },
+        {
+          "name": "비제우",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Viseu",
+          "lang": "link"
+        },
+        {
+          "name": "Vizėjus",
+          "lang": "lt"
+        },
+        {
+          "name": "Biseu",
+          "lang": "mwl"
+        },
+        {
+          "name": "ویزئو",
+          "lang": "mzn"
+        },
+        {
+          "name": "ویسیؤ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Визеу",
+          "lang": "ru"
+        },
+        {
+          "name": "Визеу",
+          "lang": "sr"
+        },
+        {
+          "name": "วีเซอู",
+          "lang": "th"
+        },
+        {
+          "name": "維塞烏",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "22",
+      "score": 24.808612823486328,
+      "lng": "-7.91721",
+      "adminName2": "Viseu Municipality",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.53573247519826,
+        "east": -7.758984210460443,
+        "north": 40.84259976820865,
+        "west": -8.091588935061594
+      },
+      "name": "Viseu Municipality",
+      "fcode": "ADM2",
+      "geonameId": 8010671,
+      "asciiName": "Viseu",
+      "lat": "40.6745",
+      "population": 0,
+      "adminName1": "Viseu",
+      "adminId1": "2732264",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId2": "8010671",
+      "toponymName": "Viseu",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "109504",
+      "countryName": "Romania",
+      "adminCode1": "25",
+      "score": 23.389787673950195,
+      "lng": "24.36306",
+      "adminName2": "Comuna Vişeu de Jos",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Comuna Vişeu de Jos",
+      "fcode": "ADM2",
+      "geonameId": 662701,
+      "asciiName": "Comuna Viseu de Jos",
+      "lat": "47.7276",
+      "population": 0,
+      "adminName1": "Maramureş",
+      "countryId": "798549",
+      "adminId1": "673887",
+      "fclName": "country, state, region,...",
+      "countryCode": "RO",
+      "adminId2": "662701",
+      "toponymName": "Comuna Vişeu de Jos",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "106979",
+      "countryName": "Romania",
+      "adminCode1": "25",
+      "score": 23.389787673950195,
+      "lng": "24.41707",
+      "adminName2": "Oraş Vişeu De Sus",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Oraş Vişeu De Sus",
+      "fcode": "ADM2",
+      "geonameId": 8334765,
+      "asciiName": "Oras Viseu De Sus",
+      "lat": "47.71493",
+      "population": 0,
+      "adminName1": "Maramureş",
+      "countryId": "798549",
+      "adminId1": "673887",
+      "fclName": "country, state, region,...",
+      "countryCode": "RO",
+      "adminId2": "8334765",
+      "toponymName": "Oraş Vişeu De Sus",
+      "fcl": "A",
+      "continentCode": "EU"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A671",
+               "short_name" : "A671",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A671, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0488608,
+                  "lng" : 8.3455902
+               },
+               "southwest" : {
+                  "lat" : 49.9880758,
+                  "lng" : 8.255488399999999
+               }
+            },
+            "location" : {
+               "lat" : 50.0271975,
+               "lng" : 8.306165699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0488608,
+                  "lng" : 8.3455902
+               },
+               "southwest" : {
+                  "lat" : 49.9880758,
+                  "lng" : 8.255488399999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

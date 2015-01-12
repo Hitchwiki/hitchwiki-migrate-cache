@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berettyóújfalu",
+               "short_name" : "Berettyóújfalu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berettyóújfalui",
+               "short_name" : "Berettyóújfalui",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hajdú-Bihar",
+               "short_name" : "Hajdú-Bihar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berettyóújfalu, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2898489,
+                  "lng" : 21.619824
+               },
+               "southwest" : {
+                  "lat" : 47.1195301,
+                  "lng" : 21.3893999
+               }
+            },
+            "location" : {
+               "lat" : 47.2196438,
+               "lng" : 21.5362811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2898489,
+                  "lng" : 21.619824
+               },
+               "southwest" : {
+                  "lat" : 47.1195301,
+                  "lng" : 21.3893999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

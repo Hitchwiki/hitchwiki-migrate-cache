@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majorca",
+               "short_name" : "Majorca",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Balearic Islands",
+               "short_name" : "Balearic Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Balearic Islands",
+               "short_name" : "PM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Majorca, Balearic Islands, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9625327,
+                  "lng" : 3.4786846
+               },
+               "southwest" : {
+                  "lat" : 39.2644632,
+                  "lng" : 2.3446194
+               }
+            },
+            "location" : {
+               "lat" : 39.6952629,
+               "lng" : 3.0175712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9625327,
+                  "lng" : 3.4786846
+               },
+               "southwest" : {
+                  "lat" : 39.2644632,
+                  "lng" : 2.3446194
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

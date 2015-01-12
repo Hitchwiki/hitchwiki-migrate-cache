@@ -1,0 +1,110 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.243836410786007,
+        "south": 52.30932152687286,
+        "north": 52.33630247312714,
+        "west": 7.199679589213994
+      },
+      "asciiName": "Schuttorf",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 50.90043640136719,
+      "countryCode": "DE",
+      "adminId1": "2862926",
+      "lat": "52.32281",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "06",
+      "lng": "7.22176",
+      "geonameId": 2835587,
+      "toponymName": "Schüttorf",
+      "population": 11465,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "شوترتوف",
+          "lang": "fa"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sch%C3%BCttorf",
+          "lang": "link"
+        },
+        {
+          "name": "Schüttrup",
+          "lang": "nds"
+        },
+        {
+          "name": "Шютторф",
+          "lang": "ru"
+        },
+        {
+          "name": "Шиторф",
+          "lang": "sr"
+        },
+        {
+          "name": "SRF",
+          "lang": "unlc"
+        },
+        {
+          "name": "许托尔夫",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Schüttorf",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "Lower Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Schuettorf",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 28.530994415283203,
+      "adminId3": "3221075",
+      "countryCode": "DE",
+      "adminId4": "6557471",
+      "adminId1": "2862926",
+      "lat": "52.31895",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode3": "03456",
+      "adminCode1": "06",
+      "lng": "7.2307",
+      "geonameId": 6557471,
+      "toponymName": "Schüttorf",
+      "adminCode4": "03456027",
+      "population": 12342,
+      "adminName5": "",
+      "adminName4": "Schüttorf",
+      "adminName3": "Landkreis Grafschaft Bentheim",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Sch%C3%BCttorf_%28Samtgemeinde%29",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Schüttorf",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "Lower Saxony"
+    }
+  ]
+}

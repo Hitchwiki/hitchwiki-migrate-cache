@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Natal",
+               "short_name" : "Natal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Natal",
+               "short_name" : "Natal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Norte",
+               "short_name" : "RN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Natal - RN, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.7007113,
+                  "lng" : -35.1533204
+               },
+               "southwest" : {
+                  "lat" : -5.8991266,
+                  "lng" : -35.2914161
+               }
+            },
+            "location" : {
+               "lat" : -5.7792569,
+               "lng" : -35.200916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.7007113,
+                  "lng" : -35.1533204
+               },
+               "southwest" : {
+                  "lat" : -5.8991266,
+                  "lng" : -35.2914161
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,285 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "York, York, York, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9912585,
+                  "lng" : -1.0139137
+               },
+               "southwest" : {
+                  "lat" : 53.9259345,
+                  "lng" : -1.1472695
+               }
+            },
+            "location" : {
+               "lat" : 53.95996510000001,
+               "lng" : -1.0872979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9912585,
+                  "lng" : -1.0139137
+               },
+               "southwest" : {
+                  "lat" : 53.9259345,
+                  "lng" : -1.1472695
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "York, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9910931,
+                  "lng" : -76.6991889
+               },
+               "southwest" : {
+                  "lat" : 39.942798,
+                  "lng" : -76.76259
+               }
+            },
+            "location" : {
+               "lat" : 39.9625984,
+               "lng" : -76.727745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9910931,
+                  "lng" : -76.6991889
+               },
+               "southwest" : {
+                  "lat" : 39.942798,
+                  "lng" : -76.76259
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "York, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.26095,
+                  "lng" : -70.5753452
+               },
+               "southwest" : {
+                  "lat" : 43.100085,
+                  "lng" : -70.75749399999999
+               }
+            },
+            "location" : {
+               "lat" : 43.16174830000001,
+               "lng" : -70.64825810000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.26095,
+                  "lng" : -70.5753452
+               },
+               "southwest" : {
+                  "lat" : 43.100085,
+                  "lng" : -70.75749399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29745",
+               "short_name" : "29745",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "York, SC 29745, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.0295751,
+                  "lng" : -81.19376199999999
+               },
+               "southwest" : {
+                  "lat" : 34.957657,
+                  "lng" : -81.270195
+               }
+            },
+            "location" : {
+               "lat" : 34.9943021,
+               "lng" : -81.24201750000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0295751,
+                  "lng" : -81.19376199999999
+               },
+               "southwest" : {
+                  "lat" : 34.957657,
+                  "lng" : -81.270195
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68467",
+               "short_name" : "68467",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "York, NE 68467, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.907466,
+                  "lng" : -97.56346099999999
+               },
+               "southwest" : {
+                  "lat" : 40.812545,
+                  "lng" : -97.635381
+               }
+            },
+            "location" : {
+               "lat" : 40.8673915,
+               "lng" : -97.5920867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.907466,
+                  "lng" : -97.56346099999999
+               },
+               "southwest" : {
+                  "lat" : 40.812545,
+                  "lng" : -97.635381
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

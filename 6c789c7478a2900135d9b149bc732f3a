@@ -1,0 +1,193 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode2": "40367",
+      "alternateNames": [
+        {
+          "name": "Ръшнов",
+          "lang": "bg"
+        },
+        {
+          "name": "Rosenau",
+          "lang": "de"
+        },
+        {
+          "name": "Râşnov",
+          "lang": "en"
+        },
+        {
+          "name": "Râşnov",
+          "lang": "eo"
+        },
+        {
+          "name": "Barcarozsnyó",
+          "lang": "hu"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/R%C3%A2%C8%99nov",
+          "lang": "link"
+        },
+        {
+          "name": "Рышнов",
+          "lang": "ro"
+        },
+        {
+          "name": "RNV",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Romania",
+      "adminCode1": "09",
+      "score": 53.644554138183594,
+      "lng": "25.45",
+      "adminName2": "Oraş Râşnov",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 45.567755843417096,
+        "east": 25.472263786436056,
+        "north": 45.5989107565829,
+        "west": 25.427736213563943
+      },
+      "name": "Râşnov",
+      "fcode": "PPLA2",
+      "geonameId": 668828,
+      "asciiName": "Rasnov",
+      "lat": "45.58333",
+      "population": 15253,
+      "adminName1": "Braşov",
+      "adminId1": "683843",
+      "countryId": "798549",
+      "fclName": "city, village,...",
+      "countryCode": "RO",
+      "adminId2": "8334939",
+      "toponymName": "Râşnov",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "40367",
+      "countryName": "Romania",
+      "adminCode1": "09",
+      "score": 47.4155387878418,
+      "lng": "25.46393",
+      "adminName2": "Oraş Râşnov",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Oraş Râşnov",
+      "fcode": "ADM2",
+      "geonameId": 8334939,
+      "asciiName": "Oras Rasnov",
+      "lat": "45.59108",
+      "population": 0,
+      "adminName1": "Braşov",
+      "countryId": "798549",
+      "adminId1": "683843",
+      "fclName": "country, state, region,...",
+      "countryCode": "RO",
+      "adminId2": "8334939",
+      "toponymName": "Oraş Râşnov",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "124117",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Roznov%2C_Neam%C8%9B",
+          "lang": "link"
+        },
+        {
+          "name": "RZV",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Romania",
+      "adminCode1": "28",
+      "score": 13.550118446350098,
+      "lng": "26.51667",
+      "adminName2": "Oraş Roznov",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 46.82143582101276,
+        "east": 26.534061402965097,
+        "north": 46.845230778987236,
+        "west": 26.4992719970349
+      },
+      "name": "Roznov",
+      "fcode": "PPLA2",
+      "geonameId": 668546,
+      "asciiName": "Roznov",
+      "lat": "46.83333",
+      "population": 8688,
+      "adminName1": "Neamţ",
+      "adminId1": "672460",
+      "countryId": "798549",
+      "fclName": "city, village,...",
+      "countryCode": "RO",
+      "adminId2": "668545",
+      "toponymName": "Roznov",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "countryName": "Romania",
+      "adminCode1": "09",
+      "score": 5.807193756103516,
+      "lng": "25.45",
+      "adminName2": "",
+      "fcodeName": "section of populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 45.579735540499435,
+        "east": 25.45514050378323,
+        "north": 45.58693045950057,
+        "west": 25.44485949621677
+      },
+      "name": "Bănicel",
+      "fcode": "PPLX",
+      "geonameId": 685455,
+      "asciiName": "Banicel",
+      "lat": "45.58333",
+      "population": 0,
+      "adminName1": "Braşov",
+      "countryId": "798549",
+      "adminId1": "683843",
+      "fclName": "city, village,...",
+      "countryCode": "RO",
+      "toponymName": "Bănicel",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

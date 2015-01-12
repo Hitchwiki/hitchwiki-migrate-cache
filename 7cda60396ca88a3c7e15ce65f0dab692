@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madara",
+               "short_name" : "Madara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shumen",
+               "short_name" : "Shumen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Shumen Province",
+               "short_name" : "Shumen Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9971",
+               "short_name" : "9971",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9971 Madara, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2839554,
+                  "lng" : 27.1101312
+               },
+               "southwest" : {
+                  "lat" : 43.2674421,
+                  "lng" : 27.0881025
+               }
+            },
+            "location" : {
+               "lat" : 43.274461,
+               "lng" : 27.0951012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2839554,
+                  "lng" : 27.1101312
+               },
+               "southwest" : {
+                  "lat" : 43.2674421,
+                  "lng" : 27.0881025
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivano-Frankivsk",
+               "short_name" : "Ivano-Frankivsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ivano-Frankivs'ka city council",
+               "short_name" : "Ivano-Frankivs'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ivano-Frankivs'ka oblast",
+               "short_name" : "Ivano-Frankivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivano-Frankivsk, Ivano-Frankivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.95365,
+                  "lng" : 24.758544
+               },
+               "southwest" : {
+                  "lat" : 48.8698961,
+                  "lng" : 24.675714
+               }
+            },
+            "location" : {
+               "lat" : 48.922633,
+               "lng" : 24.711117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.95365,
+                  "lng" : 24.758544
+               },
+               "southwest" : {
+                  "lat" : 48.8698961,
+                  "lng" : 24.675714
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

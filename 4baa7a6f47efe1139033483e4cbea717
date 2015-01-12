@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midland",
+               "short_name" : "Midland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Midland County",
+               "short_name" : "Midland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midland, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1317899,
+                  "lng" : -102.0178141
+               },
+               "southwest" : {
+                  "lat" : 31.926224,
+                  "lng" : -102.226661
+               }
+            },
+            "location" : {
+               "lat" : 31.9973456,
+               "lng" : -102.0779146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1317899,
+                  "lng" : -102.0178141
+               },
+               "southwest" : {
+                  "lat" : 31.926224,
+                  "lng" : -102.226661
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

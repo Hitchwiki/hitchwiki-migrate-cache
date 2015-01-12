@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warmian-Masurian Voivodeship",
+               "short_name" : "Warmian-Masurian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warmian-Masurian Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4533097,
+                  "lng" : 22.8058724
+               },
+               "southwest" : {
+                  "lat" : 53.1399971,
+                  "lng" : 19.128516
+               }
+            },
+            "location" : {
+               "lat" : 53.8671117,
+               "lng" : 20.702786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4533097,
+                  "lng" : 22.8058724
+               },
+               "southwest" : {
+                  "lat" : 53.1399971,
+                  "lng" : 19.128516
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

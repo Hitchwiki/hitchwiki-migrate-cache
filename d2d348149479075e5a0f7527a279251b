@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zermatt",
+               "short_name" : "Zermatt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Visp",
+               "short_name" : "Visp",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valais",
+               "short_name" : "VS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zermatt, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0642799,
+                  "lng" : 7.90881
+               },
+               "southwest" : {
+                  "lat" : 45.91689,
+                  "lng" : 7.5750799
+               }
+            },
+            "location" : {
+               "lat" : 46.0207248,
+               "lng" : 7.749282900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0642799,
+                  "lng" : 7.90881
+               },
+               "southwest" : {
+                  "lat" : 45.91689,
+                  "lng" : 7.5750799
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

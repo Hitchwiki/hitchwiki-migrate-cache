@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kavala",
+               "short_name" : "Kavala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kavala Prefecture",
+               "short_name" : "Kavala Prefecture",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Kavala",
+               "short_name" : "Kavala",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kavala",
+               "short_name" : "Kavala",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "East Macedonia and Thrace",
+               "short_name" : "East Macedonia and Thrace",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Makedonia Thraki",
+               "short_name" : "Makedonia Thraki",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kavala, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9551573,
+                  "lng" : 24.4424248
+               },
+               "southwest" : {
+                  "lat" : 40.9186182,
+                  "lng" : 24.3727195
+               }
+            },
+            "location" : {
+               "lat" : 40.937607,
+               "lng" : 24.412866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9551573,
+                  "lng" : 24.4424248
+               },
+               "southwest" : {
+                  "lat" : 40.9186182,
+                  "lng" : 24.3727195
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

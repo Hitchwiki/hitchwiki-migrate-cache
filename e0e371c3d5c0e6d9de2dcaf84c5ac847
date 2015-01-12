@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krabi",
+               "short_name" : "จ.กระบี่",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krabi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.6816651,
+                  "lng" : 99.4129851
+               },
+               "southwest" : {
+                  "lat" : 7.3999017,
+                  "lng" : 98.57489289999999
+               }
+            },
+            "location" : {
+               "lat" : 8.0862997,
+               "lng" : 98.9062835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.6816651,
+                  "lng" : 99.4129851
+               },
+               "southwest" : {
+                  "lat" : 7.3999017,
+                  "lng" : 98.57489289999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

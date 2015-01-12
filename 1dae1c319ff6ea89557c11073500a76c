@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biarritz",
+               "short_name" : "Biarritz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pyrénées-Atlantiques",
+               "short_name" : "64",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biarritz, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.494535,
+                  "lng" : -1.534418
+               },
+               "southwest" : {
+                  "lat" : 43.4474271,
+                  "lng" : -1.5770906
+               }
+            },
+            "location" : {
+               "lat" : 43.4831519,
+               "lng" : -1.558626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.494535,
+                  "lng" : -1.534418
+               },
+               "southwest" : {
+                  "lat" : 43.4474271,
+                  "lng" : -1.5770906
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1665 @@
+{
+  "totalResultsCount": 22254,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 18.860111,
+        "south": 48.542915,
+        "north": 51.058887,
+        "west": 12.096194
+      },
+      "asciiName": "Czech Republic",
+      "countryId": "3077311",
+      "fcl": "A",
+      "score": 120.78256225585938,
+      "countryCode": "CZ",
+      "lat": "49.75",
+      "fcode": "PCLI",
+      "continentCode": "EU",
+      "elevation": 430,
+      "adminCode1": "00",
+      "lng": "15",
+      "geonameId": 3077311,
+      "toponymName": "Czech Republic",
+      "population": 10476000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Tjeggiese Republiek",
+          "lang": "af"
+        },
+        {
+          "name": "Kyɛk Kurokɛse",
+          "lang": "ak"
+        },
+        {
+          "name": "ቼክ ሪፑብሊክ",
+          "lang": "am"
+        },
+        {
+          "name": "Republica Checa",
+          "lang": "an"
+        },
+        {
+          "name": "Cecland",
+          "lang": "ang"
+        },
+        {
+          "name": "جمهورية التشيك",
+          "lang": "ar"
+        },
+        {
+          "name": "ܬܫܝܟ",
+          "lang": "arc"
+        },
+        {
+          "name": "República Checa",
+          "lang": "ast"
+        },
+        {
+          "name": "Çex Respublikası",
+          "lang": "az"
+        },
+        {
+          "name": "Чэхія",
+          "lang": "be"
+        },
+        {
+          "name": "Република Чехия",
+          "lang": "bg"
+        },
+        {
+          "name": "Ceki republiki",
+          "lang": "bm"
+        },
+        {
+          "name": "চেকিয়া",
+          "lang": "bn"
+        },
+        {
+          "name": "ཅཻག་སྤྱི་མཐུན་རྒྱལ་ཁབ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Republik Tchek",
+          "lang": "br"
+        },
+        {
+          "name": "Češka",
+          "lang": "bs"
+        },
+        {
+          "name": "Txèquia",
+          "lang": "ca"
+        },
+        {
+          "name": "Ripublica Cecca",
+          "lang": "co"
+        },
+        {
+          "name": "Česko",
+          "lang": "cs"
+        },
+        {
+          "name": "Czeskô Repùblika",
+          "lang": "csb"
+        },
+        {
+          "name": "Чешьско",
+          "lang": "cu"
+        },
+        {
+          "name": "Gweriniaeth Tsiec",
+          "lang": "cy"
+        },
+        {
+          "name": "Tjekkiet",
+          "lang": "da"
+        },
+        {
+          "name": "Tschechien",
+          "lang": "de"
+        },
+        {
+          "name": "ཅེཀ་རི་པབ་ལིཀ",
+          "lang": "dz"
+        },
+        {
+          "name": "Tsɛk repɔblik nutome",
+          "lang": "ee"
+        },
+        {
+          "name": "Τσεχία",
+          "lang": "el"
+        },
+        {
+          "name": "Czech Republic",
+          "lang": "en"
+        },
+        {
+          "name": "Ĉeĥio",
+          "lang": "eo"
+        },
+        {
+          "name": "República Checa",
+          "lang": "es"
+        },
+        {
+          "name": "Tšehhi Vabariik",
+          "lang": "et"
+        },
+        {
+          "name": "Txekiar Errepublika",
+          "lang": "eu"
+        },
+        {
+          "name": "جمهوری چک",
+          "lang": "fa"
+        },
+        {
+          "name": "Ndenndaandi Cek",
+          "lang": "ff"
+        },
+        {
+          "name": "Tsekin tasavalta",
+          "lang": "fi"
+        },
+        {
+          "name": "Kekkia",
+          "lang": "fo"
+        },
+        {
+          "name": "République tchèque",
+          "lang": "fr"
+        },
+        {
+          "name": "Rèpublica tch·èca",
+          "lang": "frp"
+        },
+        {
+          "name": "Republiche Ceche",
+          "lang": "fur"
+        },
+        {
+          "name": "Tsjechje",
+          "lang": "fy"
+        },
+        {
+          "name": "An tSeic",
+          "lang": "ga"
+        },
+        {
+          "name": "República Checa",
+          "lang": "gl"
+        },
+        {
+          "name": "ચેક રીપબ્લિક",
+          "lang": "gu"
+        },
+        {
+          "name": "Yn Pobblaght Sheckagh",
+          "lang": "gv"
+        },
+        {
+          "name": "Jamhuriyar Cak",
+          "lang": "ha"
+        },
+        {
+          "name": "Češka Republika",
+          "lang": "hbs"
+        },
+        {
+          "name": "צ׳כיה",
+          "lang": "he"
+        },
+        {
+          "name": "चेक़ गणतंत्र",
+          "lang": "hi"
+        },
+        {
+          "name": "Republika Češka",
+          "lang": "hr"
+        },
+        {
+          "name": "Čěska republika",
+          "lang": "hsb"
+        },
+        {
+          "name": "Csehország",
+          "lang": "hu"
+        },
+        {
+          "name": "Չեխիայի Հանրապետություն",
+          "lang": "hy"
+        },
+        {
+          "name": "Republica Tchec",
+          "lang": "ia"
+        },
+        {
+          "name": "Republik Ceko",
+          "lang": "id"
+        },
+        {
+          "name": "Chekia",
+          "lang": "io"
+        },
+        {
+          "name": "Tékkland",
+          "lang": "is"
+        },
+        {
+          "name": "Repubblica Ceca",
+          "lang": "it"
+        },
+        {
+          "name": "チェコ共和国",
+          "lang": "ja"
+        },
+        {
+          "name": "ჩეხეთი",
+          "lang": "ka"
+        },
+        {
+          "name": "Jamhuri ya Cheki",
+          "lang": "ki"
+        },
+        {
+          "name": "Tjekkia",
+          "lang": "kl"
+        },
+        {
+          "name": "សាធារណរដ្ឋឆេក",
+          "lang": "km"
+        },
+        {
+          "name": "ಚೆಕ್ ರಿಪಬ್ಲಿಕ್",
+          "lang": "kn"
+        },
+        {
+          "name": "체코공화국",
+          "lang": "ko"
+        },
+        {
+          "name": "کۆماری چیک",
+          "lang": "ku"
+        },
+        {
+          "name": "Res publica Bohemica",
+          "lang": "la"
+        },
+        {
+          "name": "Tschechesch Republik",
+          "lang": "lb"
+        },
+        {
+          "name": "Lipubulika ya Ceeka",
+          "lang": "lg"
+        },
+        {
+          "name": "Tsjechië",
+          "lang": "li"
+        },
+        {
+          "name": "Repubbrica Ceca",
+          "lang": "lij"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "lang": "link"
+        },
+        {
+          "name": "Repibiki Tsekɛ",
+          "lang": "ln"
+        },
+        {
+          "name": "ສາທາລະນະລັດເຊັກ",
+          "lang": "lo"
+        },
+        {
+          "name": "Čekijos Respublika",
+          "lang": "lt"
+        },
+        {
+          "name": "Ditunga dya Tsheka",
+          "lang": "lu"
+        },
+        {
+          "name": "Čehija",
+          "lang": "lv"
+        },
+        {
+          "name": "Repoblikan'i Tseky",
+          "lang": "mg"
+        },
+        {
+          "name": "Чешка",
+          "lang": "mk"
+        },
+        {
+          "name": "ചെക്ക് റിപ്പബ്ലിക്",
+          "lang": "ml"
+        },
+        {
+          "name": "झेक प्रजासत्ताक",
+          "lang": "mr"
+        },
+        {
+          "name": "Republik Czech",
+          "lang": "ms"
+        },
+        {
+          "name": "Repubblika Ċeka",
+          "lang": "mt"
+        },
+        {
+          "name": "ချက် ပြည်ထောင်စု",
+          "lang": "my"
+        },
+        {
+          "name": "Republik Czechia",
+          "lang": "na"
+        },
+        {
+          "name": "Tsjekkia",
+          "lang": "nb"
+        },
+        {
+          "name": "Czech Republic",
+          "lang": "nd"
+        },
+        {
+          "name": "Tschechien",
+          "lang": "nds"
+        },
+        {
+          "name": "चेख गणतन्त्र",
+          "lang": "ne"
+        },
+        {
+          "name": "Tsjechië",
+          "lang": "nl"
+        },
+        {
+          "name": "Tsjekkia",
+          "lang": "nn"
+        },
+        {
+          "name": "Tsjekkia",
+          "lang": "no"
+        },
+        {
+          "name": "Républyique Tchèque",
+          "lang": "nrm"
+        },
+        {
+          "name": "Republica Chèca",
+          "lang": "oc"
+        },
+        {
+          "name": "ଚେକ୍ ସାଧାରଣତନ୍ତ୍ର",
+          "lang": "or"
+        },
+        {
+          "name": "Чехи",
+          "lang": "os"
+        },
+        {
+          "name": "Czech Republic",
+          "lang": "pam"
+        },
+        {
+          "name": "Republika Czeska",
+          "lang": "pl"
+        },
+        {
+          "name": "Repùblica Ceca",
+          "lang": "pms"
+        },
+        {
+          "name": "چېک جمهوريت",
+          "lang": "ps"
+        },
+        {
+          "name": "República Checa",
+          "lang": "pt"
+        },
+        {
+          "name": "Chik Suyu",
+          "lang": "qu"
+        },
+        {
+          "name": "Republica Tscheca",
+          "lang": "rm"
+        },
+        {
+          "name": "Chexiya",
+          "lang": "rmy"
+        },
+        {
+          "name": "Repubulika ya Ceke",
+          "lang": "rn"
+        },
+        {
+          "name": "Cehia",
+          "lang": "ro"
+        },
+        {
+          "name": "Чешская Республика",
+          "lang": "ru"
+        },
+        {
+          "name": "Ripùbblica Ceca",
+          "lang": "scn"
+        },
+        {
+          "name": "Čhekkia",
+          "lang": "se"
+        },
+        {
+          "name": "Ködörösêse tî Tyêki",
+          "lang": "sg"
+        },
+        {
+          "name": "Česko",
+          "lang": "sk"
+        },
+        {
+          "name": "Češka republika",
+          "lang": "sl"
+        },
+        {
+          "name": "Czech Republic",
+          "lang": "sn"
+        },
+        {
+          "name": "Jamhuuriyadda Jek",
+          "lang": "so"
+        },
+        {
+          "name": "Republika Çeke",
+          "lang": "sq"
+        },
+        {
+          "name": "Чешка Република",
+          "lang": "sr"
+        },
+        {
+          "name": "Tjeckien",
+          "lang": "sv"
+        },
+        {
+          "name": "Jamhuri ya Cheki",
+          "lang": "sw"
+        },
+        {
+          "name": "செக் குடியரசு",
+          "lang": "ta"
+        },
+        {
+          "name": "చెక్ గణరాజ్యం",
+          "lang": "te"
+        },
+        {
+          "name": "Чехия",
+          "lang": "tg"
+        },
+        {
+          "name": "สาธารณรัฐเช็ก",
+          "lang": "th"
+        },
+        {
+          "name": "ቼክ ሪፑብሊክ",
+          "lang": "ti"
+        },
+        {
+          "name": "Czech Republic",
+          "lang": "tl"
+        },
+        {
+          "name": "Lipapilika Seki",
+          "lang": "to"
+        },
+        {
+          "name": "Çek Cumhuriyeti",
+          "lang": "tr"
+        },
+        {
+          "name": "Чеська республіка",
+          "lang": "uk"
+        },
+        {
+          "name": "چیک جمہوریہ",
+          "lang": "ur"
+        },
+        {
+          "name": "Cộng hòa Séc (Czech)",
+          "lang": "vi"
+        },
+        {
+          "name": "Tsyegän",
+          "lang": "vo"
+        },
+        {
+          "name": "Republika Czeka",
+          "lang": "war"
+        },
+        {
+          "name": "טשעכיע",
+          "lang": "yi"
+        },
+        {
+          "name": "Orílẹ́ède ṣẹ́ẹ́kì",
+          "lang": "yo"
+        },
+        {
+          "name": "捷克",
+          "lang": "zh"
+        },
+        {
+          "name": "i-Czech Republic",
+          "lang": "zu"
+        }
+      ],
+      "adminName2": "",
+      "name": "Czech Republic",
+      "fclName": "country, state, region,...",
+      "countryName": "Czech Republic",
+      "fcodeName": "independent political entity",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 14.57781310465104,
+        "south": 50.660075288258824,
+        "north": 50.710951048416774,
+        "west": 14.49747021728036
+      },
+      "asciiName": "Ceska Lipa",
+      "countryId": "3077311",
+      "fcl": "P",
+      "score": 27.43995475769043,
+      "adminId2": "3077928",
+      "countryCode": "CZ",
+      "adminId1": "3339541",
+      "lat": "50.68551",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "0511",
+      "adminCode1": "83",
+      "lng": "14.53764",
+      "geonameId": 3077929,
+      "toponymName": "Česká Lípa",
+      "population": 38841,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Ческа Липа",
+          "lang": "bg"
+        },
+        {
+          "name": "Česká Lípa",
+          "lang": "cs"
+        },
+        {
+          "name": "Böhmisch-Leipa",
+          "lang": "de"
+        },
+        {
+          "name": "Česká Lípa",
+          "lang": "en"
+        },
+        {
+          "name": "Česká Lípa",
+          "lang": "eo"
+        },
+        {
+          "name": "چسکا لیپا",
+          "lang": "fa"
+        },
+        {
+          "name": "Česká Lípa",
+          "lang": "fr"
+        },
+        {
+          "name": "Česká Lípa",
+          "lang": "hu"
+        },
+        {
+          "name": "Česká Lípa",
+          "lang": "id"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/%C4%8Cesk%C3%A1_L%C3%ADpa",
+          "lang": "link"
+        },
+        {
+          "name": "Czeska Lipa",
+          "lang": "pl"
+        },
+        {
+          "name": "Ческа-Липа",
+          "lang": "ru"
+        },
+        {
+          "name": "Česká Lípa",
+          "lang": "sk"
+        },
+        {
+          "name": "Чешка Липа",
+          "lang": "sr"
+        },
+        {
+          "name": "CLI",
+          "lang": "unlc"
+        },
+        {
+          "name": "捷克利帕",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Česká Lípa District",
+      "name": "Česká Lípa",
+      "fclName": "city, village,...",
+      "countryName": "Czech Republic",
+      "fcodeName": "populated place",
+      "adminName1": "Liberecký"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 14.639794330292156,
+        "south": 49.94791792105773,
+        "north": 50.22816786672407,
+        "west": 14.201720257110244
+      },
+      "asciiName": "Prague",
+      "countryId": "3077311",
+      "fcl": "P",
+      "score": 21.254898071289062,
+      "countryCode": "CZ",
+      "adminId1": "3067695",
+      "lat": "50.08804",
+      "fcode": "PPLC",
+      "continentCode": "EU",
+      "adminCode1": "52",
+      "lng": "14.42076",
+      "geonameId": 3067696,
+      "toponymName": "Prague",
+      "population": 1165581,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "ፕራግ",
+          "lang": "am"
+        },
+        {
+          "name": "براغ",
+          "lang": "ar"
+        },
+        {
+          "name": "ܦܪܓ",
+          "lang": "arc"
+        },
+        {
+          "name": "Прага",
+          "lang": "be"
+        },
+        {
+          "name": "Прага",
+          "lang": "bg"
+        },
+        {
+          "name": "པུ་ལ་ཁེ",
+          "lang": "bo"
+        },
+        {
+          "name": "Prag",
+          "lang": "bs"
+        },
+        {
+          "name": "Praga",
+          "lang": "ca"
+        },
+        {
+          "name": "Praha",
+          "lang": "cs"
+        },
+        {
+          "name": "Praga",
+          "lang": "csb"
+        },
+        {
+          "name": "Prâg",
+          "lang": "cy"
+        },
+        {
+          "name": "Prag",
+          "lang": "da"
+        },
+        {
+          "name": "Prag",
+          "lang": "de"
+        },
+        {
+          "name": "Πράγα",
+          "lang": "el"
+        },
+        {
+          "name": "Prague",
+          "lang": "en"
+        },
+        {
+          "name": "Prago",
+          "lang": "eo"
+        },
+        {
+          "name": "Praga",
+          "lang": "es"
+        },
+        {
+          "name": "Praha",
+          "lang": "et"
+        },
+        {
+          "name": "Praga",
+          "lang": "eu"
+        },
+        {
+          "name": "پراگ",
+          "lang": "fa"
+        },
+        {
+          "name": "Praha",
+          "lang": "fi"
+        },
+        {
+          "name": "Prague",
+          "lang": "fr"
+        },
+        {
+          "name": "Prág",
+          "lang": "ga"
+        },
+        {
+          "name": "Pràg",
+          "lang": "gd"
+        },
+        {
+          "name": "Praga",
+          "lang": "gl"
+        },
+        {
+          "name": "Prag",
+          "lang": "hbs"
+        },
+        {
+          "name": "פראג",
+          "lang": "he"
+        },
+        {
+          "name": "Prag",
+          "lang": "hr"
+        },
+        {
+          "name": "Praha",
+          "lang": "hsb"
+        },
+        {
+          "name": "Prága",
+          "lang": "hu"
+        },
+        {
+          "name": "Praga",
+          "lang": "ia"
+        },
+        {
+          "name": "PRG",
+          "lang": "iata"
+        },
+        {
+          "name": "Praha",
+          "lang": "id"
+        },
+        {
+          "name": "Praha",
+          "lang": "io"
+        },
+        {
+          "name": "Prag",
+          "lang": "is"
+        },
+        {
+          "name": "Praga",
+          "lang": "it"
+        },
+        {
+          "name": "プラハ",
+          "lang": "ja"
+        },
+        {
+          "name": "პრაღა",
+          "lang": "ka"
+        },
+        {
+          "name": "프라하",
+          "lang": "ko"
+        },
+        {
+          "name": "Prag",
+          "lang": "ku"
+        },
+        {
+          "name": "Praga",
+          "lang": "la"
+        },
+        {
+          "name": "Prag",
+          "lang": "lb"
+        },
+        {
+          "name": "Praag",
+          "lang": "li"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Prague",
+          "lang": "link"
+        },
+        {
+          "name": "Praha",
+          "lang": "lt"
+        },
+        {
+          "name": "Prāga",
+          "lang": "lv"
+        },
+        {
+          "name": "Praha",
+          "lang": "na"
+        },
+        {
+          "name": "Praag",
+          "lang": "nl"
+        },
+        {
+          "name": "Praha",
+          "lang": "nn"
+        },
+        {
+          "name": "Praha",
+          "lang": "no"
+        },
+        {
+          "name": "Prague",
+          "lang": "nrm"
+        },
+        {
+          "name": "Praga",
+          "lang": "oc"
+        },
+        {
+          "name": "Прагæ",
+          "lang": "os"
+        },
+        {
+          "name": "Praga",
+          "lang": "pl"
+        },
+        {
+          "name": "Praga",
+          "lang": "pt"
+        },
+        {
+          "name": "Praga",
+          "lang": "ro"
+        },
+        {
+          "name": "Прага",
+          "lang": "ru"
+        },
+        {
+          "name": "Praha",
+          "lang": "sk"
+        },
+        {
+          "name": "Praga",
+          "lang": "sl"
+        },
+        {
+          "name": "Praga",
+          "lang": "sq"
+        },
+        {
+          "name": "Праг",
+          "lang": "sr"
+        },
+        {
+          "name": "Prag",
+          "lang": "sv"
+        },
+        {
+          "name": "Прага",
+          "lang": "tg"
+        },
+        {
+          "name": "ปราก",
+          "lang": "th"
+        },
+        {
+          "name": "Prague",
+          "lang": "tl"
+        },
+        {
+          "name": "Prag",
+          "lang": "tr"
+        },
+        {
+          "name": "پراگا",
+          "lang": "ug"
+        },
+        {
+          "name": "Прага",
+          "lang": "uk"
+        },
+        {
+          "name": "PRG",
+          "lang": "unlc"
+        },
+        {
+          "name": "Praha",
+          "lang": "vi"
+        },
+        {
+          "name": "布拉格",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Prague",
+      "fclName": "city, village,...",
+      "countryName": "Czech Republic",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Praha"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "asciiName": "Okres Ceska Lipa",
+      "countryId": "3077311",
+      "fcl": "A",
+      "score": 20.2921199798584,
+      "adminId2": "3077928",
+      "countryCode": "CZ",
+      "adminId1": "3339541",
+      "lat": "50.66667",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "0511",
+      "adminCode1": "83",
+      "lng": "14.66667",
+      "geonameId": 3077928,
+      "toponymName": "Okres Česká Lípa",
+      "population": 106312,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Distrig Česká Lípa",
+          "lang": "br"
+        },
+        {
+          "name": "Česká Lípa District",
+          "lang": "en"
+        },
+        {
+          "name": "Distrikto Česká Lípa",
+          "lang": "eo"
+        },
+        {
+          "name": "District de Česká Lípa",
+          "lang": "fr"
+        },
+        {
+          "name": "Česká Lípa-i járás",
+          "lang": "hu"
+        },
+        {
+          "name": "Չեսկա Լիպայի շրջան",
+          "lang": "hy"
+        },
+        {
+          "name": "Distretto di Česká Lípa",
+          "lang": "it"
+        },
+        {
+          "name": "ჩესკა-ლიპის რაიონი",
+          "lang": "ka"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/%C4%8Cesk%C3%A1_L%C3%ADpa_District",
+          "lang": "link"
+        },
+        {
+          "name": "Daerah Česká Lípa",
+          "lang": "ms"
+        },
+        {
+          "name": "Powiat Czeska Lipa",
+          "lang": "pl"
+        },
+        {
+          "name": "Ческа-Липа",
+          "lang": "ru"
+        },
+        {
+          "name": "ჩესკა-ლიპაშ რაიონი",
+          "lang": "xmf"
+        }
+      ],
+      "adminName2": "Česká Lípa District",
+      "name": "Česká Lípa District",
+      "fclName": "country, state, region,...",
+      "countryName": "Czech Republic",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Liberecký"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 13.458834321618896,
+        "south": 49.69503328587699,
+        "north": 49.79991635233441,
+        "west": 13.296340489698304
+      },
+      "asciiName": "Pilsen",
+      "countryId": "3077311",
+      "fcl": "P",
+      "score": 17.712413787841797,
+      "adminId2": "3068158",
+      "countryCode": "CZ",
+      "adminId1": "3339575",
+      "lat": "49.74747",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "0323",
+      "adminCode1": "87",
+      "lng": "13.37759",
+      "geonameId": 3068160,
+      "toponymName": "Pilsen",
+      "population": 164180,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بلزن",
+          "lang": "ar"
+        },
+        {
+          "name": "Plzen",
+          "lang": "az"
+        },
+        {
+          "name": "Пльзень",
+          "lang": "be"
+        },
+        {
+          "name": "Пилзен",
+          "lang": "bg"
+        },
+        {
+          "name": "Пльзень",
+          "lang": "ce"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "cs"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "da"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "de"
+        },
+        {
+          "name": "Πίλζεν",
+          "lang": "el"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "en"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "eo"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "es"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "et"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "eu"
+        },
+        {
+          "name": "پلزن",
+          "lang": "fa"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "fi"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "fr"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "fy"
+        },
+        {
+          "name": "פילזן",
+          "lang": "he"
+        },
+        {
+          "name": "Pilzeń",
+          "lang": "hsb"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "hu"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "id"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "it"
+        },
+        {
+          "name": "プルゼニ",
+          "lang": "ja"
+        },
+        {
+          "name": "Pilzno",
+          "lang": "jv"
+        },
+        {
+          "name": "პლზენი",
+          "lang": "ka"
+        },
+        {
+          "name": "Пльзень",
+          "lang": "kk"
+        },
+        {
+          "name": "플젠",
+          "lang": "ko"
+        },
+        {
+          "name": "Pilsna",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Plze%C5%88",
+          "lang": "link"
+        },
+        {
+          "name": "Pilzenas",
+          "lang": "lt"
+        },
+        {
+          "name": "Plzeņa",
+          "lang": "lv"
+        },
+        {
+          "name": "П’лзењ",
+          "lang": "mk"
+        },
+        {
+          "name": "पेलजाईन",
+          "lang": "mr"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "nl"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "nn"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "no"
+        },
+        {
+          "name": "Pilzno",
+          "lang": "pl"
+        },
+        {
+          "name": "پلزن",
+          "lang": "ps"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "pt"
+        },
+        {
+          "name": "Пльзень",
+          "lang": "ru"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "sk"
+        },
+        {
+          "name": "Плзен",
+          "lang": "sr"
+        },
+        {
+          "name": "Plzeň",
+          "lang": "sv"
+        },
+        {
+          "name": "Плзен",
+          "lang": "tg"
+        },
+        {
+          "name": "เปิลเซน",
+          "lang": "th"
+        },
+        {
+          "name": "Пльзень",
+          "lang": "uk"
+        },
+        {
+          "name": "PLZ",
+          "lang": "unlc"
+        },
+        {
+          "name": "Pilsen",
+          "lang": "vi"
+        },
+        {
+          "name": "פילזען",
+          "lang": "yi"
+        },
+        {
+          "name": "比尔森",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Okres Plzeň-Město",
+      "name": "Pilsen",
+      "fclName": "city, village,...",
+      "countryName": "Czech Republic",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Plzeňský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 18.394630965333626,
+        "south": 49.76213608570613,
+        "north": 49.907154314369464,
+        "west": 18.169457192983977
+      },
+      "asciiName": "Ostrava",
+      "countryId": "3077311",
+      "fcl": "P",
+      "score": 17.712413787841797,
+      "adminId2": "3068798",
+      "countryCode": "CZ",
+      "adminId1": "3339573",
+      "lat": "49.83465",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "0806",
+      "adminCode1": "85",
+      "lng": "18.28204",
+      "geonameId": 3068799,
+      "toponymName": "Ostrava",
+      "population": 313088,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "أوسترافا",
+          "lang": "ar"
+        },
+        {
+          "name": "Острава",
+          "lang": "bg"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "cs"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "da"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "de"
+        },
+        {
+          "name": "Οστράβα",
+          "lang": "el"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "en"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "eo"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "es"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "fi"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "fr"
+        },
+        {
+          "name": "אוסטרבה",
+          "lang": "he"
+        },
+        {
+          "name": "OSR",
+          "lang": "iata"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "id"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "is"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "it"
+        },
+        {
+          "name": "オストラヴァ",
+          "lang": "ja"
+        },
+        {
+          "name": "오스트라바",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Ostrava",
+          "lang": "link"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "lt"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "lv"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "nl"
+        },
+        {
+          "name": "Ostrawa",
+          "lang": "pl"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "pt"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "ro"
+        },
+        {
+          "name": "Острава",
+          "lang": "ru"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "sk"
+        },
+        {
+          "name": "Острава",
+          "lang": "sr"
+        },
+        {
+          "name": "Ostrava",
+          "lang": "sv"
+        },
+        {
+          "name": "OSR",
+          "lang": "unlc"
+        },
+        {
+          "name": "俄斯特拉發",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Okres Ostrava-Město",
+      "name": "Ostrava",
+      "fclName": "city, village,...",
+      "countryName": "Czech Republic",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Moravskoslezský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "asciiName": "Praded",
+      "countryId": "3077311",
+      "fcl": "T",
+      "score": 17.712413787841797,
+      "cc2": "CZ",
+      "countryCode": "CZ",
+      "lat": "50.08309",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "elevation": 1491,
+      "adminCode1": "00",
+      "lng": "17.23077",
+      "geonameId": 3067700,
+      "toponymName": "Praděd",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Prad%C4%9Bd",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Praděd",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Czech Republic",
+      "fcodeName": "mountain",
+      "adminName1": ""
+    },
+    {
+      "elevation": 1554,
+      "lng": "15.70616",
+      "geonameId": 7646292,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "toponymName": "Studniční hora",
+      "asciiName": "Studnicni hora",
+      "countryId": "3077311",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 17.712413787841797,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CZ",
+      "name": "Studniční hora",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Czech Republic",
+      "fcodeName": "mountain",
+      "adminName1": "",
+      "lat": "50.72779",
+      "fcode": "MT",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Europe/Samara",
+        "dstOffset": 4
+      },
+      "bbox": {
+        "east": 49.86493579046534,
+        "south": 52.95767305124857,
+        "north": 52.975660348751425,
+        "west": 49.835064209534664
+      },
+      "asciiName": "Chekhi",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 17.534395217895508,
+      "countryCode": "RU",
+      "adminId1": "499068",
+      "lat": "52.96667",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "65",
+      "lng": "49.85",
+      "geonameId": 569593,
+      "toponymName": "Chekhi",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Чехи",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Chekhi",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "populated place",
+      "adminName1": "Samara"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Prague",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 16.46931214588021,
+        "south": 49.888151226878755,
+        "north": 49.92057828860553,
+        "west": 16.418947741815103
+      },
+      "asciiName": "Ceska Trebova",
+      "countryId": "3077311",
+      "fcl": "P",
+      "score": 17.354551315307617,
+      "countryCode": "CZ",
+      "adminId1": "3339574",
+      "lat": "49.90436",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "86",
+      "lng": "16.44413",
+      "geonameId": 3077920,
+      "toponymName": "Česká Třebová",
+      "population": 16655,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/%C4%8Cesk%C3%A1_T%C5%99ebov%C3%A1",
+          "lang": "link"
+        },
+        {
+          "name": "Česka Tršebova",
+          "lang": "lv"
+        },
+        {
+          "name": "Ческа-Тршебова",
+          "lang": "ru"
+        },
+        {
+          "name": "Чешка Требова",
+          "lang": "sr"
+        },
+        {
+          "name": "CTR",
+          "lang": "unlc"
+        },
+        {
+          "name": "捷克特熱博瓦",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Česká Třebová",
+      "fclName": "city, village,...",
+      "countryName": "Czech Republic",
+      "fcodeName": "populated place",
+      "adminName1": "Pardubický"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mostar",
+               "short_name" : "Mostar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grad Mostar",
+               "short_name" : "Grad Mostar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Herzegovina-Neretva Canton",
+               "short_name" : "Herzegovina-Neretva Canton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Federation of Bosnia and Herzegovina",
+               "short_name" : "Federation of Bosnia and Herzegovina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "88000",
+               "short_name" : "88000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mostar 88000, Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.377729,
+                  "lng" : 17.8550148
+               },
+               "southwest" : {
+                  "lat" : 43.32480289999999,
+                  "lng" : 17.7731323
+               }
+            },
+            "location" : {
+               "lat" : 43.3422732,
+               "lng" : 17.8127536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.377729,
+                  "lng" : 17.8550148
+               },
+               "southwest" : {
+                  "lat" : 43.32480289999999,
+                  "lng" : 17.7731323
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monaco",
+               "short_name" : "MC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monaco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7519029,
+                  "lng" : 7.4398113
+               },
+               "southwest" : {
+                  "lat" : 43.7247428,
+                  "lng" : 7.4091049
+               }
+            },
+            "location" : {
+               "lat" : 43.73841760000001,
+               "lng" : 7.424615799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7519029,
+                  "lng" : 7.4398113
+               },
+               "southwest" : {
+                  "lat" : 43.7247428,
+                  "lng" : 7.4091049
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

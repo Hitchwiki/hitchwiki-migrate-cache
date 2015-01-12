@@ -1,0 +1,146 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "København S",
+               "short_name" : "København S",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "København",
+               "short_name" : "kbh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "København",
+               "short_name" : "København",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital Region of Denmark",
+               "short_name" : "Capital Region of Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2300",
+               "short_name" : "2300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "201, 2300 København, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6317745,
+                  "lng" : 12.5816962
+               },
+               "southwest" : {
+                  "lat" : 55.63167050000001,
+                  "lng" : 12.5815051
+               }
+            },
+            "location" : {
+               "lat" : 55.6317041,
+               "lng" : 12.5816247
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.63307148029151,
+                  "lng" : 12.5829496302915
+               },
+               "southwest" : {
+                  "lat" : 55.63037351970851,
+                  "lng" : 12.5802516697085
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Indre By",
+               "short_name" : "Indre By",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "København K",
+               "short_name" : "København K",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "København",
+               "short_name" : "kbh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "København",
+               "short_name" : "København",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital Region of Denmark",
+               "short_name" : "Capital Region of Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1471",
+               "short_name" : "1471",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "201, 1471 København, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6746762,
+                  "lng" : 12.5750523
+               },
+               "southwest" : {
+                  "lat" : 55.6745168,
+                  "lng" : 12.5747987
+               }
+            },
+            "location" : {
+               "lat" : 55.6745905,
+               "lng" : 12.5749228
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6759454802915,
+                  "lng" : 12.5762744802915
+               },
+               "southwest" : {
+                  "lat" : 55.6732475197085,
+                  "lng" : 12.5735765197085
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

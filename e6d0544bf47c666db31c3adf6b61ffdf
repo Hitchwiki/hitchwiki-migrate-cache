@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuremberg",
+               "short_name" : "Nord",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuremberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5407533,
+                  "lng" : 11.2825956
+               },
+               "southwest" : {
+                  "lat" : 49.3314338,
+                  "lng" : 10.9887327
+               }
+            },
+            "location" : {
+               "lat" : 49.45203,
+               "lng" : 11.07675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5407533,
+                  "lng" : 11.2135138
+               },
+               "southwest" : {
+                  "lat" : 49.3314338,
+                  "lng" : 10.9887327
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nürnberg",
+               "short_name" : "Nürnberg",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tann",
+               "short_name" : "Tann",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niederbayern",
+               "short_name" : "Niederbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84367",
+               "short_name" : "84367",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nürnberg, 84367 Tann, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.3616909,
+               "lng" : 12.9123376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3630398802915,
+                  "lng" : 12.9136865802915
+               },
+               "southwest" : {
+                  "lat" : 48.3603419197085,
+                  "lng" : 12.9109886197085
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

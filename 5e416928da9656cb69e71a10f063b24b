@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A54",
+               "short_name" : "A54",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A54, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8154055,
+                  "lng" : 5.1246611
+               },
+               "southwest" : {
+                  "lat" : 43.6244136,
+                  "lng" : 4.340967
+               }
+            },
+            "location" : {
+               "lat" : 43.63616529999999,
+               "lng" : 4.8292703
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8154055,
+                  "lng" : 5.1246611
+               },
+               "southwest" : {
+                  "lat" : 43.6244136,
+                  "lng" : 4.340967
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

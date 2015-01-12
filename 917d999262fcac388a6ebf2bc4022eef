@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nicaea",
+               "short_name" : "Nicaea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İznik",
+               "short_name" : "İznik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa Province",
+               "short_name" : "Bursa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nicaea/Bursa Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.456466,
+                  "lng" : 29.732081
+               },
+               "southwest" : {
+                  "lat" : 40.404491,
+                  "lng" : 29.6974096
+               }
+            },
+            "location" : {
+               "lat" : 40.42899999999999,
+               "lng" : 29.7195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.456466,
+                  "lng" : 29.732081
+               },
+               "southwest" : {
+                  "lat" : 40.404491,
+                  "lng" : 29.6974096
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

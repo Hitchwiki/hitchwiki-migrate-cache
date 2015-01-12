@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moyale",
+               "short_name" : "Moyale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borena",
+               "short_name" : "Borena",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oromia",
+               "short_name" : "Oromia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ethiopia",
+               "short_name" : "ET",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moyale, Ethiopia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.5567259,
+                  "lng" : 39.0699577
+               },
+               "southwest" : {
+                  "lat" : 3.529698100000001,
+                  "lng" : 39.0399169
+               }
+            },
+            "location" : {
+               "lat" : 3.5399846,
+               "lng" : 39.0528407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.5567259,
+                  "lng" : 39.0699577
+               },
+               "southwest" : {
+                  "lat" : 3.529698100000001,
+                  "lng" : 39.0399169
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,646 @@
+{
+  "totalResultsCount": 467,
+  "geonames": [
+    {
+      "lng": "-61",
+      "geonameId": 3715377,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "America/Danmarkshavn",
+        "dstOffset": 0
+      },
+      "toponymName": "New England Seamounts",
+      "asciiName": "New England Seamounts",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 16.86504364013672,
+      "adminName3": "",
+      "adminName2": "",
+      "name": "New England Seamounts",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "seamounts",
+      "adminName1": "",
+      "lat": "38",
+      "fcode": "SMSU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "asciiName": "New England Range",
+      "countryId": "2077456",
+      "fcl": "T",
+      "score": 13.961742401123047,
+      "cc2": "AU",
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-30",
+      "fcode": "MTS",
+      "continentCode": "OC",
+      "adminCode1": "02",
+      "lng": "151.83333",
+      "geonameId": 2155455,
+      "toponymName": "New England Range",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "New England Range",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Australia",
+      "fcodeName": "mountains",
+      "adminName1": "New South Wales"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -0.5653528910454585,
+        "south": 51.46176728790415,
+        "north": 51.504899312095844,
+        "west": -0.6346471089545415
+      },
+      "asciiName": "Windsor",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 8.922682762145996,
+      "cc2": "GB",
+      "adminId2": "2633840",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.48333",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "P9",
+      "adminCode1": "ENG",
+      "lng": "-0.6",
+      "geonameId": 2633842,
+      "toponymName": "Windsor",
+      "population": 28324,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Windlesōra",
+          "lang": "ang"
+        },
+        {
+          "name": "وندزر، بيركشاير",
+          "lang": "ar"
+        },
+        {
+          "name": "Уиндзор",
+          "lang": "bg"
+        },
+        {
+          "name": "Windsor",
+          "lang": "de"
+        },
+        {
+          "name": "Windsor",
+          "lang": "en"
+        },
+        {
+          "name": "Windsor",
+          "lang": "eo"
+        },
+        {
+          "name": "Windsor",
+          "lang": "es"
+        },
+        {
+          "name": "Windsor",
+          "lang": "fr"
+        },
+        {
+          "name": "ウィンザー",
+          "lang": "ja"
+        },
+        {
+          "name": "윈저",
+          "lang": "ko"
+        },
+        {
+          "name": "Windesoria",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Windsor%2C_Berkshire",
+          "lang": "link"
+        },
+        {
+          "name": "Windsor",
+          "lang": "nl"
+        },
+        {
+          "name": "Windsor i Berkshire",
+          "lang": "nn"
+        },
+        {
+          "name": "Windsor",
+          "lang": "no"
+        },
+        {
+          "name": "Виндзор",
+          "lang": "ru"
+        },
+        {
+          "name": "Windsor",
+          "lang": "sv"
+        },
+        {
+          "name": "Віндзор",
+          "lang": "uk"
+        },
+        {
+          "name": "WSR",
+          "lang": "unlc"
+        },
+        {
+          "name": "溫莎",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Windsor and Maidenhead",
+      "name": "Windsor",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -1.4647529536228907,
+        "south": 54.870171441596355,
+        "north": 54.92982855840364,
+        "west": -1.5685804463771094
+      },
+      "asciiName": "Washington",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 8.922682762145996,
+      "adminId2": "3333205",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "54.9",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "N6",
+      "adminCode1": "ENG",
+      "lng": "-1.51667",
+      "geonameId": 2634715,
+      "toponymName": "Washington",
+      "population": 53526,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Washington",
+          "lang": "en"
+        },
+        {
+          "name": "واشینگتن",
+          "lang": "fa"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Washington%2C_Tyne_and_Wear",
+          "lang": "link"
+        },
+        {
+          "name": "Washington i Tyne and Wear",
+          "lang": "nn"
+        },
+        {
+          "name": "Вашингтон",
+          "lang": "ru"
+        },
+        {
+          "name": "Вашингтон",
+          "lang": "sr"
+        },
+        {
+          "name": "WNN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Sunderland",
+      "name": "Washington",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -1.6348050529706204,
+        "south": 50.73640549984386,
+        "north": 50.77560790588503,
+        "west": -1.6967989509356296
+      },
+      "asciiName": "New Milton",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 8.661087036132812,
+      "adminId2": "2647554",
+      "adminId3": "2641648",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "50.75601",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "F2",
+      "adminCode3": "24UJ",
+      "adminCode1": "ENG",
+      "lng": "-1.6658",
+      "geonameId": 2641609,
+      "toponymName": "New Milton",
+      "population": 23753,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "New Forest",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/New_Milton",
+          "lang": "link"
+        },
+        {
+          "name": "NMN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Hampshire",
+      "name": "New Milton",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "asciiName": "The University of New England",
+      "countryId": "2077456",
+      "fcl": "S",
+      "score": 8.432024955749512,
+      "adminId2": "2177670",
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-30.4818",
+      "fcode": "SCHC",
+      "continentCode": "OC",
+      "adminCode2": "10110",
+      "adminCode1": "02",
+      "lng": "151.6346",
+      "geonameId": 8176222,
+      "toponymName": "The University of New England",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "The University of New England",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/University_of_New_England_%28Australia%29",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Armidale Dumaresq",
+      "name": "The University of New England",
+      "fclName": "spot, building, farm",
+      "countryName": "Australia",
+      "fcodeName": "college",
+      "adminName1": "New South Wales"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Jamaica",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -77.15718982545293,
+        "south": 18.35767305124857,
+        "north": 18.375660348751428,
+        "west": -77.17614357454705
+      },
+      "asciiName": "New England",
+      "countryId": "3489940",
+      "fcl": "P",
+      "score": 7.950258255004883,
+      "countryCode": "JM",
+      "adminId1": "3488715",
+      "lat": "18.36667",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "09",
+      "lng": "-77.16667",
+      "geonameId": 3489307,
+      "toponymName": "New England",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "New England",
+      "fclName": "city, village,...",
+      "countryName": "Jamaica",
+      "fcodeName": "populated place",
+      "adminName1": "Saint Ann"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Hobart",
+        "dstOffset": 10
+      },
+      "asciiName": "New England Park",
+      "countryId": "2077456",
+      "fcl": "L",
+      "score": 7.7775774002075195,
+      "countryCode": "AU",
+      "adminId1": "2147291",
+      "lat": "-41.18",
+      "fcode": "PRK",
+      "continentCode": "OC",
+      "adminCode1": "06",
+      "lng": "148.07001",
+      "geonameId": 8160194,
+      "toponymName": "New England Park",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "New England Park",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "New England Park",
+      "fclName": "parks,area, ...",
+      "countryName": "Australia",
+      "fcodeName": "park",
+      "adminName1": "Tasmania"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Moncton",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -66.08380490209268,
+        "south": 46.06827535124857,
+        "north": 46.08626264875143,
+        "west": -66.10973909790732
+      },
+      "asciiName": "New England Settlement",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 7.669912338256836,
+      "countryCode": "CA",
+      "adminId1": "6087430",
+      "lat": "46.07727",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "04",
+      "lng": "-66.09677",
+      "geonameId": 6087551,
+      "toponymName": "New England Settlement",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/New_England_Settlement%2C_New_Brunswick",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "New England Settlement",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "New Brunswick"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -1.751544938678213,
+        "south": 51.041593011885254,
+        "north": 51.09703358618634,
+        "west": -1.8398256439023473
+      },
+      "asciiName": "Salisbury",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 7.648014068603516,
+      "adminId2": "2633868",
+      "adminId3": "2638663",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.06931",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "adminCode2": "P8",
+      "adminCode3": "00HY261",
+      "adminCode1": "ENG",
+      "lng": "-1.79569",
+      "geonameId": 2638664,
+      "toponymName": "Salisbury",
+      "population": 45600,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Salisbury",
+      "alternateNames": [
+        {
+          "name": "ሳልዝብሪ",
+          "lang": "am"
+        },
+        {
+          "name": "Searoburg",
+          "lang": "ang"
+        },
+        {
+          "name": "ساليسبري",
+          "lang": "ar"
+        },
+        {
+          "name": "سولسبرى",
+          "lang": "arz"
+        },
+        {
+          "name": "Солсбъри",
+          "lang": "bg"
+        },
+        {
+          "name": "সল্‌স্‌বারি",
+          "lang": "bn"
+        },
+        {
+          "name": "Caersallog",
+          "lang": "cy"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "de"
+        },
+        {
+          "name": "Σόλσμπερι",
+          "lang": "el"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "en"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "eo"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "es"
+        },
+        {
+          "name": "سالزبری",
+          "lang": "fa"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "fi"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "fr"
+        },
+        {
+          "name": "סולסברי",
+          "lang": "he"
+        },
+        {
+          "name": "XSR",
+          "lang": "iata"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "it"
+        },
+        {
+          "name": "ソールズベリー",
+          "lang": "ja"
+        },
+        {
+          "name": "솔즈베리",
+          "lang": "ko"
+        },
+        {
+          "name": "Sarisberia",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Salisbury",
+          "lang": "link"
+        },
+        {
+          "name": "Solsberis",
+          "lang": "lt"
+        },
+        {
+          "name": "सॉल्झब्री",
+          "lang": "mr"
+        },
+        {
+          "name": "سالزبری",
+          "lang": "mzn"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "nl"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "no"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "pl"
+        },
+        {
+          "name": "سالسبری",
+          "lang": "pnb"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "pt"
+        },
+        {
+          "name": "Солсбери",
+          "lang": "ru"
+        },
+        {
+          "name": "Солсбери",
+          "lang": "sr"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "sv"
+        },
+        {
+          "name": "ซอลส์บรี",
+          "lang": "th"
+        },
+        {
+          "name": "Salisbury",
+          "lang": "tr"
+        },
+        {
+          "name": "Солсбері",
+          "lang": "uk"
+        },
+        {
+          "name": "SLS",
+          "lang": "unlc"
+        },
+        {
+          "name": "索爾茲伯里",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Wiltshire",
+      "name": "Salisbury",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "England"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A14",
+               "short_name" : "A14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vorarlberg",
+               "short_name" : "Vorarlberg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A14, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5470591,
+                  "lng" : 9.834664999999999
+               },
+               "southwest" : {
+                  "lat" : 47.1372325,
+                  "lng" : 9.6121626
+               }
+            },
+            "location" : {
+               "lat" : 47.3747686,
+               "lng" : 9.670117599999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5470591,
+                  "lng" : 9.834664999999999
+               },
+               "southwest" : {
+                  "lat" : 47.1372325,
+                  "lng" : 9.6121626
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

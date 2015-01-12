@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A9",
+               "short_name" : "A9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lombardia",
+               "short_name" : "Lombardia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A9, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8415565,
+                  "lng" : 9.0599208
+               },
+               "southwest" : {
+                  "lat" : 45.57204710000001,
+                  "lng" : 9.0104411
+               }
+            },
+            "location" : {
+               "lat" : 45.7086956,
+               "lng" : 9.0226407
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8415565,
+                  "lng" : 9.0599208
+               },
+               "southwest" : {
+                  "lat" : 45.57204710000001,
+                  "lng" : 9.0104411
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

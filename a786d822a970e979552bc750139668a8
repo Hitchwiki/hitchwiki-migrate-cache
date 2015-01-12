@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Africa",
+               "short_name" : "North Africa",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "North Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5359,
+                  "lng" : 38.6938
+               },
+               "southwest" : {
+                  "lat" : 3.4889804,
+                  "lng" : -17.4573
+               }
+            },
+            "location" : {
+               "lat" : 23.4162027,
+               "lng" : 25.66283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5359,
+                  "lng" : 38.6938
+               },
+               "southwest" : {
+                  "lat" : 3.4889804,
+                  "lng" : -17.4573
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

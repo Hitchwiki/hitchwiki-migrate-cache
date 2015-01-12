@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schwerte",
+               "short_name" : "Schwerte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Unna",
+               "short_name" : "Unna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Schwerte, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4761693,
+                  "lng" : 7.6345741
+               },
+               "southwest" : {
+                  "lat" : 51.3852649,
+                  "lng" : 7.504693000000001
+               }
+            },
+            "location" : {
+               "lat" : 51.4448257,
+               "lng" : 7.5668312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4761693,
+                  "lng" : 7.6345741
+               },
+               "southwest" : {
+                  "lat" : 51.3852649,
+                  "lng" : 7.504693000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

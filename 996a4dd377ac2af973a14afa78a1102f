@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jelenia Góra",
+               "short_name" : "Jelenia Góra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jelenia Góra",
+               "short_name" : "Jelenia Góra",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jelenia Góra County",
+               "short_name" : "Jelenia Góra County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jelenia Góra, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9324181,
+                  "lng" : 15.8749908
+               },
+               "southwest" : {
+                  "lat" : 50.7669173,
+                  "lng" : 15.5779991
+               }
+            },
+            "location" : {
+               "lat" : 50.9044171,
+               "lng" : 15.7193616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9324181,
+                  "lng" : 15.8749908
+               },
+               "southwest" : {
+                  "lat" : 50.7669173,
+                  "lng" : 15.5779991
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

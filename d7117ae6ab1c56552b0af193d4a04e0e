@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uzhhorod",
+               "short_name" : "Uzhhorod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uzhhorods'ka city council",
+               "short_name" : "Uzhhorods'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Zakarpats'ka oblast",
+               "short_name" : "Zakarpats'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uzhhorod, Zakarpats'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.660332,
+                  "lng" : 22.3492813
+               },
+               "southwest" : {
+                  "lat" : 48.5784315,
+                  "lng" : 22.2099939
+               }
+            },
+            "location" : {
+               "lat" : 48.6208,
+               "lng" : 22.287883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.660332,
+                  "lng" : 22.3492813
+               },
+               "southwest" : {
+                  "lat" : 48.5784315,
+                  "lng" : 22.2099939
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

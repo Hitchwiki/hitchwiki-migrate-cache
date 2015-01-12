@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A22",
+               "short_name" : "A22",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A22, Wien, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.38447679999999,
+                  "lng" : 16.4404566
+               },
+               "southwest" : {
+                  "lat" : 48.2113753,
+                  "lng" : 16.1812631
+               }
+            },
+            "location" : {
+               "lat" : 48.30476669999999,
+               "lng" : 16.3456037
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.38447679999999,
+                  "lng" : 16.4404566
+               },
+               "southwest" : {
+                  "lat" : 48.2113753,
+                  "lng" : 16.1812631
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

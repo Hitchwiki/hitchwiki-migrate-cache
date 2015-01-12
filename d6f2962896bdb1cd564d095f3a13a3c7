@@ -1,0 +1,318 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.861571,
+                  "lng" : -71.3696939
+               },
+               "southwest" : {
+                  "lat" : 41.772414,
+                  "lng" : -71.4726422
+               }
+            },
+            "location" : {
+               "lat" : 41.8239891,
+               "lng" : -71.4128343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.861571,
+                  "lng" : -71.3696939
+               },
+               "southwest" : {
+                  "lat" : 41.772414,
+                  "lng" : -71.4726422
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cache County",
+               "short_name" : "Cache County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence, UT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7187519,
+                  "lng" : -111.789499
+               },
+               "southwest" : {
+                  "lat" : 41.682852,
+                  "lng" : -111.837938
+               }
+            },
+            "location" : {
+               "lat" : 41.7063204,
+               "lng" : -111.817165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7187519,
+                  "lng" : -111.789499
+               },
+               "southwest" : {
+                  "lat" : 41.682852,
+                  "lng" : -111.837938
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence Village",
+               "short_name" : "Providence Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denton County",
+               "short_name" : "Denton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76227",
+               "short_name" : "76227",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Providence Village, TX 76227, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.2219637,
+               "lng" : -96.96102979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.2233126802915,
+                  "lng" : -96.95968081970848
+               },
+               "southwest" : {
+                  "lat" : 33.2206147197085,
+                  "lng" : -96.9623787802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Webster County",
+               "short_name" : "Webster County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4210029,
+                  "lng" : -87.71814089999999
+               },
+               "southwest" : {
+                  "lat" : 37.3765949,
+                  "lng" : -87.78736499999999
+               }
+            },
+            "location" : {
+               "lat" : 37.397545,
+               "lng" : -87.7627897
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4210029,
+                  "lng" : -87.71814089999999
+               },
+               "southwest" : {
+                  "lat" : 37.3765949,
+                  "lng" : -87.78736499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dan River",
+               "short_name" : "Dan River",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Caswell County",
+               "short_name" : "Caswell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27315",
+               "short_name" : "27315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Providence, NC 27315, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.5051396,
+               "lng" : -79.37029889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5064885802915,
+                  "lng" : -79.3689499197085
+               },
+               "southwest" : {
+                  "lat" : 36.5037906197085,
+                  "lng" : -79.3716478802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marengo County",
+               "short_name" : "Marengo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.362153,
+                  "lng" : -87.75914299999999
+               },
+               "southwest" : {
+                  "lat" : 32.3288029,
+                  "lng" : -87.78983989999999
+               }
+            },
+            "location" : {
+               "lat" : 32.3418079,
+               "lng" : -87.7805662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.362153,
+                  "lng" : -87.75914299999999
+               },
+               "southwest" : {
+                  "lat" : 32.3288029,
+                  "lng" : -87.78983989999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

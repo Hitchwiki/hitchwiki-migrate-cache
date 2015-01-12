@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puntland",
+               "short_name" : "Puntland",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Puntland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.0097711,
+                  "lng" : 51.42700199999999
+               },
+               "southwest" : {
+                  "lat" : 6.364434699999999,
+                  "lng" : 46.1920166
+               }
+            },
+            "location" : {
+               "lat" : 9.786588100000001,
+               "lng" : 49.36531489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.0097711,
+                  "lng" : 51.42700199999999
+               },
+               "southwest" : {
+                  "lat" : 6.364434699999999,
+                  "lng" : 46.1920166
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

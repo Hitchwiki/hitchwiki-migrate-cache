@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Picton",
+               "short_name" : "Picton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marlborough District",
+               "short_name" : "Marlborough District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marlborough",
+               "short_name" : "Marlborough",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Picton, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.25041299999999,
+                  "lng" : 174.048981
+               },
+               "southwest" : {
+                  "lat" : -41.3405492,
+                  "lng" : 173.9753104
+               }
+            },
+            "location" : {
+               "lat" : -41.2905926,
+               "lng" : 174.0010044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.25041299999999,
+                  "lng" : 174.048981
+               },
+               "southwest" : {
+                  "lat" : -41.3405492,
+                  "lng" : 173.9753104
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

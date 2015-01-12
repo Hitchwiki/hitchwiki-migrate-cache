@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hagen",
+               "short_name" : "Hagen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hagen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.41860579999999,
+                  "lng" : 7.598931599999999
+               },
+               "southwest" : {
+                  "lat" : 51.2649029,
+                  "lng" : 7.375931500000001
+               }
+            },
+            "location" : {
+               "lat" : 51.3670777,
+               "lng" : 7.4632841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.41860579999999,
+                  "lng" : 7.598931599999999
+               },
+               "southwest" : {
+                  "lat" : 51.2649029,
+                  "lng" : 7.375931500000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

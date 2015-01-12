@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Margrethen",
+               "short_name" : "St Margrethen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rheintal",
+               "short_name" : "Rheintal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "St. Gallen",
+               "short_name" : "SG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Margrethen, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.47064,
+                  "lng" : 9.6594499
+               },
+               "southwest" : {
+                  "lat" : 47.44004,
+                  "lng" : 9.588989999999999
+               }
+            },
+            "location" : {
+               "lat" : 47.4510999,
+               "lng" : 9.636059999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.47064,
+                  "lng" : 9.6594499
+               },
+               "southwest" : {
+                  "lat" : 47.44004,
+                  "lng" : 9.588989999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankt Margrethen",
+               "short_name" : "St. Margrethen",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sankt Margrethen",
+               "short_name" : "St. Margrethen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rheintal",
+               "short_name" : "Rheintal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sankt Gallen",
+               "short_name" : "SG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9430",
+               "short_name" : "9430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sankt Margrethen, 9430 Sankt Margrethen, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.45165,
+               "lng" : 9.63447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4529989802915,
+                  "lng" : 9.635818980291504
+               },
+               "southwest" : {
+                  "lat" : 47.4503010197085,
+                  "lng" : 9.633121019708499
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

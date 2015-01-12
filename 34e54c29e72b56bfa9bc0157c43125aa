@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A93",
+               "short_name" : "A93",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A93, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3801582,
+                  "lng" : 12.2264924
+               },
+               "southwest" : {
+                  "lat" : 47.6050221,
+                  "lng" : 11.5956582
+               }
+            },
+            "location" : {
+               "lat" : 48.9888276,
+               "lng" : 12.0605872
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3801582,
+                  "lng" : 12.2264924
+               },
+               "southwest" : {
+                  "lat" : 47.6050221,
+                  "lng" : 11.5956582
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

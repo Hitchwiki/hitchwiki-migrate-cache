@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinaia",
+               "short_name" : "Sinaia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sinaia",
+               "short_name" : "Sinaia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prahova",
+               "short_name" : "PH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106100",
+               "short_name" : "106100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sinaia 106100, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3733654,
+                  "lng" : 25.5732431
+               },
+               "southwest" : {
+                  "lat" : 45.3088209,
+                  "lng" : 25.5296946
+               }
+            },
+            "location" : {
+               "lat" : 45.3310429,
+               "lng" : 25.5623504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3733654,
+                  "lng" : 25.5732431
+               },
+               "southwest" : {
+                  "lat" : 45.3088209,
+                  "lng" : 25.5296946
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

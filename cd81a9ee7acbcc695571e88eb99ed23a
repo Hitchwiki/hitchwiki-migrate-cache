@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A30",
+               "short_name" : "A30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A30, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1657193,
+                  "lng" : 5.6193105
+               },
+               "southwest" : {
+                  "lat" : 52.0294959,
+                  "lng" : 5.5616751
+               }
+            },
+            "location" : {
+               "lat" : 52.0980434,
+               "lng" : 5.591540699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1657193,
+                  "lng" : 5.6193105
+               },
+               "southwest" : {
+                  "lat" : 52.0294959,
+                  "lng" : 5.5616751
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

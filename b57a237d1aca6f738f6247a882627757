@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A42",
+               "short_name" : "A42",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A42, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0729876,
+                  "lng" : 5.3291112
+               },
+               "southwest" : {
+                  "lat" : 45.783552,
+                  "lng" : 4.8931273
+               }
+            },
+            "location" : {
+               "lat" : 45.8638437,
+               "lng" : 5.1338322
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0729876,
+                  "lng" : 5.3291112
+               },
+               "southwest" : {
+                  "lat" : 45.783552,
+                  "lng" : 4.8931273
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

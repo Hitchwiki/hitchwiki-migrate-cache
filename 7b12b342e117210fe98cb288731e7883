@@ -1,0 +1,960 @@
+{
+  "totalResultsCount": 10297,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Buenos_Aires",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -57.81007217467676,
+        "south": -35.082544906698125,
+        "north": -34.14375271358687,
+        "west": -58.94438339172943
+      },
+      "asciiName": "Buenos Aires",
+      "countryId": "3865483",
+      "fcl": "P",
+      "score": 132.77752685546875,
+      "countryCode": "AR",
+      "adminId1": "3433955",
+      "lat": "-34.61315",
+      "fcode": "PPLC",
+      "continentCode": "SA",
+      "adminCode1": "07",
+      "lng": "-58.37723",
+      "geonameId": 3435910,
+      "toponymName": "Buenos Aires",
+      "population": 13076300,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Буенос-Аирес",
+          "lang": "ab"
+        },
+        {
+          "name": "ብዌኖስ አይሬስ",
+          "lang": "am"
+        },
+        {
+          "name": "بوينس آيرس",
+          "lang": "ar"
+        },
+        {
+          "name": "بوينوس ايريس",
+          "lang": "arz"
+        },
+        {
+          "name": "Buenos Ayres",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Буэнас-Айрэс",
+          "lang": "be"
+        },
+        {
+          "name": "Буенос Айрес",
+          "lang": "bg"
+        },
+        {
+          "name": "বুয়েনোস আইরেস",
+          "lang": "bn"
+        },
+        {
+          "name": "པུ་ཨེ་ནོ་སི་ཨས་རི་སི།",
+          "lang": "bo"
+        },
+        {
+          "name": "বুৱেনোস আইরেস",
+          "lang": "bpy"
+        },
+        {
+          "name": "بۆینس ئایرس",
+          "lang": "ckb"
+        },
+        {
+          "name": "Buenos Ayres",
+          "lang": "crh"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "da"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "de"
+        },
+        {
+          "name": "Μπουένος Άιρες",
+          "lang": "el"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "en"
+        },
+        {
+          "name": "Bonaero",
+          "lang": "eo"
+        },
+        {
+          "name": "Baires",
+          "lang": "es"
+        },
+        {
+          "name": "بوئنوس آیرس",
+          "lang": "fa"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "fi"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "fr"
+        },
+        {
+          "name": "Bos Aires",
+          "lang": "gl"
+        },
+        {
+          "name": "בואנוס איירס",
+          "lang": "he"
+        },
+        {
+          "name": "ब्युएनॉस एरीस",
+          "lang": "hi"
+        },
+        {
+          "name": "Bwènozè",
+          "lang": "ht"
+        },
+        {
+          "name": "Բուենոս Այրես",
+          "lang": "hy"
+        },
+        {
+          "name": "BUE",
+          "lang": "iata"
+        },
+        {
+          "name": "Búenos Aíres",
+          "lang": "is"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "it"
+        },
+        {
+          "name": "ブエノスアイレス",
+          "lang": "ja"
+        },
+        {
+          "name": "buenosaires",
+          "lang": "jbo"
+        },
+        {
+          "name": "ბუენოს-აირესი",
+          "lang": "ka"
+        },
+        {
+          "name": "ಬ್ಯೂನಸ್ ಐರಿಸ್",
+          "lang": "kn"
+        },
+        {
+          "name": "부에노스아이레스",
+          "lang": "ko"
+        },
+        {
+          "name": "Буэнос-Айрес",
+          "lang": "ky"
+        },
+        {
+          "name": "Bonaëropolis",
+          "lang": "la"
+        },
+        {
+          "name": "Buenos Ayres",
+          "lang": "lad"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Buenos_Aires",
+          "lang": "link"
+        },
+        {
+          "name": "Buenos Airės",
+          "lang": "lt"
+        },
+        {
+          "name": "Buenosairesa",
+          "lang": "lv"
+        },
+        {
+          "name": "Буенос Аирес",
+          "lang": "mk"
+        },
+        {
+          "name": "ബ്യൂണസ് അയേഴ്സ്",
+          "lang": "ml"
+        },
+        {
+          "name": "Буэнос-Айрес",
+          "lang": "mn"
+        },
+        {
+          "name": "बुएनोस आइरेस",
+          "lang": "mr"
+        },
+        {
+          "name": "ဗျူနိုအေးရိစ်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Буэнос-Айрес ош",
+          "lang": "myv"
+        },
+        {
+          "name": "Bouonézâr",
+          "lang": "nrm"
+        },
+        {
+          "name": "Буэнос-Айрес",
+          "lang": "os"
+        },
+        {
+          "name": "بیونس آئرس",
+          "lang": "pnb"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "pt"
+        },
+        {
+          "name": "Буэнос-Айрес",
+          "lang": "ru"
+        },
+        {
+          "name": "Буенос Аірес",
+          "lang": "rue"
+        },
+        {
+          "name": "Буэнос Айрес",
+          "lang": "sah"
+        },
+        {
+          "name": "Буенос Ајрес",
+          "lang": "sr"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "sv"
+        },
+        {
+          "name": "புவெனஸ் ஐரிஸ்",
+          "lang": "ta"
+        },
+        {
+          "name": "Буэнос Айрес",
+          "lang": "tg"
+        },
+        {
+          "name": "บัวโนสไอเรส",
+          "lang": "th"
+        },
+        {
+          "name": "Buenos-Aýres",
+          "lang": "tk"
+        },
+        {
+          "name": "Lungsod ng Buenos Aires",
+          "lang": "tl"
+        },
+        {
+          "name": "Buénos Ayrés",
+          "lang": "ug"
+        },
+        {
+          "name": "Буенос-Айрес",
+          "lang": "uk"
+        },
+        {
+          "name": "BUE",
+          "lang": "unlc"
+        },
+        {
+          "name": "بیونس آئرس",
+          "lang": "ur"
+        },
+        {
+          "name": "布宜诺斯艾利斯",
+          "lang": "wuu"
+        },
+        {
+          "name": "בוענאס איירעס",
+          "lang": "yi"
+        },
+        {
+          "name": "布宜诺斯艾利斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Buenos Aires",
+      "fclName": "city, village,...",
+      "countryName": "Argentina",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Buenos Aires F.D."
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Buenos_Aires",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -56.6602783203125,
+        "south": -41.048614501953125,
+        "north": -33.256744384765625,
+        "west": -63.38945007324219
+      },
+      "asciiName": "Provincia de Buenos Aires",
+      "countryId": "3865483",
+      "fcl": "A",
+      "score": 67.309814453125,
+      "countryCode": "AR",
+      "adminId1": "3435907",
+      "lat": "-36",
+      "fcode": "ADM1",
+      "continentCode": "SA",
+      "adminCode1": "01",
+      "lng": "-60",
+      "geonameId": 3435907,
+      "toponymName": "Provincia de Buenos Aires",
+      "population": 13827203,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "BA",
+          "lang": "abbr"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "en"
+        },
+        {
+          "name": "Buenos Aires",
+          "lang": "es"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Buenos_Aires_Province",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Buenos Aires",
+      "fclName": "country, state, region,...",
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Buenos Aires"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Buenos_Aires",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -58.346336364746094,
+        "south": -34.68791961669922,
+        "north": -34.53972625732422,
+        "west": -58.533138275146484
+      },
+      "asciiName": "Ciudad Autonoma de Buenos Aires",
+      "countryId": "3865483",
+      "fcl": "A",
+      "score": 41.544525146484375,
+      "countryCode": "AR",
+      "adminId1": "3433955",
+      "lat": "-34.6",
+      "fcode": "ADM1",
+      "continentCode": "SA",
+      "adminCode1": "07",
+      "lng": "-58.45",
+      "geonameId": 3433955,
+      "toponymName": "Ciudad Autónoma de Buenos Aires",
+      "population": 2776138,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Buenos Aires F.D.",
+          "lang": "en"
+        },
+        {
+          "name": "Buenos Aires C.F.",
+          "lang": "es"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Buenos_Aires",
+          "lang": "link"
+        },
+        {
+          "name": "布宜诺斯艾利斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Buenos Aires F.D.",
+      "fclName": "country, state, region,...",
+      "countryName": "Argentina",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Buenos Aires F.D."
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Buenos_Aires",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -57.82285352235741,
+        "south": -35.02956499033564,
+        "north": -34.81334300966435,
+        "west": -58.08621247764258
+      },
+      "asciiName": "La Plata",
+      "countryId": "3865483",
+      "fcl": "P",
+      "score": 38.46275329589844,
+      "adminId2": "3432039",
+      "countryCode": "AR",
+      "adminId1": "3435907",
+      "lat": "-34.92145",
+      "fcode": "PPLA",
+      "continentCode": "SA",
+      "adminCode2": "3432039",
+      "adminCode1": "01",
+      "lng": "-57.95453",
+      "geonameId": 3432043,
+      "toponymName": "La Plata",
+      "population": 694167,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "La Plata",
+          "lang": "af"
+        },
+        {
+          "name": "لابلاتا",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Ла-Плата",
+          "lang": "be"
+        },
+        {
+          "name": "Ла Плата",
+          "lang": "bg"
+        },
+        {
+          "name": "লা প্লাতা",
+          "lang": "bn"
+        },
+        {
+          "name": "La Plata",
+          "lang": "ca"
+        },
+        {
+          "name": "La Plata",
+          "lang": "da"
+        },
+        {
+          "name": "La Plata",
+          "lang": "de"
+        },
+        {
+          "name": "Λα Πλάτα",
+          "lang": "el"
+        },
+        {
+          "name": "La Plata",
+          "lang": "en"
+        },
+        {
+          "name": "La Plata",
+          "lang": "eo"
+        },
+        {
+          "name": "La Plata",
+          "lang": "es"
+        },
+        {
+          "name": "La Plata",
+          "lang": "et"
+        },
+        {
+          "name": "La Plata",
+          "lang": "eu"
+        },
+        {
+          "name": "لا پلاتا",
+          "lang": "fa"
+        },
+        {
+          "name": "La Plata",
+          "lang": "fr"
+        },
+        {
+          "name": "לה פלאטה",
+          "lang": "he"
+        },
+        {
+          "name": "ला प्लाटा",
+          "lang": "hi"
+        },
+        {
+          "name": "LPG",
+          "lang": "iata"
+        },
+        {
+          "name": "La Plata",
+          "lang": "id"
+        },
+        {
+          "name": "La Plata",
+          "lang": "io"
+        },
+        {
+          "name": "La Plata",
+          "lang": "it"
+        },
+        {
+          "name": "ラプラタ",
+          "lang": "ja"
+        },
+        {
+          "name": "ლა-პლატა",
+          "lang": "ka"
+        },
+        {
+          "name": "라플라타",
+          "lang": "ko"
+        },
+        {
+          "name": "Urbs Platensis",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/La_Plata",
+          "lang": "link"
+        },
+        {
+          "name": "La Plata",
+          "lang": "lt"
+        },
+        {
+          "name": "La Plata",
+          "lang": "nl"
+        },
+        {
+          "name": "La Plata",
+          "lang": "no"
+        },
+        {
+          "name": "La Plata",
+          "lang": "oc"
+        },
+        {
+          "name": "Ла-Платæ",
+          "lang": "os"
+        },
+        {
+          "name": "La Plata",
+          "lang": "pl"
+        },
+        {
+          "name": "لا پلاتا",
+          "lang": "pnb"
+        },
+        {
+          "name": "La Plata",
+          "lang": "pt"
+        },
+        {
+          "name": "La Plata",
+          "lang": "ro"
+        },
+        {
+          "name": "Ла-Плата",
+          "lang": "ru"
+        },
+        {
+          "name": "Ла Плата",
+          "lang": "sr"
+        },
+        {
+          "name": "La Plata",
+          "lang": "sv"
+        },
+        {
+          "name": "ลาปลาตา",
+          "lang": "th"
+        },
+        {
+          "name": "Ла-Плата",
+          "lang": "uk"
+        },
+        {
+          "name": "LPG",
+          "lang": "unlc"
+        },
+        {
+          "name": "La-Plata",
+          "lang": "uz"
+        },
+        {
+          "name": "拉普拉塔",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Partido de La Plata",
+      "name": "La Plata",
+      "fclName": "city, village,...",
+      "countryName": "Argentina",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Buenos Aires"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Buenos_Aires",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -58.139056881448774,
+        "south": -34.817644739497396,
+        "north": -34.6307152605026,
+        "west": -58.366235118551224
+      },
+      "asciiName": "Quilmes",
+      "countryId": "3865483",
+      "fcl": "P",
+      "score": 38.46275329589844,
+      "adminId2": "3429651",
+      "countryCode": "AR",
+      "adminId1": "3435907",
+      "lat": "-34.72418",
+      "fcode": "PPLA2",
+      "continentCode": "SA",
+      "adminCode2": "3429651",
+      "adminCode1": "01",
+      "lng": "-58.25265",
+      "geonameId": 3429652,
+      "toponymName": "Quilmes",
+      "population": 518788,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Килмес",
+          "lang": "bg"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "de"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "en"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "eo"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "es"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "eu"
+        },
+        {
+          "name": "کیلمس",
+          "lang": "fa"
+        },
+        {
+          "name": "キルメス",
+          "lang": "ja"
+        },
+        {
+          "name": "კილმესი",
+          "lang": "ka"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Quilmes",
+          "lang": "link"
+        },
+        {
+          "name": "Kilmesas",
+          "lang": "lt"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "nl"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "pl"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "pt"
+        },
+        {
+          "name": "Кильмес",
+          "lang": "ru"
+        },
+        {
+          "name": "Килмес",
+          "lang": "sr"
+        },
+        {
+          "name": "Quilmes",
+          "lang": "sv"
+        },
+        {
+          "name": "Кільмес",
+          "lang": "uk"
+        },
+        {
+          "name": "QUI",
+          "lang": "unlc"
+        },
+        {
+          "name": "基尔梅斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Partido de Quilmes",
+      "name": "Quilmes",
+      "fclName": "city, village,...",
+      "countryName": "Argentina",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Buenos Aires"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -76.55644414799997,
+        "south": 2.870743573000027,
+        "north": 3.145918542000061,
+        "west": -76.80635661599996
+      },
+      "asciiName": "Buenos Aires",
+      "countryId": "3686110",
+      "fcl": "A",
+      "score": 36.720516204833984,
+      "adminId2": "3688360",
+      "countryCode": "CO",
+      "adminId1": "3687029",
+      "lat": "2.91667",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "19110",
+      "adminCode1": "09",
+      "lng": "-76.66667",
+      "geonameId": 3688360,
+      "toponymName": "Buenos Aires",
+      "population": 26961,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Buenos_Aires%2C_Cauca",
+        "lang": "link"
+      }],
+      "adminName2": "Buenos Aires",
+      "name": "Buenos Aires",
+      "fclName": "country, state, region,...",
+      "countryName": "Colombia",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Cauca"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Buenos_Aires",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -58.41935528789489,
+        "south": -34.722899622394806,
+        "north": -34.6352403776052,
+        "west": -58.525894712105114
+      },
+      "asciiName": "Villa Lugano",
+      "countryId": "3865483",
+      "fcl": "P",
+      "score": 33.9965934753418,
+      "countryCode": "AR",
+      "adminId1": "3433955",
+      "lat": "-34.67907",
+      "fcode": "PPLX",
+      "continentCode": "SA",
+      "adminCode1": "07",
+      "lng": "-58.47263",
+      "geonameId": 3427408,
+      "toponymName": "Villa Lugano",
+      "population": 114000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Villa_Lugano",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Villa Lugano",
+      "fclName": "city, village,...",
+      "countryName": "Argentina",
+      "fcodeName": "section of populated place",
+      "adminName1": "Buenos Aires F.D."
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -66.817133,
+        "south": 18.230336,
+        "north": 18.291524,
+        "west": -66.879909
+      },
+      "asciiName": "Buenos Aires Barrio",
+      "countryId": "4566966",
+      "fcl": "A",
+      "score": 33.9965934753418,
+      "adminId2": "7268274",
+      "countryCode": "PR",
+      "adminId1": "4565910",
+      "lat": "18.26567",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "elevation": 462,
+      "adminCode2": "7268274",
+      "adminCode1": "081",
+      "lng": "-66.84683",
+      "geonameId": 7268274,
+      "toponymName": "Buenos Aires Barrio",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Buenos Aires Barrio",
+      "name": "Buenos Aires Barrio",
+      "fclName": "country, state, region,...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Lares"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Costa_Rica",
+        "dstOffset": -6
+      },
+      "asciiName": "Canton de Buenos Aires",
+      "countryId": "3624060",
+      "fcl": "A",
+      "score": 31.404705047607422,
+      "adminId2": "3624586",
+      "countryCode": "CR",
+      "adminId1": "3622226",
+      "lat": "9.11667",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "adminCode2": "3624586",
+      "adminCode1": "07",
+      "lng": "-83.25",
+      "geonameId": 3624586,
+      "toponymName": "Cantón de Buenos Aires",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Buenos_Aires_Canton",
+        "lang": "link"
+      }],
+      "adminName2": "Cantón de Buenos Aires",
+      "name": "Cantón de Buenos Aires",
+      "fclName": "country, state, region,...",
+      "countryName": "Costa Rica",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Puntarenas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Costa_Rica",
+        "dstOffset": -6
+      },
+      "asciiName": "Buenos Aires Airport",
+      "countryId": "3624060",
+      "fcl": "S",
+      "score": 31.034500122070312,
+      "countryCode": "CR",
+      "adminId1": "3622226",
+      "lat": "9.16361",
+      "fcode": "AIRP",
+      "continentCode": "NA",
+      "adminCode1": "07",
+      "lng": "-83.3299",
+      "geonameId": 7730109,
+      "toponymName": "Buenos Aires Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Buenos Aires Airport",
+          "lang": "en"
+        },
+        {
+          "name": "BAI",
+          "lang": "iata"
+        },
+        {
+          "name": "MRBA",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Buenos_Aires_Airport_%28Costa_Rica%29",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Buenos Aires Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Costa Rica",
+      "fcodeName": "airport",
+      "adminName1": "Puntarenas"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rosh Pinna",
+               "short_name" : "Rosh Pinna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tzfat",
+               "short_name" : "Tzfat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North District",
+               "short_name" : "North District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rosh Pinna, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.030289,
+                  "lng" : 35.594438
+               },
+               "southwest" : {
+                  "lat" : 32.9544609,
+                  "lng" : 35.52183309999999
+               }
+            },
+            "location" : {
+               "lat" : 32.970422,
+               "lng" : 35.542659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.030289,
+                  "lng" : 35.594438
+               },
+               "southwest" : {
+                  "lat" : 32.9544609,
+                  "lng" : 35.52183309999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A43",
+               "short_name" : "A43",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A43, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.91574809999999,
+                  "lng" : 7.568869399999999
+               },
+               "southwest" : {
+                  "lat" : 51.3137429,
+                  "lng" : 7.147083299999999
+               }
+            },
+            "location" : {
+               "lat" : 51.5959173,
+               "lng" : 7.1865226
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.91574809999999,
+                  "lng" : 7.568869399999999
+               },
+               "southwest" : {
+                  "lat" : 51.3137429,
+                  "lng" : 7.147083299999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

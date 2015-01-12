@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hasankeyf",
+               "short_name" : "Hasankeyf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Batman",
+               "short_name" : "Batman",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hasankeyf/Batman, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.715309,
+                  "lng" : 41.425407
+               },
+               "southwest" : {
+                  "lat" : 37.710007,
+                  "lng" : 41.41093499999999
+               }
+            },
+            "location" : {
+               "lat" : 37.711641,
+               "lng" : 41.4177304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.715309,
+                  "lng" : 41.425407
+               },
+               "southwest" : {
+                  "lat" : 37.710007,
+                  "lng" : 41.41093499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

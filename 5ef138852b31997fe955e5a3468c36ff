@@ -1,0 +1,338 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.0237921,
+                  "lng" : -96.4637379
+               },
+               "southwest" : {
+                  "lat" : 32.617537,
+                  "lng" : -96.9989413
+               }
+            },
+            "location" : {
+               "lat" : 32.7766642,
+               "lng" : -96.79698789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0237921,
+                  "lng" : -96.4637379
+               },
+               "southwest" : {
+                  "lat" : 32.617537,
+                  "lng" : -96.9989413
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polk County",
+               "short_name" : "Polk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97338",
+               "short_name" : "97338",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas, OR 97338, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.937987,
+                  "lng" : -123.274951
+               },
+               "southwest" : {
+                  "lat" : 44.9031279,
+                  "lng" : -123.3491459
+               }
+            },
+            "location" : {
+               "lat" : 44.9192844,
+               "lng" : -123.3170472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.937987,
+                  "lng" : -123.274951
+               },
+               "southwest" : {
+                  "lat" : 44.9031279,
+                  "lng" : -123.3491459
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paulding County",
+               "short_name" : "Paulding County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9408401,
+                  "lng" : -84.79273689999999
+               },
+               "southwest" : {
+                  "lat" : 33.8900608,
+                  "lng" : -84.8974
+               }
+            },
+            "location" : {
+               "lat" : 33.9244531,
+               "lng" : -84.8413056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9408401,
+                  "lng" : -84.79273689999999
+               },
+               "southwest" : {
+                  "lat" : 33.8900608,
+                  "lng" : -84.8974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gaston County",
+               "short_name" : "Gaston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.332091,
+                  "lng" : -81.132375
+               },
+               "southwest" : {
+                  "lat" : 35.299382,
+                  "lng" : -81.21529009999999
+               }
+            },
+            "location" : {
+               "lat" : 35.3165257,
+               "lng" : -81.17618949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.332091,
+                  "lng" : -81.14779279999999
+               },
+               "southwest" : {
+                  "lat" : 35.299382,
+                  "lng" : -81.21529009999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luzerne County",
+               "short_name" : "Luzerne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18612",
+               "short_name" : "18612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas, PA 18612, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.345579,
+                  "lng" : -75.947543
+               },
+               "southwest" : {
+                  "lat" : 41.31568,
+                  "lng" : -75.99494399999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3361911,
+               "lng" : -75.9632546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.345579,
+                  "lng" : -75.947543
+               },
+               "southwest" : {
+                  "lat" : 41.31568,
+                  "lng" : -75.99494399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barron County",
+               "short_name" : "Barron County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2663389,
+                  "lng" : -91.7987698
+               },
+               "southwest" : {
+                  "lat" : 45.2515689,
+                  "lng" : -91.82950790000001
+               }
+            },
+            "location" : {
+               "lat" : 45.2591275,
+               "lng" : -91.8148954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2663389,
+                  "lng" : -91.7987698
+               },
+               "southwest" : {
+                  "lat" : 45.2515689,
+                  "lng" : -91.82950790000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

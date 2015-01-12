@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A571",
+               "short_name" : "A571",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bad Neuenahr-Ahrweiler",
+               "short_name" : "Bad Neuenahr-Ahrweiler",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53474",
+               "short_name" : "53474",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A571, 53474 Bad Neuenahr-Ahrweiler, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5487858,
+                  "lng" : 7.197856299999999
+               },
+               "southwest" : {
+                  "lat" : 50.5296653,
+                  "lng" : 7.1504007
+               }
+            },
+            "location" : {
+               "lat" : 50.546741,
+               "lng" : 7.175688999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5487858,
+                  "lng" : 7.197856299999999
+               },
+               "southwest" : {
+                  "lat" : 50.5296653,
+                  "lng" : 7.1504007
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

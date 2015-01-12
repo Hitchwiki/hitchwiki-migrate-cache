@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dej",
+               "short_name" : "Dej",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dej",
+               "short_name" : "Dej",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cluj County",
+               "short_name" : "CJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "405200",
+               "short_name" : "405200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dej 405200, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.16970209999999,
+                  "lng" : 23.9257336
+               },
+               "southwest" : {
+                  "lat" : 47.0989784,
+                  "lng" : 23.802234
+               }
+            },
+            "location" : {
+               "lat" : 47.1415878,
+               "lng" : 23.8787342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.16970209999999,
+                  "lng" : 23.9257336
+               },
+               "southwest" : {
+                  "lat" : 47.0989784,
+                  "lng" : 23.802234
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

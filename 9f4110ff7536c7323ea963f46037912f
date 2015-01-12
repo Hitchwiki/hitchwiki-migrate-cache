@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "João Pessoa",
+               "short_name" : "João Pessoa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "João Pessoa",
+               "short_name" : "João Pessoa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraíba",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "João Pessoa - PB, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.058043000000001,
+                  "lng" : -34.7932476
+               },
+               "southwest" : {
+                  "lat" : -7.2351747,
+                  "lng" : -34.9700047
+               }
+            },
+            "location" : {
+               "lat" : -7.119495799999999,
+               "lng" : -34.8450118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.058043000000001,
+                  "lng" : -34.7932476
+               },
+               "southwest" : {
+                  "lat" : -7.2351747,
+                  "lng" : -34.9700047
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

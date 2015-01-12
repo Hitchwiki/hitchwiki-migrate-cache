@@ -1,0 +1,348 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Athina",
+               "short_name" : "Athina",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kentrikos Tomeas Athinon",
+               "short_name" : "Kentrikos Tomeas Athinon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            },
+            "location" : {
+               "lat" : 37.983917,
+               "lng" : 23.7293599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Limestone County",
+               "short_name" : "Limestone County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.840993,
+                  "lng" : -86.8684179
+               },
+               "southwest" : {
+                  "lat" : 34.6857033,
+                  "lng" : -87.08572009999999
+               }
+            },
+            "location" : {
+               "lat" : 34.8028661,
+               "lng" : -86.9716741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.840993,
+                  "lng" : -86.8684179
+               },
+               "southwest" : {
+                  "lat" : 34.6857033,
+                  "lng" : -87.08572009999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Athens County",
+               "short_name" : "Athens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45701",
+               "short_name" : "45701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Athens, OH 45701, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3607349,
+                  "lng" : -82.02705089999999
+               },
+               "southwest" : {
+                  "lat" : 39.2863199,
+                  "lng" : -82.1427011
+               }
+            },
+            "location" : {
+               "lat" : 39.3292396,
+               "lng" : -82.1012554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3607349,
+                  "lng" : -82.02705089999999
+               },
+               "southwest" : {
+                  "lat" : 39.2863199,
+                  "lng" : -82.1427011
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Henderson County",
+               "short_name" : "Henderson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.23531,
+                  "lng" : -95.71951989999999
+               },
+               "southwest" : {
+                  "lat" : 32.156884,
+                  "lng" : -95.91721299999999
+               }
+            },
+            "location" : {
+               "lat" : 32.2048735,
+               "lng" : -95.8555207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.23531,
+                  "lng" : -95.71951989999999
+               },
+               "southwest" : {
+                  "lat" : 32.156884,
+                  "lng" : -95.91721299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "McMinn County",
+               "short_name" : "McMinn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.493313,
+                  "lng" : -84.5608259
+               },
+               "southwest" : {
+                  "lat" : 35.419262,
+                  "lng" : -84.6559489
+               }
+            },
+            "location" : {
+               "lat" : 35.4428512,
+               "lng" : -84.5929898
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.493313,
+                  "lng" : -84.5608259
+               },
+               "southwest" : {
+                  "lat" : 35.419262,
+                  "lng" : -84.6559489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clarke County",
+               "short_name" : "Clarke County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.040572,
+                  "lng" : -83.24086
+               },
+               "southwest" : {
+                  "lat" : 33.8479769,
+                  "lng" : -83.537385
+               }
+            },
+            "location" : {
+               "lat" : 33.95,
+               "lng" : -83.38333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.040572,
+                  "lng" : -83.24086
+               },
+               "southwest" : {
+                  "lat" : 33.8479769,
+                  "lng" : -83.537385
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

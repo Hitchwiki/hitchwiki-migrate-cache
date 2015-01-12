@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A650",
+               "short_name" : "A650",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A650, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4822085,
+                  "lng" : 8.421645699999999
+               },
+               "southwest" : {
+                  "lat" : 49.46948219999999,
+                  "lng" : 8.230980799999999
+               }
+            },
+            "location" : {
+               "lat" : 49.4801395,
+               "lng" : 8.3242245
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4822085,
+                  "lng" : 8.421645699999999
+               },
+               "southwest" : {
+                  "lat" : 49.46948219999999,
+                  "lng" : 8.230980799999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

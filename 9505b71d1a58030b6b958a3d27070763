@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5752471,
+                  "lng" : 9.4659335
+               },
+               "southwest" : {
+                  "lat" : 47.034104,
+                  "lng" : 7.5630719
+               }
+            },
+            "location" : {
+               "lat" : 47.31673019999999,
+               "lng" : 8.537428
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5752471,
+                  "lng" : 9.4659335
+               },
+               "southwest" : {
+                  "lat" : 47.034104,
+                  "lng" : 7.5630719
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

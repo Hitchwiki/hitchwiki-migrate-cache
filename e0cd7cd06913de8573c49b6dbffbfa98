@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Angola",
+               "short_name" : "AO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Angola",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.3879444,
+                  "lng" : 24.0844444
+               },
+               "southwest" : {
+                  "lat" : -18.0391039,
+                  "lng" : 11.669562
+               }
+            },
+            "location" : {
+               "lat" : -11.202692,
+               "lng" : 17.873887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.3879444,
+                  "lng" : 24.0844444
+               },
+               "southwest" : {
+                  "lat" : -18.0391039,
+                  "lng" : 11.669562
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

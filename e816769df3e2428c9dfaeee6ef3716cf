@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muğla",
+               "short_name" : "Muğla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muğla",
+               "short_name" : "Muğla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mugla",
+               "short_name" : "Mugla",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48000",
+               "short_name" : "48000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48000 Muğla/Muğla Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.225165,
+                  "lng" : 28.3861861
+               },
+               "southwest" : {
+                  "lat" : 37.195114,
+                  "lng" : 28.342408
+               }
+            },
+            "location" : {
+               "lat" : 37.216667,
+               "lng" : 28.366667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.225165,
+                  "lng" : 28.3861861
+               },
+               "southwest" : {
+                  "lat" : 37.195114,
+                  "lng" : 28.342408
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

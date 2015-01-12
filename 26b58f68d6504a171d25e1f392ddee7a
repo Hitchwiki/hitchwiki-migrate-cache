@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Korday",
+               "short_name" : "Korday",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Korday District",
+               "short_name" : "Korday District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jambyl Province",
+               "short_name" : "Jambyl Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Korday, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0880089,
+                  "lng" : 74.741293
+               },
+               "southwest" : {
+                  "lat" : 43.0007869,
+                  "lng" : 74.68188289999999
+               }
+            },
+            "location" : {
+               "lat" : 43.033333,
+               "lng" : 74.716667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0880089,
+                  "lng" : 74.741293
+               },
+               "southwest" : {
+                  "lat" : 43.0007869,
+                  "lng" : 74.68188289999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

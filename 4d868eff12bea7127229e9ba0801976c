@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Papua New Guinea",
+               "short_name" : "PG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Papua New Guinea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.8713194999999999,
+                  "lng" : 159.4925058
+               },
+               "southwest" : {
+                  "lat" : -11.6578608,
+                  "lng" : 140.8419695
+               }
+            },
+            "location" : {
+               "lat" : -6.314992999999999,
+               "lng" : 143.95555
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.8713194999999999,
+                  "lng" : 157.0857239
+               },
+               "southwest" : {
+                  "lat" : -11.6578608,
+                  "lng" : 140.8419695
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

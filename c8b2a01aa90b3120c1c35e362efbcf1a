@@ -1,0 +1,513 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music",
+               "short_name" : "Music",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Cold Spring Road",
+               "short_name" : "Cold Spring Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montecito",
+               "short_name" : "Montecito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93108",
+               "short_name" : "93108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Music, Cold Spring Road, Montecito, CA 93108, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4470981,
+                  "lng" : -119.6588239
+               },
+               "southwest" : {
+                  "lat" : 34.44682390000001,
+                  "lng" : -119.6590506
+               }
+            },
+            "location" : {
+               "lat" : 34.4469509,
+               "lng" : -119.6589252
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4483099802915,
+                  "lng" : -119.6575882697085
+               },
+               "southwest" : {
+                  "lat" : 34.4456120197085,
+                  "lng" : -119.6602862302915
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music Hall",
+               "short_name" : "Music Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Labuan-Limpapa National Road",
+               "short_name" : "Labuan-Limpapa National Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barangay Calarian",
+               "short_name" : "Barangay Calarian",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Zamboanga",
+               "short_name" : "Zamboanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zamboanga Sibugay",
+               "short_name" : "Zamboanga Sibugay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zamboanga Peninsula",
+               "short_name" : "Zamboanga Peninsula",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Music Hall, Labuan-Limpapa National Road, Barangay Calarian, Zamboanga, Zamboanga Sibugay, Philippines",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.923912,
+               "lng" : 122.0238604
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.925260980291502,
+                  "lng" : 122.0252093802915
+               },
+               "southwest" : {
+                  "lat" : 6.922563019708497,
+                  "lng" : 122.0225114197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music",
+               "short_name" : "Music",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Central Bosnia Canton",
+               "short_name" : "Central Bosnia Canton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Federation of Bosnia and Herzegovina",
+               "short_name" : "Federation of Bosnia and Herzegovina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Music, Bosnia and Herzegovina",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.3027778,
+               "lng" : 17.3025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3041267802915,
+                  "lng" : 17.3038489802915
+               },
+               "southwest" : {
+                  "lat" : 44.30142881970851,
+                  "lng" : 17.3011510197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music Building",
+               "short_name" : "Music Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Xavier University of Louisiana",
+               "short_name" : "Xavier University of Louisiana",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Drexel Drive",
+               "short_name" : "Drexel Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gert Town",
+               "short_name" : "Gert Town",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans Parish",
+               "short_name" : "Orleans Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70125",
+               "short_name" : "70125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Music Building, Xavier University of Louisiana, Drexel Drive, New Orleans, LA 70125, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.9648828,
+                  "lng" : -90.10764689999999
+               },
+               "southwest" : {
+                  "lat" : 29.9645155,
+                  "lng" : -90.1081152
+               }
+            },
+            "location" : {
+               "lat" : 29.9646822,
+               "lng" : -90.10785010000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.96604813029149,
+                  "lng" : -90.10653206970849
+               },
+               "southwest" : {
+                  "lat" : 29.9633501697085,
+                  "lng" : -90.1092300302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music Department",
+               "short_name" : "Music Department",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Obafemi Awolowo University",
+               "short_name" : "OAU",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Road 5",
+               "short_name" : "Road 5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ife",
+               "short_name" : "Ife",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osun",
+               "short_name" : "Osun",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Music Department, Obafemi Awolowo University, Road 5, Ife, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.5216767,
+                  "lng" : 4.5216705
+               },
+               "southwest" : {
+                  "lat" : 7.521511899999999,
+                  "lng" : 4.5213756
+               }
+            },
+            "location" : {
+               "lat" : 7.521589700000001,
+               "lng" : 4.5215358
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.522943280291501,
+                  "lng" : 4.522872030291503
+               },
+               "southwest" : {
+                  "lat" : 7.520245319708496,
+                  "lng" : 4.520174069708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music",
+               "short_name" : "Music",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Workman Mill Road",
+               "short_name" : "Workman Mill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whittier",
+               "short_name" : "Whittier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90601",
+               "short_name" : "90601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Music, Workman Mill Road, Whittier, CA 90601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0182694,
+               "lng" : -118.0340812
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0196183802915,
+                  "lng" : -118.0327322197085
+               },
+               "southwest" : {
+                  "lat" : 34.0169204197085,
+                  "lng" : -118.0354301802915
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music Hall",
+               "short_name" : "Music Hall",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Pavilion University",
+               "short_name" : "Pavilion University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Sampson Udo Drive",
+               "short_name" : "Sampson Udo Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uyo",
+               "short_name" : "Uyo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akwa Ibom",
+               "short_name" : "Akwa Ibom",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Music Hall, Pavilion University, University of Uyo Town Campus, Sampson Udo Drive, Uyo, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.0419607,
+                  "lng" : 7.925469000000001
+               },
+               "southwest" : {
+                  "lat" : 5.041746799999999,
+                  "lng" : 7.925246400000001
+               }
+            },
+            "location" : {
+               "lat" : 5.0418642,
+               "lng" : 7.9253464
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.043202730291502,
+                  "lng" : 7.926706680291502
+               },
+               "southwest" : {
+                  "lat" : 5.040504769708497,
+                  "lng" : 7.924008719708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Music",
+               "short_name" : "M",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "North 11th Avenue",
+               "short_name" : "N 11th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Phoenix College",
+               "short_name" : "Phoenix College",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Phoenix",
+               "short_name" : "Phoenix",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa County",
+               "short_name" : "Maricopa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85013",
+               "short_name" : "85013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Music, North 11th Avenue, Phoenix, AZ 85013, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4833157,
+                  "lng" : -112.0871927
+               },
+               "southwest" : {
+                  "lat" : 33.4829375,
+                  "lng" : -112.0876163
+               }
+            },
+            "location" : {
+               "lat" : 33.4831266,
+               "lng" : -112.0874045
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.48447558029149,
+                  "lng" : -112.0860555197085
+               },
+               "southwest" : {
+                  "lat" : 33.4817776197085,
+                  "lng" : -112.0887534802915
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A660",
+               "short_name" : "A660",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A660, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6432091,
+                  "lng" : -0.8398471
+               },
+               "southwest" : {
+                  "lat" : 44.6116172,
+                  "lng" : -1.1021843
+               }
+            },
+            "location" : {
+               "lat" : 44.6222779,
+               "lng" : -0.9664661999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6432091,
+                  "lng" : -0.8398471
+               },
+               "southwest" : {
+                  "lat" : 44.6116172,
+                  "lng" : -1.1021843
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

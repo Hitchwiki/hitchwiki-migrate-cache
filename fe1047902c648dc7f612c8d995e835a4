@@ -1,0 +1,118 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -3.5,
+        "timeZoneId": "America/St_Johns",
+        "dstOffset": -2.5
+      },
+      "bbox": {
+        "east": -59.12519760390765,
+        "south": 47.56242530875971,
+        "north": 47.57800276534375,
+        "west": -59.1482894871568
+      },
+      "asciiName": "Channel-Port aux Basques",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 33.338401794433594,
+      "countryCode": "CA",
+      "adminId1": "6354959",
+      "lat": "47.57021",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "05",
+      "lng": "-59.13674",
+      "geonameId": 5919815,
+      "toponymName": "Channel-Port aux Basques",
+      "population": 4220,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Channel-Port_aux_Basques",
+          "lang": "link"
+        },
+        {
+          "name": "PBQ",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Channel-Port aux Basques",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Newfoundland and Labrador"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3.5,
+        "timeZoneId": "America/St_Johns",
+        "dstOffset": -2.5
+      },
+      "asciiName": "Port aux Basques",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 19.050514221191406,
+      "countryCode": "CA",
+      "adminId1": "6354959",
+      "lat": "47.58332",
+      "fcode": "HBR",
+      "continentCode": "NA",
+      "adminCode1": "05",
+      "lng": "-59.13188",
+      "geonameId": 6111671,
+      "toponymName": "Port aux Basques",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Channel_%E2%80%93_Port_aux_Basques",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Port aux Basques",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "harbor(s)",
+      "adminName1": "Newfoundland and Labrador"
+    },
+    {
+      "elevation": 40,
+      "lng": "-59.16667",
+      "geonameId": 6296109,
+      "timezone": {
+        "gmtOffset": -3.5,
+        "timeZoneId": "America/St_Johns",
+        "dstOffset": -2.5
+      },
+      "toponymName": "Port-Aux-Basques, Nfld.",
+      "asciiName": "Port-Aux-Basques, Nfld.",
+      "countryId": "6251999",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 7.143942832946777,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "CWZB",
+        "lang": "icao"
+      }],
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Port-Aux-Basques, Nfld.",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "meteorological station",
+      "adminName1": "",
+      "lat": "47.56667",
+      "fcode": "STNM",
+      "continentCode": "NA"
+    }
+  ]
+}

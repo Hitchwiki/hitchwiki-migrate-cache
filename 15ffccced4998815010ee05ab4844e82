@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M61",
+               "short_name" : "M61",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chorley",
+               "short_name" : "Chorley",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR6",
+               "short_name" : "PR6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M61, Chorley PR6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7327834,
+                  "lng" : -2.3624777
+               },
+               "southwest" : {
+                  "lat" : 53.52599319999999,
+                  "lng" : -2.6455235
+               }
+            },
+            "location" : {
+               "lat" : 53.6243793,
+               "lng" : -2.5851012
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7327834,
+                  "lng" : -2.3624777
+               },
+               "southwest" : {
+                  "lat" : 53.52599319999999,
+                  "lng" : -2.6455235
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

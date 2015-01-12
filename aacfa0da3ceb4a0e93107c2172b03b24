@@ -1,0 +1,242 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-27",
+               "short_name" : "A-27",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "Tarragona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "T",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cataluña",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-27, Tarragona, Tarragona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1872353,
+                  "lng" : 1.2330098
+               },
+               "southwest" : {
+                  "lat" : 41.1266904,
+                  "lng" : 1.2118836
+               }
+            },
+            "location" : {
+               "lat" : 41.1593738,
+               "lng" : 1.225568
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1872353,
+                  "lng" : 1.2330098
+               },
+               "southwest" : {
+                  "lat" : 41.1266904,
+                  "lng" : 1.2118836
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-27",
+               "short_name" : "A-27",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-27, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6024161,
+                  "lng" : -2.7041656
+               },
+               "southwest" : {
+                  "lat" : 38.5346381,
+                  "lng" : -2.7604396
+               }
+            },
+            "location" : {
+               "lat" : 38.55870549999999,
+               "lng" : -2.7399625
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6024161,
+                  "lng" : -2.7041656
+               },
+               "southwest" : {
+                  "lat" : 38.5346381,
+                  "lng" : -2.7604396
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-27",
+               "short_name" : "A-27",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yecla",
+               "short_name" : "Yecla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Murcia",
+               "short_name" : "MU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de Murcia",
+               "short_name" : "Región de Murcia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03657",
+               "short_name" : "03657",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-27, 03657 Yecla, Murcia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5292141,
+                  "lng" : -1.0215304
+               },
+               "southwest" : {
+                  "lat" : 38.5243598,
+                  "lng" : -1.0445427
+               }
+            },
+            "location" : {
+               "lat" : 38.5254466,
+               "lng" : -1.0320975
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5292141,
+                  "lng" : -1.0215304
+               },
+               "southwest" : {
+                  "lat" : 38.5243598,
+                  "lng" : -1.0445427
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-27",
+               "short_name" : "A-27",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bienservida",
+               "short_name" : "Bienservida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bienservida",
+               "short_name" : "Bienservida",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02360",
+               "short_name" : "02360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-27, 02360 Bienservida, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5261273,
+                  "lng" : -2.5385246
+               },
+               "southwest" : {
+                  "lat" : 38.5113264,
+                  "lng" : -2.5833735
+               }
+            },
+            "location" : {
+               "lat" : 38.5237341,
+               "lng" : -2.5590527
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5261273,
+                  "lng" : -2.5385246
+               },
+               "southwest" : {
+                  "lat" : 38.5113264,
+                  "lng" : -2.5833735
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

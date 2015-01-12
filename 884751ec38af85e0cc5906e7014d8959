@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rauma",
+               "short_name" : "Rauma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rauma",
+               "short_name" : "Rauma",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26100",
+               "short_name" : "26100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "26100 Rauma, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.1308422,
+               "lng" : 21.5059588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.13622890000001,
+                  "lng" : 21.5219662
+               },
+               "southwest" : {
+                  "lat" : 61.12545449999999,
+                  "lng" : 21.4899514
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

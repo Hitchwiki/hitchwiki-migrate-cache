@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarandë",
+               "short_name" : "Sarandë",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarandë, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8857015,
+                  "lng" : 20.0435258
+               },
+               "southwest" : {
+                  "lat" : 39.8490077,
+                  "lng" : 19.9696755
+               }
+            },
+            "location" : {
+               "lat" : 39.875,
+               "lng" : 20.01
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8857015,
+                  "lng" : 20.0435258
+               },
+               "southwest" : {
+                  "lat" : 39.8490077,
+                  "lng" : 19.9696755
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R63",
+               "short_name" : "R63",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R63, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6240501,
+                  "lng" : 13.9639279
+               },
+               "southwest" : {
+                  "lat" : 50.6126964,
+                  "lng" : 13.8708324
+               }
+            },
+            "location" : {
+               "lat" : 50.6155777,
+               "lng" : 13.9168175
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6240501,
+                  "lng" : 13.9639279
+               },
+               "southwest" : {
+                  "lat" : 50.6126964,
+                  "lng" : 13.8708324
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

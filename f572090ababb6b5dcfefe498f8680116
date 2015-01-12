@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanstholm",
+               "short_name" : "Hanstholm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thisted Municipality",
+               "short_name" : "Thisted Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Denmark Region",
+               "short_name" : "North Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7730",
+               "short_name" : "7730",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7730 Hanstholm, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.1263709,
+                  "lng" : 8.808532999999999
+               },
+               "southwest" : {
+                  "lat" : 57.06498,
+                  "lng" : 8.541715699999999
+               }
+            },
+            "location" : {
+               "lat" : 57.112861,
+               "lng" : 8.617668000000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.1263709,
+                  "lng" : 8.808532999999999
+               },
+               "southwest" : {
+                  "lat" : 57.06498,
+                  "lng" : 8.541715699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

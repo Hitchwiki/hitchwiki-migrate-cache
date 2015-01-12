@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thun",
+               "short_name" : "Thun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thun District",
+               "short_name" : "Thun District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Bern",
+               "short_name" : "BE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thun, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.77102,
+                  "lng" : 7.6902499
+               },
+               "southwest" : {
+                  "lat" : 46.7094,
+                  "lng" : 7.58616
+               }
+            },
+            "location" : {
+               "lat" : 46.74842839999999,
+               "lng" : 7.626298500000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.77102,
+                  "lng" : 7.6902499
+               },
+               "southwest" : {
+                  "lat" : 46.7094,
+                  "lng" : 7.58616
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

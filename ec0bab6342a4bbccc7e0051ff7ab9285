@@ -1,0 +1,93 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "bbox": {
+        "east": 76.22211857085016,
+        "south": 42.43433471066229,
+        "north": 42.485999289337705,
+        "west": 76.15205942914984
+      },
+      "asciiName": "Balykchy",
+      "countryId": "1527747",
+      "fcl": "P",
+      "score": 68.57146453857422,
+      "countryCode": "KG",
+      "adminId1": "1528260",
+      "lat": "42.46017",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "07",
+      "lng": "76.18709",
+      "geonameId": 1527004,
+      "toponymName": "Balykchy",
+      "population": 40000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Balykchy",
+          "lang": "ky"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Balykchy",
+          "lang": "link"
+        },
+        {
+          "name": "Балыкчи",
+          "lang": "ru"
+        },
+        {
+          "name": "BYK",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Balykchy",
+      "fclName": "city, village,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "populated place",
+      "adminName1": "Ysyk-Köl"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "asciiName": "Stantsiya Rybach'ye",
+      "countryId": "1527747",
+      "fcl": "S",
+      "score": 5.998753070831299,
+      "countryCode": "KG",
+      "adminId1": "1528260",
+      "lat": "42.44771",
+      "fcode": "RSTN",
+      "continentCode": "AS",
+      "adminCode1": "07",
+      "lng": "76.177",
+      "geonameId": 8331892,
+      "toponymName": "Stantsiya Rybach’ye",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Станция Рыбачье",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Stantsiya Rybach’ye",
+      "fclName": "spot, building, farm",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "railroad station",
+      "adminName1": "Ysyk-Köl"
+    }
+  ]
+}

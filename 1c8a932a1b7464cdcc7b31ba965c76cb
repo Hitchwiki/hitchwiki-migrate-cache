@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A34",
+               "short_name" : "A34",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Champagne-Ardenne",
+               "short_name" : "Champagne-Ardenne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A34, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7388355,
+                  "lng" : 4.9052216
+               },
+               "southwest" : {
+                  "lat" : 49.20802,
+                  "lng" : 4.0695268
+               }
+            },
+            "location" : {
+               "lat" : 49.5253416,
+               "lng" : 4.414823699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7388355,
+                  "lng" : 4.9052216
+               },
+               "southwest" : {
+                  "lat" : 49.20802,
+                  "lng" : 4.0695268
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

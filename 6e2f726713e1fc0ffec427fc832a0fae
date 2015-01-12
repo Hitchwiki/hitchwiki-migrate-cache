@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taraz",
+               "short_name" : "Taraz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jambyl District",
+               "short_name" : "Jambyl District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jambyl Province",
+               "short_name" : "Jambyl Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taraz, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.96081969999999,
+                  "lng" : 71.49696349999999
+               },
+               "southwest" : {
+                  "lat" : 42.83144679999999,
+                  "lng" : 71.24075879999999
+               }
+            },
+            "location" : {
+               "lat" : 42.9,
+               "lng" : 71.36666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.96081969999999,
+                  "lng" : 71.49696349999999
+               },
+               "southwest" : {
+                  "lat" : 42.83144679999999,
+                  "lng" : 71.24075879999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

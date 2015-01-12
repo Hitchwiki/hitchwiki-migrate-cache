@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7875625,
+                  "lng" : -1.7785614
+               },
+               "southwest" : {
+                  "lat" : 53.692218,
+                  "lng" : -1.9703541
+               }
+            },
+            "location" : {
+               "lat" : 53.72702,
+               "lng" : -1.85754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7875625,
+                  "lng" : -1.7785614
+               },
+               "southwest" : {
+                  "lat" : 53.692218,
+                  "lng" : -1.9703541
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7035312,
+                  "lng" : -63.5596248
+               },
+               "southwest" : {
+                  "lat" : 44.5949302,
+                  "lng" : -63.68627009999999
+               }
+            },
+            "location" : {
+               "lat" : 44.6488625,
+               "lng" : -63.5753196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7035312,
+                  "lng" : -63.5596248
+               },
+               "southwest" : {
+                  "lat" : 44.5949302,
+                  "lng" : -63.68627009999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plymouth County",
+               "short_name" : "Plymouth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0266631,
+                  "lng" : -70.8065751
+               },
+               "southwest" : {
+                  "lat" : 41.9484051,
+                  "lng" : -70.912212
+               }
+            },
+            "location" : {
+               "lat" : 41.99121299999999,
+               "lng" : -70.86198499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0266631,
+                  "lng" : -70.8065751
+               },
+               "southwest" : {
+                  "lat" : 41.9484051,
+                  "lng" : -70.912212
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

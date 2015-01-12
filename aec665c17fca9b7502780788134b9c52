@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A15",
+               "short_name" : "A15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A15, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0606291,
+                  "lng" : 2.2981727
+               },
+               "southwest" : {
+                  "lat" : 48.937796,
+                  "lng" : 2.0023146
+               }
+            },
+            "location" : {
+               "lat" : 49.0076768,
+               "lng" : 2.1610365
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0606291,
+                  "lng" : 2.2981727
+               },
+               "southwest" : {
+                  "lat" : 48.937796,
+                  "lng" : 2.0023146
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cooktown",
+               "short_name" : "Cooktown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4895",
+               "short_name" : "4895",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cooktown QLD 4895, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.0416363,
+                  "lng" : 145.3292399
+               },
+               "southwest" : {
+                  "lat" : -15.681809,
+                  "lng" : 144.6739347
+               }
+            },
+            "location" : {
+               "lat" : -15.4681414,
+               "lng" : 145.250507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.0416363,
+                  "lng" : 145.3292399
+               },
+               "southwest" : {
+                  "lat" : -15.681809,
+                  "lng" : 144.6739347
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

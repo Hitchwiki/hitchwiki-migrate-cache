@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blekinge County",
+               "short_name" : "Blekinge County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blekinge County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.5022141,
+                  "lng" : 16.0679243
+               },
+               "southwest" : {
+                  "lat" : 55.9901428,
+                  "lng" : 14.3528851
+               }
+            },
+            "location" : {
+               "lat" : 56.2783837,
+               "lng" : 15.0180058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5022141,
+                  "lng" : 16.0679243
+               },
+               "southwest" : {
+                  "lat" : 55.9901428,
+                  "lng" : 14.3528851
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

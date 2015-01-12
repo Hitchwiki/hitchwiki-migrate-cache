@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A485",
+               "short_name" : "A485",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gießen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A485, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6276273,
+                  "lng" : 8.7178743
+               },
+               "southwest" : {
+                  "lat" : 50.4908377,
+                  "lng" : 8.6398685
+               }
+            },
+            "location" : {
+               "lat" : 50.5583171,
+               "lng" : 8.679378
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6276273,
+                  "lng" : 8.7178743
+               },
+               "southwest" : {
+                  "lat" : 50.4908377,
+                  "lng" : 8.6398685
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

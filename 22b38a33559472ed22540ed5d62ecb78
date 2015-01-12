@@ -1,0 +1,154 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R35",
+               "short_name" : "R35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Olomouc Region",
+               "short_name" : "Olomouc Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R35, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.766973,
+                  "lng" : 17.576737
+               },
+               "southwest" : {
+                  "lat" : 49.5466347,
+                  "lng" : 16.9182751
+               }
+            },
+            "location" : {
+               "lat" : 49.6263246,
+               "lng" : 17.1676638
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.766973,
+                  "lng" : 17.576737
+               },
+               "southwest" : {
+                  "lat" : 49.5466347,
+                  "lng" : 16.9182751
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R35",
+               "short_name" : "R35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liberec Region",
+               "short_name" : "Liberec Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R35, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.730516,
+                  "lng" : 15.1262771
+               },
+               "southwest" : {
+                  "lat" : 50.5953512,
+                  "lng" : 15.0543866
+               }
+            },
+            "location" : {
+               "lat" : 50.6631864,
+               "lng" : 15.096167
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.730516,
+                  "lng" : 15.1262771
+               },
+               "southwest" : {
+                  "lat" : 50.5953512,
+                  "lng" : 15.0543866
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R35",
+               "short_name" : "R35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pardubice District",
+               "short_name" : "Pardubice District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pardubice Region",
+               "short_name" : "Pardubice Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R35, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1491957,
+                  "lng" : 15.7848195
+               },
+               "southwest" : {
+                  "lat" : 50.14018009999999,
+                  "lng" : 15.7425555
+               }
+            },
+            "location" : {
+               "lat" : 50.1420648,
+               "lng" : 15.7624769
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1491957,
+                  "lng" : 15.7848195
+               },
+               "southwest" : {
+                  "lat" : 50.14018009999999,
+                  "lng" : 15.7425555
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Tomé and Príncipe",
+               "short_name" : "ST",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Tomé and Príncipe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.7017723,
+                  "lng" : 7.462463499999999
+               },
+               "southwest" : {
+                  "lat" : -0.0140044,
+                  "lng" : 6.4604759
+               }
+            },
+            "location" : {
+               "lat" : 0.18636,
+               "lng" : 6.613080999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4133947,
+                  "lng" : 6.7606527
+               },
+               "southwest" : {
+                  "lat" : -0.0140044,
+                  "lng" : 6.4604759
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

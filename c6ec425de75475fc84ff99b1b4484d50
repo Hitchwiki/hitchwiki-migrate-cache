@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saskatchewan, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.000063,
+                  "lng" : -101.362305
+               },
+               "southwest" : {
+                  "lat" : 48.9988059,
+                  "lng" : -110.0077549
+               }
+            },
+            "location" : {
+               "lat" : 52.9399159,
+               "lng" : -106.4508639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.00033109999999,
+                  "lng" : -101.362305
+               },
+               "southwest" : {
+                  "lat" : 48.9988059,
+                  "lng" : -110.0077549
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

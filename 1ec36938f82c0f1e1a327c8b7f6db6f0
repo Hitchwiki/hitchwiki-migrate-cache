@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A226",
+               "short_name" : "A226",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kücknitz",
+               "short_name" : "Kücknitz",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lübeck",
+               "short_name" : "Lübeck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23569",
+               "short_name" : "23569",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A226, 23569 Lübeck, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.91720290000001,
+                  "lng" : 10.7864378
+               },
+               "southwest" : {
+                  "lat" : 53.9087154,
+                  "lng" : 10.7076298
+               }
+            },
+            "location" : {
+               "lat" : 53.9144064,
+               "lng" : 10.7479933
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.91720290000001,
+                  "lng" : 10.7864378
+               },
+               "southwest" : {
+                  "lat" : 53.9087154,
+                  "lng" : 10.7076298
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A6",
+               "short_name" : "A6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bern",
+               "short_name" : "BE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A6, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.122474,
+                  "lng" : 7.649912499999998
+               },
+               "southwest" : {
+                  "lat" : 46.6708172,
+                  "lng" : 7.262036199999999
+               }
+            },
+            "location" : {
+               "lat" : 46.9194464,
+               "lng" : 7.5083267
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.122474,
+                  "lng" : 7.649912499999998
+               },
+               "southwest" : {
+                  "lat" : 46.6708172,
+                  "lng" : 7.262036199999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

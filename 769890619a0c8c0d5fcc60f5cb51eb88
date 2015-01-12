@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A4",
+               "short_name" : "A4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A4, Luxembourg, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6005164,
+                  "lng" : 6.107516599999999
+               },
+               "southwest" : {
+                  "lat" : 49.5802477,
+                  "lng" : 6.0871733
+               }
+            },
+            "location" : {
+               "lat" : 49.5920631,
+               "lng" : 6.0885123
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6005164,
+                  "lng" : 6.107516599999999
+               },
+               "southwest" : {
+                  "lat" : 49.5802477,
+                  "lng" : 6.0871733
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

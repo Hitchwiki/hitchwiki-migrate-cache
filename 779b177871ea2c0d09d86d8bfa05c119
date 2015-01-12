@@ -1,0 +1,105 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Dushanbe",
+        "dstOffset": 5
+      },
+      "bbox": {
+        "east": 67.64070511195823,
+        "south": 39.47102885962804,
+        "north": 39.51946114037195,
+        "west": 67.57792088804177
+      },
+      "asciiName": "Panjakent",
+      "countryId": "1220409",
+      "fcl": "P",
+      "score": 68.57146453857422,
+      "countryCode": "TJ",
+      "adminId1": "1221092",
+      "lat": "39.49524",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "03",
+      "lng": "67.60931",
+      "geonameId": 1220798,
+      "toponymName": "Panjakent",
+      "population": 35085,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Panjakent",
+          "lang": "link"
+        },
+        {
+          "name": "Пенджикент",
+          "lang": "ru"
+        },
+        {
+          "name": "PJK",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Panjakent",
+      "fclName": "city, village,...",
+      "countryName": "Tajikistan",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Viloyati Sughd"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Dushanbe",
+        "dstOffset": 5
+      },
+      "asciiName": "Nohiyai Panjakent",
+      "countryId": "1220409",
+      "fcl": "A",
+      "score": 46.423099517822266,
+      "adminId2": "8216066",
+      "countryCode": "TJ",
+      "adminId1": "1221092",
+      "lat": "39.37452",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "8216066",
+      "adminCode1": "03",
+      "lng": "67.79159",
+      "geonameId": 8216066,
+      "toponymName": "Nohiyai Panjakent",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Panjakent District",
+          "lang": "en"
+        },
+        {
+          "name": "ناحیۀ پنجکنت‎",
+          "lang": "fa"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Panjakent_District",
+          "lang": "link"
+        },
+        {
+          "name": "Hoҳияи Панҷакент",
+          "lang": "tg"
+        }
+      ],
+      "adminName2": "Panjakent District",
+      "name": "Panjakent District",
+      "fclName": "country, state, region,...",
+      "countryName": "Tajikistan",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Viloyati Sughd"
+    }
+  ]
+}

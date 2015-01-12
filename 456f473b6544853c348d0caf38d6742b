@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broome",
+               "short_name" : "Broome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6725",
+               "short_name" : "6725",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broome WA 6725, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.9437113,
+                  "lng" : 122.2459706
+               },
+               "southwest" : {
+                  "lat" : -17.9740124,
+                  "lng" : 122.2161295
+               }
+            },
+            "location" : {
+               "lat" : -17.9512214,
+               "lng" : 122.2443272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.9437113,
+                  "lng" : 122.2459706
+               },
+               "southwest" : {
+                  "lat" : -17.9740124,
+                  "lng" : 122.2161295
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

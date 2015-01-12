@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A560",
+               "short_name" : "A560",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A560, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7965426,
+                  "lng" : 7.3110687
+               },
+               "southwest" : {
+                  "lat" : 50.76783,
+                  "lng" : 7.1513925
+               }
+            },
+            "location" : {
+               "lat" : 50.7772207,
+               "lng" : 7.228634099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7965426,
+                  "lng" : 7.3110687
+               },
+               "southwest" : {
+                  "lat" : 50.76783,
+                  "lng" : 7.1513925
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

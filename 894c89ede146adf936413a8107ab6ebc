@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gijón",
+               "short_name" : "Gijón",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gijón",
+               "short_name" : "Gijón",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gijón, Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5497189,
+                  "lng" : -5.6075602
+               },
+               "southwest" : {
+                  "lat" : 43.513138,
+                  "lng" : -5.7293489
+               }
+            },
+            "location" : {
+               "lat" : 43.5322015,
+               "lng" : -5.6611195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5497189,
+                  "lng" : -5.6075602
+               },
+               "southwest" : {
+                  "lat" : 43.513138,
+                  "lng" : -5.7293489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

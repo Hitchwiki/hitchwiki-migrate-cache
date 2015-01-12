@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.089166,
+                  "lng" : 9.560067799999999
+               },
+               "southwest" : {
+                  "lat" : 41.3423276,
+                  "lng" : -5.141227900000001
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.089166,
+                  "lng" : 8.233549099999999
+               },
+               "southwest" : {
+                  "lat" : 42.333014,
+                  "lng" : -4.795341899999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

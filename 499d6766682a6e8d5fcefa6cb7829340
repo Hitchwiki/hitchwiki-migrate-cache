@@ -1,0 +1,181 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 32.87506464994248,
+        "south": 36.04425232528144,
+        "north": 36.10590967471855,
+        "west": 32.79874935005751
+      },
+      "asciiName": "Anamur",
+      "countryId": "298795",
+      "fcl": "P",
+      "score": 46.457550048828125,
+      "countryCode": "TR",
+      "adminId1": "311728",
+      "lat": "36.07508",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "32",
+      "lng": "32.83691",
+      "geonameId": 323828,
+      "toponymName": "Anamur",
+      "population": 57128,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "أنامور",
+          "lang": "ar"
+        },
+        {
+          "name": "Anemur",
+          "lang": "diq"
+        },
+        {
+          "name": "آنامور",
+          "lang": "fa"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Anamur",
+          "lang": "link"
+        },
+        {
+          "name": "Анамур",
+          "lang": "mrj"
+        },
+        {
+          "name": "ضلع انامور",
+          "lang": "pnb"
+        },
+        {
+          "name": "Анамур",
+          "lang": "ru"
+        },
+        {
+          "name": "ANA",
+          "lang": "unlc"
+        },
+        {
+          "name": "阿納穆爾",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Anamur",
+      "fclName": "city, village,...",
+      "countryName": "Turkey",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Mersin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "asciiName": "Anamur Ilcesi",
+      "countryId": "298795",
+      "fcl": "A",
+      "score": 46.457550048828125,
+      "adminId2": "8632146",
+      "countryCode": "TR",
+      "adminId1": "311728",
+      "lat": "36.08361",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "8632146",
+      "adminCode1": "32",
+      "lng": "32.82615",
+      "geonameId": 8632146,
+      "toponymName": "Anamur İlçesi",
+      "population": 63059,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Anamur",
+          "lang": "link"
+        },
+        {
+          "name": "Anamur İlçesi",
+          "lang": "tr"
+        }
+      ],
+      "adminName2": "Anamur İlçesi",
+      "name": "Anamur İlçesi",
+      "fclName": "country, state, region,...",
+      "countryName": "Turkey",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Mersin"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "32.87149",
+      "geonameId": 323826,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "Anamur Çayı",
+      "asciiName": "Anamur Cayi",
+      "countryId": "298795",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 25.607316970825195,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "Anamur Çayı",
+      "fclName": "stream, lake, ...",
+      "countryName": "Turkey",
+      "fcodeName": "stream",
+      "adminId1": "311728",
+      "adminName1": "Mersin",
+      "lat": "36.0787",
+      "fcode": "STM",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode1": "32",
+      "lng": "32.80211",
+      "geonameId": 323827,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "Anamur Burnu",
+      "asciiName": "Anamur Burnu",
+      "countryId": "298795",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 25.607316970825195,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "Anamur Burnu",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Turkey",
+      "fcodeName": "point",
+      "adminId1": "311728",
+      "adminName1": "Mersin",
+      "lat": "36.02166",
+      "fcode": "PT",
+      "continentCode": "AS"
+    }
+  ]
+}

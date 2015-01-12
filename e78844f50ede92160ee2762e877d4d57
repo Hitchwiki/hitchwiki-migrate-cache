@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niederösterreich",
+               "short_name" : "Niederösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A5, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.51830529999999,
+                  "lng" : 16.6213918
+               },
+               "southwest" : {
+                  "lat" : 48.3522444,
+                  "lng" : 16.4818998
+               }
+            },
+            "location" : {
+               "lat" : 48.43324440000001,
+               "lng" : 16.5522325
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.51830529999999,
+                  "lng" : 16.6213918
+               },
+               "southwest" : {
+                  "lat" : 48.3522444,
+                  "lng" : 16.4818998
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

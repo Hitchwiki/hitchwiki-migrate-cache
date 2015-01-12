@@ -1,0 +1,416 @@
+{
+  "totalResultsCount": 19421,
+  "geonames": [
+    {
+      "lng": "0",
+      "geonameId": 2960860,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Reykjavik",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": 180,
+        "south": 71.39041900634766,
+        "north": 90,
+        "west": -180
+      },
+      "toponymName": "Arctic Ocean",
+      "asciiName": "Arctic Ocean",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 35.32917022705078,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Ocean Arctique",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Arctic_Ocean",
+          "lang": "link"
+        },
+        {
+          "name": "北冰洋",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Arctic Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "85",
+      "fcode": "OCN"
+    },
+    {
+      "lng": "3",
+      "geonameId": 2960848,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Faroe",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": 9.83655548095703,
+        "south": 50.9895820617676,
+        "north": 61.0281105041504,
+        "west": -4.46733331680298
+      },
+      "toponymName": "North Sea",
+      "asciiName": "North Sea",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 27.646568298339844,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "North Sea",
+          "lang": "en"
+        },
+        {
+          "name": "Mar del Norte",
+          "lang": "es"
+        },
+        {
+          "name": "Pohjanmeri",
+          "lang": "fi"
+        },
+        {
+          "name": "Mer du Nord",
+          "lang": "fr"
+        },
+        {
+          "name": "Mare del Nord",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/North_Sea",
+          "lang": "link"
+        },
+        {
+          "name": "Noordzee",
+          "lang": "nl"
+        },
+        {
+          "name": "Nordsjön",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "North Sea",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "sea",
+      "adminName1": "",
+      "lat": "55.33333",
+      "fcode": "SEA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -59.2689323425293,
+        "south": 7.898654937744141,
+        "north": 22.70950698852539,
+        "west": -88.99104309082031
+      },
+      "asciiName": "Caribbean Sea",
+      "countryId": "4566966",
+      "fcl": "H",
+      "score": 24.593631744384766,
+      "countryCode": "PR",
+      "adminId1": "4566886",
+      "lat": "15.00028",
+      "fcode": "SEA",
+      "continentCode": "NA",
+      "elevation": 0,
+      "adminCode1": "113",
+      "lng": "-75.00028",
+      "geonameId": 4563233,
+      "toponymName": "Caribbean Sea",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Mar dei Caraibi",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Caribbean_Sea",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Caribbean Sea",
+      "fclName": "stream, lake, ...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "sea",
+      "adminName1": "Ponce"
+    },
+    {
+      "bbox": {
+        "east": -32.66490936279297,
+        "south": 81.5023193359375,
+        "north": 83.77350616455078,
+        "west": -70.2391357421875
+      },
+      "asciiName": "Lincoln Sea",
+      "countryId": "3425505",
+      "fcl": "H",
+      "score": 22.074275970458984,
+      "cc2": "GL",
+      "countryCode": "GL",
+      "lat": "83",
+      "fcode": "SEA",
+      "continentCode": "NA",
+      "adminCode1": "00",
+      "lng": "-58",
+      "geonameId": 3422085,
+      "toponymName": "Lincoln Sea",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lincoln_Sea",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Lincoln Sea",
+      "fclName": "stream, lake, ...",
+      "countryName": "Greenland",
+      "fcodeName": "sea",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Blue Sea",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 16.877037048339844,
+      "adminId2": "6095306",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.22394",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "07",
+      "adminCode1": "10",
+      "lng": "-76.05468",
+      "geonameId": 6001020,
+      "toponymName": "Lac Blue Sea",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Blue_Sea_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "Outaouais",
+      "name": "Lac Blue Sea",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -76.06966253644441,
+        "south": 46.19111815624857,
+        "north": 46.20910545375143,
+        "west": -76.0956546735556
+      },
+      "asciiName": "Blue Sea",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 13.501629829406738,
+      "adminId2": "6095306",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.20011",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode2": "07",
+      "adminCode1": "10",
+      "lng": "-76.08266",
+      "geonameId": 5904470,
+      "toponymName": "Blue Sea",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Blue_Sea%2C_Quebec",
+        "lang": "link"
+      }],
+      "adminName2": "Outaouais",
+      "name": "Blue Sea",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Quebec"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "-81.38333",
+      "geonameId": 3580525,
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Cayman",
+        "dstOffset": -5
+      },
+      "toponymName": "Sea Pond",
+      "asciiName": "Sea Pond",
+      "countryId": "3580718",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 13.501629829406738,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "KY",
+      "name": "Sea Pond",
+      "fclName": "stream, lake, ...",
+      "countryName": "Cayman Islands",
+      "fcodeName": "lake",
+      "adminName1": "",
+      "lat": "19.4",
+      "fcode": "LK",
+      "continentCode": "NA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Antigua",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -61.790590767795614,
+        "south": 17.07433965124857,
+        "north": 17.092326948751428,
+        "west": -61.80940923220438
+      },
+      "asciiName": "Sea View Farm",
+      "countryId": "3576396",
+      "fcl": "P",
+      "score": 13.143898010253906,
+      "countryCode": "AG",
+      "adminId1": "3576024",
+      "lat": "17.08333",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "03",
+      "lng": "-61.8",
+      "geonameId": 3576004,
+      "toponymName": "Sea View Farm",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Sea_View_Farm",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Sea View Farm",
+      "fclName": "city, village,...",
+      "countryName": "Antigua and Barbuda",
+      "fcodeName": "populated place",
+      "adminName1": "Saint George"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -75.99681084899998,
+        "south": 46.14809030200007,
+        "north": 46.23256761300008,
+        "west": -76.15426055099994
+      },
+      "asciiName": "Blue Sea",
+      "countryId": "6251999",
+      "fcl": "A",
+      "score": 12.296815872192383,
+      "adminId2": "6095306",
+      "adminId3": "8673708",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.19133",
+      "fcode": "ADM3",
+      "continentCode": "NA",
+      "adminCode2": "07",
+      "adminCode3": "83045",
+      "adminCode1": "10",
+      "lng": "-76.08263",
+      "geonameId": 8673708,
+      "toponymName": "Blue Sea",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Blue Sea",
+      "adminName2": "Outaouais",
+      "name": "Blue Sea",
+      "fclName": "country, state, region,...",
+      "countryName": "Canada",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Sea Gull",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 11.813926696777344,
+      "adminId2": "6095306",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "46.47117",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "07",
+      "adminCode1": "10",
+      "lng": "-77.08834",
+      "geonameId": 6042129,
+      "toponymName": "Lac Sea Gull",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Outaouais",
+      "name": "Lac Sea Gull",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trofors",
+               "short_name" : "Trofors",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grane",
+               "short_name" : "Grane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordland",
+               "short_name" : "Nordland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trofors, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 65.5333514,
+               "lng" : 13.4063127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.5379722,
+                  "lng" : 13.4223201
+               },
+               "southwest" : {
+                  "lat" : 65.52872979999999,
+                  "lng" : 13.3903053
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

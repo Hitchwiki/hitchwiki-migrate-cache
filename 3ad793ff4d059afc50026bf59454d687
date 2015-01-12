@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A27",
+               "short_name" : "A27",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A27, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2061349,
+                  "lng" : 12.3451833
+               },
+               "southwest" : {
+                  "lat" : 45.5115437,
+                  "lng" : 12.2724382
+               }
+            },
+            "location" : {
+               "lat" : 45.8501783,
+               "lng" : 12.326572
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2061349,
+                  "lng" : 12.3451833
+               },
+               "southwest" : {
+                  "lat" : 45.5115437,
+                  "lng" : 12.2724382
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

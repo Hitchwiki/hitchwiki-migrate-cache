@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dimitrovgrad",
+               "short_name" : "Dimitrovgrad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dimitrovgrad",
+               "short_name" : "Dimitrovgrad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haskovo",
+               "short_name" : "Haskovo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dimitrovgrad, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.06410700000001,
+                  "lng" : 25.6474389
+               },
+               "southwest" : {
+                  "lat" : 42.0401826,
+                  "lng" : 25.573063
+               }
+            },
+            "location" : {
+               "lat" : 42.0545053,
+               "lng" : 25.5945249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.06410700000001,
+                  "lng" : 25.6474389
+               },
+               "southwest" : {
+                  "lat" : 42.0401826,
+                  "lng" : 25.573063
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dimitrovgrad",
+               "short_name" : "Dimitrovgrad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Dimitrovgrad",
+               "short_name" : "g. Dimitrovgrad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsk Oblast",
+               "short_name" : "Ulyanovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dimitrovgrad, Ulyanovsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.29277,
+                  "lng" : 49.6765982
+               },
+               "southwest" : {
+                  "lat" : 54.178666,
+                  "lng" : 49.46178279999999
+               }
+            },
+            "location" : {
+               "lat" : 54.2269792,
+               "lng" : 49.5684572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.29277,
+                  "lng" : 49.6765982
+               },
+               "southwest" : {
+                  "lat" : 54.178666,
+                  "lng" : 49.46178279999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

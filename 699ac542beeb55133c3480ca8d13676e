@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Africa",
+               "short_name" : "Southern Africa",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.9634855,
+                  "lng" : 33.0469
+               },
+               "southwest" : {
+                  "lat" : -34.967,
+                  "lng" : 11.4697
+               }
+            },
+            "location" : {
+               "lat" : -24.3570767,
+               "lng" : 19.5687103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.9634855,
+                  "lng" : 33.0469
+               },
+               "southwest" : {
+                  "lat" : -34.967,
+                  "lng" : 11.4697
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

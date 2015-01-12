@@ -1,0 +1,376 @@
+{
+  "totalResultsCount": 3856,
+  "geonames": [
+    {
+      "lng": "-143.87695",
+      "geonameId": 7729901,
+      "bbox": {
+        "east": 176.064865,
+        "south": -25.07995709199832,
+        "north": -5.641972,
+        "west": -124.77285
+      },
+      "toponymName": "Polynesia",
+      "asciiName": "Polynesia",
+      "countryId": "4034894",
+      "fcl": "L",
+      "population": 610100,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 39.52313995361328,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Polynesia",
+        "lang": "link"
+      }],
+      "cc2": "WS,TO,CK,WF,TV,NU,TK,PN",
+      "adminName2": "",
+      "countryCode": "WS",
+      "name": "Polynesia",
+      "fclName": "parks,area, ...",
+      "countryName": "Samoa",
+      "fcodeName": "region",
+      "adminName1": "",
+      "lat": "-17.6859",
+      "fcode": "RGN",
+      "continentCode": "OC"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "-176.16586",
+      "geonameId": 4034831,
+      "timezone": {
+        "gmtOffset": 12,
+        "timeZoneId": "Pacific/Wallis",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": -176.16493597162295,
+        "south": -13.269419364875143,
+        "north": -13.267620635124858,
+        "west": -176.16678402837707
+      },
+      "toponymName": "Liku",
+      "asciiName": "Liku",
+      "countryId": "4034749",
+      "fcl": "P",
+      "population": 696,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 35.35057067871094,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "WF",
+      "name": "Liku",
+      "fclName": "city, village,...",
+      "countryName": "Wallis and Futuna",
+      "fcodeName": "populated place",
+      "adminName1": "",
+      "lat": "-13.26852",
+      "fcode": "PPL",
+      "continentCode": "OC"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "-159.79331",
+      "geonameId": 4035755,
+      "timezone": {
+        "gmtOffset": -10,
+        "timeZoneId": "Pacific/Rarotonga",
+        "dstOffset": -10
+      },
+      "bbox": {
+        "east": -159.7923598070808,
+        "south": -18.8561844275602,
+        "north": -18.854385697809917,
+        "west": -159.79426052372975
+      },
+      "toponymName": "Amuri",
+      "asciiName": "Amuri",
+      "countryId": "1899402",
+      "fcl": "P",
+      "population": 285,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 35.35057067871094,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CK",
+      "name": "Amuri",
+      "fclName": "city, village,...",
+      "countryName": "Cook Islands",
+      "fcodeName": "populated place",
+      "adminName1": "",
+      "lat": "-18.85529",
+      "fcode": "PPL",
+      "continentCode": "OC"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -11,
+        "timeZoneId": "Pacific/Niue",
+        "dstOffset": -11
+      },
+      "bbox": {
+        "east": -169.83238154484434,
+        "south": -19.100899364875144,
+        "north": -19.09910063512486,
+        "west": -169.83428505515565
+      },
+      "asciiName": "Hakupu",
+      "countryId": "4036232",
+      "fcl": "P",
+      "score": 35.35057067871094,
+      "countryCode": "NU",
+      "lat": "-19.1",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode1": "00",
+      "lng": "-169.83333",
+      "geonameId": 4036268,
+      "toponymName": "Hakupu",
+      "population": 221,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Hakupu",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Hakupu",
+      "fclName": "city, village,...",
+      "countryName": "Niue",
+      "fcodeName": "populated place",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": -11,
+        "timeZoneId": "Pacific/Pago_Pago",
+        "dstOffset": -11
+      },
+      "bbox": {
+        "east": -170.666331,
+        "south": -14.394545,
+        "north": -14.317447,
+        "west": -170.743652
+      },
+      "asciiName": "Tafuna",
+      "countryId": "5880801",
+      "fcl": "P",
+      "score": 35.35057067871094,
+      "countryCode": "AS",
+      "adminId1": "5880873",
+      "lat": "-14.33583",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "elevation": 12,
+      "adminCode1": "050",
+      "lng": "-170.72",
+      "geonameId": 5881192,
+      "toponymName": "Tāfuna",
+      "population": 11017,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Tafuna%2C_American_Samoa",
+          "lang": "link"
+        },
+        {
+          "name": "Тафуна",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Tāfuna",
+      "fclName": "city, village,...",
+      "countryName": "American Samoa",
+      "fcodeName": "populated place",
+      "adminName1": "Western District"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Tongatapu",
+        "dstOffset": 13
+      },
+      "bbox": {
+        "east": -175.2065094027655,
+        "south": -21.158520470019745,
+        "north": -21.145801529980254,
+        "west": -175.22014659723447
+      },
+      "asciiName": "Haveluloto",
+      "countryId": "4032283",
+      "fcl": "P",
+      "score": 30.93174934387207,
+      "countryCode": "TO",
+      "adminId1": "4032279",
+      "lat": "-21.15216",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode1": "02",
+      "lng": "-175.21333",
+      "geonameId": 4032623,
+      "toponymName": "Haveluloto",
+      "population": 3417,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Haveluloto",
+      "fclName": "city, village,...",
+      "countryName": "Tonga",
+      "fcodeName": "populated place",
+      "adminName1": "Tongatapu"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 12,
+        "timeZoneId": "Pacific/Wallis",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": -176.1824860546377,
+        "south": -13.247569364875142,
+        "north": -13.245770635124858,
+        "west": -176.1843339453623
+      },
+      "asciiName": "Alele",
+      "countryId": "4034749",
+      "fcl": "P",
+      "score": 30.93174934387207,
+      "countryCode": "WF",
+      "adminId1": "4034759",
+      "lat": "-13.24667",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode1": "98613",
+      "lng": "-176.18341",
+      "geonameId": 4034886,
+      "toponymName": "Alele",
+      "population": 629,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Alele",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Alele",
+      "fclName": "city, village,...",
+      "countryName": "Wallis and Futuna",
+      "fcodeName": "populated place",
+      "adminName1": "Circonscription d'Uvéa"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "-171.81397",
+      "geonameId": 4035019,
+      "timezone": {
+        "gmtOffset": 14,
+        "timeZoneId": "Pacific/Apia",
+        "dstOffset": 13
+      },
+      "bbox": {
+        "east": -171.80933772144925,
+        "south": -13.848818824375714,
+        "north": -13.839825175624286,
+        "west": -171.81860027855072
+      },
+      "toponymName": "Siusega",
+      "asciiName": "Siusega",
+      "countryId": "4034894",
+      "fcl": "P",
+      "population": 2226,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 30.93174934387207,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "WS",
+      "name": "Siusega",
+      "fclName": "city, village,...",
+      "countryName": "Samoa",
+      "fcodeName": "populated place",
+      "adminName1": "",
+      "lat": "-13.84432",
+      "fcode": "PPL",
+      "continentCode": "OC"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "-171.83126",
+      "geonameId": 4035345,
+      "timezone": {
+        "gmtOffset": 14,
+        "timeZoneId": "Pacific/Apia",
+        "dstOffset": 13
+      },
+      "bbox": {
+        "east": -171.82471183379977,
+        "south": -13.800924470019977,
+        "north": -13.788205529980024,
+        "west": -171.8378081662002
+      },
+      "toponymName": "Faleula",
+      "asciiName": "Faleula",
+      "countryId": "4034894",
+      "fcl": "P",
+      "population": 2592,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 30.93174934387207,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "WS",
+      "name": "Faleula",
+      "fclName": "city, village,...",
+      "countryName": "Samoa",
+      "fcodeName": "populated place",
+      "adminName1": "",
+      "lat": "-13.79457",
+      "fcode": "PPL",
+      "continentCode": "OC"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "-165.83333",
+      "geonameId": 4035549,
+      "timezone": {
+        "gmtOffset": -10,
+        "timeZoneId": "Pacific/Rarotonga",
+        "dstOffset": -10
+      },
+      "bbox": {
+        "east": -165.83241746533676,
+        "south": -10.884232664875142,
+        "north": -10.882433935124858,
+        "west": -165.83424913466322
+      },
+      "toponymName": "Roto",
+      "asciiName": "Roto",
+      "countryId": "1899402",
+      "fcl": "P",
+      "population": 74,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 30.93174934387207,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CK",
+      "name": "Roto",
+      "fclName": "city, village,...",
+      "countryName": "Cook Islands",
+      "fcodeName": "populated place",
+      "adminName1": "",
+      "lat": "-10.88333",
+      "fcode": "PPL",
+      "continentCode": "OC"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mpulungu",
+               "short_name" : "Mpulungu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mpulungu",
+               "short_name" : "Mpulungu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern",
+               "short_name" : "Northern",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mpulungu, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.749026199999999,
+                  "lng" : 31.1310481
+               },
+               "southwest" : {
+                  "lat" : -8.7896161,
+                  "lng" : 31.1039042
+               }
+            },
+            "location" : {
+               "lat" : -8.772506999999999,
+               "lng" : 31.1166193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.749026199999999,
+                  "lng" : 31.1310481
+               },
+               "southwest" : {
+                  "lat" : -8.7896161,
+                  "lng" : 31.1039042
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

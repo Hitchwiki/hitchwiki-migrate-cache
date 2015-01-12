@@ -1,0 +1,91 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A26",
+               "short_name" : "A26",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A26, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9541912,
+                  "lng" : 8.824298799999999
+               },
+               "southwest" : {
+                  "lat" : 44.4301514,
+                  "lng" : 8.4019426
+               }
+            },
+            "location" : {
+               "lat" : 45.1848857,
+               "lng" : 8.4972124
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9541912,
+                  "lng" : 8.824298799999999
+               },
+               "southwest" : {
+                  "lat" : 44.4301514,
+                  "lng" : 8.4019426
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A8 / A26 Diramazione Gallarate - Gattico",
+               "short_name" : "A26",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A8 / A26 Diramazione Gallarate - Gattico, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7210537,
+                  "lng" : 8.8012911
+               },
+               "southwest" : {
+                  "lat" : 45.6708113,
+                  "lng" : 8.540382899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.7112127,
+               "lng" : 8.660014499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7210537,
+                  "lng" : 8.8012911
+               },
+               "southwest" : {
+                  "lat" : 45.6708113,
+                  "lng" : 8.540382899999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

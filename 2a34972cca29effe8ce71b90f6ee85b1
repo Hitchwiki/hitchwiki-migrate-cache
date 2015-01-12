@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niger",
+               "short_name" : "NE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niger",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.5000002,
+                  "lng" : 15.999034
+               },
+               "southwest" : {
+                  "lat" : 11.69376,
+                  "lng" : 0.1666672
+               }
+            },
+            "location" : {
+               "lat" : 17.607789,
+               "lng" : 8.081666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.5000002,
+                  "lng" : 15.999034
+               },
+               "southwest" : {
+                  "lat" : 11.69376,
+                  "lng" : 0.1666672
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

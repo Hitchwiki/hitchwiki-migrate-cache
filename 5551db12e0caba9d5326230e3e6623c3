@@ -1,0 +1,367 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "countryId": "6251999",
+      "alternateNames": [
+        {
+          "name": "YYN",
+          "lang": "iata"
+        },
+        {
+          "name": "CYYN",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Swift_Current_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "YYN",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Canada",
+      "fclName": "spot, building, farm",
+      "elevation": 816,
+      "score": 50.058345794677734,
+      "countryCode": "CA",
+      "lng": "-107.69056",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "airport",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Regina"
+      },
+      "toponymName": "Swift Current Airport",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "NA",
+      "name": "Swift Current Airport",
+      "fcode": "AIRP",
+      "asciiName": "Swift Current Airport",
+      "geonameId": 6301496,
+      "lat": "50.29194",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Swift_Current%2C_Newfoundland_and_Labrador",
+        "lang": "link"
+      }],
+      "countryName": "Canada",
+      "adminCode1": "05",
+      "score": 28.61072540283203,
+      "lng": "-54.20929",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -2.5,
+        "gmtOffset": -3.5,
+        "timeZoneId": "America/St_Johns"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 47.876275560000046,
+        "east": -54.19587622168685,
+        "north": 47.894262857503556,
+        "west": -54.22270287987555
+      },
+      "name": "Swift Current",
+      "fcode": "PPL",
+      "geonameId": 6160601,
+      "asciiName": "Swift Current",
+      "lat": "47.88527",
+      "population": 0,
+      "adminName1": "Newfoundland and Labrador",
+      "countryId": "6251999",
+      "adminId1": "6354959",
+      "fclName": "city, village,...",
+      "countryCode": "CA",
+      "toponymName": "Swift Current",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "سويفت كورنت",
+          "lang": "ar"
+        },
+        {
+          "name": "YYN",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Swift_Current",
+          "lang": "link"
+        },
+        {
+          "name": "Свифт Карент",
+          "lang": "sr"
+        },
+        {
+          "name": "Свіфт-Керрент",
+          "lang": "uk"
+        }
+      ],
+      "countryName": "Canada",
+      "adminCode1": "11",
+      "score": 28.61072540283203,
+      "lng": "-107.80135",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Swift_Current"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 50.267788886417094,
+        "east": -107.77696150532336,
+        "north": 50.2989437995829,
+        "west": -107.82573388067664
+      },
+      "name": "Swift Current",
+      "fcode": "PPL",
+      "geonameId": 6160603,
+      "asciiName": "Swift Current",
+      "lat": "50.28337",
+      "population": 14703,
+      "adminName1": "Saskatchewan",
+      "countryId": "6251999",
+      "adminId1": "6141242",
+      "fclName": "city, village,...",
+      "countryCode": "CA",
+      "toponymName": "Swift Current",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminId1": "6141242",
+      "countryId": "6251999",
+      "adminCode1": "11",
+      "countryName": "Canada",
+      "fclName": "stream, lake, ...",
+      "score": 20.436233520507812,
+      "countryCode": "CA",
+      "lng": "-103.80053",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "lake",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Regina"
+      },
+      "toponymName": "Swift Current Lake",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "NA",
+      "name": "Swift Current Lake",
+      "fcode": "LK",
+      "asciiName": "Swift Current Lake",
+      "geonameId": 6160609,
+      "lat": "59.0335",
+      "adminName1": "Saskatchewan",
+      "population": 0
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Swift_Current_No._137%2C_Saskatchewan",
+        "lang": "link"
+      }],
+      "countryName": "Canada",
+      "adminCode1": "11",
+      "score": 16.348987579345703,
+      "lng": "-107.83465",
+      "adminName2": "",
+      "fcodeName": "administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Swift_Current"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Swift Current No. 137",
+      "fcode": "ADMD",
+      "geonameId": 6160610,
+      "asciiName": "Swift Current No. 137",
+      "lat": "50.25007",
+      "population": 0,
+      "adminName1": "Saskatchewan",
+      "countryId": "6251999",
+      "adminId1": "6141242",
+      "fclName": "country, state, region,...",
+      "countryCode": "CA",
+      "toponymName": "Swift Current No. 137",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "adminId1": "6354959",
+      "countryId": "6251999",
+      "adminCode1": "05",
+      "countryName": "Canada",
+      "fclName": "stream, lake, ...",
+      "score": 5.109058380126953,
+      "countryCode": "CA",
+      "lng": "-54.24817",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "bay",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -2.5,
+        "gmtOffset": -3.5,
+        "timeZoneId": "America/St_Johns"
+      },
+      "toponymName": "Swift Current",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "NA",
+      "name": "Swift Current",
+      "fcode": "BAY",
+      "asciiName": "Swift Current",
+      "geonameId": 6160602,
+      "lat": "47.8999",
+      "adminName1": "Newfoundland and Labrador",
+      "population": 0
+    },
+    {
+      "countryId": "6251999",
+      "alternateNames": [{
+        "name": "CWVC",
+        "lang": "icao"
+      }],
+      "countryName": "Canada",
+      "fclName": "spot, building, farm",
+      "elevation": 825,
+      "score": 5.109058380126953,
+      "countryCode": "CA",
+      "lng": "-107.73333",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "meteorological station",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Swift_Current"
+      },
+      "toponymName": "Swift Current Automatic Weather Reporting System",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "NA",
+      "name": "Swift Current Automatic Weather Reporting System",
+      "fcode": "STNM",
+      "asciiName": "Swift Current Automatic Weather Reporting System",
+      "geonameId": 6296061,
+      "lat": "50.26667",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "adminId1": "6141242",
+      "countryId": "6251999",
+      "adminCode1": "11",
+      "countryName": "Canada",
+      "fclName": "spot, building, farm",
+      "score": 4.569680690765381,
+      "countryCode": "CA",
+      "lng": "-107.7909",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "hotel",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Swift_Current"
+      },
+      "toponymName": "Travelodge Swift Current",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "NA",
+      "name": "Travelodge Swift Current",
+      "fcode": "HTL",
+      "asciiName": "Travelodge Swift Current",
+      "geonameId": 6483880,
+      "lat": "50.3005",
+      "adminName1": "Saskatchewan",
+      "population": 0
+    },
+    {
+      "adminId1": "6141242",
+      "countryId": "6251999",
+      "adminCode1": "11",
+      "countryName": "Canada",
+      "fclName": "stream, lake, ...",
+      "score": 4.087246894836426,
+      "countryCode": "CA",
+      "lng": "-107.73464",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "bay",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Regina"
+      },
+      "toponymName": "Swift Current Bay",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "NA",
+      "name": "Swift Current Bay",
+      "fcode": "BAY",
+      "asciiName": "Swift Current Bay",
+      "geonameId": 6160604,
+      "lat": "50.65008",
+      "adminName1": "Saskatchewan",
+      "population": 0
+    },
+    {
+      "adminId1": "5883102",
+      "countryId": "6251999",
+      "adminCode1": "01",
+      "countryName": "Canada",
+      "fclName": "stream, lake, ...",
+      "score": 4.087246894836426,
+      "countryCode": "CA",
+      "lng": "-112.75211",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "stream",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton"
+      },
+      "toponymName": "Swift Current Creek",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "NA",
+      "name": "Swift Current Creek",
+      "fcode": "STM",
+      "asciiName": "Swift Current Creek",
+      "geonameId": 6160607,
+      "lat": "58.41693",
+      "adminName1": "Alberta",
+      "population": 0
+    }
+  ]
+}

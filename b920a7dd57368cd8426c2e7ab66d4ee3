@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4469452,
+                  "lng" : 88.1992978
+               },
+               "southwest" : {
+                  "lat" : 26.3477794,
+                  "lng" : 80.0522222
+               }
+            },
+            "location" : {
+               "lat" : 28.394857,
+               "lng" : 84.12400799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4469452,
+                  "lng" : 88.1992978
+               },
+               "southwest" : {
+                  "lat" : 26.3477794,
+                  "lng" : 80.0522222
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

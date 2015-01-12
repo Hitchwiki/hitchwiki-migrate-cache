@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puerto Varas",
+               "short_name" : "Puerto Varas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puerto Varas",
+               "short_name" : "Puerto Varas",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Llanquihue Province",
+               "short_name" : "Llanquihue Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Los Lagos Region",
+               "short_name" : "Los Lagos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puerto Varas, Puerto Varas, Los Lagos Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.8152574,
+                  "lng" : -71.8257606
+               },
+               "southwest" : {
+                  "lat" : -41.4487585,
+                  "lng" : -73.3587958
+               }
+            },
+            "location" : {
+               "lat" : -41.3167,
+               "lng" : -72.9833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.8152574,
+                  "lng" : -71.8257606
+               },
+               "southwest" : {
+                  "lat" : -41.4487585,
+                  "lng" : -73.3587958
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

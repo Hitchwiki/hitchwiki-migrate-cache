@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mukacheve",
+               "short_name" : "Mukacheve",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mukachivs'ka city council",
+               "short_name" : "Mukachivs'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Zakarpats'ka oblast",
+               "short_name" : "Zakarpats'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mukacheve, Zakarpats'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4705541,
+                  "lng" : 22.7685409
+               },
+               "southwest" : {
+                  "lat" : 48.4112501,
+                  "lng" : 22.656891
+               }
+            },
+            "location" : {
+               "lat" : 48.45,
+               "lng" : 22.75
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4705541,
+                  "lng" : 22.7685409
+               },
+               "southwest" : {
+                  "lat" : 48.4112501,
+                  "lng" : 22.656891
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

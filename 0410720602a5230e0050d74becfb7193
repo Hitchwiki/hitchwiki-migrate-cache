@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellinzona",
+               "short_name" : "Bellinzona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bellinzona",
+               "short_name" : "Bellinzona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ticino",
+               "short_name" : "TI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bellinzona, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.22358000000001,
+                  "lng" : 9.0792599
+               },
+               "southwest" : {
+                  "lat" : 46.17834999999999,
+                  "lng" : 8.955799899999999
+               }
+            },
+            "location" : {
+               "lat" : 46.19849440000001,
+               "lng" : 9.0269178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.22358000000001,
+                  "lng" : 9.0792599
+               },
+               "southwest" : {
+                  "lat" : 46.17834999999999,
+                  "lng" : 8.955799899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

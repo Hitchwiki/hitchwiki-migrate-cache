@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oceania",
+               "short_name" : "Oceania",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Oceania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.6584862,
+                  "lng" : -124.5410156
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            },
+            "location" : {
+               "lat" : -22.7359095,
+               "lng" : 140.0187653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.6584862,
+                  "lng" : -124.5410156
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

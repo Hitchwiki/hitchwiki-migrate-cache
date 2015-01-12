@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A19",
+               "short_name" : "A19",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West-Vlaanderen",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vlaams Gewest",
+               "short_name" : "Vlaams Gewest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A19, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8739263,
+                  "lng" : 3.1885102
+               },
+               "southwest" : {
+                  "lat" : 50.8161618,
+                  "lng" : 2.9198828
+               }
+            },
+            "location" : {
+               "lat" : 50.82855929999999,
+               "lng" : 3.0436488
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8739263,
+                  "lng" : 3.1885102
+               },
+               "southwest" : {
+                  "lat" : 50.8161618,
+                  "lng" : 2.9198828
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

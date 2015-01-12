@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S31",
+               "short_name" : "S31",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burgenland",
+               "short_name" : "Burgenland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S31, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.845818,
+                  "lng" : 16.5478795
+               },
+               "southwest" : {
+                  "lat" : 47.4903157,
+                  "lng" : 16.3717367
+               }
+            },
+            "location" : {
+               "lat" : 47.678192,
+               "lng" : 16.38287
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.845818,
+                  "lng" : 16.5478795
+               },
+               "southwest" : {
+                  "lat" : 47.4903157,
+                  "lng" : 16.3717367
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

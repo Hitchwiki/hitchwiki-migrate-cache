@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "16, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.500598,
+                  "lng" : 10.9212689
+               },
+               "southwest" : {
+                  "lat" : 56.1057696,
+                  "lng" : 8.2595206
+               }
+            },
+            "location" : {
+               "lat" : 56.4651889,
+               "lng" : 9.5063388
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.500598,
+                  "lng" : 10.9212689
+               },
+               "southwest" : {
+                  "lat" : 56.1057696,
+                  "lng" : 8.2595206
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

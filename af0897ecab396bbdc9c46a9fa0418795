@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Friedrichshafen",
+               "short_name" : "Friedrichshafen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bodenseekreis",
+               "short_name" : "Bodenseekreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "TÜ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Friedrichshafen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7378704,
+                  "lng" : 9.560830299999999
+               },
+               "southwest" : {
+                  "lat" : 47.637803,
+                  "lng" : 9.3815328
+               }
+            },
+            "location" : {
+               "lat" : 47.6617648,
+               "lng" : 9.480011299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7378704,
+                  "lng" : 9.560830299999999
+               },
+               "southwest" : {
+                  "lat" : 47.637803,
+                  "lng" : 9.3815328
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

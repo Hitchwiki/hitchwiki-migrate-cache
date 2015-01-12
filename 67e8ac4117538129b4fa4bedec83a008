@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autostrada dei Laghi",
+               "short_name" : "A8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lombardia",
+               "short_name" : "Lombardia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A8, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.77640419999999,
+                  "lng" : 9.116271899999999
+               },
+               "southwest" : {
+                  "lat" : 45.5170041,
+                  "lng" : 8.7990026
+               }
+            },
+            "location" : {
+               "lat" : 45.61075659999999,
+               "lng" : 8.9270634
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.77640419999999,
+                  "lng" : 9.116271899999999
+               },
+               "southwest" : {
+                  "lat" : 45.5170041,
+                  "lng" : 8.7990026
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nova Scotia, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2277438,
+                  "lng" : -59.676914
+               },
+               "southwest" : {
+                  "lat" : 43.3918805,
+                  "lng" : -66.39481859999999
+               }
+            },
+            "location" : {
+               "lat" : 44.68198659999999,
+               "lng" : -63.744311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2277232,
+                  "lng" : -59.676914
+               },
+               "southwest" : {
+                  "lat" : 43.3918805,
+                  "lng" : -66.3946966
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

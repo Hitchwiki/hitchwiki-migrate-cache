@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bosaso",
+               "short_name" : "Bosaso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bosaaso",
+               "short_name" : "Bosaaso",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bari",
+               "short_name" : "Bari",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bosaso, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2912531,
+                  "lng" : 49.2006826
+               },
+               "southwest" : {
+                  "lat" : 11.2496704,
+                  "lng" : 49.16476249999999
+               }
+            },
+            "location" : {
+               "lat" : 11.284722,
+               "lng" : 49.1825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2912531,
+                  "lng" : 49.2006826
+               },
+               "southwest" : {
+                  "lat" : 11.2496704,
+                  "lng" : 49.16476249999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

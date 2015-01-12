@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A2",
+               "short_name" : "A2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A2, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.33445649999999,
+                  "lng" : 5.8978614
+               },
+               "southwest" : {
+                  "lat" : 50.7550594,
+                  "lng" : 4.9122444
+               }
+            },
+            "location" : {
+               "lat" : 51.5355844,
+               "lng" : 5.3809523
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.33445649999999,
+                  "lng" : 5.8978614
+               },
+               "southwest" : {
+                  "lat" : 50.7550594,
+                  "lng" : 4.9122444
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Assen",
+               "short_name" : "Assen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Assen",
+               "short_name" : "Assen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Drenthe",
+               "short_name" : "DR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Assen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0346537,
+                  "lng" : 6.6139342
+               },
+               "southwest" : {
+                  "lat" : 52.9326528,
+                  "lng" : 6.483964200000001
+               }
+            },
+            "location" : {
+               "lat" : 52.992753,
+               "lng" : 6.5642284
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0346537,
+                  "lng" : 6.6139342
+               },
+               "southwest" : {
+                  "lat" : 52.9326528,
+                  "lng" : 6.483964200000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

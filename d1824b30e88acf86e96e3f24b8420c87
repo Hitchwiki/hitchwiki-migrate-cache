@@ -1,0 +1,163 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "National Capital Region",
+      "countryId": "6251999",
+      "fcl": "L",
+      "score": 16.133230209350586,
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "45.5898",
+      "fcode": "AREA",
+      "continentCode": "NA",
+      "adminCode1": "10",
+      "lng": "-75.84655",
+      "geonameId": 6086253,
+      "toponymName": "National Capital Region",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "National Capital Region",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "National Capital Region",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "area",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "National Capital Region",
+      "countryId": "6251999",
+      "fcl": "L",
+      "score": 16.133230209350586,
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "45.289",
+      "fcode": "AREA",
+      "continentCode": "NA",
+      "adminCode1": "08",
+      "lng": "-75.80935",
+      "geonameId": 6086254,
+      "toponymName": "National Capital Region",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "National Capital Region",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/National_Capital_Region_%28Canada%29",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "National Capital Region",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "area",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Manila",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 120.9960909929823,
+        "south": 14.554859585468924,
+        "north": 14.611740414531075,
+        "west": 120.9373090070177
+      },
+      "asciiName": "Port Area",
+      "countryId": "1694008",
+      "fcl": "P",
+      "score": 14.625039100646973,
+      "adminId2": "1701667",
+      "countryCode": "PH",
+      "adminId1": "7521311",
+      "lat": "14.5833",
+      "fcode": "PPLX",
+      "continentCode": "AS",
+      "adminCode2": "D9",
+      "adminCode1": "NCR",
+      "lng": "120.9667",
+      "geonameId": 1692872,
+      "toponymName": "Port Area",
+      "population": 48684,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Port District",
+        "lang": "en"
+      }],
+      "adminName2": "Manila",
+      "name": "Port District",
+      "fclName": "city, village,...",
+      "countryName": "Philippines",
+      "fcodeName": "section of populated place",
+      "adminName1": "Metro Manila"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 5.5,
+        "timeZoneId": "Asia/Kolkata",
+        "dstOffset": 5.5
+      },
+      "bbox": {
+        "east": 77.28810703106123,
+        "south": 28.525470351248572,
+        "north": 28.543457648751428,
+        "west": 77.26763096893876
+      },
+      "asciiName": "Okhla",
+      "countryId": "1269750",
+      "fcl": "P",
+      "score": 12.869280815124512,
+      "adminId2": "8335423",
+      "countryCode": "IN",
+      "adminId1": "1273293",
+      "lat": "28.53446",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode2": "098",
+      "adminCode1": "07",
+      "lng": "77.27787",
+      "geonameId": 6619346,
+      "toponymName": "Okhla",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Okhla",
+        "lang": "en"
+      }],
+      "adminName2": "South Delhi",
+      "name": "Okhla",
+      "fclName": "city, village,...",
+      "countryName": "India",
+      "fcodeName": "populated place",
+      "adminName1": "NCT"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Amsterdam",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 5.474333860244451,
+        "south": 51.99350635124857,
+        "north": 52.011493648751426,
+        "west": 5.445110139755549
+      },
+      "asciiName": "Amerongen",
+      "countryId": "2750405",
+      "fcl": "P",
+      "score": 35.7696533203125,
+      "adminId2": "2756685",
+      "countryCode": "NL",
+      "adminId1": "2745909",
+      "lat": "52.0025",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "1581",
+      "adminCode1": "09",
+      "lng": "5.45972",
+      "geonameId": 2759828,
+      "toponymName": "Amerongen",
+      "population": 5170,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Αμερόνχεν",
+          "lang": "el"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Amerongen",
+          "lang": "link"
+        },
+        {
+          "name": "AMR",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Utrechtse Heuvelrug",
+      "name": "Amerongen",
+      "fclName": "city, village,...",
+      "countryName": "Netherlands",
+      "fcodeName": "populated place",
+      "adminName1": "Utrecht"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Amsterdam",
+        "dstOffset": 2
+      },
+      "asciiName": "Kasteel Amerongen",
+      "countryId": "2750405",
+      "fcl": "S",
+      "score": 19.9958438873291,
+      "adminId2": "2756685",
+      "countryCode": "NL",
+      "adminId1": "2745909",
+      "lat": "51.99548",
+      "fcode": "CSTL",
+      "continentCode": "EU",
+      "adminCode2": "1581",
+      "adminCode1": "09",
+      "lng": "5.45862",
+      "geonameId": 2759826,
+      "toponymName": "Kasteel Amerongen",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Castle_Amerongen",
+        "lang": "link"
+      }],
+      "adminName2": "Utrechtse Heuvelrug",
+      "name": "Kasteel Amerongen",
+      "fclName": "spot, building, farm",
+      "countryName": "Netherlands",
+      "fcodeName": "castle",
+      "adminName1": "Utrecht"
+    }
+  ]
+}

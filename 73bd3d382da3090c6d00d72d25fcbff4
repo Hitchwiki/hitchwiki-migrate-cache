@@ -1,0 +1,43 @@
+{
+  "totalResultsCount": 1,
+  "geonames": [{
+    "alternateNames": [{
+      "name": "http://en.wikipedia.org/wiki/Wild_Horse%2C_Alberta",
+      "lang": "link"
+    }],
+    "countryName": "Canada",
+    "adminCode1": "01",
+    "score": 19.203214645385742,
+    "lng": "-110.21824",
+    "adminName2": "",
+    "fcodeName": "populated locality",
+    "adminName3": "",
+    "timezone": {
+      "dstOffset": -6,
+      "gmtOffset": -7,
+      "timeZoneId": "America/Edmonton"
+    },
+    "adminName4": "",
+    "adminName5": "",
+    "bbox": {
+      "south": 48.99911446012486,
+      "east": -110.2168650350788,
+      "north": 49.00091318987515,
+      "west": -110.2196068049212
+    },
+    "name": "Wild Horse",
+    "fcode": "PPLL",
+    "geonameId": 6181891,
+    "asciiName": "Wild Horse",
+    "lat": "49.00001",
+    "population": 0,
+    "adminName1": "Alberta",
+    "countryId": "6251999",
+    "adminId1": "5883102",
+    "fclName": "city, village,...",
+    "countryCode": "CA",
+    "toponymName": "Wild Horse",
+    "fcl": "P",
+    "continentCode": "NA"
+  }]
+}

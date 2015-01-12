@@ -1,0 +1,392 @@
+{
+  "totalResultsCount": 30,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Сегед",
+          "lang": "bg"
+        },
+        {
+          "name": "Szegedin",
+          "lang": "de"
+        },
+        {
+          "name": "QZD",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sz%C5%91reg",
+          "lang": "link"
+        },
+        {
+          "name": "سکدین",
+          "lang": "ota"
+        },
+        {
+          "name": "Szeghed",
+          "lang": "ro"
+        },
+        {
+          "name": "SZE",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Hungary",
+      "adminCode1": "06",
+      "score": 95.62751007080078,
+      "lng": "20.14824",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 46.200364122331465,
+        "east": 20.224430680692063,
+        "north": 46.30563208206934,
+        "west": 20.07204759079234
+      },
+      "name": "Szeged",
+      "fcode": "PPLA",
+      "geonameId": 715429,
+      "asciiName": "Szeged",
+      "lat": "46.253",
+      "population": 164883,
+      "adminName1": "Csongrád",
+      "countryId": "719819",
+      "adminId1": "721589",
+      "fclName": "city, village,...",
+      "countryCode": "HU",
+      "toponymName": "Szeged",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Szeged Airport",
+          "lang": "en"
+        },
+        {
+          "name": "LHUD",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Szeged_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Hungary",
+      "adminCode1": "06",
+      "score": 38.183860778808594,
+      "lng": "20.09022",
+      "adminName2": "",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Szeged Airport",
+      "fcode": "AIRP",
+      "geonameId": 6299532,
+      "asciiName": "Szeged",
+      "lat": "46.24736",
+      "population": 0,
+      "adminName1": "Csongrád",
+      "countryId": "719819",
+      "adminId1": "721589",
+      "fclName": "spot, building, farm",
+      "elevation": 82,
+      "countryCode": "HU",
+      "toponymName": "Szeged",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "countryName": "Hungary",
+      "adminCode1": "19",
+      "cc2": "HU",
+      "score": 9.659836769104004,
+      "lng": "20.13333",
+      "adminName2": "",
+      "fcodeName": "section of populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 46.22973584049956,
+        "east": 20.138534362817584,
+        "north": 46.23693075950044,
+        "west": 20.128132237182417
+      },
+      "name": "Alsóváros",
+      "fcode": "PPLX",
+      "geonameId": 722884,
+      "asciiName": "Alsovaros",
+      "lat": "46.23333",
+      "population": 0,
+      "adminName1": "Szeged",
+      "countryId": "719819",
+      "fclName": "city, village,...",
+      "countryCode": "HU",
+      "toponymName": "Alsóváros",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "countryId": "719819",
+      "adminCode1": "19",
+      "countryName": "Hungary",
+      "fclName": "city, village,...",
+      "score": 8.53817081451416,
+      "countryCode": "HU",
+      "lng": "20.19742",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "populated place",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "toponymName": "Marospart",
+      "adminName5": "",
+      "fcl": "P",
+      "bbox": {
+        "south": 46.23587292848217,
+        "east": 20.21042679061872,
+        "north": 46.25386022598503,
+        "west": 20.184413449859797
+      },
+      "continentCode": "EU",
+      "name": "Marospart",
+      "fcode": "PPL",
+      "asciiName": "Marospart",
+      "geonameId": 717803,
+      "lat": "46.24487",
+      "adminName1": "Szeged",
+      "population": 0
+    },
+    {
+      "countryId": "719819",
+      "adminCode1": "19",
+      "countryName": "Hungary",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 8.53817081451416,
+      "countryCode": "HU",
+      "lng": "20.11667",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "hill",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "toponymName": "Tápéi Halom",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "EU",
+      "name": "Tápéi Halom",
+      "fcode": "HLL",
+      "asciiName": "Tapei Halom",
+      "geonameId": 714982,
+      "lat": "46.31667",
+      "adminName1": "Szeged",
+      "population": 0
+    },
+    {
+      "countryId": "719819",
+      "adminCode1": "19",
+      "countryName": "Hungary",
+      "fclName": "city, village,...",
+      "score": 8.452357292175293,
+      "countryCode": "HU",
+      "lng": "20.08333",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "section of populated place",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "toponymName": "Szentmihálytelek",
+      "adminName5": "",
+      "fcl": "P",
+      "bbox": {
+        "south": 46.21306924049943,
+        "east": 20.08853278381898,
+        "north": 46.220264159500566,
+        "west": 20.07813381618102
+      },
+      "continentCode": "EU",
+      "name": "Szentmihálytelek",
+      "fcode": "PPLX",
+      "asciiName": "Szentmihalytelek",
+      "geonameId": 715322,
+      "lat": "46.21667",
+      "adminName1": "Szeged",
+      "population": 0
+    },
+    {
+      "countryId": "719819",
+      "adminCode1": "19",
+      "countryName": "Hungary",
+      "fclName": "city, village,...",
+      "score": 8.452357292175293,
+      "countryCode": "HU",
+      "lng": "20.18274",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "section of populated place",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "toponymName": "Marostő",
+      "adminName5": "",
+      "fcl": "P",
+      "bbox": {
+        "south": 46.233848791400035,
+        "east": 20.187944525204248,
+        "north": 46.24104371040117,
+        "west": 20.177541619815283
+      },
+      "continentCode": "EU",
+      "name": "Marostő",
+      "fcode": "PPLX",
+      "asciiName": "Marosto",
+      "geonameId": 717801,
+      "lat": "46.23745",
+      "adminName1": "Szeged",
+      "population": 0
+    },
+    {
+      "countryId": "719819",
+      "adminCode1": "19",
+      "countryName": "Hungary",
+      "fclName": "city, village,...",
+      "score": 8.452357292175293,
+      "countryCode": "HU",
+      "lng": "20.16571",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "section of populated place",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "toponymName": "Újszeged",
+      "adminName5": "",
+      "fcl": "P",
+      "bbox": {
+        "south": 46.243940189541334,
+        "east": 20.170908090492865,
+        "north": 46.25113510854247,
+        "west": 20.16050327120147
+      },
+      "continentCode": "EU",
+      "name": "Újszeged",
+      "fcode": "PPLX",
+      "asciiName": "Ujszeged",
+      "geonameId": 714419,
+      "lat": "46.24754",
+      "adminName1": "Szeged",
+      "population": 0
+    },
+    {
+      "countryId": "719819",
+      "adminCode1": "19",
+      "countryName": "Hungary",
+      "fclName": "city, village,...",
+      "score": 8.452357292175293,
+      "countryCode": "HU",
+      "lng": "20.2",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "section of populated place",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "toponymName": "Szőregitanyák",
+      "adminName5": "",
+      "fcl": "P",
+      "bbox": {
+        "south": 46.21306924049943,
+        "east": 20.20519948381898,
+        "north": 46.220264159500566,
+        "west": 20.19480051618102
+      },
+      "continentCode": "EU",
+      "name": "Szőregitanyák",
+      "fcode": "PPLX",
+      "asciiName": "Szoregitanyak",
+      "geonameId": 715073,
+      "lat": "46.21667",
+      "adminName1": "Szeged",
+      "population": 0
+    },
+    {
+      "countryName": "Hungary",
+      "adminCode1": "19",
+      "score": 8.452357292175293,
+      "lng": "20.16712",
+      "adminName2": "",
+      "fcodeName": "section of populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 46.263168067205434,
+        "east": 20.17232612162367,
+        "north": 46.27036298620657,
+        "west": 20.16191765279033
+      },
+      "name": "Tarján",
+      "fcode": "PPLX",
+      "geonameId": 6690430,
+      "asciiName": "Tarjan",
+      "lat": "46.26677",
+      "population": 0,
+      "adminName1": "Szeged",
+      "countryId": "719819",
+      "fclName": "city, village,...",
+      "elevation": 80,
+      "countryCode": "HU",
+      "toponymName": "Tarján",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

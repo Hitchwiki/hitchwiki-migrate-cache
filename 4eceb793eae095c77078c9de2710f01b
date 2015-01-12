@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sighișoara",
+               "short_name" : "Sighișoara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sighisoara",
+               "short_name" : "Sighisoara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mureș County",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sighișoara, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.24641,
+                  "lng" : 24.8302281
+               },
+               "southwest" : {
+                  "lat" : 46.1996018,
+                  "lng" : 24.7571862
+               }
+            },
+            "location" : {
+               "lat" : 46.216944,
+               "lng" : 24.791111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.24641,
+                  "lng" : 24.8302281
+               },
+               "southwest" : {
+                  "lat" : 46.1996018,
+                  "lng" : 24.7571862
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

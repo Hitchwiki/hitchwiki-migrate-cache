@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siberia",
+               "short_name" : "Siberia",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Siberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.2663089,
+                  "lng" : -168.9996789
+               },
+               "southwest" : {
+                  "lat" : 42.2876587,
+                  "lng" : 57.1300707
+               }
+            },
+            "location" : {
+               "lat" : 61.01370970000001,
+               "lng" : 99.1966559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 81.2646919,
+                  "lng" : -168.9996789
+               },
+               "southwest" : {
+                  "lat" : 42.2876587,
+                  "lng" : 57.1300707
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

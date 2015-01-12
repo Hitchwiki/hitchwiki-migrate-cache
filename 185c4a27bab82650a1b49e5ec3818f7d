@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A65",
+               "short_name" : "A65",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A65, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4546292,
+                  "lng" : 8.3580933
+               },
+               "southwest" : {
+                  "lat" : 49.0395736,
+                  "lng" : 8.1415696
+               }
+            },
+            "location" : {
+               "lat" : 49.2542676,
+               "lng" : 8.1502734
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4546292,
+                  "lng" : 8.3580933
+               },
+               "southwest" : {
+                  "lat" : 49.0395736,
+                  "lng" : 8.1415696
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

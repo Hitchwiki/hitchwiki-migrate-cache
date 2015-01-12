@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M9",
+               "short_name" : "M9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M9, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3817798,
+                  "lng" : 37.373503
+               },
+               "southwest" : {
+                  "lat" : 55.7744067,
+                  "lng" : 28.1938901
+               }
+            },
+            "location" : {
+               "lat" : 56.26609699999999,
+               "lng" : 32.8121549
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3817798,
+                  "lng" : 37.373503
+               },
+               "southwest" : {
+                  "lat" : 55.7744067,
+                  "lng" : 28.1938901
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

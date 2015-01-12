@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hengelo",
+               "short_name" : "Hengelo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hengelo",
+               "short_name" : "Hengelo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hengelo, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3136006,
+                  "lng" : 6.8526406
+               },
+               "southwest" : {
+                  "lat" : 52.1908696,
+                  "lng" : 6.7020515
+               }
+            },
+            "location" : {
+               "lat" : 52.2574121,
+               "lng" : 6.7927725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3136006,
+                  "lng" : 6.8526406
+               },
+               "southwest" : {
+                  "lat" : 52.1908696,
+                  "lng" : 6.7020515
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

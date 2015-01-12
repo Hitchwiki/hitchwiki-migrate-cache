@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pärnu County",
+               "short_name" : "Pärnu County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pärnu County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.7569807,
+                  "lng" : 25.3071801
+               },
+               "southwest" : {
+                  "lat" : 57.8645448,
+                  "lng" : 23.6090121
+               }
+            },
+            "location" : {
+               "lat" : 58.46634429999999,
+               "lng" : 24.69612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.7569807,
+                  "lng" : 25.3071801
+               },
+               "southwest" : {
+                  "lat" : 57.8645448,
+                  "lng" : 23.6090121
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

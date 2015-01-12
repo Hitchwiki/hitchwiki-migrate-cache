@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiclayo",
+               "short_name" : "Chiclayo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiclayo",
+               "short_name" : "Chiclayo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lambayeque",
+               "short_name" : "Lambayeque",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiclayo, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.7493393,
+                  "lng" : -79.8006965
+               },
+               "southwest" : {
+                  "lat" : -6.8137734,
+                  "lng" : -79.8973845
+               }
+            },
+            "location" : {
+               "lat" : -6.776597400000001,
+               "lng" : -79.84429779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.7493393,
+                  "lng" : -79.8006965
+               },
+               "southwest" : {
+                  "lat" : -6.8137734,
+                  "lng" : -79.8973845
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

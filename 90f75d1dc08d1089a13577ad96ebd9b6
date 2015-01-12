@@ -1,0 +1,484 @@
+{
+  "totalResultsCount": 880,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo",
+        "dstOffset": -4
+      },
+      "asciiName": "Las Americas International Airport",
+      "countryId": "3508796",
+      "fcl": "S",
+      "score": 40.19573211669922,
+      "cc2": "DO",
+      "countryCode": "DO",
+      "adminId1": "3496024",
+      "lat": "18.42966",
+      "fcode": "AIRP",
+      "continentCode": "NA",
+      "elevation": 17,
+      "adminCode1": "34",
+      "lng": "-69.66893",
+      "geonameId": 3500854,
+      "toponymName": "Las Américas International Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Flughafen Las Américas",
+          "lang": "de"
+        },
+        {
+          "name": "Aeropuerto Internacional Las Américas",
+          "lang": "es"
+        },
+        {
+          "name": "فرودگاه بین‌المللی لا امریکاس",
+          "lang": "fa"
+        },
+        {
+          "name": "Aéroport international Las Américas",
+          "lang": "fr"
+        },
+        {
+          "name": "Las Américas nemzetközi repülőtér",
+          "lang": "hu"
+        },
+        {
+          "name": "SDQ",
+          "lang": "iata"
+        },
+        {
+          "name": "MDSD",
+          "lang": "icao"
+        },
+        {
+          "name": "Bandar Udara Internasional Las Américas",
+          "lang": "id"
+        },
+        {
+          "name": "Aeroporto Internazionale Las Américas",
+          "lang": "it"
+        },
+        {
+          "name": "ラス・アメリカス国際空港",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Las_Am%C3%A9ricas_International_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "लास अमेरिकास आंतरराष्ट्रीय विमानतळ",
+          "lang": "mr"
+        },
+        {
+          "name": "Port lotniczy Las Americas",
+          "lang": "pl"
+        },
+        {
+          "name": "Aeroporto Internacional de Las Américas",
+          "lang": "pt"
+        },
+        {
+          "name": "Фурудгоҳи бин‌алмилалӣ ло омрикос",
+          "lang": "tg"
+        }
+      ],
+      "adminName2": "",
+      "name": "Las Américas International Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Dominican Republic",
+      "fcodeName": "airport",
+      "adminName1": "Nacional"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Mexico_City",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -90.37021372160392,
+        "south": 16.074042712767106,
+        "north": 16.60477887945288,
+        "west": -90.79148539880782
+      },
+      "asciiName": "Benemerito de las Americas",
+      "countryId": "3996063",
+      "fcl": "A",
+      "score": 25.26460075378418,
+      "adminId2": "6955078",
+      "countryCode": "MX",
+      "adminId1": "3531011",
+      "lat": "16.51722",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "adminCode2": "114",
+      "adminCode1": "05",
+      "lng": "-90.65306",
+      "geonameId": 6955078,
+      "toponymName": "Benemérito de las Américas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Benem%C3%A9rito_de_las_Am%C3%A9ricas",
+        "lang": "link"
+      }],
+      "adminName2": "Benemérito de las Américas",
+      "name": "Benemérito de las Américas",
+      "fclName": "country, state, region,...",
+      "countryName": "Mexico",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Chiapas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -98.05967289921578,
+        "south": 25.05254435124857,
+        "north": 25.070531648751427,
+        "west": -98.07953110078422
+      },
+      "asciiName": "Las Americas",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 18.948450088500977,
+      "countryCode": "MX",
+      "adminId1": "3516391",
+      "lat": "25.06154",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "28",
+      "lng": "-98.0696",
+      "geonameId": 3526246,
+      "toponymName": "Las Américas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Las Américas",
+        "lang": "es"
+      }],
+      "adminName2": "",
+      "name": "Las Américas",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Tamaulipas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -79.62433816658739,
+        "south": -1.0589936487517548,
+        "north": -1.0410063512482453,
+        "west": -79.64232843341262
+      },
+      "asciiName": "Hacienda Las Americas",
+      "countryId": "3658394",
+      "fcl": "P",
+      "score": 18.233154296875,
+      "cc2": "EC",
+      "countryCode": "EC",
+      "adminId1": "3657505",
+      "lat": "-1.05",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode1": "10",
+      "lng": "-79.63333",
+      "geonameId": 3656703,
+      "toponymName": "Hacienda Las Américas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Hacienda Las Américas",
+      "fclName": "city, village,...",
+      "countryName": "Ecuador",
+      "fcodeName": "populated place",
+      "adminName1": "Guayas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Mazatlan",
+        "dstOffset": -6
+      },
+      "bbox": {
+        "east": -108.30031672572862,
+        "south": 25.577655351248573,
+        "north": 25.59564264875143,
+        "west": -108.32026127427137
+      },
+      "asciiName": "Las Americas",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 15.790375709533691,
+      "countryCode": "MX",
+      "adminId1": "3983035",
+      "lat": "25.58665",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "25",
+      "lng": "-108.31029",
+      "geonameId": 4000315,
+      "toponymName": "Las Américas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Las Américas",
+        "lang": "es"
+      }],
+      "adminName2": "",
+      "name": "Las Américas",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Sinaloa"
+    },
+    {
+      "adminCode1": "29",
+      "lng": "-75.95389",
+      "geonameId": 3791598,
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "toponymName": "Laguna Tres Americas",
+      "asciiName": "Laguna Tres Americas",
+      "countryId": "3686110",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 15.471344947814941,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CO",
+      "name": "Laguna Tres Americas",
+      "fclName": "stream, lake, ...",
+      "countryName": "Colombia",
+      "fcodeName": "lake",
+      "adminId1": "3666313",
+      "adminName1": "Valle del Cauca",
+      "lat": "3.73",
+      "fcode": "LK",
+      "continentCode": "SA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Mexico_City",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -90.6588469935175,
+        "south": 16.56611335124857,
+        "north": 16.584100648751427,
+        "west": -90.67761500648251
+      },
+      "asciiName": "Benemerito de las Americas",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 14.58652400970459,
+      "countryCode": "MX",
+      "adminId1": "3531011",
+      "lat": "16.57511",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "05",
+      "lng": "-90.66823",
+      "geonameId": 3816363,
+      "toponymName": "Benemérito de las Américas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Benemérito de las Américas",
+        "lang": "es"
+      }],
+      "adminName2": "",
+      "name": "Benemérito de las Américas",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Chiapas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago",
+        "dstOffset": -5
+      },
+      "asciiName": "Circuit of the Americas",
+      "countryId": "6252001",
+      "fcl": "S",
+      "score": 14.26970100402832,
+      "adminId2": "4737316",
+      "countryCode": "US",
+      "adminId1": "4736286",
+      "lat": "30.1366",
+      "fcode": "RECR",
+      "continentCode": "NA",
+      "adminCode2": "453",
+      "adminCode1": "TX",
+      "lng": "-97.6307",
+      "geonameId": 8394015,
+      "toponymName": "Circuit of the Americas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Писта на Америките",
+          "lang": "bg"
+        },
+        {
+          "name": "Circuit dAustin",
+          "lang": "ca"
+        },
+        {
+          "name": "Circuit of The Americas",
+          "lang": "de"
+        },
+        {
+          "name": "Circuito de las Américas",
+          "lang": "es"
+        },
+        {
+          "name": "Circuit des Amériques",
+          "lang": "fr"
+        },
+        {
+          "name": "Circuíto das Américas",
+          "lang": "gl"
+        },
+        {
+          "name": "Circuito delle Americhe",
+          "lang": "it"
+        },
+        {
+          "name": "サーキット・オブ・ジ・アメリカズ",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Circuit_of_the_Americas",
+          "lang": "link"
+        },
+        {
+          "name": "Amerikos trasa",
+          "lang": "lt"
+        },
+        {
+          "name": "Amerikas trase",
+          "lang": "lv"
+        },
+        {
+          "name": "Circuito das Américas",
+          "lang": "pt"
+        },
+        {
+          "name": "Трасса Америк",
+          "lang": "ru"
+        },
+        {
+          "name": "Траса Америк",
+          "lang": "uk"
+        }
+      ],
+      "adminName2": "Travis County",
+      "name": "Circuit of the Americas",
+      "fclName": "spot, building, farm",
+      "countryName": "United States",
+      "fcodeName": "racetrack",
+      "adminName1": "Texas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Havana",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -77.39041739722309,
+        "south": 20.174339651248573,
+        "north": 20.19232694875143,
+        "west": -77.40958260277692
+      },
+      "asciiName": "Las Americas",
+      "countryId": "3562981",
+      "fcl": "P",
+      "score": 12.89278793334961,
+      "countryCode": "CU",
+      "adminId1": "3558052",
+      "lat": "20.18333",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "09",
+      "lng": "-77.4",
+      "geonameId": 3551600,
+      "toponymName": "Las Américas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Las Américas",
+      "fclName": "city, village,...",
+      "countryName": "Cuba",
+      "fcodeName": "populated place",
+      "adminName1": "Granma"
+    },
+    {
+      "adminCode1": "05",
+      "lng": "-77.76667",
+      "geonameId": 3551601,
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Havana",
+        "dstOffset": -4
+      },
+      "toponymName": "Las Américas",
+      "asciiName": "Las Americas",
+      "countryId": "3562981",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 12.89278793334961,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CU",
+      "name": "Las Américas",
+      "fclName": "parks,area, ...",
+      "countryName": "Cuba",
+      "fcodeName": "locality",
+      "adminId1": "3566062",
+      "adminName1": "Camagüey",
+      "lat": "21.31667",
+      "fcode": "LCTY",
+      "continentCode": "NA"
+    }
+  ]
+}

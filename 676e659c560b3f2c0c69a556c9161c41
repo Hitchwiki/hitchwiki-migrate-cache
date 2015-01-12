@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Villach",
+               "short_name" : "Villach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Villach",
+               "short_name" : "Villach",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Carinthia",
+               "short_name" : "Kärnten",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Villach, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.66851,
+                  "lng" : 13.9788401
+               },
+               "southwest" : {
+                  "lat" : 46.5585,
+                  "lng" : 13.6940001
+               }
+            },
+            "location" : {
+               "lat" : 46.60856,
+               "lng" : 13.85062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.66851,
+                  "lng" : 13.9788401
+               },
+               "southwest" : {
+                  "lat" : 46.5585,
+                  "lng" : 13.6940001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

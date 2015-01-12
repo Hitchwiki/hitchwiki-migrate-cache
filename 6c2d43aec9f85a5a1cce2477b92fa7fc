@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central America",
+               "short_name" : "Central America",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Central America",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.495942,
+                  "lng" : -77.15848799999999
+               },
+               "southwest" : {
+                  "lat" : 5.496099999999999,
+                  "lng" : -92.2714
+               }
+            },
+            "location" : {
+               "lat" : 12.7690126,
+               "lng" : -85.60236429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.495942,
+                  "lng" : -77.15848799999999
+               },
+               "southwest" : {
+                  "lat" : 7.0409,
+                  "lng" : -92.2714
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Baton Rouge Parish",
+               "short_name" : "East Baton Rouge Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6462566,
+                  "lng" : -90.96774099999999
+               },
+               "southwest" : {
+                  "lat" : 30.4651173,
+                  "lng" : -91.1032891
+               }
+            },
+            "location" : {
+               "lat" : 30.554281,
+               "lng" : -91.0368766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6462566,
+                  "lng" : -90.96774099999999
+               },
+               "southwest" : {
+                  "lat" : 30.4651173,
+                  "lng" : -91.1032891
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pickens County",
+               "short_name" : "Pickens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29630",
+               "short_name" : "29630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, SC 29630, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.743949,
+                  "lng" : -82.75554009999999
+               },
+               "southwest" : {
+                  "lat" : 34.702048,
+                  "lng" : -82.80521299999999
+               }
+            },
+            "location" : {
+               "lat" : 34.7242749,
+               "lng" : -82.7812526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.743949,
+                  "lng" : -82.75554009999999
+               },
+               "southwest" : {
+                  "lat" : 34.702048,
+                  "lng" : -82.80521299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Heth",
+               "short_name" : "Heth",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Harrison County",
+               "short_name" : "Harrison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47112",
+               "short_name" : "47112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, IN 47112, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0997912,
+               "lng" : -86.15858170000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.10114018029149,
+                  "lng" : -86.15723271970852
+               },
+               "southwest" : {
+                  "lat" : 38.0984422197085,
+                  "lng" : -86.15993068029152
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84722",
+               "short_name" : "84722",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, UT 84722, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.430579,
+                  "lng" : -113.6059391
+               },
+               "southwest" : {
+                  "lat" : 37.402398,
+                  "lng" : -113.6425281
+               }
+            },
+            "location" : {
+               "lat" : 37.4166853,
+               "lng" : -113.6246009
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.430579,
+                  "lng" : -113.6059391
+               },
+               "southwest" : {
+                  "lat" : 37.402398,
+                  "lng" : -113.6425281
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yukon-Koyukuk",
+               "short_name" : "Yukon-Koyukuk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99730",
+               "short_name" : "99730",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central, AK 99730, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.679264,
+                  "lng" : -144.2614459
+               },
+               "southwest" : {
+                  "lat" : 65.3967439,
+                  "lng" : -145.0458891
+               }
+            },
+            "location" : {
+               "lat" : 65.57249999999999,
+               "lng" : -144.8030556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.679264,
+                  "lng" : -144.2614459
+               },
+               "southwest" : {
+                  "lat" : 65.3967439,
+                  "lng" : -145.0458891
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

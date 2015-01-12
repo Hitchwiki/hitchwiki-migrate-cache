@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A30",
+               "short_name" : "A30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A30, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3455933,
+                  "lng" : 8.7806979
+               },
+               "southwest" : {
+                  "lat" : 52.17758540000001,
+                  "lng" : 7.0434886
+               }
+            },
+            "location" : {
+               "lat" : 52.2680529,
+               "lng" : 7.911274799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3455933,
+                  "lng" : 8.7806979
+               },
+               "southwest" : {
+                  "lat" : 52.17758540000001,
+                  "lng" : 7.0434886
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A30",
+               "short_name" : "A30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bad Oeynhausen",
+               "short_name" : "Bad Oeynhausen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Detmold",
+               "short_name" : "Detmold",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A30, Bad Oeynhausen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2346545,
+                  "lng" : 8.846658399999999
+               },
+               "southwest" : {
+                  "lat" : 52.1999541,
+                  "lng" : 8.7780386
+               }
+            },
+            "location" : {
+               "lat" : 52.2204583,
+               "lng" : 8.822895899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2346545,
+                  "lng" : 8.846658399999999
+               },
+               "southwest" : {
+                  "lat" : 52.1999541,
+                  "lng" : 8.7780386
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A30",
+               "short_name" : "A30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A30, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.20025,
+                  "lng" : 10.8254866
+               },
+               "southwest" : {
+                  "lat" : 48.1968113,
+                  "lng" : 10.7584643
+               }
+            },
+            "location" : {
+               "lat" : 48.2001871,
+               "lng" : 10.7913371
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.20025,
+                  "lng" : 10.8254866
+               },
+               "southwest" : {
+                  "lat" : 48.1968113,
+                  "lng" : 10.7584643
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A30",
+               "short_name" : "A30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Graben",
+               "short_name" : "Graben",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86836",
+               "short_name" : "86836",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A30, 86836 Graben, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2061459,
+                  "lng" : 10.8554659
+               },
+               "southwest" : {
+                  "lat" : 48.1997373,
+                  "lng" : 10.8329022
+               }
+            },
+            "location" : {
+               "lat" : 48.2036277,
+               "lng" : 10.8446195
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2061459,
+                  "lng" : 10.8554659
+               },
+               "southwest" : {
+                  "lat" : 48.1997373,
+                  "lng" : 10.8329022
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

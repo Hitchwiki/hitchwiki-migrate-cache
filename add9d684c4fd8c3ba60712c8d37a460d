@@ -1,0 +1,216 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode2": "SZR12",
+      "alternateNames": [
+        {
+          "name": "Казанлък",
+          "lang": "bg"
+        },
+        {
+          "name": "Kasanlak",
+          "lang": "de"
+        },
+        {
+          "name": "Kazanlak",
+          "lang": "en"
+        },
+        {
+          "name": "Kazanlako",
+          "lang": "eo"
+        },
+        {
+          "name": "Kazanlak",
+          "lang": "fr"
+        },
+        {
+          "name": "קאזאנלק",
+          "lang": "he"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Kazanlak",
+          "lang": "link"
+        },
+        {
+          "name": "Kazanłyk",
+          "lang": "pl"
+        },
+        {
+          "name": "6100",
+          "lang": "post"
+        },
+        {
+          "name": "Kazanluk",
+          "lang": "pt"
+        },
+        {
+          "name": "Казанлык",
+          "lang": "ru"
+        },
+        {
+          "name": "Kazanlăk",
+          "lang": "sv"
+        },
+        {
+          "name": "Kazanlık",
+          "lang": "tr"
+        },
+        {
+          "name": "KZN",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Bulgaria",
+      "adminCode1": "59",
+      "cc2": "BG",
+      "score": 47.4155387878418,
+      "lng": "25.4",
+      "adminName2": "Obshtina Kazanlŭk",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 42.58650108503908,
+        "east": 25.441011325000304,
+        "north": 42.646832314960925,
+        "west": 25.358988674999694
+      },
+      "name": "Kazanlak",
+      "fcode": "PPL",
+      "geonameId": 730496,
+      "asciiName": "Kazanluk",
+      "lat": "42.61667",
+      "population": 55196,
+      "adminName1": "Stara Zagora",
+      "adminId1": "864559",
+      "countryId": "732800",
+      "fclName": "city, village,...",
+      "countryCode": "BG",
+      "adminId2": "730495",
+      "toponymName": "Kazanlŭk",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "countryId": "6697173",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Kazanlak_Peak",
+        "lang": "link"
+      }],
+      "countryName": "Antarctica",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 38.714622497558594,
+      "countryCode": "AQ",
+      "lng": "-59.95556",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "peak",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -3,
+        "timeZoneId": "Antarctica/Palmer"
+      },
+      "toponymName": "Kazanlak Peak",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "AN",
+      "name": "Kazanlak Peak",
+      "fcode": "PK",
+      "asciiName": "Kazanlak Peak",
+      "geonameId": 6629997,
+      "lat": "-62.63306",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Летище Кълвача",
+          "lang": "bg"
+        },
+        {
+          "name": "Kazanlak Airfield",
+          "lang": "en"
+        },
+        {
+          "name": "LBKA",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Kalvacha_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Bulgaria",
+      "adminCode1": "43",
+      "score": 19.357311248779297,
+      "lng": "25.42481",
+      "adminName2": "",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Kazanlak Airfield",
+      "fcode": "AIRP",
+      "geonameId": 9035289,
+      "asciiName": "Kalvacha Airport",
+      "lat": "42.58869",
+      "population": 0,
+      "adminName1": "Khaskovo",
+      "countryId": "732800",
+      "adminId1": "730436",
+      "fclName": "spot, building, farm",
+      "countryCode": "BG",
+      "toponymName": "Kalvacha Airport",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "alternateNames": [{
+        "name": "Казанла",
+        "lang": "ru"
+      }],
+      "countryName": "Russia",
+      "adminCode1": "67",
+      "score": 7.742924690246582,
+      "lng": "46.88844",
+      "adminName2": "",
+      "fcodeName": "stream",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Volgograd"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Kazanla",
+      "fcode": "STM",
+      "geonameId": 551448,
+      "asciiName": "Kazanla",
+      "lat": "52.13961",
+      "population": 0,
+      "adminName1": "Saratov",
+      "countryId": "2017370",
+      "adminId1": "498671",
+      "fclName": "stream, lake, ...",
+      "countryCode": "RU",
+      "toponymName": "Kazanla",
+      "fcl": "H",
+      "continentCode": "EU"
+    }
+  ]
+}

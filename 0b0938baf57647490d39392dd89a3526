@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miskolc",
+               "short_name" : "Miskolc",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miskolci",
+               "short_name" : "Miskolci",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Borsod-Abaúj-Zemplén",
+               "short_name" : "Borsod-Abaúj-Zemplén",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Miskolc, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.154998,
+                  "lng" : 20.8697789
+               },
+               "southwest" : {
+                  "lat" : 48.0233119,
+                  "lng" : 20.4817199
+               }
+            },
+            "location" : {
+               "lat" : 48.0963631,
+               "lng" : 20.762386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.154998,
+                  "lng" : 20.8697789
+               },
+               "southwest" : {
+                  "lat" : 48.0233119,
+                  "lng" : 20.4817199
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

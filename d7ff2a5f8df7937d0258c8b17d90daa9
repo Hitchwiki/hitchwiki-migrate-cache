@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aruba",
+               "short_name" : "AW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aruba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.6233784,
+                  "lng" : -69.86587999999999
+               },
+               "southwest" : {
+                  "lat" : 12.4117656,
+                  "lng" : -70.0640124
+               }
+            },
+            "location" : {
+               "lat" : 12.52111,
+               "lng" : -69.968338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.6233784,
+                  "lng" : -69.86587999999999
+               },
+               "southwest" : {
+                  "lat" : 12.4117656,
+                  "lng" : -70.0640124
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

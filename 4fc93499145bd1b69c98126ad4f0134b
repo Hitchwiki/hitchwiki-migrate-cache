@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chernyshevskoye",
+               "short_name" : "Chernyshevskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nesterovsky District",
+               "short_name" : "Nesterovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningrad Oblast",
+               "short_name" : "Kaliningrad Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chernyshevskoye, Kaliningrad Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.647563,
+                  "lng" : 22.746834
+               },
+               "southwest" : {
+                  "lat" : 54.633517,
+                  "lng" : 22.7188868
+               }
+            },
+            "location" : {
+               "lat" : 54.641111,
+               "lng" : 22.7375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.647563,
+                  "lng" : 22.746834
+               },
+               "southwest" : {
+                  "lat" : 54.633517,
+                  "lng" : 22.7188868
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

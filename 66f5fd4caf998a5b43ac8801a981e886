@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bucaramanga",
+               "short_name" : "Bucaramanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santander Department",
+               "short_name" : "Santander Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bucaramanga, Santander Department, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.263719999999999,
+                  "lng" : -73.04908
+               },
+               "southwest" : {
+                  "lat" : 7.069719999999999,
+                  "lng" : -73.16929
+               }
+            },
+            "location" : {
+               "lat" : 7.113309999999999,
+               "lng" : -73.120468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.263719999999999,
+                  "lng" : -73.04908
+               },
+               "southwest" : {
+                  "lat" : 7.069719999999999,
+                  "lng" : -73.16929
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bucaramanga",
+               "short_name" : "Bucaramanga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bucaramanga",
+               "short_name" : "Bucaramanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santander",
+               "short_name" : "Santander",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bucaramanga, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1297,
+               "lng" : -73.12577000000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.131048980291502,
+                  "lng" : -73.12442101970852
+               },
+               "southwest" : {
+                  "lat" : 7.128351019708497,
+                  "lng" : -73.12711898029153
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

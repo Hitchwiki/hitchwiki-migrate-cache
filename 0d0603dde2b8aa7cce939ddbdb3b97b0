@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tubbergen",
+               "short_name" : "Tubbergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tubbergen",
+               "short_name" : "Tubbergen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7651",
+               "short_name" : "7651",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7651 Tubbergen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4325218,
+                  "lng" : 6.824700699999999
+               },
+               "southwest" : {
+                  "lat" : 52.38573969999999,
+                  "lng" : 6.7313569
+               }
+            },
+            "location" : {
+               "lat" : 52.4089074,
+               "lng" : 6.7854892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4325218,
+                  "lng" : 6.824700699999999
+               },
+               "southwest" : {
+                  "lat" : 52.38573969999999,
+                  "lng" : 6.7313569
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

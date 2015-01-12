@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zapala",
+               "short_name" : "Zapala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zapala Department",
+               "short_name" : "Zapala Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Neuquen",
+               "short_name" : "NQ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zapala, Neuquén Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.8807999,
+                  "lng" : -70.03217769999999
+               },
+               "southwest" : {
+                  "lat" : -38.9142286,
+                  "lng" : -70.0897032
+               }
+            },
+            "location" : {
+               "lat" : -38.9023615,
+               "lng" : -70.06534049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.8807999,
+                  "lng" : -70.03217769999999
+               },
+               "southwest" : {
+                  "lat" : -38.9142286,
+                  "lng" : -70.0897032
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

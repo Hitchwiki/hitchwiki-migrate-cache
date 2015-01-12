@@ -1,0 +1,91 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Province",
+               "short_name" : "WP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.3244779,
+                  "lng" : 80.3798341
+               },
+               "southwest" : {
+                  "lat" : 6.333996,
+                  "lng" : 79.818962
+               }
+            },
+            "location" : {
+               "lat" : 6.901608599999999,
+               "lng" : 80.0087746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.3244779,
+                  "lng" : 80.3798341
+               },
+               "southwest" : {
+                  "lat" : 6.333996,
+                  "lng" : 79.818962
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Region, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3155821,
+                  "lng" : 85.19313799999999
+               },
+               "southwest" : {
+                  "lat" : 27.33219,
+                  "lng" : 82.69072389999999
+               }
+            },
+            "location" : {
+               "lat" : 28.16527,
+               "lng" : 83.93208059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3155821,
+                  "lng" : 85.19313799999999
+               },
+               "southwest" : {
+                  "lat" : 27.33219,
+                  "lng" : 82.69072389999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

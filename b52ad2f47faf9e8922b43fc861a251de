@@ -1,0 +1,633 @@
+{
+  "totalResultsCount": 56,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": -15.867389418921679,
+        "south": 17.980256094728325,
+        "north": 18.191367512096235,
+        "west": -16.08960749880293
+      },
+      "asciiName": "Nouakchott",
+      "countryId": "2378080",
+      "fcl": "P",
+      "score": 203.4642333984375,
+      "countryCode": "MR",
+      "adminId1": "2377449",
+      "lat": "18.08581",
+      "fcode": "PPLC",
+      "continentCode": "AF",
+      "adminCode1": "NKC",
+      "lng": "-15.9785",
+      "geonameId": 2377450,
+      "toponymName": "Nouakchott",
+      "population": 661400,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "ኑዋክሾት",
+          "lang": "am"
+        },
+        {
+          "name": "نواكشوط",
+          "lang": "ar"
+        },
+        {
+          "name": "Nuakxot",
+          "lang": "ast"
+        },
+        {
+          "name": "Nuakşot",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Нуакшот",
+          "lang": "be"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "bg"
+        },
+        {
+          "name": "নুওয়াকশুত",
+          "lang": "bn"
+        },
+        {
+          "name": "ནའུ་ཀ་ཅོ་ཊི།",
+          "lang": "bo"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "ca"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "ce"
+        },
+        {
+          "name": "نواکشۆت",
+          "lang": "ckb"
+        },
+        {
+          "name": "Nuakšott",
+          "lang": "cs"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "cy"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "da"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "de"
+        },
+        {
+          "name": "Νουακσότ",
+          "lang": "el"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "en"
+        },
+        {
+          "name": "Nuakŝoto",
+          "lang": "eo"
+        },
+        {
+          "name": "Nuakchot",
+          "lang": "es"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "et"
+        },
+        {
+          "name": "Nuakchot",
+          "lang": "eu"
+        },
+        {
+          "name": "نواکشوت",
+          "lang": "fa"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "fi"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "fr"
+        },
+        {
+          "name": "נואקשוט",
+          "lang": "he"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "hu"
+        },
+        {
+          "name": "Նուակշոտ",
+          "lang": "hy"
+        },
+        {
+          "name": "NKC",
+          "lang": "iata"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "id"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "io"
+        },
+        {
+          "name": "Núaksjott",
+          "lang": "is"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "it"
+        },
+        {
+          "name": "ヌアクショット",
+          "lang": "ja"
+        },
+        {
+          "name": "ნუაქშოტი",
+          "lang": "ka"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "kk"
+        },
+        {
+          "name": "누악쇼트",
+          "lang": "ko"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "ky"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Nouakchott",
+          "lang": "link"
+        },
+        {
+          "name": "Nuakšotas",
+          "lang": "lt"
+        },
+        {
+          "name": "Nuakšota",
+          "lang": "lv"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "mk"
+        },
+        {
+          "name": "नवाकसुत",
+          "lang": "mr"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "mrj"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "nl"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "no"
+        },
+        {
+          "name": "ਨੁਆਕਚੋਤ",
+          "lang": "pa"
+        },
+        {
+          "name": "Nawakszut",
+          "lang": "pl"
+        },
+        {
+          "name": "نوواکوٹ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "pt"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "ru"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "sk"
+        },
+        {
+          "name": "Nawakshot",
+          "lang": "so"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "sr"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "sv"
+        },
+        {
+          "name": "Nouakchott",
+          "lang": "sw"
+        },
+        {
+          "name": "நவாக்சோட்",
+          "lang": "ta"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "tg"
+        },
+        {
+          "name": "นูแอกชอต",
+          "lang": "th"
+        },
+        {
+          "name": "Nuakşot",
+          "lang": "tr"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "udm"
+        },
+        {
+          "name": "Нуакшот",
+          "lang": "uk"
+        },
+        {
+          "name": "NKC",
+          "lang": "unlc"
+        },
+        {
+          "name": "نواکشوط",
+          "lang": "ur"
+        },
+        {
+          "name": "Nävakjut",
+          "lang": "vo"
+        },
+        {
+          "name": "或索",
+          "lang": "yue"
+        },
+        {
+          "name": "努瓦克肖特",
+          "lang": "zh"
+        },
+        {
+          "name": "努瓦克肖特",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "",
+      "name": "Nouakchott",
+      "fclName": "city, village,...",
+      "countryName": "Mauritania",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Nouakchott"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "asciiName": "District de Nouakchott",
+      "countryId": "2378080",
+      "fcl": "A",
+      "score": 54.11171340942383,
+      "countryCode": "MR",
+      "adminId1": "2377449",
+      "lat": "18.1",
+      "fcode": "ADM1",
+      "continentCode": "AF",
+      "adminCode1": "NKC",
+      "lng": "-15.95",
+      "geonameId": 2377449,
+      "toponymName": "District de Nouakchott",
+      "population": 709856,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Nuwākshūţ",
+          "lang": "ar"
+        },
+        {
+          "name": "Wilaya de Nouakchott",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Wilaya_de_Nouakchott",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "District de Nouakchott",
+      "fclName": "country, state, region,...",
+      "countryName": "Mauritania",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nouakchott"
+    },
+    {
+      "elevation": 2,
+      "lng": "-15.94796",
+      "geonameId": 6297240,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "toponymName": "Nouakchott",
+      "asciiName": "Nouakchott",
+      "countryId": "2378080",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 45.68282699584961,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "NKC",
+          "lang": "iata"
+        },
+        {
+          "name": "GQNN",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Nouakchott_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "MR",
+      "name": "Nouakchott",
+      "fclName": "spot, building, farm",
+      "countryName": "Mauritania",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "18.09786",
+      "fcode": "AIRP",
+      "continentCode": "AF"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "asciiName": "Nouakchott",
+      "countryId": "2378080",
+      "fcl": "A",
+      "score": 31.97132110595703,
+      "adminId2": "8051338",
+      "countryCode": "MR",
+      "adminId1": "2375742",
+      "lat": "18.10042",
+      "fcode": "ADM2",
+      "continentCode": "AF",
+      "adminCode2": "8051338",
+      "adminCode1": "06",
+      "lng": "-15.95069",
+      "geonameId": 8051338,
+      "toponymName": "Nouakchott",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Nouakchott",
+      "name": "Nouakchott",
+      "fclName": "country, state, region,...",
+      "countryName": "Mauritania",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Trarza"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": -16.030625770035503,
+        "south": 18.309466351248574,
+        "north": 18.32745364875143,
+        "west": -16.049574229964495
+      },
+      "asciiName": "Jreida",
+      "countryId": "2378080",
+      "fcl": "P",
+      "score": 26.104473114013672,
+      "countryCode": "MR",
+      "adminId1": "2377449",
+      "lat": "18.31846",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "NKC",
+      "lng": "-16.0401",
+      "geonameId": 2378755,
+      "toponymName": "Jreïda",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Jreïda",
+        "lang": "fr"
+      }],
+      "adminName2": "",
+      "name": "Jreïda",
+      "fclName": "city, village,...",
+      "countryName": "Mauritania",
+      "fcodeName": "populated place",
+      "adminName1": "Nouakchott"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": -15.947937679229106,
+        "south": 18.09050635124857,
+        "north": 18.108493648751427,
+        "west": -15.966862320770893
+      },
+      "asciiName": "Ksar",
+      "countryId": "2378080",
+      "fcl": "P",
+      "score": 26.104473114013672,
+      "countryCode": "MR",
+      "adminId1": "2377449",
+      "lat": "18.0995",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "NKC",
+      "lng": "-15.9574",
+      "geonameId": 2595352,
+      "toponymName": "Ksar",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Ksar%2C_Mauritania",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Ksar",
+      "fclName": "city, village,...",
+      "countryName": "Mauritania",
+      "fcodeName": "populated place",
+      "adminName1": "Nouakchott"
+    },
+    {
+      "lng": "-16.5",
+      "geonameId": 2522573,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Recife",
+        "dstOffset": -3
+      },
+      "toponymName": "Nouakchott Canyon",
+      "asciiName": "Nouakchott Canyon",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 22.841413497924805,
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Nouakchott Canyon",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "canyon",
+      "adminName1": "",
+      "lat": "18.05",
+      "fcode": "CNYU"
+    },
+    {
+      "adminCode1": "NKC",
+      "lng": "-16.02483",
+      "geonameId": 2376442,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "toponymName": "Tarfayat el Mansour",
+      "asciiName": "Tarfayat el Mansour",
+      "countryId": "2378080",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 13.052236557006836,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "MR",
+      "name": "Tarfayat el Mansour",
+      "fclName": "spot, building, farm",
+      "countryName": "Mauritania",
+      "fcodeName": "camp(s)",
+      "adminId1": "2377449",
+      "adminName1": "Nouakchott",
+      "lat": "18.1029",
+      "fcode": "CMP",
+      "continentCode": "AF"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "asciiName": "Nibrech",
+      "countryId": "2378080",
+      "fcl": "T",
+      "score": 13.052236557006836,
+      "countryCode": "MR",
+      "adminId1": "2377449",
+      "lat": "18.11699",
+      "fcode": "PROM",
+      "continentCode": "AF",
+      "adminCode1": "NKC",
+      "lng": "-15.97973",
+      "geonameId": 2377500,
+      "toponymName": "Nibrech",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Nibrech",
+        "lang": "fr"
+      }],
+      "adminName2": "",
+      "name": "Nibrech",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Mauritania",
+      "fcodeName": "promontory(-ies)",
+      "adminName1": "Nouakchott"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Nouakchott",
+        "dstOffset": 0
+      },
+      "asciiName": "E-n-Dghamcha",
+      "countryId": "2378080",
+      "fcl": "H",
+      "score": 13.052236557006836,
+      "countryCode": "MR",
+      "adminId1": "2377449",
+      "lat": "18.37734",
+      "fcode": "WLL",
+      "continentCode": "AF",
+      "adminCode1": "NKC",
+      "lng": "-16.01955",
+      "geonameId": 2379721,
+      "toponymName": "E-n-Dghâmcha",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "E-n-Dghâmcha",
+        "lang": "fr"
+      }],
+      "adminName2": "",
+      "name": "E-n-Dghâmcha",
+      "fclName": "stream, lake, ...",
+      "countryName": "Mauritania",
+      "fcodeName": "well",
+      "adminName1": "Nouakchott"
+    }
+  ]
+}

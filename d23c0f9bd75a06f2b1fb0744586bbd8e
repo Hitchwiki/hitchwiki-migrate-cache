@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Passy",
+               "short_name" : "Passy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "74",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Passy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0182091,
+                  "lng" : 6.855439
+               },
+               "southwest" : {
+                  "lat" : 45.897603,
+                  "lng" : 6.645956
+               }
+            },
+            "location" : {
+               "lat" : 45.923392,
+               "lng" : 6.684919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0182091,
+                  "lng" : 6.855439
+               },
+               "southwest" : {
+                  "lat" : 45.897603,
+                  "lng" : 6.645956
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

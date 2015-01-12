@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.2877065,
+                  "lng" : -54.258562
+               },
+               "southwest" : {
+                  "lat" : -27.5883342,
+                  "lng" : -62.6380511
+               }
+            },
+            "location" : {
+               "lat" : -23.442503,
+               "lng" : -58.443832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.2877065,
+                  "lng" : -54.258562
+               },
+               "southwest" : {
+                  "lat" : -27.5883342,
+                  "lng" : -62.6380511
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

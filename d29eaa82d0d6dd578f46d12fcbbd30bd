@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A325",
+               "short_name" : "A325",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A325, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9584711,
+                  "lng" : 5.8889479
+               },
+               "southwest" : {
+                  "lat" : 51.8883042,
+                  "lng" : 5.8604796
+               }
+            },
+            "location" : {
+               "lat" : 51.92519950000001,
+               "lng" : 5.875874
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9584711,
+                  "lng" : 5.8889479
+               },
+               "southwest" : {
+                  "lat" : 51.8883042,
+                  "lng" : 5.8604796
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

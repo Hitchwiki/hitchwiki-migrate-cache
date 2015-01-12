@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Border Crossing Muriqan - Sukobin",
+               "short_name" : "Border Crossing Muriqan - Sukobin",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Jadranska Magistrala",
+               "short_name" : "E851",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shkodër County",
+               "short_name" : "Shkodër County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85360",
+               "short_name" : "85360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Border Crossing Muriqan - Sukobin, Jadranska Magistrala, 85360, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0170802,
+                  "lng" : 19.372716
+               },
+               "southwest" : {
+                  "lat" : 42.0164427,
+                  "lng" : 19.3719302
+               }
+            },
+            "location" : {
+               "lat" : 42.0167614,
+               "lng" : 19.3723231
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0181104302915,
+                  "lng" : 19.3736720802915
+               },
+               "southwest" : {
+                  "lat" : 42.0154124697085,
+                  "lng" : 19.3709741197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

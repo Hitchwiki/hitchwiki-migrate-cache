@@ -1,0 +1,141 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode3": "06636",
+      "alternateNames": [
+        {
+          "name": "ヘルレスハウゼン",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Herleshausen",
+          "lang": "link"
+        },
+        {
+          "name": "Херлесхаузен",
+          "lang": "ru"
+        },
+        {
+          "name": "Херлесхаузен",
+          "lang": "sr"
+        },
+        {
+          "name": "HHA",
+          "lang": "unlc"
+        },
+        {
+          "name": "黑尔莱斯豪森",
+          "lang": "zh"
+        }
+      ],
+      "adminCode2": "066",
+      "countryName": "Germany",
+      "adminCode1": "05",
+      "score": 25.97630500793457,
+      "lng": "10.16667",
+      "adminCode4": "06636005",
+      "adminName2": "Regierungsbezirk Kassel",
+      "fcodeName": "seat of a fourth-order administrative division",
+      "adminName3": "Werra-Meißner-Kreis",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Herleshausen",
+      "adminName5": "",
+      "bbox": {
+        "south": 51.010307229980256,
+        "east": 10.17677701706497,
+        "north": 51.02302617001975,
+        "west": 10.156556382935031
+      },
+      "name": "Herleshausen",
+      "fcode": "PPLA4",
+      "geonameId": 2906050,
+      "asciiName": "Herleshausen",
+      "lat": "51.01667",
+      "population": 3189,
+      "adminName1": "Hesse",
+      "adminId1": "2905330",
+      "countryId": "2921044",
+      "fclName": "city, village,...",
+      "countryCode": "DE",
+      "adminId4": "6553288",
+      "adminId3": "3220999",
+      "adminId2": "2892513",
+      "toponymName": "Herleshausen",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "06636",
+      "adminCode2": "066",
+      "countryName": "Germany",
+      "adminCode1": "05",
+      "score": 17.563188552856445,
+      "lng": "10.1763",
+      "adminCode4": "06636005",
+      "adminName2": "Regierungsbezirk Kassel",
+      "fcodeName": "fourth-order administrative division",
+      "adminName3": "Werra-Meißner-Kreis",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Herleshausen",
+      "adminName5": "",
+      "name": "Herleshausen",
+      "fcode": "ADM4",
+      "geonameId": 6553288,
+      "asciiName": "Herleshausen",
+      "lat": "51.005",
+      "population": 2874,
+      "adminName1": "Hesse",
+      "adminId1": "2905330",
+      "countryId": "2921044",
+      "fclName": "country, state, region,...",
+      "countryCode": "DE",
+      "adminId4": "6553288",
+      "adminId3": "3220999",
+      "adminId2": "2892513",
+      "toponymName": "Herleshausen",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "066",
+      "countryName": "Germany",
+      "adminCode1": "05",
+      "score": 2.4545302391052246,
+      "lng": "10.0808",
+      "adminName2": "Regierungsbezirk Kassel",
+      "fcodeName": "hotel",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hotel Hohenhaus",
+      "fcode": "HTL",
+      "geonameId": 6509727,
+      "asciiName": "HOTEL HOHENHAUS",
+      "lat": "51.0411",
+      "population": 0,
+      "adminName1": "Hesse",
+      "countryId": "2921044",
+      "adminId1": "2905330",
+      "fclName": "spot, building, farm",
+      "countryCode": "DE",
+      "adminId2": "2892513",
+      "toponymName": "Hotel Hohenhaus",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

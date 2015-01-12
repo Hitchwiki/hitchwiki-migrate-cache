@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gibraltar",
+               "short_name" : "GI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gibraltar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1551187,
+                  "lng" : -5.338419399999999
+               },
+               "southwest" : {
+                  "lat" : 36.1088348,
+                  "lng" : -5.3674154
+               }
+            },
+            "location" : {
+               "lat" : 36.140751,
+               "lng" : -5.353585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1551187,
+                  "lng" : -5.338419399999999
+               },
+               "southwest" : {
+                  "lat" : 36.1088348,
+                  "lng" : -5.3674154
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

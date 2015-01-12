@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9881245,
+                  "lng" : 2.5084301
+               },
+               "southwest" : {
+                  "lat" : 48.8654261,
+                  "lng" : 2.4199977
+               }
+            },
+            "location" : {
+               "lat" : 48.9250566,
+               "lng" : 2.4810625
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9881245,
+                  "lng" : 2.5084301
+               },
+               "southwest" : {
+                  "lat" : 48.8654261,
+                  "lng" : 2.4199977
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

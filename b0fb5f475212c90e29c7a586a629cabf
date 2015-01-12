@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banská Bystrica",
+               "short_name" : "Banská Bystrica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banská Bystrica District",
+               "short_name" : "Banská Bystrica District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Banská Bystrica Region",
+               "short_name" : "Banská Bystrica Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banská Bystrica, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8040909,
+                  "lng" : 19.2657391
+               },
+               "southwest" : {
+                  "lat" : 48.6745294,
+                  "lng" : 18.9962029
+               }
+            },
+            "location" : {
+               "lat" : 48.736277,
+               "lng" : 19.1461917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8040909,
+                  "lng" : 19.2657391
+               },
+               "southwest" : {
+                  "lat" : 48.6745294,
+                  "lng" : 18.9962029
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banská Bystrica",
+               "short_name" : "Banská Bystrica",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Banská Bystrica",
+               "short_name" : "Banská Bystrica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banská Bystrica District",
+               "short_name" : "Banská Bystrica District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Banská Bystrica Region",
+               "short_name" : "Banská Bystrica Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banská Bystrica, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7785275,
+                  "lng" : 19.2017431
+               },
+               "southwest" : {
+                  "lat" : 48.6944441,
+                  "lng" : 19.0881523
+               }
+            },
+            "location" : {
+               "lat" : 48.7370822,
+               "lng" : 19.1403851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7785275,
+                  "lng" : 19.2017431
+               },
+               "southwest" : {
+                  "lat" : 48.6944441,
+                  "lng" : 19.0881523
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

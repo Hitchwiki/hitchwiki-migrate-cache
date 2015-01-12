@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R56",
+               "short_name" : "R56",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moravian-Silesian Region",
+               "short_name" : "Moravian-Silesian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R56, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7752935,
+                  "lng" : 18.3265768
+               },
+               "southwest" : {
+                  "lat" : 49.6767303,
+                  "lng" : 18.2718229
+               }
+            },
+            "location" : {
+               "lat" : 49.7283598,
+               "lng" : 18.2811256
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7752935,
+                  "lng" : 18.3265768
+               },
+               "southwest" : {
+                  "lat" : 49.6767303,
+                  "lng" : 18.2718229
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

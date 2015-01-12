@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cassis",
+               "short_name" : "Cassis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cassis, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.24857799999999,
+                  "lng" : 5.594293
+               },
+               "southwest" : {
+                  "lat" : 43.188456,
+                  "lng" : 5.506295
+               }
+            },
+            "location" : {
+               "lat" : 43.215134,
+               "lng" : 5.53712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.24857799999999,
+                  "lng" : 5.594293
+               },
+               "southwest" : {
+                  "lat" : 43.188456,
+                  "lng" : 5.506295
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

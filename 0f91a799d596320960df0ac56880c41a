@@ -1,0 +1,112 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M1",
+               "short_name" : "M1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lisburn",
+               "short_name" : "Lisburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lisburn",
+               "short_name" : "Lisburn",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT27",
+               "short_name" : "BT27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M1, Lisburn BT27, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5861505,
+                  "lng" : -5.961577699999999
+               },
+               "southwest" : {
+                  "lat" : 54.4661009,
+                  "lng" : -6.744324499999999
+               }
+            },
+            "location" : {
+               "lat" : 54.491383,
+               "lng" : -6.331997899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5861505,
+                  "lng" : -5.961577699999999
+               },
+               "southwest" : {
+                  "lat" : 54.4661009,
+                  "lng" : -6.744324499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M1",
+               "short_name" : "M1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M1, Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.44758419999999,
+                  "lng" : -6.2038784
+               },
+               "southwest" : {
+                  "lat" : 53.4098348,
+                  "lng" : -6.2271703
+               }
+            },
+            "location" : {
+               "lat" : 53.42898169999999,
+               "lng" : -6.2163053
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.44758419999999,
+                  "lng" : -6.2038784
+               },
+               "southwest" : {
+                  "lat" : 53.4098348,
+                  "lng" : -6.2271703
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

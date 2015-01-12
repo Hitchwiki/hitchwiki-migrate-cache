@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salzgitter",
+               "short_name" : "SZ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salzgitter, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2226811,
+                  "lng" : 10.5077784
+               },
+               "southwest" : {
+                  "lat" : 52.0131002,
+                  "lng" : 10.2309008
+               }
+            },
+            "location" : {
+               "lat" : 52.15,
+               "lng" : 10.333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2226811,
+                  "lng" : 10.5077784
+               },
+               "southwest" : {
+                  "lat" : 52.0131002,
+                  "lng" : 10.2309008
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joensuu",
+               "short_name" : "Joensuu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Joensuu",
+               "short_name" : "Joensuu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "North Karelia",
+               "short_name" : "North Karelia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80100",
+               "short_name" : "80100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "80100 Joensuu, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 62.6010899,
+               "lng" : 29.7635297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.6062242,
+                  "lng" : 29.7795371
+               },
+               "southwest" : {
+                  "lat" : 62.5959547,
+                  "lng" : 29.7475223
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

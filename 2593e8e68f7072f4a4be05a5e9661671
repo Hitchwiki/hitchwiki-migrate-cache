@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budzisko",
+               "short_name" : "Budzisko",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Szypliszki",
+               "short_name" : "Gmina Szypliszki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "suwalski",
+               "short_name" : "suwalski",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podlaskie Voivodeship",
+               "short_name" : "Podlaskie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budzisko, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.298739,
+               "lng" : 23.103978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3052498,
+                  "lng" : 23.1199854
+               },
+               "southwest" : {
+                  "lat" : 54.2922271,
+                  "lng" : 23.0879706
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

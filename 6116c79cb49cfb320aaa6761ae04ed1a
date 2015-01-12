@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheboksary",
+               "short_name" : "Cheboksary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Cheboksary",
+               "short_name" : "g. Cheboksary",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chuvashia Republic",
+               "short_name" : "Chuvashia Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheboksary, Chuvashia Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.156733,
+                  "lng" : 47.3941002
+               },
+               "southwest" : {
+                  "lat" : 56.0517061,
+                  "lng" : 47.1247359
+               }
+            },
+            "location" : {
+               "lat" : 56.15,
+               "lng" : 47.23333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.156733,
+                  "lng" : 47.3941002
+               },
+               "southwest" : {
+                  "lat" : 56.0517061,
+                  "lng" : 47.1247359
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,187 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Nicea",
+          "lang": "ca"
+        },
+        {
+          "name": "Nikaia",
+          "lang": "cs"
+        },
+        {
+          "name": "İznik",
+          "lang": "de"
+        },
+        {
+          "name": "Nicaea",
+          "lang": "en"
+        },
+        {
+          "name": "Nicea",
+          "lang": "es"
+        },
+        {
+          "name": "Nikaia",
+          "lang": "fi"
+        },
+        {
+          "name": "Nicée",
+          "lang": "fr"
+        },
+        {
+          "name": "Nicea",
+          "lang": "hu"
+        },
+        {
+          "name": "Nicea",
+          "lang": "id"
+        },
+        {
+          "name": "Nicea",
+          "lang": "it"
+        },
+        {
+          "name": "イズニク",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Iznik",
+          "lang": "link"
+        },
+        {
+          "name": "Nicaea",
+          "lang": "nl"
+        },
+        {
+          "name": "Iznik",
+          "lang": "pt"
+        },
+        {
+          "name": "Изник",
+          "lang": "ru"
+        },
+        {
+          "name": "İznik",
+          "lang": "tr"
+        },
+        {
+          "name": "IZK",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "16",
+      "score": 62.095245361328125,
+      "lng": "29.72111",
+      "adminName2": "",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.40953258994077,
+        "east": 29.746181231853704,
+        "north": 40.447689410059226,
+        "west": 29.696040768146297
+      },
+      "name": "Nicaea",
+      "fcode": "PPLA2",
+      "geonameId": 745026,
+      "asciiName": "Iznik",
+      "lat": "40.42861",
+      "population": 22230,
+      "adminName1": "Bursa",
+      "countryId": "298795",
+      "adminId1": "750268",
+      "fclName": "city, village,...",
+      "countryCode": "TR",
+      "toponymName": "İznik",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode2": "8632533",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/%C4%B0znik",
+          "lang": "link"
+        },
+        {
+          "name": "İznik İlçesi",
+          "lang": "tr"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "16",
+      "score": 55.5396728515625,
+      "lng": "29.72644",
+      "adminName2": "İznik İlçesi",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "İznik İlçesi",
+      "fcode": "ADM2",
+      "geonameId": 8632533,
+      "asciiName": "Iznik Ilcesi",
+      "lat": "40.4394",
+      "population": 43287,
+      "adminName1": "Bursa",
+      "countryId": "298795",
+      "adminId1": "750268",
+      "fclName": "country, state, region,...",
+      "countryCode": "TR",
+      "adminId2": "8632533",
+      "toponymName": "İznik İlçesi",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lake_Iznik",
+        "lang": "link"
+      }],
+      "countryName": "Turkey",
+      "adminCode1": "16",
+      "score": 31.417985916137695,
+      "lng": "29.51861",
+      "adminName2": "",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Geul Isnik",
+      "fcode": "LK",
+      "geonameId": 745025,
+      "asciiName": "Geul Isnik",
+      "lat": "40.43361",
+      "population": 0,
+      "adminName1": "Bursa",
+      "countryId": "298795",
+      "adminId1": "750268",
+      "fclName": "stream, lake, ...",
+      "countryCode": "TR",
+      "toponymName": "Geul Isnik",
+      "fcl": "H",
+      "continentCode": "AS"
+    }
+  ]
+}

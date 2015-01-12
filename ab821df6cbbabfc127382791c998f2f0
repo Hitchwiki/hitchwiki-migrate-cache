@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Speyer",
+               "short_name" : "SP",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Speyer, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.37574559999999,
+                  "lng" : 8.491857299999999
+               },
+               "southwest" : {
+                  "lat" : 49.2830194,
+                  "lng" : 8.376839799999999
+               }
+            },
+            "location" : {
+               "lat" : 49.3172765,
+               "lng" : 8.441217199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.37574559999999,
+                  "lng" : 8.491857299999999
+               },
+               "southwest" : {
+                  "lat" : 49.2830194,
+                  "lng" : 8.376839799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

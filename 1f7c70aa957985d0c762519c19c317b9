@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Herleshausen",
+               "short_name" : "Herleshausen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Werra-Meißner-Kreis",
+               "short_name" : "Werra-Meißner-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kassel",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Herleshausen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0652803,
+                  "lng" : 10.2145392
+               },
+               "southwest" : {
+                  "lat" : 50.9932618,
+                  "lng" : 10.0308162
+               }
+            },
+            "location" : {
+               "lat" : 51.0057544,
+               "lng" : 10.1677543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0652803,
+                  "lng" : 10.2145392
+               },
+               "southwest" : {
+                  "lat" : 50.9932618,
+                  "lng" : 10.0308162
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

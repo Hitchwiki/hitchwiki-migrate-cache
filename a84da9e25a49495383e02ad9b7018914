@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A630",
+               "short_name" : "A630",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A630, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8901506,
+                  "lng" : -0.5136767999999999
+               },
+               "southwest" : {
+                  "lat" : 44.77754820000001,
+                  "lng" : -0.6767043
+               }
+            },
+            "location" : {
+               "lat" : 44.7899501,
+               "lng" : -0.6066073
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8901506,
+                  "lng" : -0.5136767999999999
+               },
+               "southwest" : {
+                  "lat" : 44.77754820000001,
+                  "lng" : -0.6767043
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

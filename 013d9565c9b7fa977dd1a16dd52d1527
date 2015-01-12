@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Helena",
+               "short_name" : "St Helena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Napa County",
+               "short_name" : "Napa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94574",
+               "short_name" : "94574",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Helena, CA 94574, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.523055,
+                  "lng" : -122.436214
+               },
+               "southwest" : {
+                  "lat" : 38.4864741,
+                  "lng" : -122.495042
+               }
+            },
+            "location" : {
+               "lat" : 38.5052429,
+               "lng" : -122.4703868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.523055,
+                  "lng" : -122.436214
+               },
+               "southwest" : {
+                  "lat" : 38.4864741,
+                  "lng" : -122.495042
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Helena",
+               "short_name" : "SH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Helena",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.888888,
+                  "lng" : -5.6339693
+               },
+               "southwest" : {
+                  "lat" : -37.435315,
+                  "lng" : -14.4201565
+               }
+            },
+            "location" : {
+               "lat" : -15.9655282,
+               "lng" : -5.711484599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.9040096,
+                  "lng" : -5.6339693
+               },
+               "southwest" : {
+                  "lat" : -16.0270467,
+                  "lng" : -5.788999899999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Helena",
+               "short_name" : "St Helena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cedar County",
+               "short_name" : "Cedar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Helena, NE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.818128,
+                  "lng" : -97.24382989999999
+               },
+               "southwest" : {
+                  "lat" : 42.8011799,
+                  "lng" : -97.25389
+               }
+            },
+            "location" : {
+               "lat" : 42.8097196,
+               "lng" : -97.2489418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.818128,
+                  "lng" : -97.24382989999999
+               },
+               "southwest" : {
+                  "lat" : 42.8011799,
+                  "lng" : -97.25389
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Helena",
+               "short_name" : "St Helena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgaw",
+               "short_name" : "Burgaw",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pender County",
+               "short_name" : "Pender County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28425",
+               "short_name" : "28425",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Helena, NC 28425, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.5395859,
+                  "lng" : -77.8981289
+               },
+               "southwest" : {
+                  "lat" : 34.4938809,
+                  "lng" : -77.9421459
+               }
+            },
+            "location" : {
+               "lat" : 34.513333,
+               "lng" : -77.914722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.5395859,
+                  "lng" : -77.8981289
+               },
+               "southwest" : {
+                  "lat" : 34.4938809,
+                  "lng" : -77.9421459
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

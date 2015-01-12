@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A11",
+               "short_name" : "A11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A11, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5506586,
+                  "lng" : 1.9221291
+               },
+               "southwest" : {
+                  "lat" : 47.2645387,
+                  "lng" : -1.5937277
+               }
+            },
+            "location" : {
+               "lat" : 47.970878,
+               "lng" : 0.040948
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5506586,
+                  "lng" : 1.9221291
+               },
+               "southwest" : {
+                  "lat" : 47.2645387,
+                  "lng" : -1.5937277
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

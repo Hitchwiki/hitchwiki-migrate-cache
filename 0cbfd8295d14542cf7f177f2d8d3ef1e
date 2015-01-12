@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A620",
+               "short_name" : "A620",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toulouse",
+               "short_name" : "Toulouse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Garonne",
+               "short_name" : "31",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A620, Toulouse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.65314,
+                  "lng" : 1.5026504
+               },
+               "southwest" : {
+                  "lat" : 43.5435765,
+                  "lng" : 1.3969118
+               }
+            },
+            "location" : {
+               "lat" : 43.5759648,
+               "lng" : 1.443644
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65314,
+                  "lng" : 1.5026504
+               },
+               "southwest" : {
+                  "lat" : 43.5435765,
+                  "lng" : 1.3969118
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

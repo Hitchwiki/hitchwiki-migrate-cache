@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Managua",
+               "short_name" : "Managua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Managua",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Managua, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.1724475,
+                  "lng" : -86.1250878
+               },
+               "southwest" : {
+                  "lat" : 12.0199606,
+                  "lng" : -86.3918334
+               }
+            },
+            "location" : {
+               "lat" : 12.136389,
+               "lng" : -86.251389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.1724475,
+                  "lng" : -86.1250878
+               },
+               "southwest" : {
+                  "lat" : 12.0199606,
+                  "lng" : -86.3918334
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

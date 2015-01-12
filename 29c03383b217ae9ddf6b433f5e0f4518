@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A293",
+               "short_name" : "A293",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oldenburg",
+               "short_name" : "Oldenburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A293, Oldenburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2136775,
+                  "lng" : 8.2268642
+               },
+               "southwest" : {
+                  "lat" : 53.1505389,
+                  "lng" : 8.193481500000001
+               }
+            },
+            "location" : {
+               "lat" : 53.1817374,
+               "lng" : 8.226676299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2136775,
+                  "lng" : 8.2268642
+               },
+               "southwest" : {
+                  "lat" : 53.1505389,
+                  "lng" : 8.193481500000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

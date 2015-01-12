@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kayseri",
+               "short_name" : "Kayseri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kayseri Province",
+               "short_name" : "Kayseri Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kayseri/Kayseri Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8248,
+                  "lng" : 35.627675
+               },
+               "southwest" : {
+                  "lat" : 38.622002,
+                  "lng" : 35.3126992
+               }
+            },
+            "location" : {
+               "lat" : 38.73122,
+               "lng" : 35.478729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8248,
+                  "lng" : 35.627675
+               },
+               "southwest" : {
+                  "lat" : 38.622002,
+                  "lng" : 35.3126992
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

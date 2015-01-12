@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sines",
+               "short_name" : "Sines",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sines",
+               "short_name" : "Sines",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Setúbal",
+               "short_name" : "Setúbal",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sines, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0492942,
+                  "lng" : -8.6814356
+               },
+               "southwest" : {
+                  "lat" : 37.8657683,
+                  "lng" : -8.890124200000001
+               }
+            },
+            "location" : {
+               "lat" : 37.9571555,
+               "lng" : -8.860890699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0492942,
+                  "lng" : -8.6814356
+               },
+               "southwest" : {
+                  "lat" : 37.8657683,
+                  "lng" : -8.890124200000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

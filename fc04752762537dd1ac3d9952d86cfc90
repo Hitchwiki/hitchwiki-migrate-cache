@@ -1,0 +1,794 @@
+{
+  "totalResultsCount": 519,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "bbox": {
+        "east": -56.13907328953553,
+        "south": 46.753265,
+        "north": 47.146286,
+        "west": -56.420658
+      },
+      "asciiName": "Saint-Pierre et Miquelon",
+      "countryId": "3424932",
+      "fcl": "A",
+      "score": 122.17704010009766,
+      "cc2": "PM",
+      "countryCode": "PM",
+      "lat": "46.83333",
+      "fcode": "PCLD",
+      "continentCode": "NA",
+      "adminCode1": "00",
+      "lng": "-56.33333",
+      "geonameId": 3424932,
+      "toponymName": "Saint-Pierre et Miquelon",
+      "population": 7012,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Sint-Pierre en Miquelon",
+          "lang": "af"
+        },
+        {
+          "name": "Saint Pierre ne Miquelon",
+          "lang": "ak"
+        },
+        {
+          "name": "ቅዱስ ፒዬር እና ሚኩኤሎን",
+          "lang": "am"
+        },
+        {
+          "name": "سانت بيير وميكولون",
+          "lang": "ar"
+        },
+        {
+          "name": "Seynt Piyer və Mikelon",
+          "lang": "az"
+        },
+        {
+          "name": "Сен Пиер и Мигелон",
+          "lang": "bg"
+        },
+        {
+          "name": "Piyɛri-Senu-ni-Mikelɔŋ",
+          "lang": "bm"
+        },
+        {
+          "name": "সেন্ট পিয়ের ও মিকুয়েলন",
+          "lang": "bn"
+        },
+        {
+          "name": "Sant-Pêr-ha-Mikelon",
+          "lang": "br"
+        },
+        {
+          "name": "Sen Pjer i Mikelon",
+          "lang": "bs"
+        },
+        {
+          "name": "Saint Pierre i Miquelon",
+          "lang": "ca"
+        },
+        {
+          "name": "Svatý Pierre a Miquelon",
+          "lang": "cs"
+        },
+        {
+          "name": "Saint Pierre a Miquelon",
+          "lang": "cy"
+        },
+        {
+          "name": "Saint Pierre og Miquelon",
+          "lang": "da"
+        },
+        {
+          "name": "St. Pierre und Miquelon",
+          "lang": "de"
+        },
+        {
+          "name": "Saint Pierre kple Mikelɔn nutome",
+          "lang": "ee"
+        },
+        {
+          "name": "Σαιντ Πιέρ και Μικελόν",
+          "lang": "el"
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "lang": "en"
+        },
+        {
+          "name": "Sent-Piero kaj Mikelono",
+          "lang": "eo"
+        },
+        {
+          "name": "San Pedro y Miquelón",
+          "lang": "es"
+        },
+        {
+          "name": "Saint Pierre ja Miquelon",
+          "lang": "et"
+        },
+        {
+          "name": "Saint-Pierre eta Mikelune",
+          "lang": "eu"
+        },
+        {
+          "name": "سنت پیر و میکلون",
+          "lang": "fa"
+        },
+        {
+          "name": "See Piyeer e Mikeloo",
+          "lang": "ff"
+        },
+        {
+          "name": "Saint-Pierre ja Miquelon",
+          "lang": "fi"
+        },
+        {
+          "name": "Saint Pierre og Miquelon",
+          "lang": "fo"
+        },
+        {
+          "name": "Saint-Pierre et Miquelon",
+          "lang": "fr"
+        },
+        {
+          "name": "Saint Pierre agus Miquelon",
+          "lang": "ga"
+        },
+        {
+          "name": "San Pedro e Miguelón",
+          "lang": "gl"
+        },
+        {
+          "name": "સેંટ પીએરે એન્ડ મિકીલોન",
+          "lang": "gu"
+        },
+        {
+          "name": "San Piyar Da Mikelan",
+          "lang": "ha"
+        },
+        {
+          "name": "סנט פייר ומיקלון",
+          "lang": "he"
+        },
+        {
+          "name": "सेंट पिएरे और मिक्वेलन",
+          "lang": "hi"
+        },
+        {
+          "name": "Sveti Petar i Miguel",
+          "lang": "hr"
+        },
+        {
+          "name": "Saint Pierre és Miquelon",
+          "lang": "hu"
+        },
+        {
+          "name": "Saint Pierre dan Miquelon",
+          "lang": "id"
+        },
+        {
+          "name": "Sankti Pierre og Miquelon",
+          "lang": "is"
+        },
+        {
+          "name": "Saint Pierre e Miquelon",
+          "lang": "it"
+        },
+        {
+          "name": "サンピエール島・ミクロン島",
+          "lang": "ja"
+        },
+        {
+          "name": "სენტ-პიერი და მიქელონი",
+          "lang": "ka"
+        },
+        {
+          "name": "Santapieri na Mikeloni",
+          "lang": "ki"
+        },
+        {
+          "name": "Saint Pierre aamma Miquelon",
+          "lang": "kl"
+        },
+        {
+          "name": "ಸೇಂಟ್ ಪಿಯರೆ ಮತ್ತು ಮಿಕೆಲನ್",
+          "lang": "kn"
+        },
+        {
+          "name": "세인트피에르-미케롱",
+          "lang": "ko"
+        },
+        {
+          "name": "Senti Piyere ne Mikeloni",
+          "lang": "lg"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+          "lang": "link"
+        },
+        {
+          "name": "Sántu pététo mpé Mikelɔ",
+          "lang": "ln"
+        },
+        {
+          "name": "Sen Pjeras ir Mikelonas",
+          "lang": "lt"
+        },
+        {
+          "name": "Santu pététo ne Mikelu",
+          "lang": "lu"
+        },
+        {
+          "name": "Senpjēra un Mikelona",
+          "lang": "lv"
+        },
+        {
+          "name": "Saint-Pierre-et-Miquelon",
+          "lang": "mg"
+        },
+        {
+          "name": "Сент Пјер и Микелан",
+          "lang": "mk"
+        },
+        {
+          "name": "സെന്‍റ് പിറേയും മിക്വലണും",
+          "lang": "ml"
+        },
+        {
+          "name": "सेंट पियरे आणि मिक्वेलोन",
+          "lang": "mr"
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "lang": "ms"
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "lang": "mt"
+        },
+        {
+          "name": "St. Pierre og Miquelon",
+          "lang": "nb"
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "lang": "nd"
+        },
+        {
+          "name": "सेन्ट पिर्रे र मिक्केलोन",
+          "lang": "ne"
+        },
+        {
+          "name": "Saint Pierre en Miquelon",
+          "lang": "nl"
+        },
+        {
+          "name": "St. Pierre og Miquelon",
+          "lang": "nn"
+        },
+        {
+          "name": "ସେଣ୍ଟ ପିଏରେ ଏବଂ ମିକ୍ବାଲୋନ୍",
+          "lang": "or"
+        },
+        {
+          "name": "Saint-Pierre i Miquelon",
+          "lang": "pl"
+        },
+        {
+          "name": "Saint Pierre e Miquelon",
+          "lang": "pt"
+        },
+        {
+          "name": "Saint Pierre e Miquelon",
+          "lang": "rm"
+        },
+        {
+          "name": "Sempiyeri na Mikeloni",
+          "lang": "rn"
+        },
+        {
+          "name": "Sfântul Pierre și Miquelon",
+          "lang": "ro"
+        },
+        {
+          "name": "Сен-Пьер и Микелон",
+          "lang": "ru"
+        },
+        {
+          "name": "Saint Pierre ja Miquelon",
+          "lang": "se"
+        },
+        {
+          "name": "Sên-Pyêre na Mikelöon",
+          "lang": "sg"
+        },
+        {
+          "name": "Saint Pierre a Miquelon",
+          "lang": "sk"
+        },
+        {
+          "name": "Saint Pierre in Miquelon",
+          "lang": "sl"
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "lang": "sn"
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "lang": "so"
+        },
+        {
+          "name": "Сен Пјер и Микелон",
+          "lang": "sr"
+        },
+        {
+          "name": "S:t Pierre och Miquelon",
+          "lang": "sv"
+        },
+        {
+          "name": "Santapieri na Mikeloni",
+          "lang": "sw"
+        },
+        {
+          "name": "செயின்ட் பியர் மற்றும் மிக்வேலான்",
+          "lang": "ta"
+        },
+        {
+          "name": "సెంట్ పియెర్ మరియు మికెలాన్",
+          "lang": "te"
+        },
+        {
+          "name": "แซงปีแยร์และมีเกอลง",
+          "lang": "th"
+        },
+        {
+          "name": "ቅዱስ ፒዬር እና ሚኩኤሎን",
+          "lang": "ti"
+        },
+        {
+          "name": "Seini Piea mo Mikaloni",
+          "lang": "to"
+        },
+        {
+          "name": "Saint Pierre ve Miquelon",
+          "lang": "tr"
+        },
+        {
+          "name": "Сен-Пʼєр і Мікелон",
+          "lang": "uk"
+        },
+        {
+          "name": "سینٹ پیئر اور میکلیئون",
+          "lang": "ur"
+        },
+        {
+          "name": "Saint Pierre và Miquelon",
+          "lang": "vi"
+        },
+        {
+          "name": "Orílẹ́ède Pẹẹri ati mikuloni",
+          "lang": "yo"
+        },
+        {
+          "name": "圣皮埃尔和密克隆",
+          "lang": "zh"
+        },
+        {
+          "name": "i-Saint Pierre kanye ne-Miquelon",
+          "lang": "zu"
+        }
+      ],
+      "adminName2": "",
+      "name": "Saint Pierre and Miquelon",
+      "fclName": "country, state, region,...",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "dependent political entity",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "bbox": {
+        "east": -56.38006774482341,
+        "south": 47.09660063512489,
+        "north": 47.09839936487511,
+        "west": -56.38271005517659
+      },
+      "asciiName": "Miquelon",
+      "countryId": "3424932",
+      "fcl": "P",
+      "score": 32.524375915527344,
+      "countryCode": "PM",
+      "adminId1": "3424938",
+      "lat": "47.0975",
+      "fcode": "PPLA",
+      "continentCode": "NA",
+      "adminCode2": "97501",
+      "adminCode1": "97501",
+      "lng": "-56.38139",
+      "geonameId": 3424941,
+      "toponymName": "Miquelon",
+      "population": 1141,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "MQC",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Miquelon%2C_Miquelon-Langlade",
+          "lang": "link"
+        },
+        {
+          "name": "97500",
+          "lang": "post"
+        },
+        {
+          "name": "MQC",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "PM.97501.97501",
+      "name": "Miquelon",
+      "fclName": "city, village,...",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Miquelon-Langlade"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "bbox": {
+        "east": -56.16261410488471,
+        "south": 46.76908479501302,
+        "north": 46.789195204986974,
+        "west": -56.191985895115295
+      },
+      "asciiName": "Saint-Pierre",
+      "countryId": "3424932",
+      "fcl": "P",
+      "score": 27.103649139404297,
+      "countryCode": "PM",
+      "adminId1": "3424935",
+      "lat": "46.77914",
+      "fcode": "PPLC",
+      "continentCode": "NA",
+      "adminCode1": "97502",
+      "lng": "-56.1773",
+      "geonameId": 3424934,
+      "toponymName": "Saint-Pierre",
+      "population": 6200,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Saint Pierre",
+          "lang": "da"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "de"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "el"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "en"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "es"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "fi"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "fr"
+        },
+        {
+          "name": "FSP",
+          "lang": "iata"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "id"
+        },
+        {
+          "name": "St Pierre",
+          "lang": "io"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "it"
+        },
+        {
+          "name": "생피에르",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Saint-Pierre%2C_Saint_Pierre_and_Miquelon",
+          "lang": "link"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "pl"
+        },
+        {
+          "name": "97500",
+          "lang": "post"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "pt"
+        },
+        {
+          "name": "Saint-Pierre",
+          "lang": "sv"
+        },
+        {
+          "name": "FSP",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Saint-Pierre",
+      "fclName": "city, village,...",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Saint-Pierre"
+    },
+    {
+      "elevation": 222,
+      "adminCode1": "00",
+      "lng": "-56.33389",
+      "geonameId": 3425914,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "toponymName": "Morne de Suroit",
+      "asciiName": "Morne de Suroit",
+      "countryId": "3424932",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 27.103649139404297,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PM",
+      "name": "Morne de Suroit",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "hill",
+      "adminName1": "",
+      "lat": "47.02361",
+      "fcode": "HLL",
+      "continentCode": "NA"
+    },
+    {
+      "elevation": 180,
+      "adminCode1": "00",
+      "lng": "-56.35485",
+      "geonameId": 3425681,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "toponymName": "Cuquemel",
+      "asciiName": "Cuquemel",
+      "countryId": "3424932",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 21.682918548583984,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PM",
+      "name": "Cuquemel",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "hill",
+      "adminName1": "",
+      "lat": "46.85575",
+      "fcode": "HLL",
+      "continentCode": "NA"
+    },
+    {
+      "elevation": 219,
+      "adminCode1": "00",
+      "lng": "-56.32222",
+      "geonameId": 3425915,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "toponymName": "Morne de la Presqu’île",
+      "asciiName": "Morne de la Presqu'ile",
+      "countryId": "3424932",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 18.972553253173828,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PM",
+      "name": "Morne de la Presqu’île",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "hill",
+      "adminName1": "",
+      "lat": "47.01778",
+      "fcode": "HLL",
+      "continentCode": "NA"
+    },
+    {
+      "elevation": 175,
+      "adminCode1": "00",
+      "lng": "-56.21111",
+      "geonameId": 3425985,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "toponymName": "Morne à Pierre",
+      "asciiName": "Morne a Pierre",
+      "countryId": "3424932",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 16.262187957763672,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PM",
+      "name": "Morne à Pierre",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "hill",
+      "adminName1": "",
+      "lat": "46.78806",
+      "fcode": "HLL",
+      "continentCode": "NA"
+    },
+    {
+      "lng": "-56.3803",
+      "geonameId": 7668308,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "toponymName": "Miquelon Airport",
+      "asciiName": "Miquelon Airport",
+      "countryId": "3424932",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 16.262187957763672,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "MQC",
+          "lang": "iata"
+        },
+        {
+          "name": "LFVM",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Miquelon_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "PM",
+      "name": "Miquelon Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "47.0955",
+      "fcode": "AIRP",
+      "continentCode": "NA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "asciiName": "Commune de Saint-Pierre",
+      "countryId": "3424932",
+      "fcl": "A",
+      "score": 13.551824569702148,
+      "countryCode": "PM",
+      "adminId1": "3424935",
+      "lat": "46.78333",
+      "fcode": "ADM1",
+      "continentCode": "NA",
+      "adminCode1": "97502",
+      "lng": "-56.2",
+      "geonameId": 3424935,
+      "toponymName": "Commune de Saint-Pierre",
+      "population": 5494,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Saint-Pierre,_Saint-Pierre_and_Miquelon",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Commune de Saint-Pierre",
+      "fclName": "country, state, region,...",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Saint-Pierre"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Miquelon",
+        "dstOffset": -2
+      },
+      "asciiName": "Commune de Miquelon-Langlade",
+      "countryId": "3424932",
+      "fcl": "A",
+      "score": 13.551824569702148,
+      "countryCode": "PM",
+      "adminId1": "3424938",
+      "lat": "47.0458",
+      "fcode": "ADM1",
+      "continentCode": "NA",
+      "adminCode1": "97501",
+      "lng": "-56.32553",
+      "geonameId": 3424938,
+      "toponymName": "Commune de Miquelon-Langlade",
+      "population": 605,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Miquelon-Langlade",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Commune de Miquelon-Langlade",
+      "fclName": "country, state, region,...",
+      "countryName": "Saint Pierre and Miquelon",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Miquelon-Langlade"
+    }
+  ]
+}

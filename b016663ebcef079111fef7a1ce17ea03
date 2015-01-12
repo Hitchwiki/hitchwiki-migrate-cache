@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midi-Pyrénées, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.046684,
+                  "lng" : 3.4517541
+               },
+               "southwest" : {
+                  "lat" : 42.571489,
+                  "lng" : -0.327159
+               }
+            },
+            "location" : {
+               "lat" : 44.0859426,
+               "lng" : 1.5208624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.046684,
+                  "lng" : 3.4517541
+               },
+               "southwest" : {
+                  "lat" : 42.571489,
+                  "lng" : -0.327159
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

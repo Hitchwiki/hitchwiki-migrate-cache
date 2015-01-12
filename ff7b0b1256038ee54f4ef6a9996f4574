@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiang Mai",
+               "short_name" : "Chiang Mai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Chiang Mai District",
+               "short_name" : "Mueang Chiang Mai District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chiang Mai",
+               "short_name" : "จ.เชียงใหม่",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.8434085,
+                  "lng" : 99.05122179999999
+               },
+               "southwest" : {
+                  "lat" : 18.7000955,
+                  "lng" : 98.86173269999999
+               }
+            },
+            "location" : {
+               "lat" : 18.7060641,
+               "lng" : 98.9817163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8434085,
+                  "lng" : 99.05122179999999
+               },
+               "southwest" : {
+                  "lat" : 18.7000955,
+                  "lng" : 98.86173269999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiang Mai",
+               "short_name" : "จ.เชียงใหม่",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiang Mai, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.1475012,
+                  "lng" : 99.5715955
+               },
+               "southwest" : {
+                  "lat" : 17.2424831,
+                  "lng" : 98.0079447
+               }
+            },
+            "location" : {
+               "lat" : 18.787747,
+               "lng" : 98.99312839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.1475012,
+                  "lng" : 99.5715955
+               },
+               "southwest" : {
+                  "lat" : 17.2424831,
+                  "lng" : 98.0079447
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

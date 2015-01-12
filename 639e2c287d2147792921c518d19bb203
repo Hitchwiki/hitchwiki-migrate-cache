@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tanzania",
+               "short_name" : "TZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tanzania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -0.984397,
+                  "lng" : 40.4449653
+               },
+               "southwest" : {
+                  "lat" : -11.7612536,
+                  "lng" : 29.34
+               }
+            },
+            "location" : {
+               "lat" : -6.369028,
+               "lng" : 34.888822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.984397,
+                  "lng" : 40.4449653
+               },
+               "southwest" : {
+                  "lat" : -11.7612536,
+                  "lng" : 29.34
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

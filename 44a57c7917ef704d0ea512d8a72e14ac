@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M77",
+               "short_name" : "M77",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M77, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.850604,
+                  "lng" : -4.2892977
+               },
+               "southwest" : {
+                  "lat" : 55.6503127,
+                  "lng" : -4.451584899999999
+               }
+            },
+            "location" : {
+               "lat" : 55.74795659999999,
+               "lng" : -4.362323300000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.850604,
+                  "lng" : -4.2892977
+               },
+               "southwest" : {
+                  "lat" : 55.6503127,
+                  "lng" : -4.451584899999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

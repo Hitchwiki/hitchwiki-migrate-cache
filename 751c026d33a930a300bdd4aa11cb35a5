@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shimkent",
+               "short_name" : "Shimkent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Kazakhstan",
+               "short_name" : "South Kazakhstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shimkent, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4134451,
+                  "lng" : 69.7352028
+               },
+               "southwest" : {
+                  "lat" : 42.2701957,
+                  "lng" : 69.4444084
+               }
+            },
+            "location" : {
+               "lat" : 42.34168469999999,
+               "lng" : 69.59010099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4134451,
+                  "lng" : 69.7352028
+               },
+               "southwest" : {
+                  "lat" : 42.2701957,
+                  "lng" : 69.4444084
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

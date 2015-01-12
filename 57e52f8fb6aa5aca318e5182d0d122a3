@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tychy",
+               "short_name" : "Tychy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tychy",
+               "short_name" : "Tychy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tychy",
+               "short_name" : "Tychy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Silesian Voivodeship",
+               "short_name" : "Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tychy, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1757713,
+                  "lng" : 19.0910077
+               },
+               "southwest" : {
+                  "lat" : 50.0785199,
+                  "lng" : 18.9256509
+               }
+            },
+            "location" : {
+               "lat" : 50.12180069999999,
+               "lng" : 19.0200022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1757713,
+                  "lng" : 19.0910077
+               },
+               "southwest" : {
+                  "lat" : 50.0785199,
+                  "lng" : 18.9256509
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

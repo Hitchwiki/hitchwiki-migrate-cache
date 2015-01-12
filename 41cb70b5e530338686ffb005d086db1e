@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florida, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.000968,
+                  "lng" : -80.0311371
+               },
+               "southwest" : {
+                  "lat" : 24.5210795,
+                  "lng" : -87.634896
+               }
+            },
+            "location" : {
+               "lat" : 27.6648274,
+               "lng" : -81.5157535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.000968,
+                  "lng" : -80.0311371
+               },
+               "southwest" : {
+                  "lat" : 24.9504879,
+                  "lng" : -87.634896
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

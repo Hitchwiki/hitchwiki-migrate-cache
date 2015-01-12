@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taifa of Algeciras",
+               "short_name" : "Taifa of Algeciras",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Algeciras",
+               "short_name" : "Algeciras",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Campo de Gibraltar",
+               "short_name" : "Campo de Gibraltar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cádiz",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taifa of Algeciras, Cádiz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1666101,
+                  "lng" : -5.431834299999999
+               },
+               "southwest" : {
+                  "lat" : 36.0954156,
+                  "lng" : -5.4838745
+               }
+            },
+            "location" : {
+               "lat" : 36.1407591,
+               "lng" : -5.456233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1666101,
+                  "lng" : -5.431834299999999
+               },
+               "southwest" : {
+                  "lat" : 36.0954156,
+                  "lng" : -5.4838745
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

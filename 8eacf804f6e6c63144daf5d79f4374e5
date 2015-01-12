@@ -1,0 +1,127 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode2": "7667690",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lentekhi",
+        "lang": "link"
+      }],
+      "countryName": "Georgia",
+      "adminCode1": "70",
+      "score": 41.56208801269531,
+      "lng": "42.73333",
+      "adminName2": "Lentekhi",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Lentekhi",
+      "fcode": "ADM2",
+      "geonameId": 7667690,
+      "asciiName": "Lentekhi",
+      "lat": "42.78333",
+      "population": 0,
+      "adminName1": "Racha-Lechkhumi and Kvemo Svaneti",
+      "countryId": "614540",
+      "adminId1": "865542",
+      "fclName": "country, state, region,...",
+      "countryCode": "GE",
+      "adminId2": "7667690",
+      "toponymName": "Lentekhi",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Lentekhi",
+          "lang": "en"
+        },
+        {
+          "name": "ლენტეხი",
+          "lang": "ka"
+        },
+        {
+          "name": "Лентехи",
+          "lang": "ru"
+        }
+      ],
+      "countryName": "Georgia",
+      "adminCode1": "70",
+      "score": 35.12637710571289,
+      "lng": "42.72611",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 42.77283705996051,
+        "east": 42.7434451536281,
+        "north": 42.79827494003949,
+        "west": 42.708776846371904
+      },
+      "name": "Lentekhi",
+      "fcode": "PPL",
+      "geonameId": 613226,
+      "asciiName": "Lent'ekhi",
+      "lat": "42.78556",
+      "population": 10442,
+      "adminName1": "Racha-Lechkhumi and Kvemo Svaneti",
+      "countryId": "614540",
+      "adminId1": "865542",
+      "fclName": "city, village,...",
+      "countryCode": "GE",
+      "toponymName": "Lent’ekhi",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode2": "613228",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lentekhi_Municipality",
+        "lang": "link"
+      }],
+      "countryName": "Georgia",
+      "adminCode1": "70",
+      "score": 22.215869903564453,
+      "lng": "44.75",
+      "adminName2": "Leninskiy Rayon",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Leninskiy Rayon",
+      "fcode": "ADM2",
+      "geonameId": 613228,
+      "asciiName": "Leninskiy Rayon",
+      "lat": "41.7",
+      "population": 0,
+      "adminName1": "Racha-Lechkhumi and Kvemo Svaneti",
+      "countryId": "614540",
+      "adminId1": "865542",
+      "fclName": "country, state, region,...",
+      "countryCode": "GE",
+      "adminId2": "613228",
+      "toponymName": "Leninskiy Rayon",
+      "fcl": "A",
+      "continentCode": "AS"
+    }
+  ]
+}

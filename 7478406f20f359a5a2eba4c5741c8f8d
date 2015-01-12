@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Armand",
+               "short_name" : "St Armand",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Armand, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.429699,
+                  "lng" : -73.902254
+               },
+               "southwest" : {
+                  "lat" : 44.3302111,
+                  "lng" : -74.14142409999999
+               }
+            },
+            "location" : {
+               "lat" : 44.3777799,
+               "lng" : -74.02235949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.429699,
+                  "lng" : -73.902254
+               },
+               "southwest" : {
+                  "lat" : 44.3302111,
+                  "lng" : -74.14142409999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

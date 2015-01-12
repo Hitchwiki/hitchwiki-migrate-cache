@@ -1,0 +1,132 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Vilnius",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 25.400568864792582,
+        "south": 54.28994479501302,
+        "north": 54.31005520498697,
+        "west": 25.36609773520742
+      },
+      "asciiName": "Salcininkai",
+      "countryId": "597427",
+      "fcl": "P",
+      "score": 42.32322311401367,
+      "countryCode": "LT",
+      "lat": "54.3",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "00",
+      "lng": "25.38333",
+      "geonameId": 595016,
+      "toponymName": "Šalčininkai",
+      "population": 6891,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Šalčininkai",
+          "lang": "en"
+        },
+        {
+          "name": "Шальчининкай",
+          "lang": "ru"
+        },
+        {
+          "name": "SNI",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Šalčininkai",
+      "fclName": "city, village,...",
+      "countryName": "Lithuania",
+      "fcodeName": "populated place",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Vilnius",
+        "dstOffset": 3
+      },
+      "asciiName": "Salcininkai",
+      "countryId": "597427",
+      "fcl": "A",
+      "score": 39.791229248046875,
+      "adminId2": "864520",
+      "countryCode": "LT",
+      "adminId1": "864485",
+      "lat": "54.3",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "85",
+      "adminCode1": "65",
+      "lng": "25.38333",
+      "geonameId": 864520,
+      "toponymName": "Šalčininkai",
+      "population": 33191,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Горад Шальчынінкай",
+          "lang": "be"
+        },
+        {
+          "name": "Σαλτσινινκάι",
+          "lang": "el"
+        },
+        {
+          "name": "Šalčininkai District Municipality",
+          "lang": "en"
+        },
+        {
+          "name": "シャルチニンカイ",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/%C5%A0al%C4%8Dininkai",
+          "lang": "link"
+        },
+        {
+          "name": "Šaļčininki",
+          "lang": "lv"
+        },
+        {
+          "name": "Soleczniki",
+          "lang": "pl"
+        },
+        {
+          "name": "Шальчининкай",
+          "lang": "ru"
+        },
+        {
+          "name": "Šalčėnėnkā",
+          "lang": "sgs"
+        },
+        {
+          "name": "Шальчинінкай",
+          "lang": "uk"
+        },
+        {
+          "name": "沙爾奇寧凱",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Šalčininkai District Municipality",
+      "name": "Šalčininkai District Municipality",
+      "fclName": "country, state, region,...",
+      "countryName": "Lithuania",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Vilnius County"
+    }
+  ]
+}

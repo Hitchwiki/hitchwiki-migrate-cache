@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oldenzaal",
+               "short_name" : "Oldenzaal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oldenzaal",
+               "short_name" : "Oldenzaal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oldenzaal, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.333253,
+                  "lng" : 6.950251199999999
+               },
+               "southwest" : {
+                  "lat" : 52.283424,
+                  "lng" : 6.883353800000001
+               }
+            },
+            "location" : {
+               "lat" : 52.3116551,
+               "lng" : 6.926828299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.333253,
+                  "lng" : 6.950251199999999
+               },
+               "southwest" : {
+                  "lat" : 52.283424,
+                  "lng" : 6.883353800000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

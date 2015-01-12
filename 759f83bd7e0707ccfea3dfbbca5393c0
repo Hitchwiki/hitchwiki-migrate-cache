@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Murwillumbah",
+               "short_name" : "Murwillumbah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2484",
+               "short_name" : "2484",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Murwillumbah NSW 2484, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.30663,
+                  "lng" : 153.4091202
+               },
+               "southwest" : {
+                  "lat" : -28.3526634,
+                  "lng" : 153.355002
+               }
+            },
+            "location" : {
+               "lat" : -28.3269383,
+               "lng" : 153.3958572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.30663,
+                  "lng" : 153.4091202
+               },
+               "southwest" : {
+                  "lat" : -28.3526634,
+                  "lng" : 153.355002
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayni",
+               "short_name" : "Ayni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ayni",
+               "short_name" : "Ayni",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sughd Province",
+               "short_name" : "Sughd Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ayni, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4065552,
+                  "lng" : 68.5454179
+               },
+               "southwest" : {
+                  "lat" : 39.3851311,
+                  "lng" : 68.5224152
+               }
+            },
+            "location" : {
+               "lat" : 39.3975,
+               "lng" : 68.540556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4065552,
+                  "lng" : 68.5454179
+               },
+               "southwest" : {
+                  "lat" : 39.3851311,
+                  "lng" : 68.5224152
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayni",
+               "short_name" : "Ayni",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ulitsa Pobedy",
+               "short_name" : "ul. Pobedy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gusev",
+               "short_name" : "Gusev",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gusevskiy rayon",
+               "short_name" : "Gusevskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningradskaya oblast'",
+               "short_name" : "Kaliningradskaya oblast'",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238050",
+               "short_name" : "238050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ayni, ulitsa Pobedy, 1, Gusev, Kaliningradskaya oblast', Russia, 238050",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.59009320000001,
+               "lng" : 22.1996887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.59144218029151,
+                  "lng" : 22.2010376802915
+               },
+               "southwest" : {
+                  "lat" : 54.58874421970851,
+                  "lng" : 22.1983397197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayni",
+               "short_name" : "Ayni",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gözeli",
+               "short_name" : "Gözeli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halfeti",
+               "short_name" : "Halfeti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Şanlıurfa",
+               "short_name" : "Şanlıurfa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ayni, Gözeli/Şanlıurfa, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.333333,
+               "lng" : 37.883333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3346819802915,
+                  "lng" : 37.8846819802915
+               },
+               "southwest" : {
+                  "lat" : 37.3319840197085,
+                  "lng" : 37.8819840197085
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

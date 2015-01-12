@@ -1,0 +1,364 @@
+{
+  "totalResultsCount": 17,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "asciiName": "Penticton Regional Airport",
+      "countryId": "6251999",
+      "fcl": "S",
+      "score": 23.489171981811523,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.46306",
+      "fcode": "AIRP",
+      "continentCode": "NA",
+      "elevation": 344,
+      "adminCode1": "02",
+      "lng": "-119.60222",
+      "geonameId": 6301494,
+      "toponymName": "Penticton Regional Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Penticton Regional Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport régional de Penticton",
+          "lang": "fr"
+        },
+        {
+          "name": "YYF",
+          "lang": "iata"
+        },
+        {
+          "name": "CYYF",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Penticton_Regional_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Penticton Regional Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "airport",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -119.54728226433406,
+        "south": 49.455579683498776,
+        "north": 49.50565420050878,
+        "west": -119.62439437140813
+      },
+      "asciiName": "Penticton",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 19.851974487304688,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.48062",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.58584",
+      "geonameId": 6101141,
+      "toponymName": "Penticton",
+      "population": 37721,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بينتيكتون، كولومبيا البريطانية",
+          "lang": "ar"
+        },
+        {
+          "name": "YYF",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Penticton",
+          "lang": "link"
+        },
+        {
+          "name": "پینٹکٹان",
+          "lang": "pnb"
+        },
+        {
+          "name": "Пентиктон",
+          "lang": "sr"
+        },
+        {
+          "name": "YYF",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Penticton",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "asciiName": "Penticton Indian Reserve 1",
+      "countryId": "6251999",
+      "fcl": "L",
+      "score": 7.611361503601074,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.49977",
+      "fcode": "RESV",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.66911",
+      "geonameId": 6101143,
+      "toponymName": "Penticton Indian Reserve 1",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Réserve indienne Penticton 1",
+        "lang": "fr"
+      }],
+      "adminName2": "",
+      "name": "Penticton Indian Reserve 1",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "reservation",
+      "adminName1": "British Columbia"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-119.55239",
+      "geonameId": 6120822,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Réserve indienne Penticton 2",
+      "asciiName": "Reserve indienne Penticton 2",
+      "countryId": "6251999",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 6.214650630950928,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Réserve indienne Penticton 2",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "reservation",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "49.48306",
+      "fcode": "RESV",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-119.55239",
+      "geonameId": 6101144,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Penticton Indian Reserve 2",
+      "asciiName": "Penticton Indian Reserve 2",
+      "countryId": "6251999",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 6.214650630950928,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Penticton Indian Reserve 2",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "reservation",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "49.48306",
+      "fcode": "RESV",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-119.78572",
+      "geonameId": 6101145,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Penticton Indian Reserve 3A",
+      "asciiName": "Penticton Indian Reserve 3A",
+      "countryId": "6251999",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 6.214650630950928,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Penticton Indian Reserve 3A",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "reservation",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "49.56647",
+      "fcode": "RESV",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-119.6137",
+      "geonameId": 6467783,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Days Inn & Conference Centre Penticton, BC",
+      "asciiName": "Days Inn & Conference Centre Penticton, BC",
+      "countryId": "6251999",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 2.481496810913086,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Days Inn & Conference Centre Penticton, BC",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "hotel",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "49.4981",
+      "fcode": "HTL",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-119.5768",
+      "geonameId": 6517279,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Penticton Travelodge",
+      "asciiName": "PENTICTON TRAVELODGE",
+      "countryId": "6251999",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 2.481496810913086,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Penticton Travelodge",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "hotel",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "49.5004",
+      "fcode": "HTL",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-119.5843",
+      "geonameId": 6532521,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Super 8 Motel   Penticton",
+      "asciiName": "SUPER 8 MOTEL   PENTICTON",
+      "countryId": "6251999",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 2.481496810913086,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Super 8 Motel   Penticton",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "hotel",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "49.4797",
+      "fcode": "HTL",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-119.61281",
+      "geonameId": 6515603,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Ramada Inn   Suites Penticton",
+      "asciiName": "RAMADA INN   SUITES PENTICTON",
+      "countryId": "6251999",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 2.481496810913086,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Ramada Inn   Suites Penticton",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "hotel",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "49.49498",
+      "fcode": "HTL",
+      "continentCode": "NA"
+    }
+  ]
+}

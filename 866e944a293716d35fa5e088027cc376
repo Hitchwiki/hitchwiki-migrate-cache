@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A573",
+               "short_name" : "A573",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grafschaft",
+               "short_name" : "Grafschaft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53501",
+               "short_name" : "53501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A573, 53501 Grafschaft, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5731583,
+                  "lng" : 7.119551899999999
+               },
+               "southwest" : {
+                  "lat" : 50.553882,
+                  "lng" : 7.116524699999999
+               }
+            },
+            "location" : {
+               "lat" : 50.5633796,
+               "lng" : 7.118349800000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5731583,
+                  "lng" : 7.119551899999999
+               },
+               "southwest" : {
+                  "lat" : 50.553882,
+                  "lng" : 7.116524699999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

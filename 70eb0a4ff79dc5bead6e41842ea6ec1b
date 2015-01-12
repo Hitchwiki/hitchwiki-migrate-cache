@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.0487158,
+                  "lng" : -69.7689944
+               },
+               "southwest" : {
+                  "lat" : -34.2878805,
+                  "lng" : -70.9577496
+               }
+            },
+            "location" : {
+               "lat" : -33.4691199,
+               "lng" : -70.641997
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0487158,
+                  "lng" : -69.7689944
+               },
+               "southwest" : {
+                  "lat" : -34.2878805,
+                  "lng" : -70.9577496
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

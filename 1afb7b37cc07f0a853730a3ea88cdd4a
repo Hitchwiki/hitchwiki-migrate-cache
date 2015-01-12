@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Bolsón",
+               "short_name" : "El Bolsón",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bariloche",
+               "short_name" : "Bariloche",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Negro",
+               "short_name" : "RN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Bolsón, Río Negro Province, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -41.9677696,
+               "lng" : -71.5155106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.951175,
+                  "lng" : -71.4834958
+               },
+               "southwest" : {
+                  "lat" : -41.9843598,
+                  "lng" : -71.5475254
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

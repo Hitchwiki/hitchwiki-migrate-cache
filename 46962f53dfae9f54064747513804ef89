@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Islamabad",
+               "short_name" : "Islamabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Islamabad District",
+               "short_name" : "Islamabad District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Islamabad Capital Territory",
+               "short_name" : "Islamabad Capital Territory",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Islamabad, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7566789,
+                  "lng" : 73.1771194
+               },
+               "southwest" : {
+                  "lat" : 33.600251,
+                  "lng" : 72.8633083
+               }
+            },
+            "location" : {
+               "lat" : 33.7293882,
+               "lng" : 73.0931461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7566789,
+                  "lng" : 73.1771194
+               },
+               "southwest" : {
+                  "lat" : 33.600251,
+                  "lng" : 72.8633083
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

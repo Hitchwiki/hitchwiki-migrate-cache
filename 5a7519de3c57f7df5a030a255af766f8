@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A9",
+               "short_name" : "A9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A9, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2923237,
+                  "lng" : 12.9266383
+               },
+               "southwest" : {
+                  "lat" : 48.17765130000001,
+                  "lng" : 11.1953122
+               }
+            },
+            "location" : {
+               "lat" : 50.2813162,
+               "lng" : 11.8113049
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2923237,
+                  "lng" : 12.9266383
+               },
+               "southwest" : {
+                  "lat" : 48.17765130000001,
+                  "lng" : 11.1953122
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

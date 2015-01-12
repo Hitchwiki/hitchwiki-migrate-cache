@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M49",
+               "short_name" : "M49",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS11",
+               "short_name" : "BS11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M49, Bristol BS11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.56884429999999,
+                  "lng" : -2.6373121
+               },
+               "southwest" : {
+                  "lat" : 51.4990307,
+                  "lng" : -2.6745453
+               }
+            },
+            "location" : {
+               "lat" : 51.5307673,
+               "lng" : -2.6488613
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.56884429999999,
+                  "lng" : -2.6373121
+               },
+               "southwest" : {
+                  "lat" : 51.4990307,
+                  "lng" : -2.6745453
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

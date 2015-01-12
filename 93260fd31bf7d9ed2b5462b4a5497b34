@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagra",
+               "short_name" : "Gagra",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Gagra",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3364625,
+                  "lng" : 40.2897621
+               },
+               "southwest" : {
+                  "lat" : 43.2571719,
+                  "lng" : 40.2072252
+               }
+            },
+            "location" : {
+               "lat" : 43.2795153,
+               "lng" : 40.2705551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3364625,
+                  "lng" : 40.2897621
+               },
+               "southwest" : {
+                  "lat" : 43.2571719,
+                  "lng" : 40.2072252
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Polynesia",
+               "short_name" : "Polynesia",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.517269,
+                  "lng" : -124.5410156
+               },
+               "southwest" : {
+                  "lat" : -52.7224663,
+                  "lng" : 136.9226075
+               }
+            },
+            "location" : {
+               "lat" : -16.8395019,
+               "lng" : -148.3716902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2770863,
+                  "lng" : -124.5410156
+               },
+               "southwest" : {
+                  "lat" : -52.7224663,
+                  "lng" : 136.9226075
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

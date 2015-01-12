@@ -1,0 +1,73 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Randstad",
+        "lang": "link"
+      }],
+      "countryName": "Netherlands",
+      "adminCode1": "11",
+      "score": 22.356033325195312,
+      "lng": "4.71039",
+      "adminName2": "",
+      "fcodeName": "area",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Amsterdam"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Randstad",
+      "fcode": "AREA",
+      "geonameId": 7279861,
+      "asciiName": "Randstad",
+      "lat": "52.10819",
+      "population": 0,
+      "adminName1": "South Holland",
+      "countryId": "2750405",
+      "adminId1": "2743698",
+      "fclName": "parks,area, ...",
+      "countryCode": "NL",
+      "toponymName": "Randstad",
+      "fcl": "L",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "18087",
+      "adminCode2": "GR",
+      "countryName": "Spain",
+      "adminCode1": "51",
+      "score": 2.9993765354156494,
+      "lng": "-3.6125",
+      "adminName2": "Granada",
+      "fcodeName": "temp work office",
+      "adminName3": "Granada",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Randstad Trabajo Temporal",
+      "fcode": "TWO",
+      "geonameId": 6693794,
+      "asciiName": "Randstad Trabajo Temporal",
+      "lat": "37.18089",
+      "population": 0,
+      "adminName1": "Andalusia",
+      "countryId": "2510769",
+      "adminId1": "2593109",
+      "fclName": "spot, building, farm",
+      "countryCode": "ES",
+      "adminId3": "6357709",
+      "adminId2": "2517115",
+      "toponymName": "Randstad Trabajo Temporal",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

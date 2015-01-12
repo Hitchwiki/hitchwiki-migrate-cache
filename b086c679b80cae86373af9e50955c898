@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tabasco",
+               "short_name" : "TAB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tabasco, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.6496321,
+                  "lng" : -90.97702389999999
+               },
+               "southwest" : {
+                  "lat" : 17.2487079,
+                  "lng" : -94.1296656
+               }
+            },
+            "location" : {
+               "lat" : 17.8409173,
+               "lng" : -92.6189273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.6496321,
+                  "lng" : -90.97702389999999
+               },
+               "southwest" : {
+                  "lat" : 17.2487079,
+                  "lng" : -94.1296656
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

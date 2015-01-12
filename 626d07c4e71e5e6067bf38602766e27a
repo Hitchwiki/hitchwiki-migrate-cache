@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R1",
+               "short_name" : "R1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Antwerpen",
+               "short_name" : "Antwerpen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerpen",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vlaams Gewest",
+               "short_name" : "Vlaams Gewest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R1, Antwerpen, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.249526,
+                  "lng" : 4.4512178
+               },
+               "southwest" : {
+                  "lat" : 51.1903526,
+                  "lng" : 4.3518121
+               }
+            },
+            "location" : {
+               "lat" : 51.20721959999999,
+               "lng" : 4.369880999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.249526,
+                  "lng" : 4.4512178
+               },
+               "southwest" : {
+                  "lat" : 51.1903526,
+                  "lng" : 4.3518121
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

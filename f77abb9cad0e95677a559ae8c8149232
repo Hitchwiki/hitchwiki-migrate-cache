@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strausberg",
+               "short_name" : "Strausberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Märkisch-Oderland",
+               "short_name" : "Märkisch-Oderland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Strausberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6033207,
+                  "lng" : 14.0211164
+               },
+               "southwest" : {
+                  "lat" : 52.5135628,
+                  "lng" : 13.8131911
+               }
+            },
+            "location" : {
+               "lat" : 52.5659128,
+               "lng" : 13.8777546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6033207,
+                  "lng" : 14.0211164
+               },
+               "southwest" : {
+                  "lat" : 52.5135628,
+                  "lng" : 13.8131911
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

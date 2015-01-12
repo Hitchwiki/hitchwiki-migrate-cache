@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S4",
+               "short_name" : "S4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S4, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8055286,
+                  "lng" : 16.4200075
+               },
+               "southwest" : {
+                  "lat" : 47.7469517,
+                  "lng" : 16.2233624
+               }
+            },
+            "location" : {
+               "lat" : 47.7846989,
+               "lng" : 16.3209816
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8055286,
+                  "lng" : 16.4200075
+               },
+               "southwest" : {
+                  "lat" : 47.7469517,
+                  "lng" : 16.2233624
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

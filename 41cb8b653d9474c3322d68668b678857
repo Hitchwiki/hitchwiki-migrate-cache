@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lajes Das Flores",
+               "short_name" : "Lajes Das Flores",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flores",
+               "short_name" : "Flores",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azores",
+               "short_name" : "Azores",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lajes Das Flores, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3860599,
+                  "lng" : -31.1654645
+               },
+               "southwest" : {
+                  "lat" : 39.374779,
+                  "lng" : -31.1902714
+               }
+            },
+            "location" : {
+               "lat" : 39.3782624,
+               "lng" : -31.1781975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3860599,
+                  "lng" : -31.1654645
+               },
+               "southwest" : {
+                  "lat" : 39.374779,
+                  "lng" : -31.1902714
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

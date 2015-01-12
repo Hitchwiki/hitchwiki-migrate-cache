@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A837",
+               "short_name" : "A837",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charente-maritime",
+               "short_name" : "17",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A837, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9697575,
+                  "lng" : -0.6632796
+               },
+               "southwest" : {
+                  "lat" : 45.7821515,
+                  "lng" : -0.9838682999999999
+               }
+            },
+            "location" : {
+               "lat" : 45.9113912,
+               "lng" : -0.8053975999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9697575,
+                  "lng" : -0.6632796
+               },
+               "southwest" : {
+                  "lat" : 45.7821515,
+                  "lng" : -0.9838682999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

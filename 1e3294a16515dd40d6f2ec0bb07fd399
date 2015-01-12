@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Witten",
+               "short_name" : "Witten",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ennepe-Ruhr-Kreis",
+               "short_name" : "Ennepe-Ruhr-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Witten, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4843421,
+                  "lng" : 7.4228195
+               },
+               "southwest" : {
+                  "lat" : 51.3700596,
+                  "lng" : 7.2460956
+               }
+            },
+            "location" : {
+               "lat" : 51.4438926,
+               "lng" : 7.353197000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4843421,
+                  "lng" : 7.4228195
+               },
+               "southwest" : {
+                  "lat" : 51.3700596,
+                  "lng" : 7.2460956
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Witten",
+               "short_name" : "Witten",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wetter (Ruhr)",
+               "short_name" : "Wetter (Ruhr)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Witten, Wetter (Ruhr), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4085617,
+                  "lng" : 7.3399419
+               },
+               "southwest" : {
+                  "lat" : 51.4070776,
+                  "lng" : 7.336814299999999
+               }
+            },
+            "location" : {
+               "lat" : 51.40796049999999,
+               "lng" : 7.338387300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4091686302915,
+                  "lng" : 7.3399419
+               },
+               "southwest" : {
+                  "lat" : 51.4064706697085,
+                  "lng" : 7.336814299999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

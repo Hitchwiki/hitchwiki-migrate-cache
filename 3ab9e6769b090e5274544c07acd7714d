@@ -1,0 +1,232 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boulder",
+               "short_name" : "Boulder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boulder County",
+               "short_name" : "Boulder County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boulder, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0945509,
+                  "lng" : -105.178197
+               },
+               "southwest" : {
+                  "lat" : 39.9640689,
+                  "lng" : -105.3017579
+               }
+            },
+            "location" : {
+               "lat" : 40.0149856,
+               "lng" : -105.2705456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0945509,
+                  "lng" : -105.178197
+               },
+               "southwest" : {
+                  "lat" : 39.9640689,
+                  "lng" : -105.3017579
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boulder",
+               "short_name" : "Boulder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59632",
+               "short_name" : "59632",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boulder, MT 59632, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2459769,
+                  "lng" : -112.1072662
+               },
+               "southwest" : {
+                  "lat" : 46.228663,
+                  "lng" : -112.132267
+               }
+            },
+            "location" : {
+               "lat" : 46.2365947,
+               "lng" : -112.1208336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2459769,
+                  "lng" : -112.1072662
+               },
+               "southwest" : {
+                  "lat" : 46.228663,
+                  "lng" : -112.132267
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boulder",
+               "short_name" : "Boulder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Garfield County",
+               "short_name" : "Garfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84716",
+               "short_name" : "84716",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boulder, UT 84716, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.987881,
+                  "lng" : -111.4050319
+               },
+               "southwest" : {
+                  "lat" : 37.857545,
+                  "lng" : -111.4604201
+               }
+            },
+            "location" : {
+               "lat" : 37.924444,
+               "lng" : -111.426111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.987881,
+                  "lng" : -111.4050319
+               },
+               "southwest" : {
+                  "lat" : 37.857545,
+                  "lng" : -111.4604201
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boulder",
+               "short_name" : "Boulder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sublette County",
+               "short_name" : "Sublette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82923",
+               "short_name" : "82923",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boulder, WY 82923, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7602489,
+                  "lng" : -109.6953021
+               },
+               "southwest" : {
+                  "lat" : 42.740071,
+                  "lng" : -109.7278041
+               }
+            },
+            "location" : {
+               "lat" : 42.74616109999999,
+               "lng" : -109.7205643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7602489,
+                  "lng" : -109.6953021
+               },
+               "southwest" : {
+                  "lat" : 42.740071,
+                  "lng" : -109.7278041
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

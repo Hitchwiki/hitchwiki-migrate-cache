@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Míkonos",
+               "short_name" : "Míkonos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mikonos",
+               "short_name" : "Mikonos",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Mykonos",
+               "short_name" : "Mykonos",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Mikonos",
+               "short_name" : "Mikonos",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Notio Aigaio",
+               "short_name" : "Notio Aigaio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Egeo",
+               "short_name" : "Egeo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Míkonos, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4582227,
+                  "lng" : 25.3466367
+               },
+               "southwest" : {
+                  "lat" : 37.4306939,
+                  "lng" : 25.3245353
+               }
+            },
+            "location" : {
+               "lat" : 37.4467185,
+               "lng" : 25.3288623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4582227,
+                  "lng" : 25.3466367
+               },
+               "southwest" : {
+                  "lat" : 37.4306939,
+                  "lng" : 25.3245353
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mykonos",
+               "short_name" : "Mykonos",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mykonos, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5006266,
+                  "lng" : 25.4620857
+               },
+               "southwest" : {
+                  "lat" : 37.4022587,
+                  "lng" : 25.2996098
+               }
+            },
+            "location" : {
+               "lat" : 37.4414601,
+               "lng" : 25.3667218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5006266,
+                  "lng" : 25.4620857
+               },
+               "southwest" : {
+                  "lat" : 37.4022587,
+                  "lng" : 25.2996098
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

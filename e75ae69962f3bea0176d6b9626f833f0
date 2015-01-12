@@ -1,0 +1,140 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -2.7427064686044966,
+        "south": 51.46516527696046,
+        "north": 51.498816429245295,
+        "west": -2.7967618739708255
+      },
+      "asciiName": "Portishead",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 27.76983642578125,
+      "adminId2": "3333177",
+      "adminId3": "7296946",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.48199",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "J4",
+      "adminCode3": "00HC027",
+      "adminCode1": "ENG",
+      "lng": "-2.76973",
+      "geonameId": 2640037,
+      "toponymName": "Portishead",
+      "population": 17512,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Portishead and North Weston",
+      "alternateNames": [
+        {
+          "name": "포티스헤드",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Portishead%2C_Somerset",
+          "lang": "link"
+        },
+        {
+          "name": "Portishead i Somerset",
+          "lang": "nn"
+        },
+        {
+          "name": "PTH",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "North Somerset",
+      "name": "Portishead",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -2.7510544308262537,
+        "south": 51.46365640728052,
+        "north": 51.49520590188268,
+        "west": -2.818895688343676
+      },
+      "asciiName": "Portishead and North Weston",
+      "countryId": "2635167",
+      "fcl": "A",
+      "score": 14.429632186889648,
+      "adminId2": "3333177",
+      "adminId3": "7296946",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.47943",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "J4",
+      "adminCode3": "00HC027",
+      "adminCode1": "ENG",
+      "lng": "-2.78498",
+      "geonameId": 7296946,
+      "toponymName": "Portishead and North Weston",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Portishead and North Weston",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Portishead_and_North_Weston",
+        "lang": "link"
+      }],
+      "adminName2": "North Somerset",
+      "name": "Portishead and North Weston",
+      "fclName": "country, state, region,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Battery Point",
+      "countryId": "2635167",
+      "fcl": "T",
+      "score": 4.909060478210449,
+      "cc2": "GB",
+      "adminId2": "3333177",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.495",
+      "fcode": "PT",
+      "continentCode": "EU",
+      "adminCode2": "J4",
+      "adminCode1": "ENG",
+      "lng": "-2.76917",
+      "geonameId": 2640036,
+      "toponymName": "Battery Point",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "North Somerset",
+      "name": "Battery Point",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "United Kingdom",
+      "fcodeName": "point",
+      "adminName1": "England"
+    }
+  ]
+}

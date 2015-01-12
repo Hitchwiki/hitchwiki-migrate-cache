@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netanya",
+               "short_name" : "Netanya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Netanya, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3534569,
+                  "lng" : 34.892539
+               },
+               "southwest" : {
+                  "lat" : 32.256,
+                  "lng" : 34.8285249
+               }
+            },
+            "location" : {
+               "lat" : 32.321458,
+               "lng" : 34.853196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3534569,
+                  "lng" : 34.892539
+               },
+               "southwest" : {
+                  "lat" : 32.256,
+                  "lng" : 34.8285249
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lubusz Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1239582,
+                  "lng" : 16.4163811
+               },
+               "southwest" : {
+                  "lat" : 51.363138,
+                  "lng" : 14.534127
+               }
+            },
+            "location" : {
+               "lat" : 52.2274612,
+               "lng" : 15.2559103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1239582,
+                  "lng" : 16.4163811
+               },
+               "southwest" : {
+                  "lat" : 51.363138,
+                  "lng" : 14.534127
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

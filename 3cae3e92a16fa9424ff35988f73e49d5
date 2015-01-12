@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Icel",
+               "short_name" : "Icel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mersin, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.877854,
+                  "lng" : 34.7060599
+               },
+               "southwest" : {
+                  "lat" : 36.631836,
+                  "lng" : 34.3512209
+               }
+            },
+            "location" : {
+               "lat" : 36.8,
+               "lng" : 34.633333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.877854,
+                  "lng" : 34.7060599
+               },
+               "southwest" : {
+                  "lat" : 36.631836,
+                  "lng" : 34.3512209
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olsztyn",
+               "short_name" : "Olsztyn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olsztyn",
+               "short_name" : "Olsztyn",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Olsztyn County",
+               "short_name" : "Olsztyn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Warmian-Masurian Voivodeship",
+               "short_name" : "Warmian-Masurian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Olsztyn, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.82894169999999,
+                  "lng" : 20.5660418
+               },
+               "southwest" : {
+                  "lat" : 53.7230797,
+                  "lng" : 20.3653558
+               }
+            },
+            "location" : {
+               "lat" : 53.778422,
+               "lng" : 20.4801193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.82894169999999,
+                  "lng" : 20.5660418
+               },
+               "southwest" : {
+                  "lat" : 53.7230797,
+                  "lng" : 20.3653558
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

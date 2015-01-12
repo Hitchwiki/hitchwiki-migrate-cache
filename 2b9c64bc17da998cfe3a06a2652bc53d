@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Côte d'Ivoire",
+               "short_name" : "CI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Côte d'Ivoire",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.740015,
+                  "lng" : -2.493031
+               },
+               "southwest" : {
+                  "lat" : 4.3510073,
+                  "lng" : -8.602058999999999
+               }
+            },
+            "location" : {
+               "lat" : 7.539988999999999,
+               "lng" : -5.547079999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.740015,
+                  "lng" : -2.493031
+               },
+               "southwest" : {
+                  "lat" : 4.3510073,
+                  "lng" : -8.602058999999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

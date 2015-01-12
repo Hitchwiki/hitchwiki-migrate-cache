@@ -1,0 +1,892 @@
+{
+  "totalResultsCount": 339215,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Nairobi",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 63.500179,
+        "south": -26.868685,
+        "north": 18.003084,
+        "west": 21.999371
+      },
+      "asciiName": "Eastern Africa",
+      "countryId": "337996",
+      "fcl": "L",
+      "score": 43.57440185546875,
+      "cc2": "ET,TZ,KE,UG,MZ,MG,MW,ZM,ZW,RW,SO,BI,SS,ER,MU,RE,KM,DJ,YT,SC",
+      "countryCode": "ET",
+      "lat": "-0.52734",
+      "fcode": "RGN",
+      "continentCode": "AF",
+      "lng": "36.51855",
+      "geonameId": 7729889,
+      "toponymName": "Eastern Africa",
+      "population": 325927000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Eastern_Africa",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Eastern Africa",
+      "fclName": "parks,area, ...",
+      "countryName": "Ethiopia",
+      "fcodeName": "region",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Freetown",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": -11.140717307834736,
+        "south": 7.827815437455265,
+        "north": 7.925924562544735,
+        "west": -11.239772692165266
+      },
+      "asciiName": "Kenema",
+      "countryId": "2403846",
+      "fcl": "P",
+      "score": 22.914945602416992,
+      "countryCode": "SL",
+      "adminId1": "2409543",
+      "lat": "7.87687",
+      "fcode": "PPLA",
+      "continentCode": "AF",
+      "adminCode1": "01",
+      "lng": "-11.19025",
+      "geonameId": 2407790,
+      "toponymName": "Kenema",
+      "population": 143137,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Кенема",
+          "lang": "bg"
+        },
+        {
+          "name": "Kenema",
+          "lang": "de"
+        },
+        {
+          "name": "Kenema",
+          "lang": "en"
+        },
+        {
+          "name": "KEN",
+          "lang": "iata"
+        },
+        {
+          "name": "Kenema",
+          "lang": "id"
+        },
+        {
+          "name": "ケネマ",
+          "lang": "ja"
+        },
+        {
+          "name": "케네마",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Kenema",
+          "lang": "link"
+        },
+        {
+          "name": "Кенема",
+          "lang": "ru"
+        },
+        {
+          "name": "KEN",
+          "lang": "unlc"
+        },
+        {
+          "name": "凯内马",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Kenema",
+      "fclName": "city, village,...",
+      "countryName": "Sierra Leone",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Eastern Province"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Indian/Mayotte",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 45.25970849923192,
+        "south": -12.81250561496092,
+        "north": -12.75217438503908,
+        "west": 45.19785150076808
+      },
+      "asciiName": "Mamoudzou",
+      "countryId": "1024031",
+      "fcl": "P",
+      "score": 20.554615020751953,
+      "countryCode": "YT",
+      "adminId1": "7521431",
+      "lat": "-12.78234",
+      "fcode": "PPLC",
+      "continentCode": "AF",
+      "adminCode1": "97611",
+      "lng": "45.22878",
+      "geonameId": 921815,
+      "toponymName": "Mamoudzou",
+      "population": 54831,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Mamoutzou",
+          "lang": "da"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "de"
+        },
+        {
+          "name": "Mamoutzou",
+          "lang": "el"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "en"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "es"
+        },
+        {
+          "name": "Mamoutzou",
+          "lang": "fi"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "fr"
+        },
+        {
+          "name": "Mamoutzou",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Mamoudzou",
+          "lang": "link"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "pl"
+        },
+        {
+          "name": "97600",
+          "lang": "post"
+        },
+        {
+          "name": "Mamudzu",
+          "lang": "pt"
+        },
+        {
+          "name": "Мамудзу",
+          "lang": "ru"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "sk"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "sv"
+        },
+        {
+          "name": "Mamoudzou",
+          "lang": "sw"
+        },
+        {
+          "name": "MAM",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Mamoudzou",
+      "fclName": "city, village,...",
+      "countryName": "Mayotte",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Mamoudzou"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Harare",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 31.155063007786453,
+        "south": -18.088389295016352,
+        "north": -17.937092704983645,
+        "west": 30.996036992213547
+      },
+      "asciiName": "Chitungwiza",
+      "countryId": "878675",
+      "fcl": "P",
+      "score": 20.554615020751953,
+      "countryCode": "ZW",
+      "adminId1": "1105844",
+      "lat": "-18.01274",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "10",
+      "lng": "31.07555",
+      "geonameId": 1106542,
+      "toponymName": "Chitungwiza",
+      "population": 340360,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Chitungwiza",
+          "lang": "de"
+        },
+        {
+          "name": "Chitungwiza",
+          "lang": "en"
+        },
+        {
+          "name": "Chitungwiza",
+          "lang": "es"
+        },
+        {
+          "name": "Chitungwiza",
+          "lang": "fi"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Chitungwiza",
+          "lang": "link"
+        },
+        {
+          "name": "Chitungwiza",
+          "lang": "sw"
+        },
+        {
+          "name": "CGW",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Chitungwiza",
+      "fclName": "city, village,...",
+      "countryName": "Zimbabwe",
+      "fcodeName": "populated place",
+      "adminName1": "Harare"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Indian/Mauritius",
+        "dstOffset": 4
+      },
+      "bbox": {
+        "east": 57.524057870907036,
+        "south": -20.34095257054037,
+        "north": -20.255158629459633,
+        "west": 57.43260872909297
+      },
+      "asciiName": "Vacoas",
+      "countryId": "934292",
+      "fcl": "P",
+      "score": 20.554615020751953,
+      "cc2": "MU",
+      "countryCode": "MU",
+      "adminId1": "934166",
+      "lat": "-20.29806",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "17",
+      "lng": "57.47833",
+      "geonameId": 933945,
+      "toponymName": "Vacoas",
+      "population": 110000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Vacoas-Phoenix",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Vacoas",
+      "fclName": "city, village,...",
+      "countryName": "Mauritius",
+      "fcodeName": "populated place",
+      "adminName1": "Plaines Wilhems"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Kigali",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 29.77816612956841,
+        "south": -2.6353498459486535,
+        "north": -2.5579835540513467,
+        "west": 29.70072267043159
+      },
+      "asciiName": "Butare",
+      "countryId": "49518",
+      "fcl": "P",
+      "score": 20.554615020751953,
+      "countryCode": "RW",
+      "adminId1": "6413341",
+      "lat": "-2.59667",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "15",
+      "lng": "29.73944",
+      "geonameId": 203112,
+      "toponymName": "Butare",
+      "population": 89600,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Butaré",
+          "lang": "cs"
+        },
+        {
+          "name": "Butare",
+          "lang": "de"
+        },
+        {
+          "name": "Butare",
+          "lang": "en"
+        },
+        {
+          "name": "Butare",
+          "lang": "es"
+        },
+        {
+          "name": "Butare",
+          "lang": "fr"
+        },
+        {
+          "name": "BTQ",
+          "lang": "iata"
+        },
+        {
+          "name": "Butarė",
+          "lang": "lt"
+        },
+        {
+          "name": "Butare",
+          "lang": "lv"
+        },
+        {
+          "name": "Butare",
+          "lang": "pl"
+        },
+        {
+          "name": "Butare",
+          "lang": "pt"
+        },
+        {
+          "name": "Бутаре",
+          "lang": "ru"
+        },
+        {
+          "name": "BTQ",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Butare",
+      "fclName": "city, village,...",
+      "countryName": "Rwanda",
+      "fcodeName": "populated place",
+      "adminName1": "Southern Province"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 33.70227813720703,
+        "south": -14.98171615600586,
+        "north": -10.310001373291016,
+        "west": 29.992496490478516
+      },
+      "asciiName": "Eastern Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "score": 20.460411071777344,
+      "countryCode": "ZM",
+      "adminId1": "917388",
+      "lat": "-13.66667",
+      "fcode": "ADM1",
+      "continentCode": "AF",
+      "adminCode1": "03",
+      "lng": "32",
+      "geonameId": 917388,
+      "toponymName": "Eastern Province",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Eastern_Province%2C_Zambia",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Eastern Province",
+      "fclName": "country, state, region,...",
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Eastern"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Freetown",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": -10.94446812190959,
+        "south": 8.59491241569187,
+        "north": 8.671754184308131,
+        "west": -11.02219847809041
+      },
+      "asciiName": "Koidu",
+      "countryId": "2403846",
+      "fcl": "P",
+      "score": 19.641382217407227,
+      "cc2": "SL",
+      "countryCode": "SL",
+      "adminId1": "2409543",
+      "lat": "8.63333",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "01",
+      "lng": "-10.98333",
+      "geonameId": 2407656,
+      "toponymName": "Koidu",
+      "population": 88000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Koidutown-Sefadu",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Koidu",
+      "fclName": "city, village,...",
+      "countryName": "Sierra Leone",
+      "fcodeName": "populated place",
+      "adminName1": "Eastern Province"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Kampala",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 33.24263353345683,
+        "south": 0.3995602018287072,
+        "north": 0.4784791493351931,
+        "west": 33.16371183397481
+      },
+      "asciiName": "Jinja",
+      "countryId": "226074",
+      "fcl": "P",
+      "score": 18.509183883666992,
+      "adminId2": "443335",
+      "countryCode": "UG",
+      "adminId1": "8260673",
+      "lat": "0.43902",
+      "fcode": "PPLA",
+      "continentCode": "AF",
+      "adminCode2": "33",
+      "adminCode1": "E",
+      "lng": "33.20317",
+      "geonameId": 233114,
+      "toponymName": "Jinja",
+      "population": 93061,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Джинджа",
+          "lang": "bg"
+        },
+        {
+          "name": "Τζίντζα",
+          "lang": "el"
+        },
+        {
+          "name": "גינגה",
+          "lang": "he"
+        },
+        {
+          "name": "JIN",
+          "lang": "iata"
+        },
+        {
+          "name": "ジンジャ",
+          "lang": "ja"
+        },
+        {
+          "name": "진자",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Jinja%2C_Uganda",
+          "lang": "link"
+        },
+        {
+          "name": "Džindža",
+          "lang": "lt"
+        },
+        {
+          "name": "Джинджа",
+          "lang": "ru"
+        },
+        {
+          "name": "JIN",
+          "lang": "unlc"
+        },
+        {
+          "name": "金賈",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Jinja",
+      "name": "Jinja",
+      "fclName": "city, village,...",
+      "countryName": "Uganda",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Eastern Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 28.438604692834726,
+        "south": -15.552815131851851,
+        "north": -15.260556140434254,
+        "west": 28.135663648229727
+      },
+      "asciiName": "Lusaka",
+      "countryId": "895949",
+      "fcl": "P",
+      "score": 17.985288619995117,
+      "countryCode": "ZM",
+      "adminId1": "909129",
+      "lat": "-15.40669",
+      "fcode": "PPLC",
+      "continentCode": "AF",
+      "adminCode1": "09",
+      "lng": "28.28713",
+      "geonameId": 909137,
+      "toponymName": "Lusaka",
+      "population": 1267440,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Lusaka",
+          "lang": "af"
+        },
+        {
+          "name": "ሉሳካ",
+          "lang": "am"
+        },
+        {
+          "name": "لوساكا",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Лусака",
+          "lang": "be"
+        },
+        {
+          "name": "Лусака",
+          "lang": "bg"
+        },
+        {
+          "name": "লুসাকা",
+          "lang": "bn"
+        },
+        {
+          "name": "ལུ་ས་ཀ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "bs"
+        },
+        {
+          "name": "Лусака",
+          "lang": "ce"
+        },
+        {
+          "name": "لووساکا",
+          "lang": "ckb"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "da"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "de"
+        },
+        {
+          "name": "Λουσάκα",
+          "lang": "el"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "en"
+        },
+        {
+          "name": "Lusako",
+          "lang": "eo"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "es"
+        },
+        {
+          "name": "لوساکا",
+          "lang": "fa"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "fi"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "fr"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "frp"
+        },
+        {
+          "name": "Lûsaka",
+          "lang": "fy"
+        },
+        {
+          "name": "Lusaca",
+          "lang": "gl"
+        },
+        {
+          "name": "לוסקה",
+          "lang": "he"
+        },
+        {
+          "name": "लुसाका",
+          "lang": "hi"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "hr"
+        },
+        {
+          "name": "Louzaka",
+          "lang": "ht"
+        },
+        {
+          "name": "Լուսակա",
+          "lang": "hy"
+        },
+        {
+          "name": "LUN",
+          "lang": "iata"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "id"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "io"
+        },
+        {
+          "name": "Lúsaka",
+          "lang": "is"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "it"
+        },
+        {
+          "name": "ルサカ",
+          "lang": "ja"
+        },
+        {
+          "name": "ლუსაკა",
+          "lang": "ka"
+        },
+        {
+          "name": "루사카",
+          "lang": "ko"
+        },
+        {
+          "name": "Лусака",
+          "lang": "ky"
+        },
+        {
+          "name": "Lusaca",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Lusaka",
+          "lang": "link"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "lt"
+        },
+        {
+          "name": "Лусака",
+          "lang": "mk"
+        },
+        {
+          "name": "Лусака",
+          "lang": "mn"
+        },
+        {
+          "name": "लुसाका",
+          "lang": "mr"
+        },
+        {
+          "name": "Лусака",
+          "lang": "mrj"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "nl"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "no"
+        },
+        {
+          "name": "ଲୁସାକ",
+          "lang": "or"
+        },
+        {
+          "name": "ਲੁਸਾਕਾ",
+          "lang": "pa"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "pl"
+        },
+        {
+          "name": "لوساکا",
+          "lang": "pnb"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "pt"
+        },
+        {
+          "name": "Лусака",
+          "lang": "ru"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "sk"
+        },
+        {
+          "name": "Лусака",
+          "lang": "sr"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "sv"
+        },
+        {
+          "name": "Lusaka",
+          "lang": "sw"
+        },
+        {
+          "name": "லுசாக்கா",
+          "lang": "ta"
+        },
+        {
+          "name": "Лусака",
+          "lang": "tg"
+        },
+        {
+          "name": "ลูซากา",
+          "lang": "th"
+        },
+        {
+          "name": "Лусака",
+          "lang": "udm"
+        },
+        {
+          "name": "لۇساكا",
+          "lang": "ug"
+        },
+        {
+          "name": "Лусака",
+          "lang": "uk"
+        },
+        {
+          "name": "LUN",
+          "lang": "unlc"
+        },
+        {
+          "name": "لوساکا",
+          "lang": "ur"
+        },
+        {
+          "name": "לוסאקא",
+          "lang": "yi"
+        },
+        {
+          "name": "盧薩卡",
+          "lang": "yue"
+        },
+        {
+          "name": "路沙卡",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Lusaka",
+      "fclName": "city, village,...",
+      "countryName": "Zambia",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Lusaka"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M66",
+               "short_name" : "M66",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bury",
+               "short_name" : "Bury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BL9",
+               "short_name" : "BL9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M66, Bury BL9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6670879,
+                  "lng" : -2.2572164
+               },
+               "southwest" : {
+                  "lat" : 53.5471624,
+                  "lng" : -2.3114751
+               }
+            },
+            "location" : {
+               "lat" : 53.6086486,
+               "lng" : -2.2773059
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6670879,
+                  "lng" : -2.2572164
+               },
+               "southwest" : {
+                  "lat" : 53.5471624,
+                  "lng" : -2.3114751
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

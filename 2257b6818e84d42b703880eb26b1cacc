@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "British Indian Ocean Territory",
+               "short_name" : "IO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "British Indian Ocean Territory",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.235644499999999,
+                  "lng" : 72.49458540000001
+               },
+               "southwest" : {
+                  "lat" : -7.443797699999998,
+                  "lng" : 71.2376917
+               }
+            },
+            "location" : {
+               "lat" : -7.3346232,
+               "lng" : 72.4242508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.225448699999999,
+                  "lng" : 72.49458540000001
+               },
+               "southwest" : {
+                  "lat" : -7.443797699999998,
+                  "lng" : 72.3539162
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

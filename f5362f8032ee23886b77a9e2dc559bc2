@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9123402,
+                  "lng" : 50.46786609999999
+               },
+               "southwest" : {
+                  "lat" : 38.39199000000001,
+                  "lng" : 44.7632599
+               }
+            },
+            "location" : {
+               "lat" : 40.143105,
+               "lng" : 47.576927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9123402,
+                  "lng" : 50.46786609999999
+               },
+               "southwest" : {
+                  "lat" : 38.39199000000001,
+                  "lng" : 44.7632599
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

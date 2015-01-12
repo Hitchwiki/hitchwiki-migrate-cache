@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sodermanland County",
+               "short_name" : "Sodermanland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sodermanland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.5228374,
+                  "lng" : 17.7453121
+               },
+               "southwest" : {
+                  "lat" : 58.56213729999999,
+                  "lng" : 15.5932
+               }
+            },
+            "location" : {
+               "lat" : 59.03363489999999,
+               "lng" : 16.7518899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.5228374,
+                  "lng" : 17.7451637
+               },
+               "southwest" : {
+                  "lat" : 58.56213729999999,
+                  "lng" : 15.5932
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

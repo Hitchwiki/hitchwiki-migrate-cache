@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montargis",
+               "short_name" : "Montargis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loiret",
+               "short_name" : "45",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montargis, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0122911,
+                  "lng" : 2.759669
+               },
+               "southwest" : {
+                  "lat" : 47.987257,
+                  "lng" : 2.7180631
+               }
+            },
+            "location" : {
+               "lat" : 47.99729,
+               "lng" : 2.736291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0122911,
+                  "lng" : 2.759669
+               },
+               "southwest" : {
+                  "lat" : 47.987257,
+                  "lng" : 2.7180631
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

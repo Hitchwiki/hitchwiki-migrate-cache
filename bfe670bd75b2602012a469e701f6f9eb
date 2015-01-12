@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kruševac",
+               "short_name" : "Kruševac",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rasina",
+               "short_name" : "Rasina",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kruševac, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5928094,
+                  "lng" : 21.3539134
+               },
+               "southwest" : {
+                  "lat" : 43.5507643,
+                  "lng" : 21.2958168
+               }
+            },
+            "location" : {
+               "lat" : 43.5757545,
+               "lng" : 21.3310509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5928094,
+                  "lng" : 21.3539134
+               },
+               "southwest" : {
+                  "lat" : 43.5507643,
+                  "lng" : 21.2958168
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

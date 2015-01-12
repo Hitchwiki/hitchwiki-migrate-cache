@@ -1,0 +1,179 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topeka",
+               "short_name" : "Topeka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shawnee County",
+               "short_name" : "Shawnee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Topeka, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.10926500000001,
+                  "lng" : -95.603799
+               },
+               "southwest" : {
+                  "lat" : 38.916844,
+                  "lng" : -95.812263
+               }
+            },
+            "location" : {
+               "lat" : 39.0558235,
+               "lng" : -95.68901849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.10926500000001,
+                  "lng" : -95.603799
+               },
+               "southwest" : {
+                  "lat" : 38.916844,
+                  "lng" : -95.812263
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topeka",
+               "short_name" : "Topeka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "LaGrange County",
+               "short_name" : "Lagrange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46571",
+               "short_name" : "46571",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Topeka, IN 46571, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5504419,
+                  "lng" : -85.52808109999999
+               },
+               "southwest" : {
+                  "lat" : 41.5319829,
+                  "lng" : -85.56751109999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5392165,
+               "lng" : -85.5397059
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5504419,
+                  "lng" : -85.52808109999999
+               },
+               "southwest" : {
+                  "lat" : 41.5319829,
+                  "lng" : -85.56751109999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topeka",
+               "short_name" : "Topeka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quiver",
+               "short_name" : "Quiver",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mason County",
+               "short_name" : "Mason County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61567",
+               "short_name" : "61567",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Topeka, IL 61567, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.333967,
+                  "lng" : -89.927995
+               },
+               "southwest" : {
+                  "lat" : 40.3264269,
+                  "lng" : -89.933819
+               }
+            },
+            "location" : {
+               "lat" : 40.3303196,
+               "lng" : -89.9312252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.333967,
+                  "lng" : -89.927995
+               },
+               "southwest" : {
+                  "lat" : 40.3264269,
+                  "lng" : -89.933819
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

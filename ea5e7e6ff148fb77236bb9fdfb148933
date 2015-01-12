@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Valles",
+               "short_name" : "Ciudad Valles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Potosi",
+               "short_name" : "SLP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ciudad Valles, San Luis Potosi, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.0385789,
+                  "lng" : -98.9581261
+               },
+               "southwest" : {
+                  "lat" : 21.9466697,
+                  "lng" : -99.0652491
+               }
+            },
+            "location" : {
+               "lat" : 22,
+               "lng" : -99.016667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.0385789,
+                  "lng" : -98.9581261
+               },
+               "southwest" : {
+                  "lat" : 21.9466697,
+                  "lng" : -99.0652491
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vallés",
+               "short_name" : "Vallés",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vallés",
+               "short_name" : "Vallés",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Costera",
+               "short_name" : "Costera",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "V",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46818",
+               "short_name" : "46818",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "46818 Vallés, Valencia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9865177,
+                  "lng" : -0.5553990999999999
+               },
+               "southwest" : {
+                  "lat" : 38.9835196,
+                  "lng" : -0.5575559000000001
+               }
+            },
+            "location" : {
+               "lat" : 38.9852121,
+               "lng" : -0.556366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9865177,
+                  "lng" : -0.555128519708498
+               },
+               "southwest" : {
+                  "lat" : 38.9835196,
+                  "lng" : -0.5578264802915021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,97 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "lng": "-88.0325",
+      "geonameId": 7730330,
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Belize",
+        "dstOffset": -6
+      },
+      "toponymName": "Caye Caulker Airport",
+      "asciiName": "Caye Caulker Airport",
+      "countryId": "3582678",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 60.09916687011719,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "CUK",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Caye_Caulker_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "BZ",
+      "name": "Caye Caulker Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Belize",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "17.7347",
+      "fcode": "AIRP",
+      "continentCode": "NA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Belize",
+        "dstOffset": -6
+      },
+      "bbox": {
+        "east": -88.01816782779521,
+        "south": 17.727594276948587,
+        "north": 17.745581574451442,
+        "west": -88.03705372982198
+      },
+      "asciiName": "Caye Caulker",
+      "countryId": "3582678",
+      "fcl": "P",
+      "score": 41.887325286865234,
+      "countryCode": "BZ",
+      "adminId1": "3582676",
+      "lat": "17.73659",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-88.02761",
+      "geonameId": 3582431,
+      "toponymName": "Caye Caulker",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Caye Corker",
+          "lang": "en"
+        },
+        {
+          "name": "CUK",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Caye_Caulker",
+          "lang": "link"
+        },
+        {
+          "name": "CUK",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Caye Corker",
+      "fclName": "city, village,...",
+      "countryName": "Belize",
+      "fcodeName": "populated place",
+      "adminName1": "Belize"
+    }
+  ]
+}

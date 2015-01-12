@@ -1,0 +1,121 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -3.5289927815939586,
+        "south": 58.603773240947284,
+        "north": 58.62176053845014,
+        "west": -3.56353820656687
+      },
+      "asciiName": "Scrabster",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 30.735580444335938,
+      "adminId2": "2646944",
+      "countryCode": "GB",
+      "adminId1": "2638360",
+      "lat": "58.61277",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "V3",
+      "adminCode1": "SCT",
+      "lng": "-3.54627",
+      "geonameId": 2638339,
+      "toponymName": "Scrabster",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Scrabster",
+          "lang": "link"
+        },
+        {
+          "name": "SCR",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Highland",
+      "name": "Scrabster",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "Scotland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Scrabster Port",
+      "countryId": "2635167",
+      "fcl": "L",
+      "score": 19.23950958251953,
+      "adminId2": "2646944",
+      "countryCode": "GB",
+      "adminId1": "2638360",
+      "lat": "58.61285",
+      "fcode": "PRT",
+      "continentCode": "EU",
+      "adminCode2": "V3",
+      "adminCode1": "SCT",
+      "lng": "-3.54573",
+      "geonameId": 9796565,
+      "toponymName": "Scrabster Port",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Scrabster Harbour",
+        "lang": "en"
+      }],
+      "adminName2": "Highland",
+      "name": "Scrabster Harbour",
+      "fclName": "parks,area, ...",
+      "countryName": "United Kingdom",
+      "fcodeName": "port",
+      "adminName1": "Scotland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Scrabster Road",
+      "countryId": "2635167",
+      "fcl": "H",
+      "score": 4.909060478210449,
+      "adminId2": "2646944",
+      "countryCode": "GB",
+      "adminId1": "2638360",
+      "lat": "58.6",
+      "fcode": "ANCH",
+      "continentCode": "EU",
+      "adminCode2": "V3",
+      "adminCode1": "SCT",
+      "lng": "-3.53333",
+      "geonameId": 2638338,
+      "toponymName": "Scrabster Road",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Highland",
+      "name": "Scrabster Road",
+      "fclName": "stream, lake, ...",
+      "countryName": "United Kingdom",
+      "fcodeName": "anchorage",
+      "adminName1": "Scotland"
+    }
+  ]
+}

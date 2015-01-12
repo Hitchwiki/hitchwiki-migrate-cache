@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Augusta",
+               "short_name" : "Port Augusta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Australia",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5700",
+               "short_name" : "5700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Port Augusta SA 5700, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.4692438,
+                  "lng" : 137.819286
+               },
+               "southwest" : {
+                  "lat" : -32.5212247,
+                  "lng" : 137.7582769
+               }
+            },
+            "location" : {
+               "lat" : -32.4924399,
+               "lng" : 137.7628176
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.4692438,
+                  "lng" : 137.819286
+               },
+               "southwest" : {
+                  "lat" : -32.5212247,
+                  "lng" : 137.7582769
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Augusta",
+               "short_name" : "Port Augusta",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "South Australia",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5700",
+               "short_name" : "5700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Port Augusta SA 5700, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.3491011,
+                  "lng" : 137.819286
+               },
+               "southwest" : {
+                  "lat" : -32.7021646,
+                  "lng" : 137.5039259
+               }
+            },
+            "location" : {
+               "lat" : -32.4930218,
+               "lng" : 137.6455169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.3491011,
+                  "lng" : 137.819286
+               },
+               "southwest" : {
+                  "lat" : -32.7021646,
+                  "lng" : 137.5039259
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

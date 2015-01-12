@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niš",
+               "short_name" : "Niš",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nišava District",
+               "short_name" : "Nišava District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niš, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.348861,
+                  "lng" : 21.9602322
+               },
+               "southwest" : {
+                  "lat" : 43.2835007,
+                  "lng" : 21.8264866
+               }
+            },
+            "location" : {
+               "lat" : 43.3209022,
+               "lng" : 21.8957589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.348861,
+                  "lng" : 21.9602322
+               },
+               "southwest" : {
+                  "lat" : 43.2835007,
+                  "lng" : 21.8264866
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

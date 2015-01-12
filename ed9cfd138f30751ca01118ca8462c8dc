@@ -1,0 +1,514 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autovía del Cantábrico",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-8, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5685529,
+                  "lng" : -2.9182538
+               },
+               "southwest" : {
+                  "lat" : 43.1800456,
+                  "lng" : -7.743306800000001
+               }
+            },
+            "location" : {
+               "lat" : 43.4805944,
+               "lng" : -5.2971357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5685529,
+                  "lng" : -2.9182538
+               },
+               "southwest" : {
+                  "lat" : 43.1800456,
+                  "lng" : -7.743306800000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-8",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pozohondo",
+               "short_name" : "Pozohondo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pozohondo",
+               "short_name" : "Pozohondo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-8, Pozohondo, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7785678,
+                  "lng" : -1.9142103
+               },
+               "southwest" : {
+                  "lat" : 38.7246642,
+                  "lng" : -1.975074
+               }
+            },
+            "location" : {
+               "lat" : 38.7478615,
+               "lng" : -1.9471705
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7785678,
+                  "lng" : -1.9142103
+               },
+               "southwest" : {
+                  "lat" : 38.7246642,
+                  "lng" : -1.975074
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-8",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ulea",
+               "short_name" : "Ulea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ulea",
+               "short_name" : "Ulea",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Murcia",
+               "short_name" : "MU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de Murcia",
+               "short_name" : "Región de Murcia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30612",
+               "short_name" : "30612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-8, 30612 Ulea, Murcia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.18306159999999,
+                  "lng" : -1.2721557
+               },
+               "southwest" : {
+                  "lat" : 38.1536055,
+                  "lng" : -1.2857761
+               }
+            },
+            "location" : {
+               "lat" : 38.1685243,
+               "lng" : -1.2781182
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.18306159999999,
+                  "lng" : -1.2721557
+               },
+               "southwest" : {
+                  "lat" : 38.1536055,
+                  "lng" : -1.2857761
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-8",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mequinenza",
+               "short_name" : "Mequinenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zaragoza",
+               "short_name" : "Z",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragón",
+               "short_name" : "Aragón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50170",
+               "short_name" : "50170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-8, 50170 Mequinenza, Zaragoza, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3820536,
+                  "lng" : 0.3057384
+               },
+               "southwest" : {
+                  "lat" : 41.3804216,
+                  "lng" : 0.3049326
+               }
+            },
+            "location" : {
+               "lat" : 41.3810878,
+               "lng" : 0.3053469
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3825865802915,
+                  "lng" : 0.306684480291502
+               },
+               "southwest" : {
+                  "lat" : 41.3798886197085,
+                  "lng" : 0.3039865197084979
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-8",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amorebieta",
+               "short_name" : "Amorebieta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amorebieta-Etxano",
+               "short_name" : "Amorebieta-Etxano",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Bizkaia",
+               "short_name" : "BI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Euskadi",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48340",
+               "short_name" : "48340",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-8, 48340 Amorebieta, Bizkaia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2212574,
+                  "lng" : -2.7268426
+               },
+               "southwest" : {
+                  "lat" : 43.2196536,
+                  "lng" : -2.7299665
+               }
+            },
+            "location" : {
+               "lat" : 43.22090379999999,
+               "lng" : -2.7290905
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2218044802915,
+                  "lng" : -2.7268426
+               },
+               "southwest" : {
+                  "lat" : 43.2191065197085,
+                  "lng" : -2.7299665
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-8",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manacor",
+               "short_name" : "Manacor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manacor",
+               "short_name" : "Manacor",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Illes Balears",
+               "short_name" : "Illes Balears",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illes Balears",
+               "short_name" : "PM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07500",
+               "short_name" : "07500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-8, 07500 Manacor, Illes Balears, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5767861,
+                  "lng" : 3.2070819
+               },
+               "southwest" : {
+                  "lat" : 39.575912,
+                  "lng" : 3.2055863
+               }
+            },
+            "location" : {
+               "lat" : 39.5764424,
+               "lng" : 3.2060838
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.57769803029149,
+                  "lng" : 3.207683080291502
+               },
+               "southwest" : {
+                  "lat" : 39.57500006970849,
+                  "lng" : 3.204985119708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-8",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Deba",
+               "short_name" : "Deba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deba",
+               "short_name" : "Deba",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Gipuzkoa",
+               "short_name" : "SS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Euskadi",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20829",
+               "short_name" : "20829",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-8, 20829 Deba, Gipuzkoa, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2851575,
+                  "lng" : -2.326425
+               },
+               "southwest" : {
+                  "lat" : 43.2847909,
+                  "lng" : -2.3274109
+               }
+            },
+            "location" : {
+               "lat" : 43.285013,
+               "lng" : -2.3270435
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2863231802915,
+                  "lng" : -2.325568969708498
+               },
+               "southwest" : {
+                  "lat" : 43.2836252197085,
+                  "lng" : -2.328266930291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-8",
+               "short_name" : "A-8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Usansolo",
+               "short_name" : "Usansolo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galdakao",
+               "short_name" : "Galdakao",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Bizkaia",
+               "short_name" : "BI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "País Vasco",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48960",
+               "short_name" : "48960",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-8, 48960 Usansolo, Bizkaia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2179377,
+                  "lng" : -2.819849800000001
+               },
+               "southwest" : {
+                  "lat" : 43.2174942,
+                  "lng" : -2.8200246
+               }
+            },
+            "location" : {
+               "lat" : 43.2179377,
+               "lng" : -2.819849800000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.21906493029149,
+                  "lng" : -2.818588219708499
+               },
+               "southwest" : {
+                  "lat" : 43.2163669697085,
+                  "lng" : -2.821286180291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

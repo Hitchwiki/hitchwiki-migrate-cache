@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kulob",
+               "short_name" : "Kulob",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kulob",
+               "short_name" : "Kulob",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khatlon",
+               "short_name" : "Khatlon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kulob, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.00630779999999,
+                  "lng" : 69.86223219999999
+               },
+               "southwest" : {
+                  "lat" : 37.8518145,
+                  "lng" : 69.7303964
+               }
+            },
+            "location" : {
+               "lat" : 37.909167,
+               "lng" : 69.781944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.00630779999999,
+                  "lng" : 69.86223219999999
+               },
+               "southwest" : {
+                  "lat" : 37.8518145,
+                  "lng" : 69.7303964
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

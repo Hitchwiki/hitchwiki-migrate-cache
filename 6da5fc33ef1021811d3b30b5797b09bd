@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A94",
+               "short_name" : "A94",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A94, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2774544,
+                  "lng" : 12.8341574
+               },
+               "southwest" : {
+                  "lat" : 48.1371247,
+                  "lng" : 11.6255403
+               }
+            },
+            "location" : {
+               "lat" : 48.2475307,
+               "lng" : 12.3604239
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2774544,
+                  "lng" : 12.8341574
+               },
+               "southwest" : {
+                  "lat" : 48.1371247,
+                  "lng" : 11.6255403
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

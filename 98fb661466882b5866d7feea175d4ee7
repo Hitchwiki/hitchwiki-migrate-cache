@@ -1,0 +1,126 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -4.5,
+        "timeZoneId": "America/Caracas",
+        "dstOffset": -4.5
+      },
+      "bbox": {
+        "east": -61.08815020352255,
+        "south": 4.580233149632382,
+        "north": 4.624292850367618,
+        "west": -61.13235379647745
+      },
+      "asciiName": "Santa Elena de Uairen",
+      "countryId": "3625428",
+      "fcl": "P",
+      "score": 54.963584899902344,
+      "adminId2": "8129151",
+      "countryCode": "VE",
+      "adminId1": "3648106",
+      "lat": "4.60226",
+      "fcode": "PPLA2",
+      "continentCode": "SA",
+      "adminCode2": "0704",
+      "adminCode1": "06",
+      "lng": "-61.11025",
+      "geonameId": 3627382,
+      "toponymName": "Santa Elena de Uairén",
+      "population": 29795,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Santa Elena de Uairén",
+          "lang": "en"
+        },
+        {
+          "name": "Santa Elena",
+          "lang": "es"
+        },
+        {
+          "name": "SNV",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Santa_Elena_de_Uair%C3%A9n",
+          "lang": "link"
+        },
+        {
+          "name": "Santa Elena de Uairén",
+          "lang": "pt"
+        },
+        {
+          "name": "Санта-Елена-де-Уайрен",
+          "lang": "ru"
+        },
+        {
+          "name": "SEU",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Municipio Gran Sabana",
+      "name": "Santa Elena de Uairén",
+      "fclName": "city, village,...",
+      "countryName": "Venezuela",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Bolívar"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4.5,
+        "timeZoneId": "America/Caracas",
+        "dstOffset": -4.5
+      },
+      "asciiName": "Santa Elena de Uairen Airport",
+      "countryId": "3625428",
+      "fcl": "S",
+      "score": 51.91776657104492,
+      "countryCode": "VE",
+      "adminId1": "3648106",
+      "lat": "4.55472",
+      "fcode": "AIRP",
+      "continentCode": "SA",
+      "elevation": 895,
+      "adminCode1": "06",
+      "lng": "-61.14492",
+      "geonameId": 6300869,
+      "toponymName": "Santa Elena de Uairén Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Santa Elena de Uairén Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aeropuerto de Santa Elena de Uairén",
+          "lang": "es"
+        },
+        {
+          "name": "SNV",
+          "lang": "iata"
+        },
+        {
+          "name": "SVSE",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Santa_Elena_de_Uair%C3%A9n_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Santa Elena de Uairén Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Venezuela",
+      "fcodeName": "airport",
+      "adminName1": "Bolívar"
+    }
+  ]
+}

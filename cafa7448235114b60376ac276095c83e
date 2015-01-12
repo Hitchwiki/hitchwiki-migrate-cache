@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A432",
+               "short_name" : "A432",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A432, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8680633,
+                  "lng" : 5.0996142
+               },
+               "southwest" : {
+                  "lat" : 45.6747569,
+                  "lng" : 4.9047844
+               }
+            },
+            "location" : {
+               "lat" : 45.7794529,
+               "lng" : 5.0817429
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8680633,
+                  "lng" : 5.0996142
+               },
+               "southwest" : {
+                  "lat" : 45.6747569,
+                  "lng" : 4.9047844
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

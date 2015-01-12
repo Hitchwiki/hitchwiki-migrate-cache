@@ -1,0 +1,1062 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maldonado",
+               "short_name" : "Maldonado",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.8989375,
+                  "lng" : -54.8393297
+               },
+               "southwest" : {
+                  "lat" : -34.9188042,
+                  "lng" : -54.8728788
+               }
+            },
+            "location" : {
+               "lat" : -34.913889,
+               "lng" : -54.852778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.8989375,
+                  "lng" : -54.8393297
+               },
+               "southwest" : {
+                  "lat" : -34.9188042,
+                  "lng" : -54.8728788
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Padre Las Casas",
+               "short_name" : "Padre Las Casas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Padre Las Casas",
+               "short_name" : "Padre Las Casas",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cautín",
+               "short_name" : "Cautín",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Araucanía",
+               "short_name" : "Araucanía",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Padre Las Casas, Araucanía, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.7578996,
+                  "lng" : -72.5999346
+               },
+               "southwest" : {
+                  "lat" : -38.7593346,
+                  "lng" : -72.60236359999999
+               }
+            },
+            "location" : {
+               "lat" : -38.7584546,
+               "lng" : -72.6008726
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.75726811970849,
+                  "lng" : -72.59980011970849
+               },
+               "southwest" : {
+                  "lat" : -38.75996608029149,
+                  "lng" : -72.60249808029151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Temuco",
+               "short_name" : "Temuco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Temuco",
+               "short_name" : "Temuco",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cautín",
+               "short_name" : "Cautín",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Araucanía",
+               "short_name" : "Araucanía",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Temuco, Araucanía, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.7420396,
+                  "lng" : -72.5737906
+               },
+               "southwest" : {
+                  "lat" : -38.7424466,
+                  "lng" : -72.5765146
+               }
+            },
+            "location" : {
+               "lat" : -38.7423206,
+               "lng" : -72.57463659999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.7408941197085,
+                  "lng" : -72.5737906
+               },
+               "southwest" : {
+                  "lat" : -38.7435920802915,
+                  "lng" : -72.5765146
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Autonomous Region of the Southern Atlantic",
+               "short_name" : "RAAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9114348,
+                  "lng" : -83.51790009999999
+               },
+               "southwest" : {
+                  "lat" : 12.9031051,
+                  "lng" : -83.52895629999999
+               }
+            },
+            "location" : {
+               "lat" : 12.9068283,
+               "lng" : -83.5238451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9114348,
+                  "lng" : -83.51790009999999
+               },
+               "southwest" : {
+                  "lat" : 12.9031051,
+                  "lng" : -83.52895629999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sector 2",
+               "short_name" : "Sector 2",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "La Ceiba",
+               "short_name" : "La Ceiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlantida",
+               "short_name" : "Atlantida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, La Ceiba, Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.7964373,
+                  "lng" : -86.78182529999999
+               },
+               "southwest" : {
+                  "lat" : 15.7955116,
+                  "lng" : -86.78242879999999
+               }
+            },
+            "location" : {
+               "lat" : 15.7962334,
+               "lng" : -86.7820854
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.7973234302915,
+                  "lng" : -86.78077806970848
+               },
+               "southwest" : {
+                  "lat" : 15.7946254697085,
+                  "lng" : -86.7834760302915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Croix-sur-Roudoule",
+               "short_name" : "La Croix-sur-Roudoule",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alpes-Maritimes",
+               "short_name" : "06",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06260",
+               "short_name" : "06260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "La Barra, 06260 La Croix-sur-Roudoule, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9858053,
+                  "lng" : 6.855401
+               },
+               "southwest" : {
+                  "lat" : 43.985574,
+                  "lng" : 6.854137400000001
+               }
+            },
+            "location" : {
+               "lat" : 43.9857931,
+               "lng" : 6.8547433
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9870386302915,
+                  "lng" : 6.856118180291503
+               },
+               "southwest" : {
+                  "lat" : 43.9843406697085,
+                  "lng" : 6.853420219708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago Vázquez",
+               "short_name" : "Santiago Vázquez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montevideo",
+               "short_name" : "Montevideo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12600",
+               "short_name" : "12600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Santiago Vázquez 12600, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.7874463,
+                  "lng" : -56.3530639
+               },
+               "southwest" : {
+                  "lat" : -34.7878626,
+                  "lng" : -56.3540375
+               }
+            },
+            "location" : {
+               "lat" : -34.7878626,
+               "lng" : -56.3540375
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.7863054697085,
+                  "lng" : -56.3522017197085
+               },
+               "southwest" : {
+                  "lat" : -34.7890034302915,
+                  "lng" : -56.3548996802915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Tossal de Montagut",
+               "short_name" : "Tossal de Montagut",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "T",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cataluña",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43860",
+               "short_name" : "43860",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Tossal de Montagut, 43860, Tarragona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.9307618,
+               "lng" : 0.7029035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9321107802915,
+                  "lng" : 0.7042524802915021
+               },
+               "southwest" : {
+                  "lat" : 40.9294128197085,
+                  "lng" : 0.701554519708498
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Calzada",
+               "short_name" : "La Calzada",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tuxpan",
+               "short_name" : "Tuxpan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Vereda",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92770",
+               "short_name" : "92770",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "La Barra, La Calzada, 92770 Tuxpan, Vereda, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.9530436,
+                  "lng" : -97.3503978
+               },
+               "southwest" : {
+                  "lat" : 20.9527561,
+                  "lng" : -97.350768
+               }
+            },
+            "location" : {
+               "lat" : 20.9530436,
+               "lng" : -97.350768
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.9542488302915,
+                  "lng" : -97.3492339197085
+               },
+               "southwest" : {
+                  "lat" : 20.95155086970849,
+                  "lng" : -97.35193188029152
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metapán",
+               "short_name" : "Metapán",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Ana",
+               "short_name" : "Santa Ana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "El Salvador",
+               "short_name" : "SV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, El Salvador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.3158683,
+                  "lng" : -89.53428270000001
+               },
+               "southwest" : {
+                  "lat" : 14.2974048,
+                  "lng" : -89.54784389999999
+               }
+            },
+            "location" : {
+               "lat" : 14.3060307,
+               "lng" : -89.54268689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.3158683,
+                  "lng" : -89.53428270000001
+               },
+               "southwest" : {
+                  "lat" : 14.2974048,
+                  "lng" : -89.54784389999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Santa Rosa",
+               "short_name" : "Santa Rosa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guatemala",
+               "short_name" : "GT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Guatemala",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8415034,
+               "lng" : -90.35471679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8428523802915,
+                  "lng" : -90.3533678197085
+               },
+               "southwest" : {
+                  "lat" : 13.8401544197085,
+                  "lng" : -90.3560657802915
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Vereda",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Vereda, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.163749,
+               "lng" : -96.72248400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.1650979802915,
+                  "lng" : -96.72113501970851
+               },
+               "southwest" : {
+                  "lat" : 20.1624000197085,
+                  "lng" : -96.72383298029152
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barra",
+               "short_name" : "Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oza dos Ríos",
+               "short_name" : "Oza dos Ríos",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "La Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15386",
+               "short_name" : "15386",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barra, 15386, La Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1992777,
+                  "lng" : -8.124376399999999
+               },
+               "southwest" : {
+                  "lat" : 43.1923456,
+                  "lng" : -8.130280299999999
+               }
+            },
+            "location" : {
+               "lat" : 43.195904,
+               "lng" : -8.1269244
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1992777,
+                  "lng" : -8.124376399999999
+               },
+               "southwest" : {
+                  "lat" : 43.1923456,
+                  "lng" : -8.130280299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.557382,
+               "lng" : -6.7255977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5587309802915,
+                  "lng" : -6.724248719708497
+               },
+               "southwest" : {
+                  "lat" : 43.5560330197085,
+                  "lng" : -6.726946680291502
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tampico",
+               "short_name" : "Tampico",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "TAMPS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Tampico, TAMPS, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2663448,
+                  "lng" : -97.7848508
+               },
+               "southwest" : {
+                  "lat" : 22.2614632,
+                  "lng" : -97.7980293
+               }
+            },
+            "location" : {
+               "lat" : 22.263625,
+               "lng" : -97.7953323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2663448,
+                  "lng" : -97.7848508
+               },
+               "southwest" : {
+                  "lat" : 22.2614632,
+                  "lng" : -97.7980293
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Río Cañas",
+               "short_name" : "Río Cañas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Caguas",
+               "short_name" : "Caguas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Puerto Rico",
+               "short_name" : "PR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00725",
+               "short_name" : "00725",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Caguas 00725, Puerto Rico",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.2802307,
+               "lng" : -66.0443322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.2815796802915,
+                  "lng" : -66.0429832197085
+               },
+               "southwest" : {
+                  "lat" : 18.2788817197085,
+                  "lng" : -66.04568118029151
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San José de la Mariquina",
+               "short_name" : "San José de la Mariquina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mariquina",
+               "short_name" : "Mariquina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Los Ríos",
+               "short_name" : "Los Ríos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Mariquina, Los Ríos, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -39.438926,
+               "lng" : -73.208646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.4375770197085,
+                  "lng" : -73.20729701970849
+               },
+               "southwest" : {
+                  "lat" : -39.4402749802915,
+                  "lng" : -73.20999498029151
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Unión",
+               "short_name" : "La Unión",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Unión",
+               "short_name" : "La Unión",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ranco",
+               "short_name" : "Ranco",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Los Ríos",
+               "short_name" : "Los Ríos",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, La Unión, Los Ríos, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -40.240978,
+               "lng" : -73.716109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.2396290197085,
+                  "lng" : -73.71476001970849
+               },
+               "southwest" : {
+                  "lat" : -40.24232698029149,
+                  "lng" : -73.71745798029151
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Barra",
+               "short_name" : "La Barra",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Buenaventura",
+               "short_name" : "Buenaventura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valle Del Cauca",
+               "short_name" : "Valle Del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Barra, Buenaventura, Valle Del Cauca, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.96673,
+               "lng" : -77.37984999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.968078980291502,
+                  "lng" : -77.37850101970848
+               },
+               "southwest" : {
+                  "lat" : 3.965381019708497,
+                  "lng" : -77.38119898029149
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barra",
+               "short_name" : "Barra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chiguayante",
+               "short_name" : "Chiguayante",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiguayante",
+               "short_name" : "Chiguayante",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Concepción",
+               "short_name" : "Concepción",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Biobío",
+               "short_name" : "Biobío",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barra, Chiguayante, Biobío, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.9156606,
+                  "lng" : -73.0226796
+               },
+               "southwest" : {
+                  "lat" : -36.9163558,
+                  "lng" : -73.0250686
+               }
+            },
+            "location" : {
+               "lat" : -36.9162483,
+               "lng" : -73.0238813
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.9146592197085,
+                  "lng" : -73.0225251197085
+               },
+               "southwest" : {
+                  "lat" : -36.91735718029149,
+                  "lng" : -73.02522308029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

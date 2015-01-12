@@ -1,0 +1,109 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Raiatea Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport de Raiatea",
+          "lang": "fr"
+        },
+        {
+          "name": "RFP",
+          "lang": "iata"
+        },
+        {
+          "name": "NTTR",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Raiatea_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "French Polynesia",
+      "adminCode1": "02",
+      "score": 42.32322311401367,
+      "lng": "-151.466",
+      "adminName2": "",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -10,
+        "gmtOffset": -10,
+        "timeZoneId": "Pacific/Tahiti"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Raiatea Airport",
+      "fcode": "AIRP",
+      "geonameId": 7730133,
+      "asciiName": "Raiatea Airport",
+      "lat": "-16.7229",
+      "population": 0,
+      "adminName1": "Îles Sous-le-Vent",
+      "countryId": "4030656",
+      "adminId1": "4034364",
+      "fclName": "spot, building, farm",
+      "countryCode": "PF",
+      "toponymName": "Raiatea Airport",
+      "fcl": "S",
+      "continentCode": "OC"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Raiatea Island",
+          "lang": "en"
+        },
+        {
+          "name": "Île Raiatea",
+          "lang": "fr"
+        },
+        {
+          "name": "RFP",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Raiatea",
+          "lang": "link"
+        },
+        {
+          "name": "RFP",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "French Polynesia",
+      "adminCode1": "02",
+      "score": 41.99127197265625,
+      "lng": "-151.41667",
+      "adminName2": "",
+      "fcodeName": "island",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -10,
+        "gmtOffset": -10,
+        "timeZoneId": "Pacific/Tahiti"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Raiatea Island",
+      "fcode": "ISL",
+      "geonameId": 4033744,
+      "asciiName": "Raiatea Island",
+      "lat": "-16.83333",
+      "population": 0,
+      "adminName1": "Îles Sous-le-Vent",
+      "countryId": "4030656",
+      "adminId1": "4034364",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "PF",
+      "toponymName": "Raiatea Island",
+      "fcl": "T",
+      "continentCode": "OC"
+    }
+  ]
+}

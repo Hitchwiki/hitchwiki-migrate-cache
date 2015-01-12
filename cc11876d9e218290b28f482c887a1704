@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Anamur",
+               "short_name" : "Anamur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Anamur, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.090182,
+                  "lng" : 32.8739609
+               },
+               "southwest" : {
+                  "lat" : 36.047913,
+                  "lng" : 32.806035
+               }
+            },
+            "location" : {
+               "lat" : 36.07515,
+               "lng" : 32.838539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.090182,
+                  "lng" : 32.8739609
+               },
+               "southwest" : {
+                  "lat" : 36.047913,
+                  "lng" : 32.806035
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

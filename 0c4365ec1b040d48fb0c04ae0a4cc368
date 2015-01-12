@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siem Reap",
+               "short_name" : "Siem Reap",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Siem Reap, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.221998,
+                  "lng" : 104.689093
+               },
+               "southwest" : {
+                  "lat" : 12.7449411,
+                  "lng" : 103.3926538
+               }
+            },
+            "location" : {
+               "lat" : 13.6915377,
+               "lng" : 104.1001326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.221998,
+                  "lng" : 104.689093
+               },
+               "southwest" : {
+                  "lat" : 12.7449411,
+                  "lng" : 103.3926538
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,545 @@
+{
+  "totalResultsCount": 91,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": 173.98095849153006,
+        "south": -41.537124728998904,
+        "north": -41.4949407771569,
+        "west": 173.92463919523792
+      },
+      "asciiName": "Blenheim",
+      "countryId": "2186224",
+      "fcl": "P",
+      "score": 44.454036712646484,
+      "adminId2": "7910052",
+      "countryCode": "NZ",
+      "adminId1": "2187304",
+      "lat": "-41.51603",
+      "fcode": "PPLA",
+      "continentCode": "OC",
+      "adminCode2": "053",
+      "adminCode1": "F4",
+      "lng": "173.9528",
+      "geonameId": 6243926,
+      "toponymName": "Blenheim",
+      "population": 26550,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Blenheim",
+          "lang": "de"
+        },
+        {
+          "name": "Blenheim",
+          "lang": "en"
+        },
+        {
+          "name": "Blenheim",
+          "lang": "fr"
+        },
+        {
+          "name": "BHE",
+          "lang": "iata"
+        },
+        {
+          "name": "ブレナム",
+          "lang": "ja"
+        },
+        {
+          "name": "블레넘",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Blenheim%2C_New_Zealand",
+          "lang": "link"
+        },
+        {
+          "name": "Бленхейм",
+          "lang": "ru"
+        },
+        {
+          "name": "BHE",
+          "lang": "unlc"
+        },
+        {
+          "name": "布倫亨",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Marlborough District",
+      "name": "Blenheim",
+      "fclName": "city, village,...",
+      "countryName": "New Zealand",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Marlborough"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Blenheim Palace",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 31.43375015258789,
+      "cc2": "GB",
+      "adminId2": "2640726",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.85",
+      "fcode": "EST",
+      "continentCode": "EU",
+      "adminCode2": "K2",
+      "adminCode1": "ENG",
+      "lng": "-1.36667",
+      "geonameId": 2655355,
+      "toponymName": "Blenheim Palace",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "قصر بلاينهايم",
+          "lang": "ar"
+        },
+        {
+          "name": "Бленхеймскі палац",
+          "lang": "be"
+        },
+        {
+          "name": "Бленъм",
+          "lang": "bg"
+        },
+        {
+          "name": "Palau de Blenheim",
+          "lang": "ca"
+        },
+        {
+          "name": "Blenheimský palác",
+          "lang": "cs"
+        },
+        {
+          "name": "Blenheim Palace",
+          "lang": "de"
+        },
+        {
+          "name": "Ανάκτορο Μπλενχάιμ",
+          "lang": "el"
+        },
+        {
+          "name": "Blenheim Palace",
+          "lang": "en"
+        },
+        {
+          "name": "Palacio de Blenheim",
+          "lang": "es"
+        },
+        {
+          "name": "Blenheim jauregia",
+          "lang": "eu"
+        },
+        {
+          "name": "کاخ بلنهایم",
+          "lang": "fa"
+        },
+        {
+          "name": "Blenheimin palatsi",
+          "lang": "fi"
+        },
+        {
+          "name": "Palais de Blenheim",
+          "lang": "fr"
+        },
+        {
+          "name": "Palača Blenheim",
+          "lang": "hbs"
+        },
+        {
+          "name": "ארמון בלנהיים",
+          "lang": "he"
+        },
+        {
+          "name": "Palača Blenheim",
+          "lang": "hr"
+        },
+        {
+          "name": "Blenheim kastély",
+          "lang": "hu"
+        },
+        {
+          "name": "Բլենհելմյան ամրոց",
+          "lang": "hy"
+        },
+        {
+          "name": "Blenheim Palace",
+          "lang": "it"
+        },
+        {
+          "name": "ブレナム宮殿",
+          "lang": "ja"
+        },
+        {
+          "name": "ბლენჰეიმის სასახლე",
+          "lang": "ka"
+        },
+        {
+          "name": "블레넘 궁전",
+          "lang": "ko"
+        },
+        {
+          "name": "Palatium Blenheim",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Blenheim_Palace",
+          "lang": "link"
+        },
+        {
+          "name": "Blenheim Palace",
+          "lang": "nl"
+        },
+        {
+          "name": "Blenheim Palace",
+          "lang": "no"
+        },
+        {
+          "name": "Palácio de Blenheim",
+          "lang": "pt"
+        },
+        {
+          "name": "Palatul Blenheim",
+          "lang": "ro"
+        },
+        {
+          "name": "Бленхеймский дворец",
+          "lang": "ru"
+        },
+        {
+          "name": "Blenheim Palace",
+          "lang": "sv"
+        },
+        {
+          "name": "วังเบลเนม",
+          "lang": "th"
+        },
+        {
+          "name": "ბლენჰეიმიშ დოხორე",
+          "lang": "xmf"
+        },
+        {
+          "name": "布倫海姆宮",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Oxfordshire",
+      "name": "Blenheim Palace",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "estate(s)",
+      "adminName1": "England"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "173.95",
+      "geonameId": 2193195,
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "toponymName": "Blenheim",
+      "asciiName": "Blenheim",
+      "countryId": "2186224",
+      "fcl": "A",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 28.11520004272461,
+      "adminName3": "",
+      "cc2": "NZ",
+      "adminName2": "",
+      "countryCode": "NZ",
+      "name": "Blenheim",
+      "fclName": "country, state, region,...",
+      "countryName": "New Zealand",
+      "fcodeName": "administrative division",
+      "adminName1": "",
+      "lat": "-41.51667",
+      "fcode": "ADMD",
+      "continentCode": "OC"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "72.46667",
+      "geonameId": 1282590,
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Indian/Chagos",
+        "dstOffset": 6
+      },
+      "toponymName": "Blenheim Reef",
+      "asciiName": "Blenheim Reef",
+      "countryId": "1282588",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 21.08639907836914,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Blenheim_Reef",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "countryCode": "IO",
+      "name": "Blenheim Reef",
+      "fclName": "stream, lake, ...",
+      "countryName": "British Indian Ocean Territory",
+      "fcodeName": "reef(s)",
+      "adminName1": "",
+      "lat": "-5.2",
+      "fcode": "RF",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -81.98761389938551,
+        "south": 42.32439695324857,
+        "north": 42.34238425075143,
+        "west": -82.01194957061449
+      },
+      "asciiName": "Blenheim",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 18.860248565673828,
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "42.33339",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "08",
+      "lng": "-81.99978",
+      "geonameId": 5903742,
+      "toponymName": "Blenheim",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Blenheim%2C_Ontario",
+          "lang": "link"
+        },
+        {
+          "name": "BHM",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Blenheim",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Dominica",
+        "dstOffset": -4
+      },
+      "asciiName": "Blenheim River",
+      "countryId": "3575830",
+      "fcl": "H",
+      "score": 17.57200050354004,
+      "countryCode": "DM",
+      "adminId1": "3575632",
+      "lat": "15.6",
+      "fcode": "STM",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-61.38333",
+      "geonameId": 3575895,
+      "toponymName": "Blenheim River",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Blenheim_River",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Blenheim River",
+      "fclName": "stream, lake, ...",
+      "countryName": "Dominica",
+      "fcodeName": "stream",
+      "adminName1": "Saint Andrew"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Blandford-Blenheim",
+      "countryId": "6251999",
+      "fcl": "A",
+      "score": 15.716875076293945,
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "43.16679",
+      "fcode": "ADMD",
+      "continentCode": "NA",
+      "adminCode1": "08",
+      "lng": "-80.58299",
+      "geonameId": 5903671,
+      "toponymName": "Blandford-Blenheim",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Blandford-Blenheim%2C_Ontario",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Blandford-Blenheim",
+      "fclName": "country, state, region,...",
+      "countryName": "Canada",
+      "fcodeName": "administrative division",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Australia/Brisbane",
+        "dstOffset": 10
+      },
+      "asciiName": "Mount Blenheim",
+      "countryId": "2077456",
+      "fcl": "T",
+      "score": 14.057600021362305,
+      "adminId2": "7839587",
+      "countryCode": "AU",
+      "adminId1": "2152274",
+      "lat": "-21.13333",
+      "fcode": "MT",
+      "continentCode": "OC",
+      "adminCode2": "33980",
+      "adminCode1": "04",
+      "lng": "148.28334",
+      "geonameId": 2175331,
+      "toponymName": "Mount Blenheim",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Mount Blenheim",
+        "lang": "en"
+      }],
+      "adminName2": "Isaac",
+      "name": "Mount Blenheim",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Australia",
+      "fcodeName": "mountain",
+      "adminName1": "Queensland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Australia/Brisbane",
+        "dstOffset": 10
+      },
+      "bbox": {
+        "east": 148.2306435117365,
+        "south": -21.08000064875143,
+        "north": -21.062013351248574,
+        "west": 148.21136848826347
+      },
+      "asciiName": "Blenheim",
+      "countryId": "2077456",
+      "fcl": "P",
+      "score": 14.057600021362305,
+      "adminId2": "7839587",
+      "countryCode": "AU",
+      "adminId1": "2152274",
+      "lat": "-21.07101",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "33980",
+      "adminCode1": "04",
+      "lng": "148.22101",
+      "geonameId": 8599377,
+      "toponymName": "Blenheim",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Blenheim",
+        "lang": "en"
+      }],
+      "adminName2": "Isaac",
+      "name": "Blenheim",
+      "fclName": "city, village,...",
+      "countryName": "Australia",
+      "fcodeName": "populated place",
+      "adminName1": "Queensland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Australia/Brisbane",
+        "dstOffset": 10
+      },
+      "bbox": {
+        "east": 152.349390016,
+        "south": -27.6933200039999,
+        "north": -27.626569007,
+        "west": 152.28258208
+      },
+      "asciiName": "Blenheim",
+      "countryId": "2077456",
+      "fcl": "P",
+      "score": 12.57349967956543,
+      "adminId2": "7839590",
+      "countryCode": "AU",
+      "adminId1": "2152274",
+      "lat": "-27.66667",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "34580",
+      "adminCode1": "04",
+      "lng": "152.31667",
+      "geonameId": 2175332,
+      "toponymName": "Blenheim",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Lockyer Valley",
+      "name": "Blenheim",
+      "fclName": "city, village,...",
+      "countryName": "Australia",
+      "fcodeName": "populated place",
+      "adminName1": "Queensland"
+    }
+  ]
+}

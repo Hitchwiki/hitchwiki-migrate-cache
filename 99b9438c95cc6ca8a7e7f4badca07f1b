@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A77",
+               "short_name" : "A77",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A77, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6751788,
+                  "lng" : 6.033959599999999
+               },
+               "southwest" : {
+                  "lat" : 51.6617995,
+                  "lng" : 5.908809499999999
+               }
+            },
+            "location" : {
+               "lat" : 51.66490839999999,
+               "lng" : 5.9758559
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6751788,
+                  "lng" : 6.033959599999999
+               },
+               "southwest" : {
+                  "lat" : 51.6617995,
+                  "lng" : 5.908809499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

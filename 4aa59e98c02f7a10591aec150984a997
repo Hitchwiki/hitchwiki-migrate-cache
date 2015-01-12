@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "D8",
+               "short_name" : "D8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem District",
+               "short_name" : "Ústí nad Labem District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "D8, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7829368,
+                  "lng" : 14.0089778
+               },
+               "southwest" : {
+                  "lat" : 50.61308090000001,
+                  "lng" : 13.8983102
+               }
+            },
+            "location" : {
+               "lat" : 50.69756719999999,
+               "lng" : 13.9560591
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7829368,
+                  "lng" : 14.0089778
+               },
+               "southwest" : {
+                  "lat" : 50.61308090000001,
+                  "lng" : 13.8983102
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "D8",
+               "short_name" : "D8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "D8, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5480185,
+                  "lng" : 14.453764
+               },
+               "southwest" : {
+                  "lat" : 50.1752278,
+                  "lng" : 13.9966866
+               }
+            },
+            "location" : {
+               "lat" : 50.372179,
+               "lng" : 14.2524536
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5480185,
+                  "lng" : 14.453764
+               },
+               "southwest" : {
+                  "lat" : 50.1752278,
+                  "lng" : 13.9966866
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "D8",
+               "short_name" : "D8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chotiměř",
+               "short_name" : "Chotiměř",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lovosice 2",
+               "short_name" : "Lovosice 2",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Litoměřice District",
+               "short_name" : "Litoměřice District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ústí nad Labem Region",
+               "short_name" : "Ústí nad Labem Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "410 02",
+               "short_name" : "410 02",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "D8, 410 02 Chotiměř, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.54813679999999,
+                  "lng" : 14.0087628
+               },
+               "southwest" : {
+                  "lat" : 50.5478324,
+                  "lng" : 14.0083628
+               }
+            },
+            "location" : {
+               "lat" : 50.54813679999999,
+               "lng" : 14.0087628
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5493335802915,
+                  "lng" : 14.0099117802915
+               },
+               "southwest" : {
+                  "lat" : 50.5466356197085,
+                  "lng" : 14.0072138197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

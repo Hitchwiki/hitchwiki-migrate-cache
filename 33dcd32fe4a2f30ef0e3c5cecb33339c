@@ -1,0 +1,328 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dane County",
+               "short_name" : "Dane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madison, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.171916,
+                  "lng" : -89.24645199999999
+               },
+               "southwest" : {
+                  "lat" : 42.998071,
+                  "lng" : -89.56638889999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0730517,
+               "lng" : -89.4012302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.171916,
+                  "lng" : -89.24645199999999
+               },
+               "southwest" : {
+                  "lat" : 42.998071,
+                  "lng" : -89.56638889999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madison, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.789545,
+                  "lng" : -85.3636159
+               },
+               "southwest" : {
+                  "lat" : 38.7186309,
+                  "lng" : -85.45029
+               }
+            },
+            "location" : {
+               "lat" : 38.7358933,
+               "lng" : -85.37995769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.789545,
+                  "lng" : -85.3636159
+               },
+               "southwest" : {
+                  "lat" : 38.7186309,
+                  "lng" : -85.45029
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morris County",
+               "short_name" : "Morris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madison, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.777214,
+                  "lng" : -74.39216589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7399439,
+                  "lng" : -74.4446059
+               }
+            },
+            "location" : {
+               "lat" : 40.7598227,
+               "lng" : -74.417097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.777214,
+                  "lng" : -74.39216589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7399439,
+                  "lng" : -74.4446059
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madison County",
+               "short_name" : "Madison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madison, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7612829,
+                  "lng" : -86.70604980000002
+               },
+               "southwest" : {
+                  "lat" : 34.6626119,
+                  "lng" : -86.81563179999999
+               }
+            },
+            "location" : {
+               "lat" : 34.6992579,
+               "lng" : -86.74833180000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7612829,
+                  "lng" : -86.70604980000002
+               },
+               "southwest" : {
+                  "lat" : 34.6626119,
+                  "lng" : -86.81563179999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lake County",
+               "short_name" : "Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57042",
+               "short_name" : "57042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Madison, SD 57042, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.022236,
+                  "lng" : -97.079955
+               },
+               "southwest" : {
+                  "lat" : 43.9858839,
+                  "lng" : -97.142072
+               }
+            },
+            "location" : {
+               "lat" : 44.0060847,
+               "lng" : -97.1139496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.022236,
+                  "lng" : -97.079955
+               },
+               "southwest" : {
+                  "lat" : 43.9858839,
+                  "lng" : -97.142072
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oconee County",
+               "short_name" : "Oconee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29693",
+               "short_name" : "29693",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Madison, SC 29693, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.6323195,
+               "lng" : -83.20793549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.6336684802915,
+                  "lng" : -83.20658651970849
+               },
+               "southwest" : {
+                  "lat" : 34.63097051970851,
+                  "lng" : -83.2092844802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

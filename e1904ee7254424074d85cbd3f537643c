@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Posadas",
+               "short_name" : "Posadas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital",
+               "short_name" : "Capital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Misiones Province",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Posadas, Misiones Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.350179,
+                  "lng" : -55.86535809999999
+               },
+               "southwest" : {
+                  "lat" : -27.4492641,
+                  "lng" : -55.9630385
+               }
+            },
+            "location" : {
+               "lat" : -27.3621374,
+               "lng" : -55.90087459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.350179,
+                  "lng" : -55.86535809999999
+               },
+               "southwest" : {
+                  "lat" : -27.4492641,
+                  "lng" : -55.9630385
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

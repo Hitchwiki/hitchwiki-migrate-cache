@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chernivtsi",
+               "short_name" : "Chernivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chernivets'ka city council",
+               "short_name" : "Chernivets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chernivets'ka oblast",
+               "short_name" : "Chernivets'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chernivtsi, Chernivets'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.398822,
+                  "lng" : 26.0356129
+               },
+               "southwest" : {
+                  "lat" : 48.24387400000001,
+                  "lng" : 25.8322242
+               }
+            },
+            "location" : {
+               "lat" : 48.2920787,
+               "lng" : 25.9358367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.398822,
+                  "lng" : 26.0356129
+               },
+               "southwest" : {
+                  "lat" : 48.24387400000001,
+                  "lng" : 25.8322242
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

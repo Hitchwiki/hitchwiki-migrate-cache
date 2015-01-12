@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Batumi",
+               "short_name" : "Batumi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adjara",
+               "short_name" : "Adjara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Batumi, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7170374,
+                  "lng" : 41.7456865
+               },
+               "southwest" : {
+                  "lat" : 41.5308768,
+                  "lng" : 41.5593052
+               }
+            },
+            "location" : {
+               "lat" : 41.638611,
+               "lng" : 41.637222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7170374,
+                  "lng" : 41.7456865
+               },
+               "southwest" : {
+                  "lat" : 41.5690638,
+                  "lng" : 41.573317
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

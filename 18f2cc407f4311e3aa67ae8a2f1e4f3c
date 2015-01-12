@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mtskheta",
+               "short_name" : "Mtskheta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mtskheta-Mtianeti",
+               "short_name" : "Mtskheta-Mtianeti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mtskheta, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.85469870000001,
+                  "lng" : 44.7274877
+               },
+               "southwest" : {
+                  "lat" : 41.8363482,
+                  "lng" : 44.6743154
+               }
+            },
+            "location" : {
+               "lat" : 41.8411674,
+               "lng" : 44.7073864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.85469870000001,
+                  "lng" : 44.7274877
+               },
+               "southwest" : {
+                  "lat" : 41.8363482,
+                  "lng" : 44.6743154
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

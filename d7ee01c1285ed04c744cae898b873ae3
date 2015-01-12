@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A750",
+               "short_name" : "A750",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hérault",
+               "short_name" : "34",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Languedoc-Roussillon",
+               "short_name" : "Languedoc-Roussillon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A750, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6598999,
+                  "lng" : 3.7612731
+               },
+               "southwest" : {
+                  "lat" : 43.6232486,
+                  "lng" : 3.4438063
+               }
+            },
+            "location" : {
+               "lat" : 43.6317866,
+               "lng" : 3.5888299
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6598999,
+                  "lng" : 3.7612731
+               },
+               "southwest" : {
+                  "lat" : 43.6232486,
+                  "lng" : 3.4438063
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

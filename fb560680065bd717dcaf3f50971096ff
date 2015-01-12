@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coahuila",
+               "short_name" : "COAH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coahuila, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.8799199,
+                  "lng" : -99.8331645
+               },
+               "southwest" : {
+                  "lat" : 24.5414989,
+                  "lng" : -103.9506643
+               }
+            },
+            "location" : {
+               "lat" : 27.058676,
+               "lng" : -101.7068294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8799199,
+                  "lng" : -99.8331645
+               },
+               "southwest" : {
+                  "lat" : 24.5414989,
+                  "lng" : -103.9506643
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

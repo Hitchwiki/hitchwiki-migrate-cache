@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leverkusen",
+               "short_name" : "LEV",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leverkusen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0972118,
+                  "lng" : 7.116130399999999
+               },
+               "southwest" : {
+                  "lat" : 51.0111365,
+                  "lng" : 6.897853599999999
+               }
+            },
+            "location" : {
+               "lat" : 51.04592479999999,
+               "lng" : 7.0192196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0972118,
+                  "lng" : 7.116130399999999
+               },
+               "southwest" : {
+                  "lat" : 51.0111365,
+                  "lng" : 6.897853599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

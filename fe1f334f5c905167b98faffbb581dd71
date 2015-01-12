@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Copiapó",
+               "short_name" : "Copiapó",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Copiapó",
+               "short_name" : "Copiapó",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Copiapó Province",
+               "short_name" : "Copiapó Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Atacama Region",
+               "short_name" : "Atacama Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Copiapó, Copiapó, Atacama Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.6672471,
+                  "lng" : -68.26686219999999
+               },
+               "southwest" : {
+                  "lat" : -28.1826003,
+                  "lng" : -71.1433586
+               }
+            },
+            "location" : {
+               "lat" : -27.366359,
+               "lng" : -70.33223699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.6672471,
+                  "lng" : -68.26686219999999
+               },
+               "southwest" : {
+                  "lat" : -28.1826003,
+                  "lng" : -71.1433586
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

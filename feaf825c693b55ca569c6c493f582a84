@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuressaare",
+               "short_name" : "Kuressaare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuressaare linn",
+               "short_name" : "Kuressaare linn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saare County",
+               "short_name" : "Saare County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuressaare, Saare County, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.2732891,
+                  "lng" : 22.5272915
+               },
+               "southwest" : {
+                  "lat" : 58.213184,
+                  "lng" : 22.442669
+               }
+            },
+            "location" : {
+               "lat" : 58.2529231,
+               "lng" : 22.4850408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.2732891,
+                  "lng" : 22.5272915
+               },
+               "southwest" : {
+                  "lat" : 58.213184,
+                  "lng" : 22.442669
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acapulco",
+               "short_name" : "Acapulco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guerrero",
+               "short_name" : "GRO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Acapulco, Guerrero, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.9284774,
+                  "lng" : -99.7232418
+               },
+               "southwest" : {
+                  "lat" : 16.7387787,
+                  "lng" : -100.0020706
+               }
+            },
+            "location" : {
+               "lat" : 16.863611,
+               "lng" : -99.88249999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.9284774,
+                  "lng" : -99.7232418
+               },
+               "southwest" : {
+                  "lat" : 16.7387787,
+                  "lng" : -100.0020706
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

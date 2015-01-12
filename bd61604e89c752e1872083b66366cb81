@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A151",
+               "short_name" : "A151",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seine-Maritime",
+               "short_name" : "76",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haute-Normandie",
+               "short_name" : "Haute-Normandie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A151, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6496867,
+                  "lng" : 1.048804
+               },
+               "southwest" : {
+                  "lat" : 49.5046285,
+                  "lng" : 0.9846606
+               }
+            },
+            "location" : {
+               "lat" : 49.5721024,
+               "lng" : 1.045137
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6496867,
+                  "lng" : 1.048804
+               },
+               "southwest" : {
+                  "lat" : 49.5046285,
+                  "lng" : 0.9846606
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

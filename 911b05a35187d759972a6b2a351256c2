@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ubud",
+               "short_name" : "Ubud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ubud",
+               "short_name" : "Ubud",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Ubud",
+               "short_name" : "Ubud",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gianyar",
+               "short_name" : "Gianyar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bali",
+               "short_name" : "Bali",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80571",
+               "short_name" : "80571",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ubud, Ubud, Ubud, Gianyar, Bali 80571, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.519268,
+               "lng" : 115.263298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.508232999999999,
+                  "lng" : 115.2793054
+               },
+               "southwest" : {
+                  "lat" : -8.5303027,
+                  "lng" : 115.2472906
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A87",
+               "short_name" : "A87",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A87, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.50508730000001,
+                  "lng" : -0.4966273
+               },
+               "southwest" : {
+                  "lat" : 46.626968,
+                  "lng" : -1.5238712
+               }
+            },
+            "location" : {
+               "lat" : 47.0042231,
+               "lng" : -0.9043636999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.50508730000001,
+                  "lng" : -0.4966273
+               },
+               "southwest" : {
+                  "lat" : 46.626968,
+                  "lng" : -1.5238712
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

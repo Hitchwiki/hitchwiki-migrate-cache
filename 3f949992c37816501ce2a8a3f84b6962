@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Don Sak District",
+               "short_name" : "อ.ดอนสัก",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Surat Thani",
+               "short_name" : "จ.สุราษฎร์ธานี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Don Sak District, Surat Thani, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.3540809,
+                  "lng" : 99.7796845
+               },
+               "southwest" : {
+                  "lat" : 9.0307847,
+                  "lng" : 99.5727455
+               }
+            },
+            "location" : {
+               "lat" : 9.213790399999999,
+               "lng" : 99.70097539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.3540809,
+                  "lng" : 99.7796845
+               },
+               "southwest" : {
+                  "lat" : 9.0307847,
+                  "lng" : 99.5727455
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

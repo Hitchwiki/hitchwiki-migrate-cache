@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dieppe",
+               "short_name" : "Dieppe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Maritime",
+               "short_name" : "76",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Upper Normandy",
+               "short_name" : "Upper Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dieppe, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9408489,
+                  "lng" : 1.1269969
+               },
+               "southwest" : {
+                  "lat" : 49.899252,
+                  "lng" : 1.0399821
+               }
+            },
+            "location" : {
+               "lat" : 49.922992,
+               "lng" : 1.077483
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9408489,
+                  "lng" : 1.1269969
+               },
+               "southwest" : {
+                  "lat" : 49.899252,
+                  "lng" : 1.0399821
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makarska",
+               "short_name" : "Makarska",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Općina Makarska",
+               "short_name" : "Općina Makarska",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Split-Dalmatia County",
+               "short_name" : "Split-Dalmatia County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Makarska, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3420857,
+                  "lng" : 17.08257
+               },
+               "southwest" : {
+                  "lat" : 43.2733794,
+                  "lng" : 16.9855686
+               }
+            },
+            "location" : {
+               "lat" : 43.2937769,
+               "lng" : 17.0215239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3420857,
+                  "lng" : 17.08257
+               },
+               "southwest" : {
+                  "lat" : 43.2733794,
+                  "lng" : 16.9855686
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

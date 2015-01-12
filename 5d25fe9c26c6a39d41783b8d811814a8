@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maghreb",
+               "short_name" : "Maghreb",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Maghreb",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5359,
+                  "lng" : 25.2686
+               },
+               "southwest" : {
+                  "lat" : 14.721273,
+                  "lng" : -17.4573
+               }
+            },
+            "location" : {
+               "lat" : 25.6422079,
+               "lng" : 2.4604145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5359,
+                  "lng" : 25.2686
+               },
+               "southwest" : {
+                  "lat" : 14.721273,
+                  "lng" : -17.4573
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

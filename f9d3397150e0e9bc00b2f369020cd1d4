@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "18, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3459198,
+                  "lng" : 9.5793099
+               },
+               "southwest" : {
+                  "lat" : 55.7507363,
+                  "lng" : 8.631252399999999
+               }
+            },
+            "location" : {
+               "lat" : 56.01071899999999,
+               "lng" : 9.031343
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3459198,
+                  "lng" : 9.5793099
+               },
+               "southwest" : {
+                  "lat" : 55.7507363,
+                  "lng" : 8.631252399999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vejle",
+               "short_name" : "Vejle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vejle Municipality",
+               "short_name" : "Vejle Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7100",
+               "short_name" : "7100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "18, 7100 Vejle, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.70483249999999,
+                  "lng" : 9.535805600000002
+               },
+               "southwest" : {
+                  "lat" : 55.7006593,
+                  "lng" : 9.5227158
+               }
+            },
+            "location" : {
+               "lat" : 55.70395740000001,
+               "lng" : 9.5319156
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.70483249999999,
+                  "lng" : 9.535805600000002
+               },
+               "southwest" : {
+                  "lat" : 55.7006593,
+                  "lng" : 9.5227158
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

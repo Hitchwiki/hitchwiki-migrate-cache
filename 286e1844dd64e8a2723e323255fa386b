@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solomon Islands",
+               "short_name" : "SB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solomon Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.589240299999999,
+                  "lng" : 167.283081
+               },
+               "southwest" : {
+                  "lat" : -11.8634582,
+                  "lng" : 155.4862405
+               }
+            },
+            "location" : {
+               "lat" : -9.645709999999999,
+               "lng" : 160.156194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.589240299999999,
+                  "lng" : 162.8885409
+               },
+               "southwest" : {
+                  "lat" : -11.8634582,
+                  "lng" : 155.4862405
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

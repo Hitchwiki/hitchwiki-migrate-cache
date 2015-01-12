@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palafrugell",
+               "short_name" : "Palafrugell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palafrugell",
+               "short_name" : "Palafrugell",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "El Baix Empordà",
+               "short_name" : "El Baix Empordà",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palafrugell, Girona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9280463,
+                  "lng" : 3.1786097
+               },
+               "southwest" : {
+                  "lat" : 41.9093166,
+                  "lng" : 3.1482656
+               }
+            },
+            "location" : {
+               "lat" : 41.9179112,
+               "lng" : 3.1629611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9280463,
+                  "lng" : 3.1786097
+               },
+               "southwest" : {
+                  "lat" : 41.9093166,
+                  "lng" : 3.1482656
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

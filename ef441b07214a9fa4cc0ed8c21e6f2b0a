@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsingør",
+               "short_name" : "Helsingør",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Helsingør Municipality",
+               "short_name" : "Helsingør Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital Region of Denmark",
+               "short_name" : "Capital Region of Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3000",
+               "short_name" : "3000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3000 Helsingør, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.06241980000001,
+                  "lng" : 12.6244919
+               },
+               "southwest" : {
+                  "lat" : 56.0065105,
+                  "lng" : 12.4546868
+               }
+            },
+            "location" : {
+               "lat" : 56.030787,
+               "lng" : 12.592127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.06241980000001,
+                  "lng" : 12.6244919
+               },
+               "southwest" : {
+                  "lat" : 56.0065105,
+                  "lng" : 12.4546868
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

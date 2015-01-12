@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gökçeada",
+               "short_name" : "Gökçeada",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gökçeada, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2422767,
+                  "lng" : 26.014217
+               },
+               "southwest" : {
+                  "lat" : 40.0915657,
+                  "lng" : 25.664893
+               }
+            },
+            "location" : {
+               "lat" : 40.1621148,
+               "lng" : 25.8285153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2422767,
+                  "lng" : 26.014217
+               },
+               "southwest" : {
+                  "lat" : 40.0915657,
+                  "lng" : 25.664893
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

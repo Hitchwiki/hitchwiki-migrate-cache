@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Connecticut, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.050587,
+                  "lng" : -71.787239
+               },
+               "southwest" : {
+                  "lat" : 40.9869801,
+                  "lng" : -73.72777499999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6032207,
+               "lng" : -73.087749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.050587,
+                  "lng" : -71.787239
+               },
+               "southwest" : {
+                  "lat" : 40.9869801,
+                  "lng" : -73.72777499999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

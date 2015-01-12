@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ochtrup",
+               "short_name" : "Ochtrup",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48607",
+               "short_name" : "48607",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48607 Ochtrup, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.22761819999999,
+                  "lng" : 7.2616058
+               },
+               "southwest" : {
+                  "lat" : 52.191711,
+                  "lng" : 7.1639599
+               }
+            },
+            "location" : {
+               "lat" : 52.2056952,
+               "lng" : 7.1876491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.22761819999999,
+                  "lng" : 7.2616058
+               },
+               "southwest" : {
+                  "lat" : 52.191711,
+                  "lng" : 7.1639599
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A22",
+               "short_name" : "A22",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "59",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A22, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7646856,
+                  "lng" : 3.1685255
+               },
+               "southwest" : {
+                  "lat" : 50.64874469999999,
+                  "lng" : 3.1110484
+               }
+            },
+            "location" : {
+               "lat" : 50.7087886,
+               "lng" : 3.1226385
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7646856,
+                  "lng" : 3.1685255
+               },
+               "southwest" : {
+                  "lat" : 50.64874469999999,
+                  "lng" : 3.1110484
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

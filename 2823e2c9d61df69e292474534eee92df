@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S12",
+               "short_name" : "S12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Świdnik",
+               "short_name" : "Świdnik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "lubelskie",
+               "short_name" : "lubelskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S12, Świdnik, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4345677,
+                  "lng" : 22.8623353
+               },
+               "southwest" : {
+                  "lat" : 51.1441551,
+                  "lng" : 22.1189788
+               }
+            },
+            "location" : {
+               "lat" : 51.2987918,
+               "lng" : 22.4820346
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4345677,
+                  "lng" : 22.8623353
+               },
+               "southwest" : {
+                  "lat" : 51.1441551,
+                  "lng" : 22.1189788
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

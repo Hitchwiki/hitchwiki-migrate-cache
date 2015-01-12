@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sundsvall",
+               "short_name" : "Sundsvall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sundsvall",
+               "short_name" : "Sundsvall",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västernorrland County",
+               "short_name" : "Västernorrland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sundsvall, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.46674770000001,
+                  "lng" : 17.3972672
+               },
+               "southwest" : {
+                  "lat" : 62.324918,
+                  "lng" : 17.1873897
+               }
+            },
+            "location" : {
+               "lat" : 62.390811,
+               "lng" : 17.306927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.46674770000001,
+                  "lng" : 17.3972672
+               },
+               "southwest" : {
+                  "lat" : 62.324918,
+                  "lng" : 17.1873897
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

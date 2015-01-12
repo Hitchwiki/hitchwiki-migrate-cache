@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Magdeburg",
+               "short_name" : "MD",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Magdeburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2282942,
+                  "lng" : 11.766403
+               },
+               "southwest" : {
+                  "lat" : 52.023638,
+                  "lng" : 11.5172709
+               }
+            },
+            "location" : {
+               "lat" : 52.1205333,
+               "lng" : 11.6276237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2282942,
+                  "lng" : 11.766403
+               },
+               "southwest" : {
+                  "lat" : 52.023638,
+                  "lng" : 11.5172709
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

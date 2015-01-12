@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A140",
+               "short_name" : "A140",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seine-et-Marne",
+               "short_name" : "77",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A140, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9537487,
+                  "lng" : 2.895573
+               },
+               "southwest" : {
+                  "lat" : 48.88762,
+                  "lng" : 2.8447981
+               }
+            },
+            "location" : {
+               "lat" : 48.9172159,
+               "lng" : 2.8697135
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9537487,
+                  "lng" : 2.895573
+               },
+               "southwest" : {
+                  "lat" : 48.88762,
+                  "lng" : 2.8447981
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

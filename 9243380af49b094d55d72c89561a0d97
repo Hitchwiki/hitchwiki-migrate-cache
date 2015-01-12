@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A7",
+               "short_name" : "A7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Linz",
+               "short_name" : "Linz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberösterreich",
+               "short_name" : "Oberösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A7, Linz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3590597,
+                  "lng" : 14.4759196
+               },
+               "southwest" : {
+                  "lat" : 48.2239814,
+                  "lng" : 14.2944145
+               }
+            },
+            "location" : {
+               "lat" : 48.33462429999999,
+               "lng" : 14.3756664
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3590597,
+                  "lng" : 14.4759196
+               },
+               "southwest" : {
+                  "lat" : 48.2239814,
+                  "lng" : 14.2944145
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

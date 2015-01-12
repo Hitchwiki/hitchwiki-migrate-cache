@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brindisi",
+               "short_name" : "Brindisi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brindisi",
+               "short_name" : "Brindisi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brindisi",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puglia",
+               "short_name" : "Puglia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brindisi BR, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6814259,
+                  "lng" : 17.9624638
+               },
+               "southwest" : {
+                  "lat" : 40.6030344,
+                  "lng" : 17.9094458
+               }
+            },
+            "location" : {
+               "lat" : 40.6327278,
+               "lng" : 17.9417616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6814259,
+                  "lng" : 17.9624638
+               },
+               "southwest" : {
+                  "lat" : 40.6030344,
+                  "lng" : 17.9094458
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

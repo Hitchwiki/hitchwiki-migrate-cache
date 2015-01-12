@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiribati",
+               "short_name" : "KI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kiribati",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.6999585,
+                  "lng" : -150.1960316
+               },
+               "southwest" : {
+                  "lat" : -11.4465192,
+                  "lng" : 169.5215322
+               }
+            },
+            "location" : {
+               "lat" : 1.8709185,
+               "lng" : -157.3626011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.0483313,
+                  "lng" : -157.1637689
+               },
+               "southwest" : {
+                  "lat" : 1.6935057,
+                  "lng" : -157.5614333
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

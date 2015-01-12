@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cizre",
+               "short_name" : "Cizre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cizre",
+               "short_name" : "Cizre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Şırnak",
+               "short_name" : "Şırnak",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cizre/Şırnak, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.347591,
+                  "lng" : 42.2006119
+               },
+               "southwest" : {
+                  "lat" : 37.315579,
+                  "lng" : 42.1709789
+               }
+            },
+            "location" : {
+               "lat" : 37.3313009,
+               "lng" : 42.184074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.347591,
+                  "lng" : 42.2006119
+               },
+               "southwest" : {
+                  "lat" : 37.315579,
+                  "lng" : 42.1709789
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

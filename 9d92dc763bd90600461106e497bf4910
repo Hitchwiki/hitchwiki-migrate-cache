@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R48",
+               "short_name" : "R48",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R48, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.761222,
+                  "lng" : 18.6057894
+               },
+               "southwest" : {
+                  "lat" : 49.55735430000001,
+                  "lng" : 17.7707274
+               }
+            },
+            "location" : {
+               "lat" : 49.64742709999999,
+               "lng" : 18.188494
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.761222,
+                  "lng" : 18.6057894
+               },
+               "southwest" : {
+                  "lat" : 49.55735430000001,
+                  "lng" : 17.7707274
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

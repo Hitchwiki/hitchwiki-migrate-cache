@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Padua",
+               "short_name" : "Padua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Padua",
+               "short_name" : "Padua",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Padua",
+               "short_name" : "PD",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Padua, Padua, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4575002,
+                  "lng" : 11.9728649
+               },
+               "southwest" : {
+                  "lat" : 45.3555073,
+                  "lng" : 11.809626
+               }
+            },
+            "location" : {
+               "lat" : 45.4064349,
+               "lng" : 11.8767611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4575002,
+                  "lng" : 11.9728649
+               },
+               "southwest" : {
+                  "lat" : 45.3555073,
+                  "lng" : 11.809626
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Padua",
+               "short_name" : "Padua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monselice",
+               "short_name" : "Monselice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Padua",
+               "short_name" : "PD",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35043",
+               "short_name" : "35043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "35043 Padua, Padua, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2667093,
+                  "lng" : 11.7733426
+               },
+               "southwest" : {
+                  "lat" : 45.2655665,
+                  "lng" : 11.7709595
+               }
+            },
+            "location" : {
+               "lat" : 45.2662016,
+               "lng" : 11.7717091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.26748688029149,
+                  "lng" : 11.7735000302915
+               },
+               "southwest" : {
+                  "lat" : 45.26478891970849,
+                  "lng" : 11.7708020697085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

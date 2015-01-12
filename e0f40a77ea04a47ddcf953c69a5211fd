@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aracaju",
+               "short_name" : "Aracaju",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aracaju",
+               "short_name" : "Aracaju",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sergipe",
+               "short_name" : "SE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aracaju - SE, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.8618898,
+                  "lng" : -37.03505699999999
+               },
+               "southwest" : {
+                  "lat" : -11.1409151,
+                  "lng" : -37.1718787
+               }
+            },
+            "location" : {
+               "lat" : -10.9472468,
+               "lng" : -37.0730823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.8618898,
+                  "lng" : -37.03505699999999
+               },
+               "southwest" : {
+                  "lat" : -11.1409151,
+                  "lng" : -37.1718787
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

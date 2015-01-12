@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halmstad",
+               "short_name" : "Halmstad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halmstad",
+               "short_name" : "Halmstad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Halland County",
+               "short_name" : "Halland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halmstad, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7155101,
+                  "lng" : 12.9567531
+               },
+               "southwest" : {
+                  "lat" : 56.6258521,
+                  "lng" : 12.6993231
+               }
+            },
+            "location" : {
+               "lat" : 56.6743748,
+               "lng" : 12.8577884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7155101,
+                  "lng" : 12.9567531
+               },
+               "southwest" : {
+                  "lat" : 56.6258521,
+                  "lng" : 12.6993231
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halmstad",
+               "short_name" : "Halmstad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kågeröd",
+               "short_name" : "Kågeröd",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Svalöv",
+               "short_name" : "Svalöv",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Skane County",
+               "short_name" : "Skane County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26023",
+               "short_name" : "26023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "260 23 Halmstad, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.9532929,
+               "lng" : 13.0328012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9546418802915,
+                  "lng" : 13.0341501802915
+               },
+               "southwest" : {
+                  "lat" : 55.9519439197085,
+                  "lng" : 13.0314522197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

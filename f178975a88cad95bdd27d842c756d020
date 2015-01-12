@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ainaži",
+               "short_name" : "Ainaži",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ainažu pilsēta",
+               "short_name" : "Ainažu pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Salacgrīvas novads",
+               "short_name" : "Salacgrīvas novads",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ainaži, Ainažu pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.87684369999999,
+                  "lng" : 24.3819591
+               },
+               "southwest" : {
+                  "lat" : 57.82779710000001,
+                  "lng" : 24.3371106
+               }
+            },
+            "location" : {
+               "lat" : 57.85529749999999,
+               "lng" : 24.3530817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.87684369999999,
+                  "lng" : 24.3819591
+               },
+               "southwest" : {
+                  "lat" : 57.82779710000001,
+                  "lng" : 24.3371106
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

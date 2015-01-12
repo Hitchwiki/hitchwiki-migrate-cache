@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nouadhibou",
+               "short_name" : "Nouadhibou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nouadhibou",
+               "short_name" : "Nouadhibou",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dakhlet Nouadhibou",
+               "short_name" : "Dakhlet Nouadhibou",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nouadhibou, Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.0001746,
+                  "lng" : -17.0131937
+               },
+               "southwest" : {
+                  "lat" : 20.8841857,
+                  "lng" : -17.0624112
+               }
+            },
+            "location" : {
+               "lat" : 20.9425179,
+               "lng" : -17.0362272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.0001746,
+                  "lng" : -17.0131937
+               },
+               "southwest" : {
+                  "lat" : 20.8841857,
+                  "lng" : -17.0624112
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

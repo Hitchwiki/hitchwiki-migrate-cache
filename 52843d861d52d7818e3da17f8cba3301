@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windhoek",
+               "short_name" : "Windhoek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khomas",
+               "short_name" : "Khomas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Windhoek, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.4903695,
+                  "lng" : 17.1291515
+               },
+               "southwest" : {
+                  "lat" : -22.6361954,
+                  "lng" : 17.0123035
+               }
+            },
+            "location" : {
+               "lat" : -22.57,
+               "lng" : 17.083611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.4903695,
+                  "lng" : 17.1291515
+               },
+               "southwest" : {
+                  "lat" : -22.6361954,
+                  "lng" : 17.0123035
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

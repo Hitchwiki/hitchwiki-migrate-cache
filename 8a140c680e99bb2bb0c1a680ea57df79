@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bitola",
+               "short_name" : "Bitola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Bitola",
+               "short_name" : "Municipality of Bitola",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Macedonia (FYROM)",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bitola, Macedonia (FYROM)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.048879,
+                  "lng" : 21.3622927
+               },
+               "southwest" : {
+                  "lat" : 41.0027271,
+                  "lng" : 21.2948782
+               }
+            },
+            "location" : {
+               "lat" : 41.031944,
+               "lng" : 21.334722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.048879,
+                  "lng" : 21.3622927
+               },
+               "southwest" : {
+                  "lat" : 41.0027271,
+                  "lng" : 21.2948782
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M57",
+               "short_name" : "M57",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prescot",
+               "short_name" : "Prescot",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L34",
+               "short_name" : "L34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M57, Prescot, Merseyside L34, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4936022,
+                  "lng" : -2.8076011
+               },
+               "southwest" : {
+                  "lat" : 53.3967079,
+                  "lng" : -2.9512595
+               }
+            },
+            "location" : {
+               "lat" : 53.4502081,
+               "lng" : -2.8634407
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4936022,
+                  "lng" : -2.8076011
+               },
+               "southwest" : {
+                  "lat" : 53.3967079,
+                  "lng" : -2.9512595
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

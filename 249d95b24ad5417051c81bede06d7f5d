@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oldenburg",
+               "short_name" : "Oldenburg",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oldenburg in Holstein",
+               "short_name" : "Oldenburg in Holstein",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23758",
+               "short_name" : "23758",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oldenburg, 23758 Oldenburg in Holstein, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.30342899999999,
+                  "lng" : 10.9225476
+               },
+               "southwest" : {
+                  "lat" : 54.2733067,
+                  "lng" : 10.871425
+               }
+            },
+            "location" : {
+               "lat" : 54.2957397,
+               "lng" : 10.8919582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.30342899999999,
+                  "lng" : 10.9225476
+               },
+               "southwest" : {
+                  "lat" : 54.2733067,
+                  "lng" : 10.871425
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

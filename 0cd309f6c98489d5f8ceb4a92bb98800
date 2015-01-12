@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dominica",
+               "short_name" : "DM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dominica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.6400639,
+                  "lng" : -61.2403035
+               },
+               "southwest" : {
+                  "lat" : 15.207682,
+                  "lng" : -61.47983009999999
+               }
+            },
+            "location" : {
+               "lat" : 15.414999,
+               "lng" : -61.37097600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.6400639,
+                  "lng" : -61.2403035
+               },
+               "southwest" : {
+                  "lat" : 15.207682,
+                  "lng" : -61.47983009999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

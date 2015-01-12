@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gävle",
+               "short_name" : "Gävle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gävle",
+               "short_name" : "Gävle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gavleborg County",
+               "short_name" : "Gavleborg County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gävle, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.74116000000001,
+                  "lng" : 17.3043159
+               },
+               "southwest" : {
+                  "lat" : 60.63452399999999,
+                  "lng" : 17.0749891
+               }
+            },
+            "location" : {
+               "lat" : 60.6748796,
+               "lng" : 17.1412726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.74116000000001,
+                  "lng" : 17.3043159
+               },
+               "southwest" : {
+                  "lat" : 60.63452399999999,
+                  "lng" : 17.0749891
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

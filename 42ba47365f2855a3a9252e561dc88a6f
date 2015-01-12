@@ -1,0 +1,182 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pará",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belém - PA, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.0553267,
+                  "lng" : -48.32820479999999
+               },
+               "southwest" : {
+                  "lat" : -1.4787161,
+                  "lng" : -48.5076007
+               }
+            },
+            "location" : {
+               "lat" : -1.4557549,
+               "lng" : -48.4901799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.0553267,
+                  "lng" : -48.32820479999999
+               },
+               "southwest" : {
+                  "lat" : -1.4787161,
+                  "lng" : -48.5076007
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cururupu",
+               "short_name" : "Cururupu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maranhão",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belém - MA, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.8288174,
+               "lng" : -44.7838444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.827468419708498,
+                  "lng" : -44.7824954197085
+               },
+               "southwest" : {
+                  "lat" : -1.830166380291502,
+                  "lng" : -44.7851933802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6724789,
+                  "lng" : -75.301637
+               },
+               "southwest" : {
+                  "lat" : 40.578004,
+                  "lng" : -75.4304159
+               }
+            },
+            "location" : {
+               "lat" : 40.6259316,
+               "lng" : -75.37045789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6724789,
+                  "lng" : -75.301637
+               },
+               "southwest" : {
+                  "lat" : 40.578004,
+                  "lng" : -75.4304159
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.705752,
+               "lng" : 35.20266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7071009802915,
+                  "lng" : 35.2040089802915
+               },
+               "southwest" : {
+                  "lat" : 31.7044030197085,
+                  "lng" : 35.20131101970851
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

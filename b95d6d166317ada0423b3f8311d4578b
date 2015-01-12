@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delchevo",
+               "short_name" : "Delchevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gotze Delchev",
+               "short_name" : "Gotze Delchev",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Blagoevgrad Province",
+               "short_name" : "Blagoevgrad Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2917",
+               "short_name" : "2917",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2917 Delchevo, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5573744,
+                  "lng" : 23.7008533
+               },
+               "southwest" : {
+                  "lat" : 41.55428759999999,
+                  "lng" : 23.6915395
+               }
+            },
+            "location" : {
+               "lat" : 41.5555629,
+               "lng" : 23.6967885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5573744,
+                  "lng" : 23.7008533
+               },
+               "southwest" : {
+                  "lat" : 41.55428759999999,
+                  "lng" : 23.6915395
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

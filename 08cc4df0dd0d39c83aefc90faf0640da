@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soest",
+               "short_name" : "Soest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Soest",
+               "short_name" : "Südost",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Soest, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6275716,
+                  "lng" : 8.1762955
+               },
+               "southwest" : {
+                  "lat" : 51.5214448,
+                  "lng" : 7.9831841
+               }
+            },
+            "location" : {
+               "lat" : 51.5711476,
+               "lng" : 8.105753999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6275716,
+                  "lng" : 8.1762955
+               },
+               "southwest" : {
+                  "lat" : 51.5214448,
+                  "lng" : 7.9831841
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

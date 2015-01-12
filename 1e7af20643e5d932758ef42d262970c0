@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vitoria",
+               "short_name" : "Vitoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vitória",
+               "short_name" : "Vitória",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vitoria - State of Espírito Santo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.2397943,
+                  "lng" : -40.2134145
+               },
+               "southwest" : {
+                  "lat" : -20.3245888,
+                  "lng" : -40.3590796
+               }
+            },
+            "location" : {
+               "lat" : -20.2976178,
+               "lng" : -40.2957768
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.2397943,
+                  "lng" : -40.2134145
+               },
+               "southwest" : {
+                  "lat" : -20.3245888,
+                  "lng" : -40.3590796
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vitoria-Gasteiz",
+               "short_name" : "Vitoria-Gasteiz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vitoria-Gasteiz",
+               "short_name" : "Vitoria-Gasteiz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Arabako Lautada",
+               "short_name" : "Arabako Lautada",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Álava",
+               "short_name" : "Álava",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Basque Country",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vitoria-Gasteiz, Álava, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8781884,
+                  "lng" : -2.6316625
+               },
+               "southwest" : {
+                  "lat" : 42.8298855,
+                  "lng" : -2.7226537
+               }
+            },
+            "location" : {
+               "lat" : 42.8591656,
+               "lng" : -2.681791800000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8781884,
+                  "lng" : -2.6316625
+               },
+               "southwest" : {
+                  "lat" : 42.8298855,
+                  "lng" : -2.7226537
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

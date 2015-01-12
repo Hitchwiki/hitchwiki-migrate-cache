@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rava-Rus'ka",
+               "short_name" : "Rava-Rus'ka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhovkivs'kyi district",
+               "short_name" : "Zhovkivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lviv Oblast",
+               "short_name" : "Lviv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rava-Rus'ka, Lviv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2454759,
+                  "lng" : 23.6554099
+               },
+               "southwest" : {
+                  "lat" : 50.2146733,
+                  "lng" : 23.5830976
+               }
+            },
+            "location" : {
+               "lat" : 50.22499999999999,
+               "lng" : 23.624167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2454759,
+                  "lng" : 23.6554099
+               },
+               "southwest" : {
+                  "lat" : 50.2146733,
+                  "lng" : 23.5830976
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

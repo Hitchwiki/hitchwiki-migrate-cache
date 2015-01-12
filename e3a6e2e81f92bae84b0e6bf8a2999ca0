@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A79",
+               "short_name" : "A79",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Limburg",
+               "short_name" : "LI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A79, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8830702,
+                  "lng" : 5.960817899999999
+               },
+               "southwest" : {
+                  "lat" : 50.86732199999999,
+                  "lng" : 5.7254754
+               }
+            },
+            "location" : {
+               "lat" : 50.8801574,
+               "lng" : 5.835364999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8830702,
+                  "lng" : 5.960817899999999
+               },
+               "southwest" : {
+                  "lat" : 50.86732199999999,
+                  "lng" : 5.7254754
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

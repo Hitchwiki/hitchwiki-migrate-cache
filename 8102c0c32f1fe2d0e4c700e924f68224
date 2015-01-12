@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A861",
+               "short_name" : "A861",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rheinfelden (Baden)",
+               "short_name" : "Rheinfelden (Baden)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79618",
+               "short_name" : "79618",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A861, 79618 Rheinfelden (Baden), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5848707,
+                  "lng" : 7.762057099999999
+               },
+               "southwest" : {
+                  "lat" : 47.5483508,
+                  "lng" : 7.7573551
+               }
+            },
+            "location" : {
+               "lat" : 47.5667518,
+               "lng" : 7.759758100000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5848707,
+                  "lng" : 7.762057099999999
+               },
+               "southwest" : {
+                  "lat" : 47.5483508,
+                  "lng" : 7.7573551
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

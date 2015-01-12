@@ -1,0 +1,348 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8876179,
+                  "lng" : -84.289389
+               },
+               "southwest" : {
+                  "lat" : 33.6478079,
+                  "lng" : -84.5518189
+               }
+            },
+            "location" : {
+               "lat" : 33.7489954,
+               "lng" : -84.3879824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8876179,
+                  "lng" : -84.289389
+               },
+               "southwest" : {
+                  "lat" : 33.6478079,
+                  "lng" : -84.5518189
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hamilton County",
+               "short_name" : "Hamilton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2179579,
+                  "lng" : -86.021737
+               },
+               "southwest" : {
+                  "lat" : 40.206245,
+                  "lng" : -86.03200699999999
+               }
+            },
+            "location" : {
+               "lat" : 40.2153151,
+               "lng" : -86.0263746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2179579,
+                  "lng" : -86.021737
+               },
+               "southwest" : {
+                  "lat" : 40.206245,
+                  "lng" : -86.03200699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cass County",
+               "short_name" : "Cass County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.145496,
+                  "lng" : -94.123227
+               },
+               "southwest" : {
+                  "lat" : 33.0841039,
+                  "lng" : -94.2296559
+               }
+            },
+            "location" : {
+               "lat" : 33.1137419,
+               "lng" : -94.16435369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.145496,
+                  "lng" : -94.123227
+               },
+               "southwest" : {
+                  "lat" : 33.0841039,
+                  "lng" : -94.2296559
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Logan County",
+               "short_name" : "Logan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61723",
+               "short_name" : "61723",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, IL 61723, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.27860889999999,
+                  "lng" : -89.21372789999999
+               },
+               "southwest" : {
+                  "lat" : 40.252136,
+                  "lng" : -89.2433789
+               }
+            },
+            "location" : {
+               "lat" : 40.2594846,
+               "lng" : -89.23342359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.27860889999999,
+                  "lng" : -89.21372789999999
+               },
+               "southwest" : {
+                  "lat" : 40.252136,
+                  "lng" : -89.2433789
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Industry-Rock Falls",
+               "short_name" : "Industry-Rock Falls",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Phelps County",
+               "short_name" : "Phelps County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, NE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.37177800000001,
+                  "lng" : -99.467209
+               },
+               "southwest" : {
+                  "lat" : 40.364567,
+                  "lng" : -99.47910899999999
+               }
+            },
+            "location" : {
+               "lat" : 40.3687607,
+               "lng" : -99.4734821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.37177800000001,
+                  "lng" : -99.467209
+               },
+               "southwest" : {
+                  "lat" : 40.364567,
+                  "lng" : -99.47910899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montmorency County",
+               "short_name" : "Montmorency County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49709",
+               "short_name" : "49709",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atlanta, MI 49709, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0169659,
+                  "lng" : -84.1188399
+               },
+               "southwest" : {
+                  "lat" : 44.99278289999999,
+                  "lng" : -84.18404099999999
+               }
+            },
+            "location" : {
+               "lat" : 45.00473059999999,
+               "lng" : -84.14389269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0169659,
+                  "lng" : -84.1188399
+               },
+               "southwest" : {
+                  "lat" : 44.99278289999999,
+                  "lng" : -84.18404099999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

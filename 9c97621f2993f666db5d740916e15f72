@@ -1,0 +1,436 @@
+{
+  "totalResultsCount": 11,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Горад Тулькан",
+          "lang": "be"
+        },
+        {
+          "name": "Tulcán",
+          "lang": "de"
+        },
+        {
+          "name": "Tulcán",
+          "lang": "en"
+        },
+        {
+          "name": "تولکان",
+          "lang": "fa"
+        },
+        {
+          "name": "Tulcán",
+          "lang": "fr"
+        },
+        {
+          "name": "TUA",
+          "lang": "iata"
+        },
+        {
+          "name": "トゥルカン",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Tulc%C3%A1n",
+          "lang": "link"
+        },
+        {
+          "name": "Tulkanas",
+          "lang": "lt"
+        },
+        {
+          "name": "تولکان",
+          "lang": "pnb"
+        },
+        {
+          "name": "Tulkan",
+          "lang": "qu"
+        },
+        {
+          "name": "Тулькан",
+          "lang": "ru"
+        },
+        {
+          "name": "Тулькан",
+          "lang": "uk"
+        },
+        {
+          "name": "TUA",
+          "lang": "unlc"
+        },
+        {
+          "name": "圖爾坎",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Ecuador",
+      "adminCode1": "05",
+      "score": 76.70449829101562,
+      "lng": "-77.71727",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 0.7737141798801455,
+        "east": -77.67910998032805,
+        "north": 0.8500278201198546,
+        "west": -77.75543201967194
+      },
+      "name": "Tulcán",
+      "fcode": "PPLA",
+      "geonameId": 3650472,
+      "asciiName": "Tulcan",
+      "lat": "0.81187",
+      "population": 86498,
+      "adminName1": "Carchi",
+      "countryId": "3658394",
+      "adminId1": "3659718",
+      "fclName": "city, village,...",
+      "countryCode": "EC",
+      "toponymName": "Tulcán",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode2": "3650471",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Tulc%C3%A1n_Canton",
+        "lang": "link"
+      }],
+      "countryName": "Ecuador",
+      "adminCode1": "05",
+      "score": 41.324398040771484,
+      "lng": "-77.73333",
+      "adminName2": "Cantón Tulcán",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Cantón Tulcán",
+      "fcode": "ADM2",
+      "geonameId": 3650471,
+      "asciiName": "Canton Tulcan",
+      "lat": "0.8",
+      "population": 0,
+      "adminName1": "Carchi",
+      "countryId": "3658394",
+      "adminId1": "3659718",
+      "fclName": "country, state, region,...",
+      "countryCode": "EC",
+      "adminId2": "3650471",
+      "toponymName": "Cantón Tulcán",
+      "fcl": "A",
+      "continentCode": "SA"
+    },
+    {
+      "countryId": "3686110",
+      "adminCode1": "00",
+      "countryName": "Colombia",
+      "cc2": "EC",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 18.979440689086914,
+      "countryCode": "CO",
+      "lng": "-77.75",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "depression(s)",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota"
+      },
+      "toponymName": "Hoya del Carchi",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "SA",
+      "name": "Hoya del Carchi",
+      "fcode": "DPR",
+      "asciiName": "Hoya del Carchi",
+      "geonameId": 3687391,
+      "lat": "0.75",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "countryName": "Colombia",
+      "adminCode1": "20",
+      "score": 18.262975692749023,
+      "lng": "-77.56163",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 0.962947351248573,
+        "east": -77.55263303301014,
+        "north": 0.9809346487514271,
+        "west": -77.57062296698986
+      },
+      "name": "Tulcan",
+      "fcode": "PPL",
+      "geonameId": 3828557,
+      "asciiName": "Tulcan",
+      "lat": "0.97194",
+      "population": 0,
+      "adminName1": "Nariño",
+      "countryId": "3686110",
+      "adminId1": "3674021",
+      "fclName": "city, village,...",
+      "countryCode": "CO",
+      "toponymName": "Tulcan",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "countryName": "Colombia",
+      "adminCode1": "02",
+      "score": 18.262975692749023,
+      "lng": "-74.73399",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 7.0097673512489,
+        "east": -74.72492527046178,
+        "north": 7.027754648751099,
+        "west": -74.74304872953822
+      },
+      "name": "Tulcán",
+      "fcode": "PPL",
+      "geonameId": 3666652,
+      "asciiName": "Tulcan",
+      "lat": "7.01876",
+      "population": 0,
+      "adminName1": "Antioquia",
+      "countryId": "3686110",
+      "adminId1": "3689815",
+      "fclName": "city, village,...",
+      "countryCode": "CO",
+      "toponymName": "Tulcán",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Teniente Coronel Luis a Mantilla International Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aeropuerto Teniente Coronel Luis A. Mantilla - Tulcán",
+          "lang": "es"
+        },
+        {
+          "name": "TUA",
+          "lang": "iata"
+        },
+        {
+          "name": "SETU",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Teniente_Coronel_Luis_a_Mantilla_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Ecuador",
+      "adminCode1": "05",
+      "score": 18.079423904418945,
+      "lng": "-77.70806",
+      "adminName2": "",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Teniente Coronel Luis a Mantilla International Airport",
+      "fcode": "AIRP",
+      "geonameId": 6300725,
+      "asciiName": "Teniente Coronel Luis A Mantilla International Airport",
+      "lat": "0.80951",
+      "population": 0,
+      "adminName1": "Carchi",
+      "countryId": "3658394",
+      "adminId1": "3659718",
+      "fclName": "spot, building, farm",
+      "elevation": 2941,
+      "countryCode": "EC",
+      "toponymName": "Teniente Coronel Luis A Mantilla International Airport",
+      "fcl": "S",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode2": "3650471",
+      "countryName": "Ecuador",
+      "adminCode1": "05",
+      "score": 15.496648788452148,
+      "lng": "-77.71793",
+      "adminName2": "Cantón Tulcán",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 0.7416563512482452,
+        "east": -77.70893556072943,
+        "north": 0.7596436487517548,
+        "west": -77.72692443927056
+      },
+      "name": "Hacienda Tanyolpud",
+      "fcode": "PPL",
+      "geonameId": 3655957,
+      "asciiName": "Hacienda Tanyolpud",
+      "lat": "0.75065",
+      "population": 0,
+      "adminName1": "Carchi",
+      "countryId": "3658394",
+      "adminId1": "3659718",
+      "fclName": "city, village,...",
+      "countryCode": "EC",
+      "adminId2": "3650471",
+      "toponymName": "Hacienda Tanyolpud",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "countryName": "Colombia",
+      "adminCode1": "29",
+      "score": 14.610381126403809,
+      "lng": "-76.3",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 4.641006351248246,
+        "east": -76.29097653568161,
+        "north": 4.658993648751755,
+        "west": -76.30902346431839
+      },
+      "name": "Tulcán",
+      "fcode": "PPL",
+      "geonameId": 3666653,
+      "asciiName": "Tulcan",
+      "lat": "4.65",
+      "population": 0,
+      "adminName1": "Valle del Cauca",
+      "countryId": "3686110",
+      "adminId1": "3666313",
+      "fclName": "city, village,...",
+      "countryCode": "CO",
+      "toponymName": "Tulcán",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode2": "3650471",
+      "countryName": "Ecuador",
+      "adminCode1": "05",
+      "score": 10.331099510192871,
+      "lng": "-77.70441",
+      "adminName2": "Cantón Tulcán",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 0.729776351248573,
+        "east": -77.6954155852631,
+        "north": 0.7477636487514271,
+        "west": -77.71340441473689
+      },
+      "name": "La Estrella",
+      "fcode": "PPL",
+      "geonameId": 9174582,
+      "asciiName": "La Estrella",
+      "lat": "0.73877",
+      "population": 0,
+      "adminName1": "Carchi",
+      "countryId": "3658394",
+      "adminId1": "3659718",
+      "fclName": "city, village,...",
+      "countryCode": "EC",
+      "adminId2": "3650471",
+      "toponymName": "La Estrella",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "adminId1": "3659718",
+      "countryId": "3658394",
+      "adminCode1": "05",
+      "countryName": "Ecuador",
+      "fclName": "stream, lake, ...",
+      "score": 6.456937313079834,
+      "countryCode": "EC",
+      "lng": "-77.70977",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "stream",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota"
+      },
+      "toponymName": "Río Bobo",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "SA",
+      "name": "Río Bobo",
+      "fcode": "STM",
+      "asciiName": "Rio Bobo",
+      "geonameId": 3660169,
+      "lat": "0.84298",
+      "adminName1": "Carchi",
+      "population": 0
+    }
+  ]
+}

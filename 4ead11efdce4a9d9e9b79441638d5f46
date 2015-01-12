@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Algiers",
+               "short_name" : "Algiers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Algiers",
+               "short_name" : "Algiers",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Algiers, Algeria",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.752887,
+               "lng" : 3.042048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7618265,
+                  "lng" : 3.0580554
+               },
+               "southwest" : {
+                  "lat" : 36.7439464,
+                  "lng" : 3.0260406
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

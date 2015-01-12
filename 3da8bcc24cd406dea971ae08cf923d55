@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bratislava Airport",
+               "short_name" : "Bratislava Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ivanská cesta",
+               "short_name" : "Ivanská cesta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ružinov",
+               "short_name" : "Ružinov",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bratislava",
+               "short_name" : "Bratislava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bratislava 2",
+               "short_name" : "Bratislava 2",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bratislava Region",
+               "short_name" : "Bratislava Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "820 01",
+               "short_name" : "820 01",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bratislava Airport (BTS), Ivanská cesta, 820 01 Ružinov, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.18783639999999,
+                  "lng" : 17.2391209
+               },
+               "southwest" : {
+                  "lat" : 48.15376029999999,
+                  "lng" : 17.1900002
+               }
+            },
+            "location" : {
+               "lat" : 48.1702634,
+               "lng" : 17.2105238
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.18783639999999,
+                  "lng" : 17.2391209
+               },
+               "southwest" : {
+                  "lat" : 48.15376029999999,
+                  "lng" : 17.1900002
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

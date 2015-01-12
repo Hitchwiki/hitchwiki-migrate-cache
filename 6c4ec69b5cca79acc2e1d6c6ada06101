@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Köneürgench",
+               "short_name" : "Köneürgench",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dashoguz Province",
+               "short_name" : "Dashoguz Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkmenistan",
+               "short_name" : "TM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Köneürgench, Turkmenistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3479176,
+                  "lng" : 59.2346764
+               },
+               "southwest" : {
+                  "lat" : 42.2867068,
+                  "lng" : 59.11051059999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3242187,
+               "lng" : 59.1818543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3479176,
+                  "lng" : 59.2346764
+               },
+               "southwest" : {
+                  "lat" : 42.2867068,
+                  "lng" : 59.11051059999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

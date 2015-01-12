@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A5, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8139485,
+                  "lng" : 9.543795399999999
+               },
+               "southwest" : {
+                  "lat" : 47.5860128,
+                  "lng" : 7.5204853
+               }
+            },
+            "location" : {
+               "lat" : 49.1856299,
+               "lng" : 8.582668
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8139485,
+                  "lng" : 9.543795399999999
+               },
+               "southwest" : {
+                  "lat" : 47.5860128,
+                  "lng" : 7.5204853
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Quadrate",
+               "short_name" : "Quadrate",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mannheim",
+               "short_name" : "MA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karlsruhe",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68159",
+               "short_name" : "68159",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A5, 68159 Mannheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4880529,
+                  "lng" : 8.4594635
+               },
+               "southwest" : {
+                  "lat" : 49.4864209,
+                  "lng" : 8.4561736
+               }
+            },
+            "location" : {
+               "lat" : 49.4872105,
+               "lng" : 8.457675499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4885858802915,
+                  "lng" : 8.4594635
+               },
+               "southwest" : {
+                  "lat" : 49.4858879197085,
+                  "lng" : 8.4561736
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A5, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.40931459999999,
+                  "lng" : 10.7330878
+               },
+               "southwest" : {
+                  "lat" : 48.36150869999999,
+                  "lng" : 10.6850875
+               }
+            },
+            "location" : {
+               "lat" : 48.385529,
+               "lng" : 10.7008038
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.40931459999999,
+                  "lng" : 10.7330878
+               },
+               "southwest" : {
+                  "lat" : 48.36150869999999,
+                  "lng" : 10.6850875
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

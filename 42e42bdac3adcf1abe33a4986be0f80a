@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khorog",
+               "short_name" : "Khorog",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shughnon",
+               "short_name" : "Shughnon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gorno-Badakhshan Autonomous Province",
+               "short_name" : "Gorno-Badakhshan Autonomous Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khorog, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.51095189999999,
+                  "lng" : 71.59360889999999
+               },
+               "southwest" : {
+                  "lat" : 37.4834403,
+                  "lng" : 71.53043749999999
+               }
+            },
+            "location" : {
+               "lat" : 37.5031813,
+               "lng" : 71.5545911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.51095189999999,
+                  "lng" : 71.59360889999999
+               },
+               "southwest" : {
+                  "lat" : 37.4834403,
+                  "lng" : 71.53043749999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

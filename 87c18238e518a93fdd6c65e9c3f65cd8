@@ -1,0 +1,333 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miami-Dade County",
+               "short_name" : "Miami-Dade County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Miami, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.8556059,
+                  "lng" : -80.14240029999999
+               },
+               "southwest" : {
+                  "lat" : 25.709042,
+                  "lng" : -80.31975989999999
+               }
+            },
+            "location" : {
+               "lat" : 25.7616798,
+               "lng" : -80.1917902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8556059,
+                  "lng" : -80.14240029999999
+               },
+               "southwest" : {
+                  "lat" : 25.709042,
+                  "lng" : -80.31975989999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa County",
+               "short_name" : "Ottawa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Miami, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.92910500000001,
+                  "lng" : -94.83342379999999
+               },
+               "southwest" : {
+                  "lat" : 36.8333001,
+                  "lng" : -94.90951699999999
+               }
+            },
+            "location" : {
+               "lat" : 36.8745146,
+               "lng" : -94.8774554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.92910500000001,
+                  "lng" : -94.83342379999999
+               },
+               "southwest" : {
+                  "lat" : 36.8333001,
+                  "lng" : -94.90951699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colfax County",
+               "short_name" : "Colfax County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87729",
+               "short_name" : "87729",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Miami, NM 87729, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.3500355,
+               "lng" : -104.7930509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.35138448029149,
+                  "lng" : -104.7917019197085
+               },
+               "southwest" : {
+                  "lat" : 36.3486865197085,
+                  "lng" : -104.7943998802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gila County",
+               "short_name" : "Gila County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85539",
+               "short_name" : "85539",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Miami, AZ 85539, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4047969,
+                  "lng" : -110.8597121
+               },
+               "southwest" : {
+                  "lat" : 33.381582,
+                  "lng" : -110.89178
+               }
+            },
+            "location" : {
+               "lat" : 33.3992217,
+               "lng" : -110.8687232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4047969,
+                  "lng" : -110.8597121
+               },
+               "southwest" : {
+                  "lat" : 33.381582,
+                  "lng" : -110.89178
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deer Creek",
+               "short_name" : "Deer Creek",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Miami County",
+               "short_name" : "Miami County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Miami, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6190709,
+                  "lng" : -86.10260049999999
+               },
+               "southwest" : {
+                  "lat" : 40.6091447,
+                  "lng" : -86.10894709999999
+               }
+            },
+            "location" : {
+               "lat" : 40.6140514,
+               "lng" : -86.1064885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6190709,
+                  "lng" : -86.10260049999999
+               },
+               "southwest" : {
+                  "lat" : 40.6091447,
+                  "lng" : -86.10894709999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roberts County",
+               "short_name" : "Roberts County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79059",
+               "short_name" : "79059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Miami, TX 79059, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.701792,
+                  "lng" : -100.629468
+               },
+               "southwest" : {
+                  "lat" : 35.6801099,
+                  "lng" : -100.6527861
+               }
+            },
+            "location" : {
+               "lat" : 35.6914327,
+               "lng" : -100.6381933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.701792,
+                  "lng" : -100.629468
+               },
+               "southwest" : {
+                  "lat" : 35.6801099,
+                  "lng" : -100.6527861
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,117 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 35",
+               "short_name" : "Autoroute 35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 35, Québec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4119536,
+                  "lng" : -73.1259998
+               },
+               "southwest" : {
+                  "lat" : 45.1249581,
+                  "lng" : -73.31529829999999
+               }
+            },
+            "location" : {
+               "lat" : 45.2686654,
+               "lng" : -73.20961029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4119536,
+                  "lng" : -73.1259998
+               },
+               "southwest" : {
+                  "lat" : 45.1249581,
+                  "lng" : -73.31529829999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa 35",
+               "short_name" : "35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cumberland",
+               "short_name" : "Cumberland",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa 35, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5206375,
+                  "lng" : -75.3325507
+               },
+               "southwest" : {
+                  "lat" : 45.38548369999999,
+                  "lng" : -75.4124029
+               }
+            },
+            "location" : {
+               "lat" : 45.4549135,
+               "lng" : -75.3695422
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5206375,
+                  "lng" : -75.3325507
+               },
+               "southwest" : {
+                  "lat" : 45.38548369999999,
+                  "lng" : -75.4124029
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

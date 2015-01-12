@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Mexico",
+               "short_name" : "MEX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Mexico, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.2845947,
+                  "lng" : -98.59631510000001
+               },
+               "southwest" : {
+                  "lat" : 18.3661308,
+                  "lng" : -100.6128455
+               }
+            },
+            "location" : {
+               "lat" : 19.4968732,
+               "lng" : -99.72326729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.2845947,
+                  "lng" : -98.59631510000001
+               },
+               "southwest" : {
+                  "lat" : 18.3661308,
+                  "lng" : -100.6128455
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

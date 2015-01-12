@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xinjiang",
+               "short_name" : "Xinjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xinjiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1823419,
+                  "lng" : 96.38619419999999
+               },
+               "southwest" : {
+                  "lat" : 34.334503,
+                  "lng" : 73.50235499999999
+               }
+            },
+            "location" : {
+               "lat" : 43.793026,
+               "lng" : 87.62770399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1823419,
+                  "lng" : 96.38619419999999
+               },
+               "southwest" : {
+                  "lat" : 34.334503,
+                  "lng" : 73.50235499999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

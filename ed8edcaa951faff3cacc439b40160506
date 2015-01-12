@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mestre",
+               "short_name" : "Mestre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Venice",
+               "short_name" : "Venice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Venice",
+               "short_name" : "Venice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Venice",
+               "short_name" : "VE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mestre, Venice, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.51389,
+                  "lng" : 12.2851901
+               },
+               "southwest" : {
+                  "lat" : 45.4165036,
+                  "lng" : 12.1859262
+               }
+            },
+            "location" : {
+               "lat" : 45.4934881,
+               "lng" : 12.2463181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.51389,
+                  "lng" : 12.2851901
+               },
+               "southwest" : {
+                  "lat" : 45.4165036,
+                  "lng" : 12.1859262
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

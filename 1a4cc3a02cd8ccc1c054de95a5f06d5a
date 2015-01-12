@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Herne",
+               "short_name" : "HER",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Herne, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5733399,
+                  "lng" : 7.2965214
+               },
+               "southwest" : {
+                  "lat" : 51.503102,
+                  "lng" : 7.1236296
+               }
+            },
+            "location" : {
+               "lat" : 51.5368948,
+               "lng" : 7.200914699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5733399,
+                  "lng" : 7.2965214
+               },
+               "southwest" : {
+                  "lat" : 51.503102,
+                  "lng" : 7.1236296
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

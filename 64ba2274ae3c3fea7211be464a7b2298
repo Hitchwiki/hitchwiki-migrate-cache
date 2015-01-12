@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Innsbruck",
+               "short_name" : "Innsbruck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tirol",
+               "short_name" : "Tirol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Innsbruck, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2546979,
+                  "lng" : 11.508921
+               },
+               "southwest" : {
+                  "lat" : 47.0050429,
+                  "lng" : 11.3902752
+               }
+            },
+            "location" : {
+               "lat" : 47.12986979999999,
+               "lng" : 11.449853
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2546979,
+                  "lng" : 11.508921
+               },
+               "southwest" : {
+                  "lat" : 47.0050429,
+                  "lng" : 11.3902752
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keuruu",
+               "short_name" : "Keuruu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Keuruu",
+               "short_name" : "Keuruu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42700",
+               "short_name" : "42700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42700 Keuruu, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 62.2559845,
+               "lng" : 24.7078591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.2611783,
+                  "lng" : 24.7238665
+               },
+               "southwest" : {
+                  "lat" : 62.25078980000001,
+                  "lng" : 24.6918517
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

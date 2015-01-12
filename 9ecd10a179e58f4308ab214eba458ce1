@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.1253869,
+                  "lng" : 32.8909911
+               },
+               "southwest" : {
+                  "lat" : -34.8331382,
+                  "lng" : 16.4544359
+               }
+            },
+            "location" : {
+               "lat" : -30.559482,
+               "lng" : 22.937506
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.1253869,
+                  "lng" : 32.8909911
+               },
+               "southwest" : {
+                  "lat" : -34.8331382,
+                  "lng" : 16.4544359
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

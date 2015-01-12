@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hatay",
+               "short_name" : "Hatay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hatay",
+               "short_name" : "Hatay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hatay Province",
+               "short_name" : "Hatay Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hatay/Hatay Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.27726,
+                  "lng" : 36.231053
+               },
+               "southwest" : {
+                  "lat" : 36.16479,
+                  "lng" : 36.1002049
+               }
+            },
+            "location" : {
+               "lat" : 36.2,
+               "lng" : 36.166667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.27726,
+                  "lng" : 36.231053
+               },
+               "southwest" : {
+                  "lat" : 36.16479,
+                  "lng" : 36.1002049
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

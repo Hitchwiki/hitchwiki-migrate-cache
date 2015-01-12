@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heroica Veracruz",
+               "short_name" : "Heroica Veracruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Vereda",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heroica Veracruz, Veracruz, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2266685,
+                  "lng" : -96.1181965
+               },
+               "southwest" : {
+                  "lat" : 19.1309432,
+                  "lng" : -96.206622
+               }
+            },
+            "location" : {
+               "lat" : 19.173773,
+               "lng" : -96.1342241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2266685,
+                  "lng" : -96.1181965
+               },
+               "southwest" : {
+                  "lat" : 19.1309432,
+                  "lng" : -96.206622
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marle",
+               "short_name" : "Marle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aisne",
+               "short_name" : "Aisne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Picardy",
+               "short_name" : "Picardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marle, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7726541,
+                  "lng" : 3.8019681
+               },
+               "southwest" : {
+                  "lat" : 49.7159459,
+                  "lng" : 3.72875
+               }
+            },
+            "location" : {
+               "lat" : 49.7394559,
+               "lng" : 3.771035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7726541,
+                  "lng" : 3.8019681
+               },
+               "southwest" : {
+                  "lat" : 49.7159459,
+                  "lng" : 3.72875
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

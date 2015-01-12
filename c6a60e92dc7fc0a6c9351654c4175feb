@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A565",
+               "short_name" : "A565",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bonn",
+               "short_name" : "BN",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A565, Bonn, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7649346,
+                  "lng" : 7.1323436
+               },
+               "southwest" : {
+                  "lat" : 50.5821578,
+                  "lng" : 7.0260859
+               }
+            },
+            "location" : {
+               "lat" : 50.67316899999999,
+               "lng" : 7.0625228
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7649346,
+                  "lng" : 7.1323436
+               },
+               "southwest" : {
+                  "lat" : 50.5821578,
+                  "lng" : 7.0260859
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Africa",
+               "short_name" : "Africa",
+               "types" : [ "continent", "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9615,
+                  "lng" : 60.5566
+               },
+               "southwest" : {
+                  "lat" : -37.5341572,
+                  "lng" : -26.5869
+               }
+            },
+            "location" : {
+               "lat" : -8.783194999999999,
+               "lng" : 34.508523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9615,
+                  "lng" : 60.5566
+               },
+               "southwest" : {
+                  "lat" : -37.5341572,
+                  "lng" : -26.5869
+               }
+            }
+         },
+         "types" : [ "continent", "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

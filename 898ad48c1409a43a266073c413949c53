@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calabria",
+               "short_name" : "Calabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calabria, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1439289,
+                  "lng" : 17.2062765
+               },
+               "southwest" : {
+                  "lat" : 37.9158253,
+                  "lng" : 15.6298059
+               }
+            },
+            "location" : {
+               "lat" : 39.3087714,
+               "lng" : 16.3463791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1439289,
+                  "lng" : 17.2062765
+               },
+               "southwest" : {
+                  "lat" : 37.9158253,
+                  "lng" : 15.6298059
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

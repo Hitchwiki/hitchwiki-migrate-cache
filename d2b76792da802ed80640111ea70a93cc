@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A7",
+               "short_name" : "A7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A7, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2124484,
+                  "lng" : 7.2275408
+               },
+               "southwest" : {
+                  "lat" : 52.4536713,
+                  "lng" : 4.8230038
+               }
+            },
+            "location" : {
+               "lat" : 52.9691942,
+               "lng" : 5.901894299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2124484,
+                  "lng" : 7.2275408
+               },
+               "southwest" : {
+                  "lat" : 52.4536713,
+                  "lng" : 4.8230038
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

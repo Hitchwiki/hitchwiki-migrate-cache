@@ -1,0 +1,142 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Cairo",
+        "dstOffset": 3
+      },
+      "asciiName": "Sinai Peninsula",
+      "countryId": "357994",
+      "fcl": "T",
+      "score": 34.58654022216797,
+      "countryCode": "EG",
+      "adminId1": "355182",
+      "lat": "29.5",
+      "fcode": "DSRT",
+      "continentCode": "AF",
+      "adminCode1": "26",
+      "lng": "34",
+      "geonameId": 347930,
+      "toponymName": "Sinai Peninsula",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Sinai Peninsula",
+          "lang": "en"
+        },
+        {
+          "name": "Península del Sinaí",
+          "lang": "es"
+        }
+      ],
+      "adminName2": "",
+      "name": "Sinai Peninsula",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Egypt",
+      "fcodeName": "desert",
+      "adminName1": "South Sinai"
+    },
+    {
+      "adminCode1": "27",
+      "lng": "32.89333",
+      "geonameId": 359099,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Cairo",
+        "dstOffset": 3
+      },
+      "toponymName": "Bardawil Peninsula",
+      "asciiName": "Bardawil Peninsula",
+      "countryId": "357994",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 9.115741729736328,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "EG",
+      "name": "Bardawil Peninsula",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Egypt",
+      "fcodeName": "peninsula",
+      "adminId1": "349401",
+      "adminName1": "Shamāl Sīnāʼ",
+      "lat": "31.07972",
+      "fcode": "PEN",
+      "continentCode": "AF"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Cairo",
+        "dstOffset": 3
+      },
+      "asciiName": "Umm Gharqadah",
+      "countryId": "357994",
+      "fcl": "T",
+      "score": 8.871362686157227,
+      "countryCode": "EG",
+      "adminId1": "349401",
+      "lat": "31.10359",
+      "fcode": "PEN",
+      "continentCode": "AF",
+      "adminCode1": "27",
+      "lng": "33.12693",
+      "geonameId": 410175,
+      "toponymName": "Umm Gharqadah",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "ام غرقدة",
+        "lang": "ar"
+      }],
+      "adminName2": "",
+      "name": "Umm Gharqadah",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Egypt",
+      "fcodeName": "peninsula",
+      "adminName1": "Shamāl Sīnāʼ"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Los_Angeles",
+        "dstOffset": -7
+      },
+      "asciiName": "Peninsula Sinai Congregation",
+      "countryId": "6252001",
+      "fcl": "S",
+      "score": 1.478560447692871,
+      "adminId2": "5392427",
+      "countryCode": "US",
+      "adminId1": "5332921",
+      "lat": "37.54077",
+      "fcode": "CH",
+      "continentCode": "NA",
+      "elevation": 2,
+      "adminCode2": "081",
+      "adminCode1": "CA",
+      "lng": "-122.27219",
+      "geonameId": 5381913,
+      "toponymName": "Peninsula Sinai Congregation",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "San Mateo County",
+      "name": "Peninsula Sinai Congregation",
+      "fclName": "spot, building, farm",
+      "countryName": "United States",
+      "fcodeName": "church",
+      "adminName1": "California"
+    }
+  ]
+}

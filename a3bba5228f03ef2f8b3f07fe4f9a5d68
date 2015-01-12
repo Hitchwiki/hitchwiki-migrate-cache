@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A864",
+               "short_name" : "A864",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A864, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9966446,
+                  "lng" : 8.595468
+               },
+               "southwest" : {
+                  "lat" : 47.9922906,
+                  "lng" : 8.531102499999999
+               }
+            },
+            "location" : {
+               "lat" : 47.9957865,
+               "lng" : 8.5641854
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9966446,
+                  "lng" : 8.595468
+               },
+               "southwest" : {
+                  "lat" : 47.9922906,
+                  "lng" : 8.531102499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

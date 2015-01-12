@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fredrikstad",
+               "short_name" : "Fredrikstad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fredrikstad",
+               "short_name" : "Fredrikstad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Østfold",
+               "short_name" : "Østfold",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fredrikstad, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.2781549,
+                  "lng" : 11.0351918
+               },
+               "southwest" : {
+                  "lat" : 59.17455330000001,
+                  "lng" : 10.8650352
+               }
+            },
+            "location" : {
+               "lat" : 59.22053689999999,
+               "lng" : 10.9347012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.2781549,
+                  "lng" : 11.0351918
+               },
+               "southwest" : {
+                  "lat" : 59.17455330000001,
+                  "lng" : 10.8650352
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

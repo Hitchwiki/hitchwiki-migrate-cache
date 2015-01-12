@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittenden County",
+               "short_name" : "Chittenden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burlington, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5392529,
+                  "lng" : -73.17638289999999
+               },
+               "southwest" : {
+                  "lat" : 44.4459279,
+                  "lng" : -73.2769139
+               }
+            },
+            "location" : {
+               "lat" : 44.4758825,
+               "lng" : -73.21207199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5392529,
+                  "lng" : -73.17638289999999
+               },
+               "southwest" : {
+                  "lat" : 44.4459279,
+                  "lng" : -73.2769139
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burlington, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.544473,
+                  "lng" : -71.1686381
+               },
+               "southwest" : {
+                  "lat" : 42.465796,
+                  "lng" : -71.24098309999999
+               }
+            },
+            "location" : {
+               "lat" : 42.5047161,
+               "lng" : -71.1956205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.544473,
+                  "lng" : -71.1686381
+               },
+               "southwest" : {
+                  "lat" : 42.465796,
+                  "lng" : -71.24098309999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alamance County",
+               "short_name" : "Alamance County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burlington, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1272159,
+                  "lng" : -79.3794489
+               },
+               "southwest" : {
+                  "lat" : 36.04410110000001,
+                  "lng" : -79.566041
+               }
+            },
+            "location" : {
+               "lat" : 36.0956918,
+               "lng" : -79.43779909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1272159,
+                  "lng" : -79.3794489
+               },
+               "southwest" : {
+                  "lat" : 36.04410110000001,
+                  "lng" : -79.566041
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Des Moines County",
+               "short_name" : "Des Moines County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burlington, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8475898,
+                  "lng" : -91.0782849
+               },
+               "southwest" : {
+                  "lat" : 40.7636979,
+                  "lng" : -91.18021309999999
+               }
+            },
+            "location" : {
+               "lat" : 40.8076529,
+               "lng" : -91.1128901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8475898,
+                  "lng" : -91.0782849
+               },
+               "southwest" : {
+                  "lat" : 40.7636979,
+                  "lng" : -91.18021309999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burlington, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.48996289999999,
+                  "lng" : -86.38618489999999
+               },
+               "southwest" : {
+                  "lat" : 40.470928,
+                  "lng" : -86.40616100000001
+               }
+            },
+            "location" : {
+               "lat" : 40.4803144,
+               "lng" : -86.39471879999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.48996289999999,
+                  "lng" : -86.38618489999999
+               },
+               "southwest" : {
+                  "lat" : 40.470928,
+                  "lng" : -86.40616100000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milam County",
+               "short_name" : "Milam County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76519",
+               "short_name" : "76519",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burlington, TX 76519, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.0151845,
+               "lng" : -96.99665499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0165334802915,
+                  "lng" : -96.99530601970848
+               },
+               "southwest" : {
+                  "lat" : 31.0138355197085,
+                  "lng" : -96.9980039802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

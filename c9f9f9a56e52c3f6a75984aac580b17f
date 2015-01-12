@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.6930544,
+                  "lng" : -11.348607
+               },
+               "southwest" : {
+                  "lat" : 12.3072891,
+                  "lng" : -17.5298482
+               }
+            },
+            "location" : {
+               "lat" : 14.497401,
+               "lng" : -14.452362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.6930544,
+                  "lng" : -11.348607
+               },
+               "southwest" : {
+                  "lat" : 12.3072891,
+                  "lng" : -17.5298482
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

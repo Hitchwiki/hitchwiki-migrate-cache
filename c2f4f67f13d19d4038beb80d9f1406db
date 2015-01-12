@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A5, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8163657,
+                  "lng" : 7.8537616
+               },
+               "southwest" : {
+                  "lat" : 45.1424659,
+                  "lng" : 6.9538683
+               }
+            },
+            "location" : {
+               "lat" : 45.7088775,
+               "lng" : 7.2558383
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8163657,
+                  "lng" : 7.8537616
+               },
+               "southwest" : {
+                  "lat" : 45.1424659,
+                  "lng" : 6.9538683
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A81",
+               "short_name" : "A81",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A81, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.11613089999999,
+                  "lng" : 0.155856
+               },
+               "southwest" : {
+                  "lat" : 48.0026127,
+                  "lng" : -1.0447851
+               }
+            },
+            "location" : {
+               "lat" : 48.0507412,
+               "lng" : -0.4428411
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.11613089999999,
+                  "lng" : 0.155856
+               },
+               "southwest" : {
+                  "lat" : 48.0026127,
+                  "lng" : -1.0447851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

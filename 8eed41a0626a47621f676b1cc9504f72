@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panjakent",
+               "short_name" : "Panjakent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panjakent",
+               "short_name" : "Panjakent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sughd Province",
+               "short_name" : "Sughd Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panjakent, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5169317,
+                  "lng" : 67.6585293
+               },
+               "southwest" : {
+                  "lat" : 39.4672257,
+                  "lng" : 67.57835349999999
+               }
+            },
+            "location" : {
+               "lat" : 39.5,
+               "lng" : 67.61666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5169317,
+                  "lng" : 67.6585293
+               },
+               "southwest" : {
+                  "lat" : 39.4672257,
+                  "lng" : 67.57835349999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

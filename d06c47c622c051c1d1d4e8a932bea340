@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahía Blanca",
+               "short_name" : "Bahía Blanca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahía Blanca Partido",
+               "short_name" : "Bahía Blanca Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bahía Blanca, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6495716,
+                  "lng" : -62.15961609999999
+               },
+               "southwest" : {
+                  "lat" : -38.7925403,
+                  "lng" : -62.35820080000001
+               }
+            },
+            "location" : {
+               "lat" : -38.71167760000001,
+               "lng" : -62.26807780000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6495716,
+                  "lng" : -62.15961609999999
+               },
+               "southwest" : {
+                  "lat" : -38.7925403,
+                  "lng" : -62.35820080000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

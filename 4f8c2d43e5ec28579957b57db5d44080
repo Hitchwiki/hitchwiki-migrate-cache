@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osh",
+               "short_name" : "Osh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kara-Suu District",
+               "short_name" : "Kara-Suu District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Osh Province",
+               "short_name" : "Osh Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osh, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5649378,
+                  "lng" : 72.8613282
+               },
+               "southwest" : {
+                  "lat" : 40.4754848,
+                  "lng" : 72.7557564
+               }
+            },
+            "location" : {
+               "lat" : 40.53,
+               "lng" : 72.8
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5649378,
+                  "lng" : 72.8613282
+               },
+               "southwest" : {
+                  "lat" : 40.4754848,
+                  "lng" : 72.7557564
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wittman Regional Airport",
+               "short_name" : "Wittman Regional Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "525",
+               "short_name" : "525",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 20th Avenue",
+               "short_name" : "W 20th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oshkosh",
+               "short_name" : "Oshkosh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winnebago County",
+               "short_name" : "Winnebago County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54902",
+               "short_name" : "54902",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wittman Regional Airport (OSH), 525 West 20th Avenue, Oshkosh, WI 54902, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9958933,
+                  "lng" : -88.5459985
+               },
+               "southwest" : {
+                  "lat" : 43.9635649,
+                  "lng" : -88.5725113
+               }
+            },
+            "location" : {
+               "lat" : 43.9940072,
+               "lng" : -88.551254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9958933,
+                  "lng" : -88.5459985
+               },
+               "southwest" : {
+                  "lat" : 43.9635649,
+                  "lng" : -88.5725113
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quezon",
+               "short_name" : "Quezon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palawan",
+               "short_name" : "Palawan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "MIMAROPA",
+               "short_name" : "MIMAROPA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quezon, Palawan, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.540863399999999,
+                  "lng" : 118.3351135
+               },
+               "southwest" : {
+                  "lat" : 8.998347900000001,
+                  "lng" : 117.7535143
+               }
+            },
+            "location" : {
+               "lat" : 9.233333,
+               "lng" : 118.033333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.540863399999999,
+                  "lng" : 118.3351135
+               },
+               "southwest" : {
+                  "lat" : 8.998347900000001,
+                  "lng" : 117.7535143
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quezon",
+               "short_name" : "Quezon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isabela",
+               "short_name" : "Isabela",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cagayan Valley",
+               "short_name" : "Cagayan Valley",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quezon, Isabela, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4010615,
+                  "lng" : 121.6845703
+               },
+               "southwest" : {
+                  "lat" : 17.2048357,
+                  "lng" : 121.5414046
+               }
+            },
+            "location" : {
+               "lat" : 17.316667,
+               "lng" : 121.616667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4010615,
+                  "lng" : 121.6845703
+               },
+               "southwest" : {
+                  "lat" : 17.2048357,
+                  "lng" : 121.5414046
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quezon",
+               "short_name" : "Quezon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nueva Vizcaya",
+               "short_name" : "Nueva Vizcaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cagayan Valley",
+               "short_name" : "Cagayan Valley",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quezon, Nueva Vizcaya, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.5310682,
+                  "lng" : 121.3859599
+               },
+               "southwest" : {
+                  "lat" : 16.4015115,
+                  "lng" : 121.1902875
+               }
+            },
+            "location" : {
+               "lat" : 16.5,
+               "lng" : 121.266667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.5310682,
+                  "lng" : 121.3859599
+               },
+               "southwest" : {
+                  "lat" : 16.4015115,
+                  "lng" : 121.1902875
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

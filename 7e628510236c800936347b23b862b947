@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strömstad",
+               "short_name" : "Strömstad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Strömstad",
+               "short_name" : "Strömstad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västra Götaland County",
+               "short_name" : "Västra Götaland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Strömstad, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.9520431,
+                  "lng" : 11.212035
+               },
+               "southwest" : {
+                  "lat" : 58.92759799999999,
+                  "lng" : 11.1662501
+               }
+            },
+            "location" : {
+               "lat" : 58.9383459,
+               "lng" : 11.1791871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.9520431,
+                  "lng" : 11.212035
+               },
+               "southwest" : {
+                  "lat" : 58.92759799999999,
+                  "lng" : 11.1662501
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

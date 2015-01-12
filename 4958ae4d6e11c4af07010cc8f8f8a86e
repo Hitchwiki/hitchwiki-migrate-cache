@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A77",
+               "short_name" : "A77",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A77, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2277977,
+                  "lng" : 3.2064186
+               },
+               "southwest" : {
+                  "lat" : 46.9542845,
+                  "lng" : 2.670367
+               }
+            },
+            "location" : {
+               "lat" : 47.5688305,
+               "lng" : 2.8774827
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2277977,
+                  "lng" : 3.2064186
+               },
+               "southwest" : {
+                  "lat" : 46.9542845,
+                  "lng" : 2.670367
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

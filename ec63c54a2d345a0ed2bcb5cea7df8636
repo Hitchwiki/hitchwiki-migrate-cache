@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M1",
+               "short_name" : "M1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M1, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7138055,
+                  "lng" : 37.3873127
+               },
+               "southwest" : {
+                  "lat" : 54.68975709999999,
+                  "lng" : 30.9967232
+               }
+            },
+            "location" : {
+               "lat" : 55.2149715,
+               "lng" : 34.186191
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7138055,
+                  "lng" : 37.3873127
+               },
+               "southwest" : {
+                  "lat" : 54.68975709999999,
+                  "lng" : 30.9967232
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

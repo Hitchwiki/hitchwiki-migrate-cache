@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Levis",
+               "short_name" : "Levis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Desjardins Regional County Municipality",
+               "short_name" : "Desjardins Regional County Municipality",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Levis, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8332689,
+                  "lng" : -70.9939431
+               },
+               "southwest" : {
+                  "lat" : 46.5721739,
+                  "lng" : -71.50104279999999
+               }
+            },
+            "location" : {
+               "lat" : 46.7382265,
+               "lng" : -71.2464592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8332689,
+                  "lng" : -70.9939431
+               },
+               "southwest" : {
+                  "lat" : 46.5721739,
+                  "lng" : -71.50104279999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

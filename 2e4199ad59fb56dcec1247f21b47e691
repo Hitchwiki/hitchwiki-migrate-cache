@@ -1,0 +1,87 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Baku",
+        "dstOffset": 5
+      },
+      "asciiName": "Nagorno-Karabakh [provisional]",
+      "countryId": "587116",
+      "fcl": "L",
+      "score": 54.359901428222656,
+      "cc2": "AZ",
+      "countryCode": "AZ",
+      "lat": "40",
+      "fcode": "RGN",
+      "continentCode": "AS",
+      "adminCode1": "00",
+      "lng": "46.58333",
+      "geonameId": 409410,
+      "toponymName": "Nagorno-Karabakh [provisional]",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Nagorno-Karabakh [provisional]",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Nagorno-Karabakh [provisional]",
+      "fclName": "parks,area, ...",
+      "countryName": "Azerbaijan",
+      "fcodeName": "region",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Baku",
+        "dstOffset": 5
+      },
+      "asciiName": "Nagorno-Karabakh [provisional]",
+      "countryId": "587116",
+      "fcl": "A",
+      "score": 32.853057861328125,
+      "cc2": "AZ",
+      "countryCode": "AZ",
+      "lat": "40",
+      "fcode": "ADMD",
+      "continentCode": "AS",
+      "adminCode1": "00",
+      "lng": "46.58333",
+      "geonameId": 409432,
+      "toponymName": "Nagorno-Karabakh [provisional]",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Republic of Mountainous Gharabagh",
+          "lang": "en"
+        },
+        {
+          "name": "Nagorno Karabaj",
+          "lang": "es"
+        },
+        {
+          "name": "Mountainous Karabakh",
+          "lang": "rn"
+        },
+        {
+          "name": "Нагорно-Карабах",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Republic of Mountainous Gharabagh",
+      "fclName": "country, state, region,...",
+      "countryName": "Azerbaijan",
+      "fcodeName": "administrative division",
+      "adminName1": ""
+    }
+  ]
+}

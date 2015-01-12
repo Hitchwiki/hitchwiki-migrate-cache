@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A2",
+               "short_name" : "A2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A2, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.43915680000001,
+                  "lng" : 3.668704699999999
+               },
+               "southwest" : {
+                  "lat" : 50.012656,
+                  "lng" : 2.8787343
+               }
+            },
+            "location" : {
+               "lat" : 50.22887739999999,
+               "lng" : 3.27092
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.43915680000001,
+                  "lng" : 3.668704699999999
+               },
+               "southwest" : {
+                  "lat" : 50.012656,
+                  "lng" : 2.8787343
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "U.F.R. Sciences de la Vie Animalerie",
+               "short_name" : "U.F.R. Sciences de la Vie Animalerie",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Campus Carreire",
+               "short_name" : "Campus Carreire",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "U.F.R. Sciences de la Vie Animalerie, Campus Carreire, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8267125,
+               "lng" : -0.6069610999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8280614802915,
+                  "lng" : -0.6056121197084978
+               },
+               "southwest" : {
+                  "lat" : 44.8253635197085,
+                  "lng" : -0.6083100802915019
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

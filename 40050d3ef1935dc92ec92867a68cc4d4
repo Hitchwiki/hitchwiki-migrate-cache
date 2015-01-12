@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A445",
+               "short_name" : "A445",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A445, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5688138,
+                  "lng" : 7.957236600000001
+               },
+               "southwest" : {
+                  "lat" : 51.4589501,
+                  "lng" : 7.884046
+               }
+            },
+            "location" : {
+               "lat" : 51.5089678,
+               "lng" : 7.909749199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5688138,
+                  "lng" : 7.957236600000001
+               },
+               "southwest" : {
+                  "lat" : 51.4589501,
+                  "lng" : 7.884046
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

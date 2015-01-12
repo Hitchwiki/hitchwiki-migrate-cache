@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rivas",
+               "short_name" : "Rivas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rivas, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.6717179,
+                  "lng" : -85.1754141
+               },
+               "southwest" : {
+                  "lat" : 11.041925,
+                  "lng" : -86.17159649999999
+               }
+            },
+            "location" : {
+               "lat" : 11.402349,
+               "lng" : -85.684578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.6717179,
+                  "lng" : -85.1754141
+               },
+               "southwest" : {
+                  "lat" : 11.041925,
+                  "lng" : -86.17159649999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rivas",
+               "short_name" : "Rivas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rivas",
+               "short_name" : "Rivas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rivas, Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.451677,
+                  "lng" : -85.81180569999999
+               },
+               "southwest" : {
+                  "lat" : 11.4247566,
+                  "lng" : -85.8403014
+               }
+            },
+            "location" : {
+               "lat" : 11.439308,
+               "lng" : -85.82699699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.451677,
+                  "lng" : -85.81180569999999
+               },
+               "southwest" : {
+                  "lat" : 11.4247566,
+                  "lng" : -85.8403014
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

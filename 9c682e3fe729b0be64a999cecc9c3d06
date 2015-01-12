@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Channel-Port aux Basques",
+               "short_name" : "Channel-Port aux Basques",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 3",
+               "short_name" : "Division No. 3",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Newfoundland and Labrador",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Channel-Port aux Basques, NL, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6306759,
+                  "lng" : -59.066781
+               },
+               "southwest" : {
+                  "lat" : 47.561188,
+                  "lng" : -59.207772
+               }
+            },
+            "location" : {
+               "lat" : 47.5721149,
+               "lng" : -59.136429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6306759,
+                  "lng" : -59.066781
+               },
+               "southwest" : {
+                  "lat" : 47.561188,
+                  "lng" : -59.207772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

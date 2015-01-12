@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horgoš",
+               "short_name" : "Horgoš",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Banat District",
+               "short_name" : "North Banat District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vojvodina",
+               "short_name" : "Vojvodina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horgoš, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1765171,
+                  "lng" : 20.0471519
+               },
+               "southwest" : {
+                  "lat" : 46.0720622,
+                  "lng" : 19.8654056
+               }
+            },
+            "location" : {
+               "lat" : 46.153333,
+               "lng" : 19.970278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1765171,
+                  "lng" : 20.0471519
+               },
+               "southwest" : {
+                  "lat" : 46.0720622,
+                  "lng" : 19.8654056
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

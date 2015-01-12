@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caribbean",
+               "short_name" : "Caribbean",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Caribbean",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.263412,
+                  "lng" : -59.4174957
+               },
+               "southwest" : {
+                  "lat" : 9.9930001,
+                  "lng" : -85.17149999999999
+               }
+            },
+            "location" : {
+               "lat" : 21.4691137,
+               "lng" : -78.6568942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.263412,
+                  "lng" : -59.4174957
+               },
+               "southwest" : {
+                  "lat" : 9.9930001,
+                  "lng" : -85.17149999999999
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

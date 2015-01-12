@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zutphen",
+               "short_name" : "Zutphen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zutphen",
+               "short_name" : "Zutphen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zutphen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1699198,
+                  "lng" : 6.275014199999999
+               },
+               "southwest" : {
+                  "lat" : 52.0887256,
+                  "lng" : 6.1408925
+               }
+            },
+            "location" : {
+               "lat" : 52.142736,
+               "lng" : 6.196058400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1699198,
+                  "lng" : 6.275014199999999
+               },
+               "southwest" : {
+                  "lat" : 52.0887256,
+                  "lng" : 6.1408925
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

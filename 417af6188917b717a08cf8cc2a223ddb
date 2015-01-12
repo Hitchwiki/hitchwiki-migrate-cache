@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Michoacán",
+               "short_name" : "MICH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Michoacán, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.3938766,
+                  "lng" : -100.0621474
+               },
+               "southwest" : {
+                  "lat" : 17.9131643,
+                  "lng" : -103.7390685
+               }
+            },
+            "location" : {
+               "lat" : 19.5665192,
+               "lng" : -101.7068294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.3938766,
+                  "lng" : -100.0621474
+               },
+               "southwest" : {
+                  "lat" : 17.9131643,
+                  "lng" : -103.7390685
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

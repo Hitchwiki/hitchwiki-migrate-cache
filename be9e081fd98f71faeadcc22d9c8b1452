@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Casablanca",
+               "short_name" : "Casablanca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grand Casablanca",
+               "short_name" : "Grand Casablanca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Casablanca, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6485281,
+                  "lng" : -7.4582757
+               },
+               "southwest" : {
+                  "lat" : 33.495279,
+                  "lng" : -7.716461400000001
+               }
+            },
+            "location" : {
+               "lat" : 33.5731104,
+               "lng" : -7.589843399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6485281,
+                  "lng" : -7.4582757
+               },
+               "southwest" : {
+                  "lat" : 33.495279,
+                  "lng" : -7.716461400000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

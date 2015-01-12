@@ -1,0 +1,150 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.54078653470987,
+        "south": 51.62236711811909,
+        "north": 51.65944888188092,
+        "west": 8.481009465290128
+      },
+      "asciiName": "Geseke",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 41.56208801269531,
+      "countryCode": "DE",
+      "adminId1": "2861876",
+      "lat": "51.64091",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "07",
+      "lng": "8.5109",
+      "geonameId": 2920834,
+      "toponymName": "Geseke",
+      "population": 20602,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Geseke",
+          "lang": "de"
+        },
+        {
+          "name": "گسکه",
+          "lang": "fa"
+        },
+        {
+          "name": "Гезеке",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Geseke",
+          "lang": "link"
+        },
+        {
+          "name": "Gaiseke",
+          "lang": "nds"
+        },
+        {
+          "name": "Gīsiki",
+          "lang": "osx"
+        },
+        {
+          "name": "Гезеке",
+          "lang": "ru"
+        },
+        {
+          "name": "Гезеке",
+          "lang": "sr"
+        },
+        {
+          "name": "GEE",
+          "lang": "unlc"
+        },
+        {
+          "name": "格塞克",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Geseke",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Geseke",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 22.215869903564453,
+      "adminId2": "2955470",
+      "adminId3": "3221124",
+      "countryCode": "DE",
+      "adminId4": "6557698",
+      "adminId1": "2861876",
+      "lat": "51.6324",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "059",
+      "adminCode3": "05974",
+      "adminCode1": "07",
+      "lng": "8.4819",
+      "geonameId": 6557698,
+      "toponymName": "Geseke",
+      "adminCode4": "05974020",
+      "population": 20588,
+      "adminName5": "",
+      "adminName4": "Geseke",
+      "adminName3": "Kreis Soest",
+      "adminName2": "Regierungsbezirk Arnsberg",
+      "name": "Geseke",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Haltepunkt Kriegerdenkmal Geseke-Ehringhausen",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 8.781594276428223,
+      "cc2": "DE",
+      "countryCode": "DE",
+      "adminId1": "2861876",
+      "lat": "51.66333",
+      "fcode": "RSTP",
+      "continentCode": "EU",
+      "adminCode1": "07",
+      "lng": "8.4475",
+      "geonameId": 2932792,
+      "toponymName": "Haltepunkt Kriegerdenkmal Geseke-Ehringhausen",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Haltepunkt Kriegerdenkmal Geseke-Ehringhausen",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "railroad stop",
+      "adminName1": "North Rhine-Westphalia"
+    }
+  ]
+}

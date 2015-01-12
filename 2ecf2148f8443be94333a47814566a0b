@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faial Island",
+               "short_name" : "Faial Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faial Island, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6440634,
+                  "lng" : -28.5982553
+               },
+               "southwest" : {
+                  "lat" : 38.5151748,
+                  "lng" : -28.8347866
+               }
+            },
+            "location" : {
+               "lat" : 38.5912552,
+               "lng" : -28.6964752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6440634,
+                  "lng" : -28.5982553
+               },
+               "southwest" : {
+                  "lat" : 38.5151748,
+                  "lng" : -28.8347866
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

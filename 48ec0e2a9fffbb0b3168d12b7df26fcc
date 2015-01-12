@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florin",
+               "short_name" : "Florin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sacramento County",
+               "short_name" : "Sacramento County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florin, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.504889,
+                  "lng" : -121.371973
+               },
+               "southwest" : {
+                  "lat" : 38.4743349,
+                  "lng" : -121.446071
+               }
+            },
+            "location" : {
+               "lat" : 38.4960187,
+               "lng" : -121.4088416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.504889,
+                  "lng" : -121.371973
+               },
+               "southwest" : {
+                  "lat" : 38.4743349,
+                  "lng" : -121.446071
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

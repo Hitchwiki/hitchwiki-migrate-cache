@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cluj-Napoca",
+               "short_name" : "Cluj-Napoca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cluj - Napoca",
+               "short_name" : "Cluj - Napoca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cluj County",
+               "short_name" : "CJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400000",
+               "short_name" : "400000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cluj-Napoca 400000, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8612951,
+                  "lng" : 23.7104809
+               },
+               "southwest" : {
+                  "lat" : 46.7054762,
+                  "lng" : 23.522544
+               }
+            },
+            "location" : {
+               "lat" : 46.766667,
+               "lng" : 23.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8612951,
+                  "lng" : 23.7104809
+               },
+               "southwest" : {
+                  "lat" : 46.7054762,
+                  "lng" : 23.522544
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

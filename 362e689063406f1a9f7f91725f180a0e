@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puerto Natales",
+               "short_name" : "Puerto Natales",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Natales",
+               "short_name" : "Natales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Natales",
+               "short_name" : "Natales",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Última Esperanza",
+               "short_name" : "Última Esperanza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Magallanes y la Antártica Chilena Region",
+               "short_name" : "Magallanes y la Antártica Chilena Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puerto Natales, Natales, Magallanes y la Antártica Chilena Region, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -51.7333,
+               "lng" : -72.50377999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -51.7263891,
+                  "lng" : -72.4877726
+               },
+               "southwest" : {
+                  "lat" : -51.7402099,
+                  "lng" : -72.5197874
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

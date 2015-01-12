@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Marta",
+               "short_name" : "Santa Marta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Magdalena",
+               "short_name" : "Magdalena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Marta, Magdalena, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2747975,
+                  "lng" : -74.11284689999999
+               },
+               "southwest" : {
+                  "lat" : 11.0750455,
+                  "lng" : -74.24176
+               }
+            },
+            "location" : {
+               "lat" : 11.241944,
+               "lng" : -74.20527799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2747975,
+                  "lng" : -74.11284689999999
+               },
+               "southwest" : {
+                  "lat" : 11.0750455,
+                  "lng" : -74.24176
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Marta",
+               "short_name" : "Santa Marta",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santa Marta (Distrito Turístico Cultural E Histórico)",
+               "short_name" : "Santa Marta (Distrito Turístico Cultural E Histórico)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Magdalena",
+               "short_name" : "Magdalena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Marta, Santa Marta, Magdalena, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 11.24725,
+               "lng" : -74.20165999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2485989802915,
+                  "lng" : -74.20031101970848
+               },
+               "southwest" : {
+                  "lat" : 11.2459010197085,
+                  "lng" : -74.2030089802915
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

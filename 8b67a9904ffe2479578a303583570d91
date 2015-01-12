@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A61",
+               "short_name" : "A61",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A61, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3346127,
+                  "lng" : 8.5494071
+               },
+               "southwest" : {
+                  "lat" : 49.3308836,
+                  "lng" : 6.169321
+               }
+            },
+            "location" : {
+               "lat" : 50.3782496,
+               "lng" : 7.389049900000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3346127,
+                  "lng" : 8.5494071
+               },
+               "southwest" : {
+                  "lat" : 49.3308836,
+                  "lng" : 6.169321
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

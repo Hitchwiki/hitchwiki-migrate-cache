@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maine, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4596734,
+                  "lng" : -66.94539720000002
+               },
+               "southwest" : {
+                  "lat" : 42.9747049,
+                  "lng" : -71.08433409999999
+               }
+            },
+            "location" : {
+               "lat" : 45.253783,
+               "lng" : -69.44546889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4596734,
+                  "lng" : -66.94539720000002
+               },
+               "southwest" : {
+                  "lat" : 42.97735309999999,
+                  "lng" : -71.08433409999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maine",
+               "short_name" : "Maine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aroostook County",
+               "short_name" : "Aroostook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04736",
+               "short_name" : "04736",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maine, ME 04736, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.82,
+               "lng" : -67.92361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8213489802915,
+                  "lng" : -67.92226101970849
+               },
+               "southwest" : {
+                  "lat" : 46.8186510197085,
+                  "lng" : -67.92495898029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

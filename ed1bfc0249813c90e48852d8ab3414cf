@@ -1,0 +1,68 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "adminCode1": "ENG",
+      "countryName": "United Kingdom",
+      "fclName": "parks,area, ...",
+      "score": 29.554197311401367,
+      "countryCode": "GB",
+      "lng": "-0.06969",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "area",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "toponymName": "Home Counties",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "EU",
+      "name": "Home Counties",
+      "fcode": "AREA",
+      "asciiName": "Home Counties",
+      "geonameId": 7290143,
+      "lat": "51.22473",
+      "adminName1": "England",
+      "population": 8000550
+    },
+    {
+      "adminCode2": "105",
+      "countryName": "United States",
+      "adminCode1": "SD",
+      "score": 1.8471373319625854,
+      "lng": "-102.16851",
+      "adminName2": "Perkins County",
+      "fcodeName": "hospital",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -7,
+        "timeZoneId": "America/Denver"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Five Counties Hospital and Nursing Home",
+      "fcode": "HSP",
+      "geonameId": 7717484,
+      "asciiName": "Five Counties Hospital and Nursing Home",
+      "lat": "45.94004",
+      "population": 0,
+      "adminName1": "South Dakota",
+      "countryId": "6252001",
+      "adminId1": "5769223",
+      "fclName": "spot, building, farm",
+      "elevation": 787,
+      "countryCode": "US",
+      "adminId2": "5767864",
+      "toponymName": "Five Counties Hospital and Nursing Home",
+      "fcl": "S",
+      "continentCode": "NA"
+    }
+  ]
+}

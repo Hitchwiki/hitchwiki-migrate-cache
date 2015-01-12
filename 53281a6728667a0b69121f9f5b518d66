@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Löffingen",
+               "short_name" : "Löffingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Breisgau-Hochschwarzwald",
+               "short_name" : "Breisgau-Hochschwarzwald",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Löffingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9438661,
+                  "lng" : 8.4401464
+               },
+               "southwest" : {
+                  "lat" : 47.8390034,
+                  "lng" : 8.267538099999999
+               }
+            },
+            "location" : {
+               "lat" : 47.8814579,
+               "lng" : 8.344410699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9438661,
+                  "lng" : 8.4401464
+               },
+               "southwest" : {
+                  "lat" : 47.8390034,
+                  "lng" : 8.267538099999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

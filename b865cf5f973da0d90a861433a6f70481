@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.084107,
+                  "lng" : 77.8334694
+               },
+               "southwest" : {
+                  "lat" : 23.6946945,
+                  "lng" : 60.872972
+               }
+            },
+            "location" : {
+               "lat" : 30.375321,
+               "lng" : 69.34511599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.084107,
+                  "lng" : 77.8334694
+               },
+               "southwest" : {
+                  "lat" : 23.6946945,
+                  "lng" : 60.872972
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

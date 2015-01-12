@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biel/Bienne",
+               "short_name" : "Biel/Bienne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Biel",
+               "short_name" : "Biel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Bern",
+               "short_name" : "BE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biel/Bienne, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.17702999999999,
+                  "lng" : 7.31273
+               },
+               "southwest" : {
+                  "lat" : 47.12222999999999,
+                  "lng" : 7.20114
+               }
+            },
+            "location" : {
+               "lat" : 47.1401866,
+               "lng" : 7.2437727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.17702999999999,
+                  "lng" : 7.31273
+               },
+               "southwest" : {
+                  "lat" : 47.12222999999999,
+                  "lng" : 7.20114
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

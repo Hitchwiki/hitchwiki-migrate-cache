@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M55",
+               "short_name" : "M55",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PR4",
+               "short_name" : "PR4",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M55, Preston PR4, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8071002,
+                  "lng" : -2.6879822
+               },
+               "southwest" : {
+                  "lat" : 53.7936907,
+                  "lng" : -2.9910587
+               }
+            },
+            "location" : {
+               "lat" : 53.8055105,
+               "lng" : -2.8367661
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8071002,
+                  "lng" : -2.6879822
+               },
+               "southwest" : {
+                  "lat" : 53.7936907,
+                  "lng" : -2.9910587
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

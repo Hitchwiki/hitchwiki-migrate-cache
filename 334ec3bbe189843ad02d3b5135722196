@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andernos-les-Bains",
+               "short_name" : "Andernos-les-Bains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andernos-les-Bains, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7828271,
+                  "lng" : -1.0411
+               },
+               "southwest" : {
+                  "lat" : 44.7226349,
+                  "lng" : -1.1235598
+               }
+            },
+            "location" : {
+               "lat" : 44.743536,
+               "lng" : -1.102449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7828271,
+                  "lng" : -1.0411
+               },
+               "southwest" : {
+                  "lat" : 44.7226349,
+                  "lng" : -1.1235598
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

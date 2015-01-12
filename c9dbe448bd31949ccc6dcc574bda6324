@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xanthi",
+               "short_name" : "Xanthi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xanthi",
+               "short_name" : "Xanthi",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Xanthi",
+               "short_name" : "Xanthi",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xanthi",
+               "short_name" : "Xanthi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "East Macedonia and Thrace",
+               "short_name" : "East Macedonia and Thrace",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Makedonia Thraki",
+               "short_name" : "Makedonia Thraki",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "671 00",
+               "short_name" : "671 00",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Xanthi 671 00, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1469748,
+                  "lng" : 24.9013272
+               },
+               "southwest" : {
+                  "lat" : 41.1240364,
+                  "lng" : 24.8729232
+               }
+            },
+            "location" : {
+               "lat" : 41.1300361,
+               "lng" : 24.8864902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1469748,
+                  "lng" : 24.9013272
+               },
+               "southwest" : {
+                  "lat" : 41.1240364,
+                  "lng" : 24.8729232
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

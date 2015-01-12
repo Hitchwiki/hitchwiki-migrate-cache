@@ -1,0 +1,154 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16000",
+               "short_name" : "16000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bursa, 16000 Bursa/Bursa, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.182846,
+               "lng" : 29.067084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.19137,
+                  "lng" : 29.0830914
+               },
+               "southwest" : {
+                  "lat" : 40.1743209,
+                  "lng" : 29.0510766
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa Province",
+               "short_name" : "Bursa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bursa/Bursa Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.318955,
+                  "lng" : 29.114446
+               },
+               "southwest" : {
+                  "lat" : 40.254332,
+                  "lng" : 29.0490682
+               }
+            },
+            "location" : {
+               "lat" : 40.266864,
+               "lng" : 29.0634479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.318955,
+                  "lng" : 29.114446
+               },
+               "southwest" : {
+                  "lat" : 40.254332,
+                  "lng" : 29.0490682
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa Province",
+               "short_name" : "Bursa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bursa Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.613489,
+                  "lng" : 29.9761171
+               },
+               "southwest" : {
+                  "lat" : 39.604213,
+                  "lng" : 28.0804079
+               }
+            },
+            "location" : {
+               "lat" : 40.18257,
+               "lng" : 29.06687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.613489,
+                  "lng" : 29.9761171
+               },
+               "southwest" : {
+                  "lat" : 39.604213,
+                  "lng" : 28.0804079
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

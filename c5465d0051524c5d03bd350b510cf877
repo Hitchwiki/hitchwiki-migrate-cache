@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vama Veche",
+               "short_name" : "Vama Veche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna Limanu",
+               "short_name" : "Comuna Limanu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Constanța County",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "907163",
+               "short_name" : "907163",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vama Veche 907163, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.765035,
+                  "lng" : 28.5787007
+               },
+               "southwest" : {
+                  "lat" : 43.7382359,
+                  "lng" : 28.559711
+               }
+            },
+            "location" : {
+               "lat" : 43.7529244,
+               "lng" : 28.5725487
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.765035,
+                  "lng" : 28.5787007
+               },
+               "southwest" : {
+                  "lat" : 43.7382359,
+                  "lng" : 28.559711
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

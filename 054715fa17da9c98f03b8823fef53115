@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A50",
+               "short_name" : "A50",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A50, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4910086,
+                  "lng" : 6.037577
+               },
+               "southwest" : {
+                  "lat" : 51.4836344,
+                  "lng" : 5.4046746
+               }
+            },
+            "location" : {
+               "lat" : 51.98021319999999,
+               "lng" : 5.7628369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4910086,
+                  "lng" : 6.037577
+               },
+               "southwest" : {
+                  "lat" : 51.4836344,
+                  "lng" : 5.4046746
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

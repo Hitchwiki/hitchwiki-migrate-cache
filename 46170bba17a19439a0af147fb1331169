@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lethem",
+               "short_name" : "Lethem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Takutu-Upper Essequibo",
+               "short_name" : "Upper Takutu-Upper Essequibo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Guyana",
+               "short_name" : "GY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lethem, Guyana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.3869646,
+                  "lng" : -59.7803019
+               },
+               "southwest" : {
+                  "lat" : 3.3536771,
+                  "lng" : -59.809656
+               }
+            },
+            "location" : {
+               "lat" : 3.383333,
+               "lng" : -59.8
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.3869646,
+                  "lng" : -59.7803019
+               },
+               "southwest" : {
+                  "lat" : 3.3536771,
+                  "lng" : -59.809656
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

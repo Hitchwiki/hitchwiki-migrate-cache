@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.685685,
+                  "lng" : 28.210139
+               },
+               "southwest" : {
+                  "lat" : 57.50931600000001,
+                  "lng" : 21.7643132
+               }
+            },
+            "location" : {
+               "lat" : 58.595272,
+               "lng" : 25.013607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.685659,
+                  "lng" : 28.210139
+               },
+               "southwest" : {
+                  "lat" : 57.50931600000001,
+                  "lng" : 21.7643721
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

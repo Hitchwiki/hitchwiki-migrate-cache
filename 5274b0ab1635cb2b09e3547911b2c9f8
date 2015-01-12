@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lublin Voivodeship",
+               "short_name" : "Lublin Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lublin Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2879201,
+                  "lng" : 24.1458931
+               },
+               "southwest" : {
+                  "lat" : 50.251603,
+                  "lng" : 21.6171249
+               }
+            },
+            "location" : {
+               "lat" : 51.2493519,
+               "lng" : 23.1011392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2879201,
+                  "lng" : 24.1458931
+               },
+               "southwest" : {
+                  "lat" : 50.251603,
+                  "lng" : 21.6171249
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

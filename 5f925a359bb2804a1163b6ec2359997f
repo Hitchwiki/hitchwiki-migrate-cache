@@ -1,0 +1,793 @@
+{
+  "totalResultsCount": 218416,
+  "geonames": [
+    {
+      "lng": "24.69727",
+      "geonameId": 7729886,
+      "bbox": {
+        "east": 31.305912,
+        "south": -18.042076,
+        "north": 23.450369,
+        "west": 5.602367
+      },
+      "toponymName": "Central Africa",
+      "asciiName": "Central Africa",
+      "countryId": "203312",
+      "fcl": "L",
+      "population": 129400000,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 69.80545043945312,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Middle_Africa",
+        "lang": "link"
+      }],
+      "cc2": "CD,CM,AO,TD,CF,CG,GA,GQ,ST",
+      "adminName2": "",
+      "countryCode": "CD",
+      "name": "Central Africa",
+      "fclName": "parks,area, ...",
+      "countryName": "Democratic Republic of the Congo",
+      "fcodeName": "region",
+      "adminName1": "",
+      "lat": "-2.02107",
+      "fcode": "RGN",
+      "continentCode": "AF"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 31.432819366455078,
+        "south": -15.74417495727539,
+        "north": -12.00027847290039,
+        "west": 25.32473373413086
+      },
+      "asciiName": "Central Province",
+      "countryId": "895949",
+      "fcl": "A",
+      "score": 26.428394317626953,
+      "countryCode": "ZM",
+      "adminId1": "921064",
+      "lat": "-14",
+      "fcode": "ADM1",
+      "continentCode": "AF",
+      "adminCode1": "02",
+      "lng": "29",
+      "geonameId": 921064,
+      "toponymName": "Central Province",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Central_Province%2C_Zambia",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Central Province",
+      "fclName": "country, state, region,...",
+      "countryName": "Zambia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Gaborone",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 29.37362289428711,
+        "south": -23.948333740234375,
+        "north": -18.998287200927734,
+        "west": 23.87472152709961
+      },
+      "asciiName": "Central District",
+      "countryId": "933860",
+      "fcl": "A",
+      "score": 26.428394317626953,
+      "countryCode": "BW",
+      "adminId1": "933851",
+      "lat": "-22",
+      "fcode": "ADM1",
+      "continentCode": "AF",
+      "adminCode1": "01",
+      "lng": "26",
+      "geonameId": 933851,
+      "toponymName": "Central District",
+      "population": 188174,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Central_District_%28Botswana%29",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Central District",
+      "fclName": "country, state, region,...",
+      "countryName": "Botswana",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Juba",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 31.65383898584442,
+        "south": 4.780544353923043,
+        "north": 4.922746426573237,
+        "west": 31.51111043126978
+      },
+      "asciiName": "Juba",
+      "countryId": "7909807",
+      "fcl": "P",
+      "score": 26.092782974243164,
+      "countryCode": "SS",
+      "adminId1": "408655",
+      "lat": "4.85165",
+      "fcode": "PPLC",
+      "continentCode": "AF",
+      "adminCode1": "01",
+      "lng": "31.58247",
+      "geonameId": 373303,
+      "toponymName": "Juba",
+      "population": 300000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Juba",
+          "lang": "de"
+        },
+        {
+          "name": "Juba",
+          "lang": "en"
+        },
+        {
+          "name": "Djouba",
+          "lang": "fr"
+        },
+        {
+          "name": "ג'ובה",
+          "lang": "he"
+        },
+        {
+          "name": "JUB",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Juba_(Southern_Sudan)",
+          "lang": "link"
+        },
+        {
+          "name": "Juba",
+          "lang": "no"
+        },
+        {
+          "name": "Джуба",
+          "lang": "ru"
+        },
+        {
+          "name": "JUB",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Juba",
+      "fclName": "city, village,...",
+      "countryName": "South Sudan",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Central Equatoria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Bangui",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": 18.462697018068916,
+        "south": 4.209981736124585,
+        "north": 4.303446475621985,
+        "west": 18.368968020993584
+      },
+      "asciiName": "Bimbo",
+      "countryId": "239880",
+      "fcl": "P",
+      "score": 22.62359046936035,
+      "countryCode": "CF",
+      "adminId1": "2383765",
+      "lat": "4.25671",
+      "fcode": "PPLA",
+      "continentCode": "AF",
+      "adminCode1": "17",
+      "lng": "18.41583",
+      "geonameId": 2388873,
+      "toponymName": "Bimbo",
+      "population": 129655,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Bimbo",
+          "lang": "de"
+        },
+        {
+          "name": "Bimbo",
+          "lang": "en"
+        },
+        {
+          "name": "Bimbo",
+          "lang": "fi"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bimbo%2C_Central_African_Republic",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bimbo",
+      "fclName": "city, village,...",
+      "countryName": "Central African Republic",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Ombella-Mpoko"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 28.504606115828242,
+        "south": -14.503243747764854,
+        "north": -14.390553651906101,
+        "west": 28.38826574086121
+      },
+      "asciiName": "Kabwe",
+      "countryId": "895949",
+      "fcl": "P",
+      "score": 22.36524200439453,
+      "countryCode": "ZM",
+      "adminId1": "921064",
+      "lat": "-14.4469",
+      "fcode": "PPLA",
+      "continentCode": "AF",
+      "adminCode1": "02",
+      "lng": "28.44644",
+      "geonameId": 916095,
+      "toponymName": "Kabwe",
+      "population": 188979,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Kabwe",
+          "lang": "af"
+        },
+        {
+          "name": "كابوي",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Кабвэ",
+          "lang": "be"
+        },
+        {
+          "name": "Кабуе",
+          "lang": "bg"
+        },
+        {
+          "name": "Kabwe",
+          "lang": "de"
+        },
+        {
+          "name": "Kabwe",
+          "lang": "en"
+        },
+        {
+          "name": "Kabwe",
+          "lang": "fr"
+        },
+        {
+          "name": "QKE",
+          "lang": "iata"
+        },
+        {
+          "name": "カブウェ",
+          "lang": "ja"
+        },
+        {
+          "name": "카브웨",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Kabwe",
+          "lang": "link"
+        },
+        {
+          "name": "Kabvė",
+          "lang": "lt"
+        },
+        {
+          "name": "Кабве",
+          "lang": "mrj"
+        },
+        {
+          "name": "Kabwe",
+          "lang": "pl"
+        },
+        {
+          "name": "Кабве",
+          "lang": "ru"
+        },
+        {
+          "name": "Кабве",
+          "lang": "uk"
+        },
+        {
+          "name": "QKE",
+          "lang": "unlc"
+        },
+        {
+          "name": "卡布韦",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Kabwe",
+      "fclName": "city, village,...",
+      "countryName": "Zambia",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Central"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Blantyre",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 33.89467924123417,
+        "south": -14.071222063486717,
+        "north": -13.862615936513285,
+        "west": 33.67981475876583
+      },
+      "asciiName": "Lilongwe",
+      "countryId": "927384",
+      "fcl": "P",
+      "score": 22.36524200439453,
+      "adminId2": "927964",
+      "countryCode": "MW",
+      "adminId1": "931597",
+      "lat": "-13.96692",
+      "fcode": "PPLC",
+      "continentCode": "AF",
+      "adminCode2": "11",
+      "adminCode1": "C",
+      "lng": "33.78725",
+      "geonameId": 927967,
+      "toponymName": "Lilongwe",
+      "population": 646750,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "ሊሎንጔ",
+          "lang": "am"
+        },
+        {
+          "name": "ليلونغوي",
+          "lang": "ar"
+        },
+        {
+          "name": "Lilonqve",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Лілонгвэ",
+          "lang": "be"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "bg"
+        },
+        {
+          "name": "ལི་ལོང་ཀུའེ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "ce"
+        },
+        {
+          "name": "لیلۆنگوێ",
+          "lang": "ckb"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "da"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "de"
+        },
+        {
+          "name": "Λιλόνγκουε",
+          "lang": "el"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "en"
+        },
+        {
+          "name": "Lilongvo",
+          "lang": "eo"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "es"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "et"
+        },
+        {
+          "name": "لیلونگوه",
+          "lang": "fa"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "fi"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "fr"
+        },
+        {
+          "name": "לילונגווה",
+          "lang": "he"
+        },
+        {
+          "name": "Լիլոնգվե",
+          "lang": "hy"
+        },
+        {
+          "name": "LLW",
+          "lang": "iata"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "io"
+        },
+        {
+          "name": "Lílongve",
+          "lang": "is"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "it"
+        },
+        {
+          "name": "リロングウェ",
+          "lang": "ja"
+        },
+        {
+          "name": "ლილონგვე",
+          "lang": "ka"
+        },
+        {
+          "name": "릴롱궤",
+          "lang": "ko"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "ky"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Lilongwe",
+          "lang": "link"
+        },
+        {
+          "name": "Lilongvė",
+          "lang": "lt"
+        },
+        {
+          "name": "Lilongve",
+          "lang": "lv"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "mk"
+        },
+        {
+          "name": "लिलाँग्वे",
+          "lang": "mr"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "mrj"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "nl"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "nn"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "no"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "ny"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "os"
+        },
+        {
+          "name": "ਲਿਲਾਂਗਵੇ",
+          "lang": "pa"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "pl"
+        },
+        {
+          "name": "لیلیونگوے",
+          "lang": "pnb"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "pt"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "ru"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "sk"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "sr"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "sv"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "sw"
+        },
+        {
+          "name": "லிலொங்வே",
+          "lang": "ta"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "tg"
+        },
+        {
+          "name": "ลิลองเว",
+          "lang": "th"
+        },
+        {
+          "name": "Лилонгве",
+          "lang": "udm"
+        },
+        {
+          "name": "Лілонгве",
+          "lang": "uk"
+        },
+        {
+          "name": "LLW",
+          "lang": "unlc"
+        },
+        {
+          "name": "لیلونگوے",
+          "lang": "ur"
+        },
+        {
+          "name": "Lilongve",
+          "lang": "uz"
+        },
+        {
+          "name": "Lilongwe",
+          "lang": "vo"
+        },
+        {
+          "name": "לילאנגווע",
+          "lang": "yi"
+        },
+        {
+          "name": "里朗威",
+          "lang": "yue"
+        },
+        {
+          "name": "利隆圭",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Lilongwe",
+      "name": "Lilongwe",
+      "fclName": "city, village,...",
+      "countryName": "Malawi",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Central Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Lome",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": 1.178407966851812,
+        "south": 8.938817009861792,
+        "north": 9.027849590138208,
+        "west": 1.0882586331481883
+      },
+      "asciiName": "Sokode",
+      "countryId": "2363686",
+      "fcl": "P",
+      "score": 22.36524200439453,
+      "countryCode": "TG",
+      "adminId1": "2367237",
+      "lat": "8.98333",
+      "fcode": "PPLA",
+      "continentCode": "AF",
+      "adminCode1": "22",
+      "lng": "1.13333",
+      "geonameId": 2364104,
+      "toponymName": "Sokodé",
+      "population": 117811,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Sokodé",
+          "lang": "de"
+        },
+        {
+          "name": "Sokodé",
+          "lang": "en"
+        },
+        {
+          "name": "Sokodé",
+          "lang": "fi"
+        },
+        {
+          "name": "Sokodé",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sokod%C3%A9",
+          "lang": "link"
+        },
+        {
+          "name": "Sokodé",
+          "lang": "pl"
+        },
+        {
+          "name": "Сокоде",
+          "lang": "ru"
+        },
+        {
+          "name": "索科德",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Sokodé",
+      "fclName": "city, village,...",
+      "countryName": "Togo",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Centrale"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Blantyre",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 34.994720458984375,
+        "south": -15.341667175292969,
+        "north": -12.176389694213867,
+        "west": 32.67888641357422
+      },
+      "asciiName": "Central Region",
+      "countryId": "927384",
+      "fcl": "A",
+      "score": 21.142715454101562,
+      "countryCode": "MW",
+      "adminId1": "931597",
+      "lat": "-13.5",
+      "fcode": "ADM1",
+      "continentCode": "AF",
+      "adminCode1": "C",
+      "lng": "34",
+      "geonameId": 931597,
+      "toponymName": "Central Region",
+      "population": 4814000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Central_Region,_Malawi",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Central Region",
+      "fclName": "country, state, region,...",
+      "countryName": "Malawi",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Central Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Harare",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 32.76746368408203,
+        "south": -17.637500762939453,
+        "north": -15.631872177124023,
+        "west": 30.042774200439453
+      },
+      "asciiName": "Mashonaland Central Province",
+      "countryId": "878675",
+      "fcl": "A",
+      "score": 21.142715454101562,
+      "countryCode": "ZW",
+      "adminId1": "886843",
+      "lat": "-17",
+      "fcode": "ADM1",
+      "continentCode": "AF",
+      "adminCode1": "03",
+      "lng": "31",
+      "geonameId": 886843,
+      "toponymName": "Mashonaland Central Province",
+      "population": 1054077,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Mashonaland Central",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Mashonaland_Central_Province",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Mashonaland Central",
+      "fclName": "country, state, region,...",
+      "countryName": "Zimbabwe",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Mashonaland Central"
+    }
+  ]
+}

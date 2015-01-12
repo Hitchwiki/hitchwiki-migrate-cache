@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A553",
+               "short_name" : "A553",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A553, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.84872259999999,
+                  "lng" : 6.9339283
+               },
+               "southwest" : {
+                  "lat" : 50.7612159,
+                  "lng" : 6.8184625
+               }
+            },
+            "location" : {
+               "lat" : 50.7974166,
+               "lng" : 6.877779599999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.84872259999999,
+                  "lng" : 6.9339283
+               },
+               "southwest" : {
+                  "lat" : 50.7612159,
+                  "lng" : 6.8184625
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

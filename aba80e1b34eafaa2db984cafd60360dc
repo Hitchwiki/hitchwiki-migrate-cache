@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pražský okruh",
+               "short_name" : "R1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Praha",
+               "short_name" : "Praha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hlavní město Praha",
+               "short_name" : "Hlavní město Praha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hlavní město Praha",
+               "short_name" : "Hlavní město Praha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pražský okruh, Praha, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1156275,
+                  "lng" : 14.5961969
+               },
+               "southwest" : {
+                  "lat" : 49.9604841,
+                  "lng" : 14.2700644
+               }
+            },
+            "location" : {
+               "lat" : 49.9823757,
+               "lng" : 14.4291376
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1156275,
+                  "lng" : 14.5961969
+               },
+               "southwest" : {
+                  "lat" : 49.9604841,
+                  "lng" : 14.2700644
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,155 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode2": "0232",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Epe",
+        "lang": "link"
+      }],
+      "countryName": "Netherlands",
+      "adminCode1": "03",
+      "score": 15.48562240600586,
+      "lng": "5.96175",
+      "adminName2": "Gemeente Epe",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Amsterdam"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.2558072166856,
+        "east": 6.09485755358728,
+        "north": 52.3984374376092,
+        "west": 5.84083122190501
+      },
+      "name": "Gemeente Epe",
+      "fcode": "ADM2",
+      "geonameId": 2756058,
+      "asciiName": "Gemeente Epe",
+      "lat": "52.33394",
+      "population": 32881,
+      "adminName1": "Gelderland",
+      "adminId1": "2755634",
+      "countryId": "2750405",
+      "fclName": "country, state, region,...",
+      "countryCode": "NL",
+      "adminId2": "2756058",
+      "toponymName": "Gemeente Epe",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "85056",
+      "alternateNames": [
+        {
+          "name": "Homoródalmás",
+          "lang": "hu"
+        },
+        {
+          "name": "http://www.geonames.org/maps/google_46.235_25.461.html",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Romania",
+      "adminCode1": "20",
+      "score": 15.48562240600586,
+      "lng": "25.46099",
+      "adminName2": "Comuna Mereşti",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Comuna Mereşti",
+      "fcode": "ADM2",
+      "geonameId": 673569,
+      "asciiName": "Comuna Meresti",
+      "lat": "46.23458",
+      "population": 0,
+      "adminName1": "Harghita",
+      "countryId": "798549",
+      "adminId1": "676309",
+      "fclName": "country, state, region,...",
+      "countryCode": "RO",
+      "adminId2": "673569",
+      "toponymName": "Comuna Mereşti",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "alternateNames": [{
+        "name": "کوه کن",
+        "lang": "fa"
+      }],
+      "countryName": "Iran",
+      "adminCode1": "28",
+      "score": 9.67851448059082,
+      "lng": "51.72536",
+      "adminName2": "",
+      "fcodeName": "mountain",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4.5,
+        "gmtOffset": 3.5,
+        "timeZoneId": "Asia/Tehran"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Kūh-e Kan",
+      "fcode": "MT",
+      "geonameId": 38493,
+      "asciiName": "Kuh-e Kan",
+      "lat": "31.88939",
+      "population": 0,
+      "adminName1": "Ostān-e Eşfahān",
+      "countryId": "130758",
+      "adminId1": "418862",
+      "fclName": "mountain,hill,rock,... ",
+      "elevation": 2472,
+      "countryCode": "IR",
+      "toponymName": "Kūh-e Kan",
+      "fcl": "T",
+      "continentCode": "AS"
+    },
+    {
+      "countryName": "Northern Mariana Islands",
+      "adminCode1": "110",
+      "score": 7.74281120300293,
+      "lng": "145.7",
+      "adminName2": "",
+      "fcodeName": "point",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 10,
+        "gmtOffset": 10,
+        "timeZoneId": "Pacific/Saipan"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Puntan Susupe",
+      "fcode": "PT",
+      "geonameId": 4041587,
+      "asciiName": "Puntan Susupe",
+      "lat": "15.15619",
+      "population": 0,
+      "adminName1": "Saipan",
+      "countryId": "4041468",
+      "adminId1": "4041552",
+      "fclName": "mountain,hill,rock,... ",
+      "elevation": 0,
+      "countryCode": "MP",
+      "toponymName": "Puntan Susupe",
+      "fcl": "T",
+      "continentCode": "OC"
+    }
+  ]
+}

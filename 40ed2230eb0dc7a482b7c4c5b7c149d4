@@ -1,0 +1,789 @@
+{
+  "totalResultsCount": 798,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 10.99790006981632,
+        "south": 48.305601611448665,
+        "north": 48.43747438855134,
+        "west": 10.799127930183682
+      },
+      "asciiName": "Augsburg",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 59.81196975708008,
+      "adminId2": "2835521",
+      "adminId3": "3220868",
+      "countryCode": "DE",
+      "adminId4": "6557107",
+      "adminId1": "2951839",
+      "lat": "48.37154",
+      "fcode": "PPLA2",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09761",
+      "adminCode1": "02",
+      "lng": "10.89851",
+      "geonameId": 2954172,
+      "toponymName": "Augsburg",
+      "adminCode4": "09761000",
+      "population": 259196,
+      "adminName5": "",
+      "adminName4": "Augsburg",
+      "adminName3": "Kreisfreie Stadt Augsburg",
+      "alternateNames": [
+        {
+          "name": "Augsburg",
+          "lang": "als"
+        },
+        {
+          "name": "آوغسبورغ",
+          "lang": "ar"
+        },
+        {
+          "name": "Auqsburq",
+          "lang": "az"
+        },
+        {
+          "name": "Augschburg",
+          "lang": "bar"
+        },
+        {
+          "name": "Горад Аўгсбург",
+          "lang": "be"
+        },
+        {
+          "name": "Аугсбург",
+          "lang": "bg"
+        },
+        {
+          "name": "আউগ্‌সবুর্গ",
+          "lang": "bn"
+        },
+        {
+          "name": "Augusta Vindelicorum",
+          "lang": "ca"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "da"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "de"
+        },
+        {
+          "name": "Άουγκσμπουργκ",
+          "lang": "el"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "en"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "eo"
+        },
+        {
+          "name": "Augsburgo",
+          "lang": "es"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "et"
+        },
+        {
+          "name": "آوگسبورگ",
+          "lang": "fa"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "fi"
+        },
+        {
+          "name": "Augsbourg",
+          "lang": "fr"
+        },
+        {
+          "name": "Augsbörj",
+          "lang": "frr"
+        },
+        {
+          "name": "Augsburgo",
+          "lang": "gl"
+        },
+        {
+          "name": "אאוגסבורג",
+          "lang": "he"
+        },
+        {
+          "name": "औग्स्बुर्ग",
+          "lang": "hi"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "hr"
+        },
+        {
+          "name": "Ágsborg",
+          "lang": "is"
+        },
+        {
+          "name": "Augusta",
+          "lang": "it"
+        },
+        {
+          "name": "アウクスブルク",
+          "lang": "ja"
+        },
+        {
+          "name": "აუგსბურგი",
+          "lang": "ka"
+        },
+        {
+          "name": "Аугсбург",
+          "lang": "kk"
+        },
+        {
+          "name": "아우크스부르크",
+          "lang": "ko"
+        },
+        {
+          "name": "Augusta Vindelicorum",
+          "lang": "la"
+        },
+        {
+          "name": "Augsburgas",
+          "lang": "lt"
+        },
+        {
+          "name": "Augsburga",
+          "lang": "lv"
+        },
+        {
+          "name": "Аугсбург",
+          "lang": "mk"
+        },
+        {
+          "name": "आउग्सबुर्ग",
+          "lang": "mr"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "nl"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "no"
+        },
+        {
+          "name": "Augsborg",
+          "lang": "oc"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "pl"
+        },
+        {
+          "name": "اگزبرگ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Augsburgo",
+          "lang": "pt"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "ro"
+        },
+        {
+          "name": "Аугсбург",
+          "lang": "ru"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "sk"
+        },
+        {
+          "name": "Аугзбург",
+          "lang": "sr"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "sv"
+        },
+        {
+          "name": "ஔசுபூர்கு",
+          "lang": "ta"
+        },
+        {
+          "name": "เอาก์สบูร์ก",
+          "lang": "th"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "tr"
+        },
+        {
+          "name": "Аугсбург",
+          "lang": "uk"
+        },
+        {
+          "name": "AGB",
+          "lang": "unlc"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "vo"
+        },
+        {
+          "name": "奥格斯堡",
+          "lang": "zh"
+        },
+        {
+          "name": "奥格斯堡",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Swabia",
+      "name": "Augsburg",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Augsburg Airport",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 22.087032318115234,
+      "adminId2": "2835521",
+      "adminId3": "2803463",
+      "countryCode": "DE",
+      "adminId4": "6557111",
+      "adminId1": "2951839",
+      "lat": "48.42516",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 461,
+      "adminCode2": "097",
+      "adminCode3": "09771",
+      "adminCode1": "02",
+      "lng": "10.93176",
+      "geonameId": 3208383,
+      "toponymName": "Augsburg Airport",
+      "adminCode4": "09771112",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "Affing",
+      "adminName3": "Landkreis Aichach-Friedberg",
+      "alternateNames": [
+        {
+          "name": "Flughafen Augsburg",
+          "lang": "de"
+        },
+        {
+          "name": "Augsburg Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport d'Augsbourg",
+          "lang": "fr"
+        },
+        {
+          "name": "AGB",
+          "lang": "iata"
+        },
+        {
+          "name": "EDMA",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Augsburg_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Swabia",
+      "name": "Augsburg Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "airport",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Kreisfreie Stadt Augsburg",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 16.46270179748535,
+      "adminId2": "2835521",
+      "adminId3": "3220868",
+      "countryCode": "DE",
+      "adminId1": "2951839",
+      "lat": "48.35639",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09761",
+      "adminCode1": "02",
+      "lng": "10.91194",
+      "geonameId": 3220868,
+      "toponymName": "Kreisfreie Stadt Augsburg",
+      "population": 272699,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Kreisfreie Stadt Augsburg",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Augsburg",
+        "lang": "link"
+      }],
+      "adminName2": "Swabia",
+      "name": "Kreisfreie Stadt Augsburg",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 10.86981533147233,
+        "south": 48.3508355434171,
+        "north": 48.381990456582905,
+        "west": 10.82290666852767
+      },
+      "asciiName": "Stadtbergen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 15.617891311645508,
+      "adminId2": "2835521",
+      "adminId3": "3220871",
+      "countryCode": "DE",
+      "adminId4": "6558751",
+      "adminId1": "2951839",
+      "lat": "48.36641",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09772",
+      "adminCode1": "02",
+      "lng": "10.84636",
+      "geonameId": 2829790,
+      "toponymName": "Stadtbergen",
+      "adminCode4": "09772202",
+      "population": 14705,
+      "adminName5": "",
+      "adminName4": "Stadtbergen, Markt",
+      "adminName3": "Landkreis Augsburg",
+      "alternateNames": [
+        {
+          "name": "اشتات‌برگن",
+          "lang": "fa"
+        },
+        {
+          "name": "Штадтберген",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Stadtbergen",
+          "lang": "link"
+        },
+        {
+          "name": "Штадтберген",
+          "lang": "ru"
+        },
+        {
+          "name": "Штатберген",
+          "lang": "sr"
+        },
+        {
+          "name": "SDG",
+          "lang": "unlc"
+        },
+        {
+          "name": "施塔特贝尔根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Swabia",
+      "name": "Stadtbergen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "section of populated place",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Landkreis Augsburg",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 15.617891311645508,
+      "adminId2": "2835521",
+      "adminId3": "3220871",
+      "countryCode": "DE",
+      "adminId1": "2951839",
+      "lat": "48.3525",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09772",
+      "adminCode1": "02",
+      "lng": "10.71056",
+      "geonameId": 3220871,
+      "toponymName": "Landkreis Augsburg",
+      "population": 239004,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Landkreis Augsburg",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Augsburg_(district)",
+        "lang": "link"
+      }],
+      "adminName2": "Swabia",
+      "name": "Landkreis Augsburg",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 10.959563430264579,
+        "south": 48.25812607445934,
+        "north": 48.458636119862085,
+        "west": 10.763406709817506
+      },
+      "asciiName": "Augsburg",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 14.077775955200195,
+      "adminId2": "2835521",
+      "adminId3": "3220868",
+      "countryCode": "DE",
+      "adminId4": "6557107",
+      "adminId1": "2951839",
+      "lat": "48.36733",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09761",
+      "adminCode1": "02",
+      "lng": "10.89213",
+      "geonameId": 6557107,
+      "toponymName": "Augsburg",
+      "adminCode4": "09761000",
+      "population": 272699,
+      "adminName5": "",
+      "adminName4": "Augsburg",
+      "adminName3": "Kreisfreie Stadt Augsburg",
+      "alternateNames": [
+        {
+          "name": "Augsburg",
+          "lang": "de"
+        },
+        {
+          "name": "Augsburg",
+          "lang": "en"
+        },
+        {
+          "name": "Augsbourg",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Augsburg",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Swabia",
+      "name": "Augsburg",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Bahnhof Augsburg-Hochzoll",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 13.525489807128906,
+      "cc2": "DE",
+      "adminId2": "2835521",
+      "adminId3": "3220868",
+      "countryCode": "DE",
+      "adminId4": "6557107",
+      "adminId1": "2951839",
+      "lat": "48.35278",
+      "fcode": "RSTN",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09761",
+      "adminCode1": "02",
+      "lng": "10.94278",
+      "geonameId": 2830574,
+      "toponymName": "Bahnhof Augsburg-Hochzoll",
+      "adminCode4": "09761000",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "Augsburg",
+      "adminName3": "Kreisfreie Stadt Augsburg",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Augsburg-Hochzoll_station",
+        "lang": "link"
+      }],
+      "adminName2": "Swabia",
+      "name": "Bahnhof Augsburg-Hochzoll",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "railroad station",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 10.779126390378481,
+        "south": 48.16436872079763,
+        "north": 48.19419727920236,
+        "west": 10.734379609621518
+      },
+      "asciiName": "Schwabmunchen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 13.525489807128906,
+      "adminId2": "2835521",
+      "adminId3": "3220871",
+      "countryCode": "DE",
+      "adminId4": "6558406",
+      "adminId1": "2951839",
+      "lat": "48.17928",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09772",
+      "adminCode1": "02",
+      "lng": "10.75675",
+      "geonameId": 2835477,
+      "toponymName": "Schwabmünchen",
+      "adminCode4": "09772200",
+      "population": 13232,
+      "adminName5": "",
+      "adminName4": "Schwabmünchen",
+      "adminName3": "Landkreis Augsburg",
+      "alternateNames": [
+        {
+          "name": "شوابمونشن",
+          "lang": "fa"
+        },
+        {
+          "name": "Швабмюнхен",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Schwabm%C3%BCnchen",
+          "lang": "link"
+        },
+        {
+          "name": "Швабмюнхен",
+          "lang": "ru"
+        },
+        {
+          "name": "Швабминхен",
+          "lang": "sr"
+        },
+        {
+          "name": "SMN",
+          "lang": "unlc"
+        },
+        {
+          "name": "施瓦布明兴",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Swabia",
+      "name": "Schwabmünchen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 10.872170166267612,
+        "south": 48.53236852687286,
+        "north": 48.55934947312714,
+        "west": 10.831403833732388
+      },
+      "asciiName": "Meitingen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 13.525489807128906,
+      "adminId2": "2835521",
+      "adminId3": "3220871",
+      "countryCode": "DE",
+      "adminId4": "6558750",
+      "adminId1": "2951839",
+      "lat": "48.54586",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09772",
+      "adminCode1": "02",
+      "lng": "10.85179",
+      "geonameId": 2872126,
+      "toponymName": "Meitingen",
+      "adminCode4": "09772177",
+      "population": 11201,
+      "adminName5": "",
+      "adminName4": "Meitingen, Markt",
+      "adminName3": "Landkreis Augsburg",
+      "alternateNames": [
+        {
+          "name": "Meitinga",
+          "lang": "bar"
+        },
+        {
+          "name": "Майтинген",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Meitingen",
+          "lang": "link"
+        },
+        {
+          "name": "Майтинген",
+          "lang": "ru"
+        },
+        {
+          "name": "Мајтинген",
+          "lang": "sr"
+        },
+        {
+          "name": "MII",
+          "lang": "unlc"
+        },
+        {
+          "name": "迈廷根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Swabia",
+      "name": "Meitingen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 10.858268660937357,
+        "south": 48.25469246913602,
+        "north": 48.287119530863976,
+        "west": 10.809535339062643
+      },
+      "asciiName": "Bobingen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 13.525489807128906,
+      "adminId2": "2835521",
+      "adminId3": "3220871",
+      "countryCode": "DE",
+      "adminId4": "6558402",
+      "adminId1": "2951839",
+      "lat": "48.27091",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "097",
+      "adminCode3": "09772",
+      "adminCode1": "02",
+      "lng": "10.8339",
+      "geonameId": 2947449,
+      "toponymName": "Bobingen",
+      "adminCode4": "09772125",
+      "population": 16682,
+      "adminName5": "",
+      "adminName4": "Bobingen",
+      "adminName3": "Landkreis Augsburg",
+      "alternateNames": [
+        {
+          "name": "بوبینگن",
+          "lang": "fa"
+        },
+        {
+          "name": "Бобинген",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bobingen",
+          "lang": "link"
+        },
+        {
+          "name": "Бобинген",
+          "lang": "ru"
+        },
+        {
+          "name": "Бобинген",
+          "lang": "sr"
+        },
+        {
+          "name": "BOB",
+          "lang": "unlc"
+        },
+        {
+          "name": "博宾根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Swabia",
+      "name": "Bobingen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "Bavaria"
+    }
+  ]
+}

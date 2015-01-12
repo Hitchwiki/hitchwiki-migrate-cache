@@ -1,0 +1,126 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Isle_of_Man",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -4.740142944312419,
+        "south": 54.07851186936996,
+        "north": 54.09123080940945,
+        "west": -4.761829254173909
+      },
+      "asciiName": "Port Erin",
+      "countryId": "3042225",
+      "fcl": "P",
+      "score": 110.37866973876953,
+      "cc2": "GB",
+      "countryCode": "IM",
+      "adminId1": "9782189",
+      "lat": "54.08487",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "9782189",
+      "lng": "-4.75099",
+      "geonameId": 3042196,
+      "toponymName": "Port Erin",
+      "population": 3530,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Port_Erin",
+          "lang": "link"
+        },
+        {
+          "name": "Порт-Эрин",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Port Erin",
+      "fclName": "city, village,...",
+      "countryName": "Isle of Man",
+      "fcodeName": "populated place",
+      "adminName1": "Port Erin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Isle_of_Man",
+        "dstOffset": 1
+      },
+      "asciiName": "Port Erin",
+      "countryId": "3042225",
+      "fcl": "A",
+      "score": 52.699363708496094,
+      "cc2": "GB",
+      "countryCode": "IM",
+      "adminId1": "9782189",
+      "lat": "54.08523",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "9782189",
+      "lng": "-4.74987",
+      "geonameId": 9782189,
+      "toponymName": "Port Erin",
+      "population": 3530,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Purt Çhiarn",
+          "lang": "gv"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Port_Erin",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Port Erin",
+      "fclName": "country, state, region,...",
+      "countryName": "Isle of Man",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Port Erin"
+    },
+    {
+      "lng": "-4.75633",
+      "geonameId": 6953984,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Isle_of_Man",
+        "dstOffset": 1
+      },
+      "toponymName": "Port Erin Railway Station",
+      "asciiName": "Port Erin Railway Station",
+      "countryId": "3042225",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 17.928686141967773,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Port_Erin_railway_station",
+        "lang": "link"
+      }],
+      "cc2": "GB",
+      "adminName2": "",
+      "countryCode": "IM",
+      "name": "Port Erin Railway Station",
+      "fclName": "spot, building, farm",
+      "countryName": "Isle of Man",
+      "fcodeName": "railroad station",
+      "adminName1": "",
+      "lat": "54.08465",
+      "fcode": "RSTN",
+      "continentCode": "EU"
+    }
+  ]
+}

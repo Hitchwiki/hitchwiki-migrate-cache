@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trento",
+               "short_name" : "Trento",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trent",
+               "short_name" : "Trent",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Trentino",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trentino-Alto Adige/South Tyrol",
+               "short_name" : "Trentino-Alto Adige/South Tyrol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38122",
+               "short_name" : "38122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "38122 Trento, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1327915,
+                  "lng" : 11.1580189
+               },
+               "southwest" : {
+                  "lat" : 46.0281314,
+                  "lng" : 11.0826925
+               }
+            },
+            "location" : {
+               "lat" : 46.0700915,
+               "lng" : 11.1197626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1327915,
+                  "lng" : 11.1580189
+               },
+               "southwest" : {
+                  "lat" : 46.0281314,
+                  "lng" : 11.0826925
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

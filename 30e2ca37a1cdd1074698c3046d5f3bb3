@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A96",
+               "short_name" : "A96",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A96, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1304612,
+                  "lng" : 11.5135141
+               },
+               "southwest" : {
+                  "lat" : 47.5470591,
+                  "lng" : 9.7320852
+               }
+            },
+            "location" : {
+               "lat" : 48.0239319,
+               "lng" : 10.6958459
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1304612,
+                  "lng" : 11.5135141
+               },
+               "southwest" : {
+                  "lat" : 47.5470591,
+                  "lng" : 9.7320852
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

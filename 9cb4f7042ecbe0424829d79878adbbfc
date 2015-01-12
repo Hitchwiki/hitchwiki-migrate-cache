@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fiji",
+               "short_name" : "FJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fiji",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.4795352,
+                  "lng" : -178.2301068
+               },
+               "southwest" : {
+                  "lat" : -20.6694303,
+                  "lng" : 176.9094944
+               }
+            },
+            "location" : {
+               "lat" : -17.713371,
+               "lng" : 178.065032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.7088268,
+                  "lng" : -178.3928847
+               },
+               "southwest" : {
+                  "lat" : -19.2161517,
+                  "lng" : 176.9094944
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

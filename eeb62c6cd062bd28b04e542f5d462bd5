@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chuy",
+               "short_name" : "Chuy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rocha",
+               "short_name" : "Rocha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chuy, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.6689968,
+                  "lng" : -53.4399034
+               },
+               "southwest" : {
+                  "lat" : -33.7035635,
+                  "lng" : -53.476553
+               }
+            },
+            "location" : {
+               "lat" : -33.6934211,
+               "lng" : -53.460823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.6689968,
+                  "lng" : -53.4399034
+               },
+               "southwest" : {
+                  "lat" : -33.7035635,
+                  "lng" : -53.476553
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

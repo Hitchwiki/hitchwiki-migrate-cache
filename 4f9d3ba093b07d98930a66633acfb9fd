@@ -1,0 +1,636 @@
+{
+  "totalResultsCount": 4422,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Athens",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 26.352985092395564,
+        "south": 34.80206633914664,
+        "north": 35.69558800441545,
+        "west": 23.471204114139375
+      },
+      "asciiName": "Crete",
+      "countryId": "390903",
+      "fcl": "A",
+      "score": 48.14963150024414,
+      "countryCode": "GR",
+      "adminId1": "6697802",
+      "lat": "35.15585",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "ESYE43",
+      "lng": "24.89502",
+      "geonameId": 6697802,
+      "toponymName": "Crete",
+      "population": 601131,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Kreta",
+          "lang": "de"
+        },
+        {
+          "name": "Κρήτη",
+          "lang": "el"
+        },
+        {
+          "name": "Crete",
+          "lang": "en"
+        },
+        {
+          "name": "Crète",
+          "lang": "fr"
+        },
+        {
+          "name": "Creta",
+          "lang": "it"
+        },
+        {
+          "name": "크리티 주",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Crete",
+          "lang": "link"
+        },
+        {
+          "name": "Kreta",
+          "lang": "nb"
+        },
+        {
+          "name": "Kreta",
+          "lang": "nl"
+        },
+        {
+          "name": "Kreta",
+          "lang": "nn"
+        },
+        {
+          "name": "Kreta",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "Crete",
+      "fclName": "country, state, region,...",
+      "countryName": "Greece",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Crete"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Athens",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 25.202298291341208,
+        "south": 35.279857893375464,
+        "north": 35.375883784865735,
+        "west": 25.084528796061193
+      },
+      "asciiName": "Irakleion",
+      "countryId": "390903",
+      "fcl": "P",
+      "score": 24.60933494567871,
+      "adminId2": "261741",
+      "adminId3": "8133920",
+      "countryCode": "GR",
+      "adminId1": "6697802",
+      "lat": "35.32787",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "45",
+      "adminCode3": "9305",
+      "adminCode1": "ESYE43",
+      "lng": "25.14341",
+      "geonameId": 261745,
+      "toponymName": "Irákleion",
+      "population": 137154,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Heraklion",
+      "alternateNames": [
+        {
+          "name": "Ираклио",
+          "lang": "bg"
+        },
+        {
+          "name": "Càndia",
+          "lang": "ca"
+        },
+        {
+          "name": "Iraklio",
+          "lang": "cs"
+        },
+        {
+          "name": "Iraklio",
+          "lang": "da"
+        },
+        {
+          "name": "Iraklio",
+          "lang": "de"
+        },
+        {
+          "name": "Ηράκλειο",
+          "lang": "el"
+        },
+        {
+          "name": "Heraklion",
+          "lang": "en"
+        },
+        {
+          "name": "Heraklion",
+          "lang": "es"
+        },
+        {
+          "name": "Heraklion",
+          "lang": "fi"
+        },
+        {
+          "name": "Héraklion",
+          "lang": "fr"
+        },
+        {
+          "name": "הרקליון",
+          "lang": "he"
+        },
+        {
+          "name": "Iráklio",
+          "lang": "hu"
+        },
+        {
+          "name": "HER",
+          "lang": "iata"
+        },
+        {
+          "name": "Heraklion",
+          "lang": "id"
+        },
+        {
+          "name": "Iraklio",
+          "lang": "it"
+        },
+        {
+          "name": "イラクリオン",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Heraklion",
+          "lang": "link"
+        },
+        {
+          "name": "Iraklija",
+          "lang": "lv"
+        },
+        {
+          "name": "Iraklion",
+          "lang": "nl"
+        },
+        {
+          "name": "Iráklio",
+          "lang": "nn"
+        },
+        {
+          "name": "Iráklio",
+          "lang": "no"
+        },
+        {
+          "name": "Iraklion",
+          "lang": "pl"
+        },
+        {
+          "name": "Heraclião",
+          "lang": "pt"
+        },
+        {
+          "name": "Heraklion",
+          "lang": "ro"
+        },
+        {
+          "name": "Ираклион",
+          "lang": "ru"
+        },
+        {
+          "name": "Iraklio",
+          "lang": "sk"
+        },
+        {
+          "name": "Heraklion",
+          "lang": "sv"
+        },
+        {
+          "name": "Kandiye",
+          "lang": "tr"
+        },
+        {
+          "name": "HER",
+          "lang": "unlc"
+        },
+        {
+          "name": "伊拉克利翁",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Irákleion",
+      "name": "Heraklion",
+      "fclName": "city, village,...",
+      "countryName": "Greece",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Crete"
+    },
+    {
+      "lng": "25.14238",
+      "geonameId": 258763,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Athens",
+        "dstOffset": 3
+      },
+      "toponymName": "Crete",
+      "asciiName": "Crete",
+      "countryId": "390903",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 21.31231117248535,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "كريت",
+          "lang": "ar"
+        },
+        {
+          "name": "Крит",
+          "lang": "bg"
+        },
+        {
+          "name": "Kréta",
+          "lang": "cs"
+        },
+        {
+          "name": "Kreta",
+          "lang": "da"
+        },
+        {
+          "name": "Kreta",
+          "lang": "de"
+        },
+        {
+          "name": "Κρήτη",
+          "lang": "el"
+        },
+        {
+          "name": "Crete",
+          "lang": "en"
+        },
+        {
+          "name": "Kreeta",
+          "lang": "fi"
+        },
+        {
+          "name": "Crète",
+          "lang": "fr"
+        },
+        {
+          "name": "כרתים",
+          "lang": "he"
+        },
+        {
+          "name": "Kreta",
+          "lang": "hr"
+        },
+        {
+          "name": "Kréta",
+          "lang": "hu"
+        },
+        {
+          "name": "Krít",
+          "lang": "is"
+        },
+        {
+          "name": "Creta",
+          "lang": "it"
+        },
+        {
+          "name": "クレタ島",
+          "lang": "ja"
+        },
+        {
+          "name": "크레타",
+          "lang": "ko"
+        },
+        {
+          "name": "Kreta",
+          "lang": "nb"
+        },
+        {
+          "name": "Kreta",
+          "lang": "nl"
+        },
+        {
+          "name": "Kreta",
+          "lang": "nn"
+        },
+        {
+          "name": "Kreta",
+          "lang": "no"
+        },
+        {
+          "name": "Kreta",
+          "lang": "pl"
+        },
+        {
+          "name": "Крит",
+          "lang": "ru"
+        },
+        {
+          "name": "Kreta",
+          "lang": "sv"
+        },
+        {
+          "name": "Girit",
+          "lang": "tr"
+        },
+        {
+          "name": "Крит",
+          "lang": "uk"
+        },
+        {
+          "name": "克里特",
+          "lang": "zh"
+        }
+      ],
+      "cc2": "GR",
+      "adminName2": "",
+      "countryCode": "GR",
+      "name": "Crete",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Greece",
+      "fcodeName": "island",
+      "adminName1": "",
+      "lat": "35.34194",
+      "fcode": "ISL",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Jersey",
+        "dstOffset": 1
+      },
+      "asciiName": "La Crete Point",
+      "countryId": "3042142",
+      "fcl": "T",
+      "score": 18.457000732421875,
+      "cc2": "GB",
+      "countryCode": "JE",
+      "lat": "49.25139",
+      "fcode": "PT",
+      "continentCode": "EU",
+      "adminCode1": "00",
+      "lng": "-2.11222",
+      "geonameId": 3042135,
+      "toponymName": "La Crête Point",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "La Crête Point",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "La Crête Point",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Jersey",
+      "fcodeName": "point",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Crete",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.40142822265625,
+      "adminId2": "6068167",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "48.03639",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "04",
+      "adminCode1": "10",
+      "lng": "-73.30861",
+      "geonameId": 6005819,
+      "toponymName": "Lac Crête",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Mauricie",
+      "name": "Lac Crête",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Crete",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.40142822265625,
+      "adminId2": "6068167",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "47.05611",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "04",
+      "adminCode1": "10",
+      "lng": "-72.55583",
+      "geonameId": 6005820,
+      "toponymName": "Lac Crête",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Mauricie",
+      "name": "Lac Crête",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Crete",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.40142822265625,
+      "adminId2": "6068167",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "47.42449",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "04",
+      "adminCode1": "10",
+      "lng": "-73.16178",
+      "geonameId": 6005821,
+      "toponymName": "Lac Crête",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Mauricie",
+      "name": "Lac Crête",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Athens",
+        "dstOffset": 3
+      },
+      "asciiName": "Creta et Cyrenae",
+      "countryId": "390903",
+      "fcl": "A",
+      "score": 17.40142822265625,
+      "adminId2": "261741",
+      "adminId3": "8133944",
+      "countryCode": "GR",
+      "adminId1": "6697802",
+      "lat": "35.05651",
+      "fcode": "ADM1H",
+      "continentCode": "EU",
+      "adminCode2": "45",
+      "adminCode3": "9304",
+      "adminCode1": "ESYE43",
+      "lng": "24.95306",
+      "geonameId": 8378492,
+      "toponymName": "Creta et Cyrenae",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gortyna",
+      "alternateNames": [
+        {
+          "name": "Kreta und Kyrene (römische Provinz)",
+          "lang": "de"
+        },
+        {
+          "name": "Creta and Cyrenae (Roman province)",
+          "lang": "en"
+        },
+        {
+          "name": "Creta y Cirenaica (provincia romana)",
+          "lang": "es"
+        },
+        {
+          "name": "Crète et Cyrénaïque (province romaine)",
+          "lang": "fr"
+        },
+        {
+          "name": "Creta e Cirene (provincia romana)",
+          "lang": "it"
+        },
+        {
+          "name": "Creta et Cyrenaica",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Creta_et_Cyrenaica",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Irákleion",
+      "name": "Creta and Cyrenae (Roman province)",
+      "fclName": "country, state, region,...",
+      "countryName": "Greece",
+      "fcodeName": "historical first-order administrative division",
+      "adminName1": "Crete"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "55.5101",
+      "geonameId": 935946,
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Indian/Reunion",
+        "dstOffset": 4
+      },
+      "toponymName": "Piton Crête Rivière des Marsouins",
+      "asciiName": "Piton Crete Riviere des Marsouins",
+      "countryId": "935317",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 17.19629669189453,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "RE",
+      "name": "Piton Crête Rivière des Marsouins",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Réunion",
+      "fcodeName": "peak",
+      "adminName1": "",
+      "lat": "-21.09446",
+      "fcode": "PK",
+      "continentCode": "AF"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "-61.65269",
+      "geonameId": 3579320,
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Guadeloupe",
+        "dstOffset": -4
+      },
+      "toponymName": "Crête Fougas",
+      "asciiName": "Crete Fougas",
+      "countryId": "3579143",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 15.984233856201172,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "GP",
+      "name": "Crête Fougas",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Guadeloupe",
+      "fcodeName": "ridge(s)",
+      "adminName1": "",
+      "lat": "16.01247",
+      "fcode": "RDGE",
+      "continentCode": "NA"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Foggia",
+               "short_name" : "Foggia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Foggia",
+               "short_name" : "Foggia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Foggia",
+               "short_name" : "FG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puglia",
+               "short_name" : "Puglia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Foggia FG, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4795093,
+                  "lng" : 15.5835768
+               },
+               "southwest" : {
+                  "lat" : 41.4346673,
+                  "lng" : 15.5183242
+               }
+            },
+            "location" : {
+               "lat" : 41.4621984,
+               "lng" : 15.5446302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4795093,
+                  "lng" : 15.5835768
+               },
+               "southwest" : {
+                  "lat" : 41.4346673,
+                  "lng" : 15.5183242
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

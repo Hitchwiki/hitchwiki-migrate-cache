@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porto-Vecchio",
+               "short_name" : "Porto-Vecchio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corse-du-Sud",
+               "short_name" : "2A",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Corsica",
+               "short_name" : "Corsica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porto-Vecchio, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.687006,
+                  "lng" : 9.382104999999999
+               },
+               "southwest" : {
+                  "lat" : 41.482693,
+                  "lng" : 9.163841999999999
+               }
+            },
+            "location" : {
+               "lat" : 41.591369,
+               "lng" : 9.278311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.687006,
+                  "lng" : 9.382104999999999
+               },
+               "southwest" : {
+                  "lat" : 41.482693,
+                  "lng" : 9.163841999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

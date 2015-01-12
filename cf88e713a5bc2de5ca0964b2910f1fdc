@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madeira Islands",
+               "short_name" : "Madeira Islands",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madeira Islands, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8706252,
+                  "lng" : -16.6791408
+               },
+               "southwest" : {
+                  "lat" : 32.6328771,
+                  "lng" : -17.2659373
+               }
+            },
+            "location" : {
+               "lat" : 32.76070740000001,
+               "lng" : -16.9594723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8706252,
+                  "lng" : -16.6791408
+               },
+               "southwest" : {
+                  "lat" : 32.6328771,
+                  "lng" : -17.2659373
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antigua",
+               "short_name" : "Antigua",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Antigua and Barbuda",
+               "short_name" : "AG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antigua, Antigua and Barbuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.1737597,
+                  "lng" : -61.6731547
+               },
+               "southwest" : {
+                  "lat" : 16.9976258,
+                  "lng" : -61.9062506
+               }
+            },
+            "location" : {
+               "lat" : 17.0746557,
+               "lng" : -61.8175207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1737597,
+                  "lng" : -61.6731547
+               },
+               "southwest" : {
+                  "lat" : 16.9976258,
+                  "lng" : -61.9062506
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

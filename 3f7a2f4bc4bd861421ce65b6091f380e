@@ -1,0 +1,68 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode1": "00",
+      "lng": "129.95278",
+      "geonameId": 1898189,
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Tokyo",
+        "dstOffset": 9
+      },
+      "toponymName": "Myoto-ishi",
+      "asciiName": "Myoto-ishi",
+      "countryId": "1861060",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 19.9958438873291,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "JP",
+      "name": "Myoto-ishi",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Japan",
+      "fcodeName": "rock",
+      "adminName1": "",
+      "lat": "33.53056",
+      "fcode": "RK",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Asia/Magadan",
+        "dstOffset": 10
+      },
+      "asciiName": "Gora Myshkina",
+      "countryId": "2017370",
+      "fcl": "T",
+      "score": 16.9670352935791,
+      "countryCode": "RU",
+      "adminId1": "2121529",
+      "lat": "50.07999",
+      "fcode": "MT",
+      "continentCode": "EU",
+      "adminCode1": "64",
+      "lng": "155.35799",
+      "geonameId": 2131199,
+      "toponymName": "Gora Myshkina",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Гора Мышкина",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Gora Myshkina",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Russia",
+      "fcodeName": "mountain",
+      "adminName1": "Sakhalin"
+    }
+  ]
+}

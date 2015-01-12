@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volgograd",
+               "short_name" : "Volgograd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Volgograd",
+               "short_name" : "g. Volgograd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volgograd Oblast",
+               "short_name" : "Volgograd Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Volgograd, Volgograd Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.88889,
+                  "lng" : 44.6808849
+               },
+               "southwest" : {
+                  "lat" : 48.4519489,
+                  "lng" : 44.325783
+               }
+            },
+            "location" : {
+               "lat" : 48.7,
+               "lng" : 44.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.88889,
+                  "lng" : 44.6808849
+               },
+               "southwest" : {
+                  "lat" : 48.4519489,
+                  "lng" : 44.325783
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

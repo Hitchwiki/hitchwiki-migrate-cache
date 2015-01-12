@@ -1,0 +1,144 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayacucho",
+               "short_name" : "Ayacucho",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ayacucho, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.174872,
+                  "lng" : -72.8409269
+               },
+               "southwest" : {
+                  "lat" : -15.6254561,
+                  "lng" : -75.131586
+               }
+            },
+            "location" : {
+               "lat" : -13.935963,
+               "lng" : -74.0300122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.174872,
+                  "lng" : -72.8409269
+               },
+               "southwest" : {
+                  "lat" : -15.6254561,
+                  "lng" : -75.131586
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayacucho",
+               "short_name" : "Ayacucho",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huamanga",
+               "short_name" : "Huamanga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ayacucho",
+               "short_name" : "Ayacucho",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ayacucho, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.1192574,
+                  "lng" : -74.18004379999999
+               },
+               "southwest" : {
+                  "lat" : -13.197473,
+                  "lng" : -74.2445644
+               }
+            },
+            "location" : {
+               "lat" : -13.1638737,
+               "lng" : -74.22356409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.1192574,
+                  "lng" : -74.18004379999999
+               },
+               "southwest" : {
+                  "lat" : -13.197473,
+                  "lng" : -74.2445644
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ayacucho",
+               "short_name" : "Ayacucho",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ayacucho Partido",
+               "short_name" : "Ayacucho Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ayacucho, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.1502686,
+               "lng" : -58.4829712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.14891961970849,
+                  "lng" : -58.4816222197085
+               },
+               "southwest" : {
+                  "lat" : -37.15161758029149,
+                  "lng" : -58.4843201802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

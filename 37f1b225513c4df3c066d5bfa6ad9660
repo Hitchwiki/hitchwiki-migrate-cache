@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "GTO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "León, Guanajuato, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.2130529,
+                  "lng" : -101.5618104
+               },
+               "southwest" : {
+                  "lat" : 21.0303351,
+                  "lng" : -101.7664195
+               }
+            },
+            "location" : {
+               "lat" : 21.1250077,
+               "lng" : -101.6859605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.2130529,
+                  "lng" : -101.5618104
+               },
+               "southwest" : {
+                  "lat" : 21.0303351,
+                  "lng" : -101.7664195
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "León, León, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.623248,
+                  "lng" : -5.554772499999999
+               },
+               "southwest" : {
+                  "lat" : 42.5839633,
+                  "lng" : -5.6000101
+               }
+            },
+            "location" : {
+               "lat" : 42.5987263,
+               "lng" : -5.5670959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.623248,
+                  "lng" : -5.554772499999999
+               },
+               "southwest" : {
+                  "lat" : 42.5839633,
+                  "lng" : -5.6000101
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

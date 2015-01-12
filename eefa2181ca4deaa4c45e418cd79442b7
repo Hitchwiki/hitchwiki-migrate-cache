@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rancagua",
+               "short_name" : "Rancagua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rancagua",
+               "short_name" : "Rancagua",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cachapoal",
+               "short_name" : "Cachapoal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "O'Higgins Region",
+               "short_name" : "O'Higgins Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rancagua, Rancagua, O'Higgins Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.020155,
+                  "lng" : -70.67947020000001
+               },
+               "southwest" : {
+                  "lat" : -34.2147824,
+                  "lng" : -70.9359199
+               }
+            },
+            "location" : {
+               "lat" : -34.168052,
+               "lng" : -70.73896499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.020155,
+                  "lng" : -70.67947020000001
+               },
+               "southwest" : {
+                  "lat" : -34.2147824,
+                  "lng" : -70.9359199
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

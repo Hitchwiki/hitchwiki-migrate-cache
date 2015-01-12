@@ -1,0 +1,173 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.396192556676466,
+        "south": 52.229810522427314,
+        "north": 52.259639080832045,
+        "west": 7.347459787073534
+      },
+      "asciiName": "Neuenkirchen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 13.835860252380371,
+      "adminId2": "2867539",
+      "adminId3": "3247443",
+      "countryCode": "DE",
+      "adminId4": "6553108",
+      "adminId1": "2861876",
+      "lat": "52.24472",
+      "fcode": "PPLA4",
+      "continentCode": "EU",
+      "adminCode2": "055",
+      "adminCode3": "05566",
+      "adminCode1": "07",
+      "lng": "7.37183",
+      "geonameId": 2865641,
+      "toponymName": "Neuenkirchen",
+      "adminCode4": "05566060",
+      "population": 13953,
+      "adminName5": "",
+      "adminName4": "Neuenkirchen",
+      "adminName3": "Kreis Steinfurt",
+      "adminName2": "Regierungsbezirk Münster",
+      "name": "Neuenkirchen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "seat of a fourth-order administrative division",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Neuenkirchen",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 13.835860252380371,
+      "adminId2": "2867539",
+      "adminId3": "3247443",
+      "countryCode": "DE",
+      "adminId4": "6553108",
+      "adminId1": "2861876",
+      "lat": "52.25",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "055",
+      "adminCode3": "05566",
+      "adminCode1": "07",
+      "lng": "7.36667",
+      "geonameId": 6553108,
+      "toponymName": "Neuenkirchen",
+      "adminCode4": "05566060",
+      "population": 13578,
+      "adminName5": "",
+      "adminName4": "Neuenkirchen",
+      "adminName3": "Kreis Steinfurt",
+      "alternateNames": [
+        {
+          "name": "Нойенкирхен",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Neuenkirchen%2C_Westphalia",
+          "lang": "link"
+        },
+        {
+          "name": "Nienkiärken",
+          "lang": "nds"
+        },
+        {
+          "name": "Нойенкирхен",
+          "lang": "ru"
+        },
+        {
+          "name": "Нојенкирхен",
+          "lang": "sr"
+        }
+      ],
+      "adminName2": "Regierungsbezirk Münster",
+      "name": "Neuenkirchen",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.459117239509968,
+        "south": 51.82232835124857,
+        "north": 51.84031564875143,
+        "west": 8.430004760490032
+      },
+      "asciiName": "Neuenkirchen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 12.593238830566406,
+      "countryCode": "DE",
+      "adminId1": "2861876",
+      "lat": "51.83132",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "07",
+      "lng": "8.44456",
+      "geonameId": 2865644,
+      "toponymName": "Neuenkirchen",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Neuenkirchen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "LANDIDYLL WILMINKS PARKHOTEL",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 2.094118356704712,
+      "adminId2": "2867539",
+      "countryCode": "DE",
+      "adminId1": "2861876",
+      "lat": "52.239",
+      "fcode": "HTL",
+      "continentCode": "EU",
+      "adminCode2": "055",
+      "adminCode1": "07",
+      "lng": "7.366",
+      "geonameId": 6529362,
+      "toponymName": "Landidyll Wilminks Parkhotel",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Regierungsbezirk Münster",
+      "name": "Landidyll Wilminks Parkhotel",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "hotel",
+      "adminName1": "North Rhine-Westphalia"
+    }
+  ]
+}

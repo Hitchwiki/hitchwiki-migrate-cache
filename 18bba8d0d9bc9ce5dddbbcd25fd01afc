@@ -1,0 +1,109 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.219244702981699,
+        "south": 52.190034702497144,
+        "north": 52.226009297502856,
+        "west": 7.1605152970183
+      },
+      "asciiName": "Ochtrup",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 34.28573226928711,
+      "adminId2": "2867539",
+      "countryCode": "DE",
+      "adminId1": "2861876",
+      "lat": "52.20802",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "055",
+      "adminCode1": "07",
+      "lng": "7.18988",
+      "geonameId": 2858245,
+      "toponymName": "Ochtrup",
+      "population": 19441,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "اکتروپ",
+          "lang": "fa"
+        },
+        {
+          "name": "Охтруп",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Ochtrup",
+          "lang": "link"
+        },
+        {
+          "name": "Охтруп",
+          "lang": "ru"
+        },
+        {
+          "name": "Охтруп",
+          "lang": "sr"
+        },
+        {
+          "name": "OCT",
+          "lang": "unlc"
+        },
+        {
+          "name": "奥特鲁普",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Regierungsbezirk Münster",
+      "name": "Ochtrup",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Ochtrup",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 19.79487419128418,
+      "adminId2": "2867539",
+      "adminId3": "3247443",
+      "countryCode": "DE",
+      "adminId4": "6557599",
+      "adminId1": "2861876",
+      "lat": "52.2162",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "055",
+      "adminCode3": "05566",
+      "adminCode1": "07",
+      "lng": "7.1771",
+      "geonameId": 6557599,
+      "toponymName": "Ochtrup",
+      "adminCode4": "05566068",
+      "population": 19077,
+      "adminName5": "",
+      "adminName4": "Ochtrup",
+      "adminName3": "Kreis Steinfurt",
+      "adminName2": "Regierungsbezirk Münster",
+      "name": "Ochtrup",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "North Rhine-Westphalia"
+    }
+  ]
+}

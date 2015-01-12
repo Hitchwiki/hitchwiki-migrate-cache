@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scrabster",
+               "short_name" : "Scrabster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thurso",
+               "short_name" : "Thurso",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KW14",
+               "short_name" : "KW14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Scrabster, Thurso, Highland KW14, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.61102599999999,
+               "lng" : -3.552627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.61683710000001,
+                  "lng" : -3.5366196
+               },
+               "southwest" : {
+                  "lat" : 58.6052139,
+                  "lng" : -3.5686344
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

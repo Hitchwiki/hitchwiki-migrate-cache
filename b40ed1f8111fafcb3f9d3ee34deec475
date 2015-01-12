@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A17",
+               "short_name" : "A17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A17, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1716576,
+                  "lng" : 3.3255014
+               },
+               "southwest" : {
+                  "lat" : 50.61344769999999,
+                  "lng" : 3.1530064
+               }
+            },
+            "location" : {
+               "lat" : 50.8988616,
+               "lng" : 3.1765188
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1716576,
+                  "lng" : 3.3255014
+               },
+               "southwest" : {
+                  "lat" : 50.61344769999999,
+                  "lng" : 3.1530064
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

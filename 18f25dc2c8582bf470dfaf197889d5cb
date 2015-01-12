@@ -1,0 +1,442 @@
+{
+  "totalResultsCount": 32,
+  "geonames": [
+    {
+      "adminCode2": "4801",
+      "alternateNames": [
+        {
+          "name": "Lajes das Flores Municipality",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Lajes_das_Flores_%28Azores%29",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 46.830875396728516,
+      "lng": "-31.21725",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.371084206351526,
+        "east": -31.146628403472974,
+        "north": 39.48949809931712,
+        "west": -31.268815408039625
+      },
+      "name": "Lajes das Flores Municipality",
+      "fcode": "ADM2",
+      "geonameId": 8010700,
+      "asciiName": "Lajes Das Flores",
+      "lat": "39.41619",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId2": "8010700",
+      "toponymName": "Lajes Das Flores",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480105",
+      "adminCode2": "4801",
+      "alternateNames": [
+        {
+          "name": "Lajes das Flores",
+          "lang": "pt"
+        },
+        {
+          "name": "LAJ",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 35.90162658691406,
+      "lng": "-31.17847",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "populated place",
+      "adminName3": "Lajes das Flores",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.368446351248245,
+        "east": -31.16683351761409,
+        "north": 39.386433648751755,
+        "west": -31.19010648238591
+      },
+      "name": "Lajes das Flores",
+      "fcode": "PPL",
+      "geonameId": 3372954,
+      "asciiName": "Lajes das Flores",
+      "lat": "39.37744",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "city, village,...",
+      "countryCode": "PT",
+      "adminId3": "8013485",
+      "adminId2": "8010700",
+      "toponymName": "Lajes das Flores",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480105",
+      "adminCode2": "4801",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lajes_das_Flores_%28parish%29",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 31.044776916503906,
+      "lng": "-31.19984",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Lajes das Flores",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.3710905471052,
+        "east": -31.168817847447624,
+        "north": 39.43601647094633,
+        "west": -31.230853509212828
+      },
+      "name": "Lajes das Flores",
+      "fcode": "ADM3",
+      "geonameId": 8013485,
+      "asciiName": "Lajes das Flores",
+      "lat": "39.40355",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8013485",
+      "adminId2": "8010700",
+      "toponymName": "Lajes das Flores",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480105",
+      "adminCode2": "4801",
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "cc2": "PT",
+      "score": 24.64348602294922,
+      "lng": "-31.17635",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "point",
+      "adminName3": "Lajes das Flores",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Ponta Lajens",
+      "fcode": "PT",
+      "geonameId": 3372955,
+      "asciiName": "Ponta Lajens",
+      "lat": "39.37509",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "PT",
+      "adminId3": "8013485",
+      "adminId2": "8010700",
+      "toponymName": "Ponta Lajens",
+      "fcl": "T",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480101",
+      "adminCode2": "4801",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Faj%C3%A3_Grande",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 21.508453369140625,
+      "lng": "-31.26233",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "populated place",
+      "adminName3": "Fajã Grande",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.44506216822846,
+        "east": -31.250676958496054,
+        "north": 39.463049465731316,
+        "west": -31.273975522583047
+      },
+      "name": "Fajã Grande",
+      "fcode": "PPL",
+      "geonameId": 7521915,
+      "asciiName": "Faja Grande",
+      "lat": "39.45406",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "city, village,...",
+      "countryCode": "PT",
+      "adminId3": "8013529",
+      "adminId2": "8010700",
+      "toponymName": "Fajã Grande",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480101",
+      "adminCode2": "4801",
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 17.923709869384766,
+      "lng": "-31.23322",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Fajã Grande",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.43149137279847,
+        "east": -31.197615052631186,
+        "north": 39.48949809931712,
+        "west": -31.268815408039625
+      },
+      "name": "Fajã Grande",
+      "fcode": "ADM3",
+      "geonameId": 8013529,
+      "asciiName": "Faja Grande",
+      "lat": "39.46049",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8013529",
+      "adminId2": "8010700",
+      "toponymName": "Fajã Grande",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480102",
+      "adminCode2": "4801",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Faj%C3%A3zinha",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 17.923709869384766,
+      "lng": "-31.2388",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Fajãzinha",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.41400397876174,
+        "east": -31.21280579630736,
+        "north": 39.43921354754934,
+        "west": -31.264784231580556
+      },
+      "name": "Fajãzinha",
+      "fcode": "ADM3",
+      "geonameId": 8013530,
+      "asciiName": "Fajazinha",
+      "lat": "39.42661",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8013530",
+      "adminId2": "8010700",
+      "toponymName": "Fajãzinha",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480103",
+      "adminCode2": "4801",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Fazenda_%28Azores%29",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 17.923709869384766,
+      "lng": "-31.18309",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Fazenda",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.381151801901666,
+        "east": -31.15801859049053,
+        "north": 39.42601672176803,
+        "west": -31.20816260907471
+      },
+      "name": "Fazenda",
+      "fcode": "ADM3",
+      "geonameId": 8013531,
+      "asciiName": "Fazenda",
+      "lat": "39.40358",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8013531",
+      "adminId2": "8010700",
+      "toponymName": "Fazenda",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480104",
+      "adminCode2": "4801",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lajedo_%28Lajes_das_Flores%29",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 17.923709869384766,
+      "lng": "-31.24361",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Lajedo",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.371084206351526,
+        "east": -31.22781088834876,
+        "north": 39.403619678625255,
+        "west": -31.259404362811946
+      },
+      "name": "Lajedo",
+      "fcode": "ADM3",
+      "geonameId": 8013532,
+      "asciiName": "Lajedo",
+      "lat": "39.38735",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8013532",
+      "adminId2": "8010700",
+      "toponymName": "Lajedo",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "480106",
+      "adminCode2": "4801",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lomba_%28Lajes_das_Flores%29",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 17.923709869384766,
+      "lng": "-31.17803",
+      "adminName2": "Lajes das Flores Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Lomba",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.395674688037765,
+        "east": -31.146628403472974,
+        "north": 39.43841609259046,
+        "west": -31.209440124403287
+      },
+      "name": "Lomba",
+      "fcode": "ADM3",
+      "geonameId": 8013533,
+      "asciiName": "Lomba",
+      "lat": "39.41705",
+      "population": 0,
+      "adminName1": "Azores",
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8013533",
+      "adminId2": "8010700",
+      "toponymName": "Lomba",
+      "fcl": "A",
+      "continentCode": "EU"
+    }
+  ]
+}

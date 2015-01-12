@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prince Edward Island",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prince Edward Island, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4416628,
+                  "lng" : -61.97075460000001
+               },
+               "southwest" : {
+                  "lat" : 45.9481845,
+                  "lng" : -64.5661238
+               }
+            },
+            "location" : {
+               "lat" : 46.510712,
+               "lng" : -63.41681359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.058964,
+                  "lng" : -61.97075460000001
+               },
+               "southwest" : {
+                  "lat" : 45.9481845,
+                  "lng" : -64.5661238
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

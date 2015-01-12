@@ -1,0 +1,456 @@
+{
+  "totalResultsCount": 750,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "LRM",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/La_Romana%2C_La_Romana",
+          "lang": "link"
+        },
+        {
+          "name": "Ла-Романа",
+          "lang": "ru"
+        },
+        {
+          "name": "LRM",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Dominican Republic",
+      "adminCode1": "12",
+      "score": 85.806396484375,
+      "lng": "-68.97285",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 18.3681885098453,
+        "east": -68.91048440193886,
+        "north": 18.4864814901547,
+        "west": -69.03521359806113
+      },
+      "name": "La Romana",
+      "fcode": "PPLA",
+      "geonameId": 3500957,
+      "asciiName": "La Romana",
+      "lat": "18.42734",
+      "population": 208437,
+      "adminName1": "La Romana",
+      "countryId": "3508796",
+      "adminId1": "3500955",
+      "fclName": "city, village,...",
+      "countryCode": "DO",
+      "toponymName": "La Romana",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/La_Romana_Province",
+        "lang": "link"
+      }],
+      "countryName": "Dominican Republic",
+      "adminCode1": "12",
+      "score": 39.063331604003906,
+      "lng": "-68.96667",
+      "adminName2": "",
+      "fcodeName": "first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 18.390552520751953,
+        "east": -68.84211730957031,
+        "north": 18.686359405517578,
+        "west": -69.10233306884766
+      },
+      "name": "Provincia de La Romana",
+      "fcode": "ADM1",
+      "geonameId": 3500955,
+      "asciiName": "Provincia de La Romana",
+      "lat": "18.5",
+      "population": 219812,
+      "adminName1": "La Romana",
+      "countryId": "3508796",
+      "adminId1": "3500955",
+      "fclName": "country, state, region,...",
+      "countryCode": "DO",
+      "toponymName": "Provincia de La Romana",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "La Romana International Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aeropuerto La Romana",
+          "lang": "es"
+        },
+        {
+          "name": "Aéroport de La Romana",
+          "lang": "fr"
+        },
+        {
+          "name": "LRM",
+          "lang": "iata"
+        },
+        {
+          "name": "MDLR",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/La_Romana_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Dominican Republic",
+      "adminCode1": "12",
+      "score": 28.790760040283203,
+      "lng": "-68.91183",
+      "adminName2": "",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "La Romana International Airport",
+      "fcode": "AIRP",
+      "geonameId": 3500958,
+      "asciiName": "La Romana International Airport",
+      "lat": "18.45071",
+      "population": 0,
+      "adminName1": "La Romana",
+      "countryId": "3508796",
+      "adminId1": "3500955",
+      "fclName": "spot, building, farm",
+      "elevation": 73,
+      "countryCode": "DO",
+      "toponymName": "La Romana International Airport",
+      "fcl": "S",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "3500959",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/La_Romana,_La_Romana",
+        "lang": "link"
+      }],
+      "countryName": "Dominican Republic",
+      "adminCode1": "12",
+      "score": 27.450912475585938,
+      "lng": "-69",
+      "adminName2": "La Romana",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "La Romana",
+      "fcode": "ADM2",
+      "geonameId": 3500959,
+      "asciiName": "La Romana",
+      "lat": "18.5",
+      "population": 130426,
+      "adminName1": "La Romana",
+      "countryId": "3508796",
+      "adminId1": "3500955",
+      "fclName": "country, state, region,...",
+      "countryCode": "DO",
+      "adminId2": "3500959",
+      "toponymName": "La Romana",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "3504952",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Guaymate",
+        "lang": "link"
+      }],
+      "countryName": "Dominican Republic",
+      "adminCode1": "12",
+      "score": 18.794355392456055,
+      "lng": "-68.95",
+      "adminName2": "Guaymate",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Guaymate",
+      "fcode": "ADM2",
+      "geonameId": 3504952,
+      "asciiName": "Guaymate",
+      "lat": "18.58333",
+      "population": 18762,
+      "adminName1": "La Romana",
+      "countryId": "3508796",
+      "adminId1": "3500955",
+      "fclName": "country, state, region,...",
+      "countryCode": "DO",
+      "adminId2": "3504952",
+      "toponymName": "Guaymate",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Paphlagonien (römische Provinz)",
+          "lang": "de"
+        },
+        {
+          "name": "Paphlagonia (Roman province)",
+          "lang": "en"
+        },
+        {
+          "name": "Paflagonia (provincia romana)",
+          "lang": "es"
+        },
+        {
+          "name": "Paflagonia (provincia romana)",
+          "lang": "fr"
+        },
+        {
+          "name": "Παφλαγονία",
+          "lang": "grc"
+        },
+        {
+          "name": "Paflagonia (provincia romana)",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Paphlagonia#Roman_and_Byzantine_empires",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "68",
+      "score": 17.676061630249023,
+      "lng": "33.15674",
+      "adminName2": "",
+      "fcodeName": "historical first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Paphlagonia (Roman province)",
+      "fcode": "ADM1H",
+      "geonameId": 8378526,
+      "asciiName": "Paphlagonia",
+      "lat": "41.22825",
+      "population": 0,
+      "adminName1": "Ankara",
+      "countryId": "298795",
+      "adminId1": "323784",
+      "fclName": "country, state, region,...",
+      "countryCode": "TR",
+      "toponymName": "Paphlagonia",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode3": "03114",
+      "adminCode2": "A",
+      "alternateNames": [
+        {
+          "name": "La Romana",
+          "lang": "ca"
+        },
+        {
+          "name": "La Romana",
+          "lang": "es"
+        },
+        {
+          "name": "03669",
+          "lang": "post"
+        },
+        {
+          "name": "LRM",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Spain",
+      "adminCode1": "60",
+      "score": 17.15682029724121,
+      "lng": "-0.89862",
+      "adminName2": "Alicante",
+      "fcodeName": "populated place",
+      "adminName3": "Romana, la",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.36303017562429,
+        "east": -0.8928812298756128,
+        "north": 38.37202382437572,
+        "west": -0.9043527701243872
+      },
+      "name": "La Romana",
+      "fcode": "PPL",
+      "geonameId": 2515550,
+      "asciiName": "La Romana",
+      "lat": "38.36753",
+      "population": 2333,
+      "adminName1": "Valencia",
+      "adminId1": "2593113",
+      "countryId": "2510769",
+      "fclName": "city, village,...",
+      "countryCode": "ES",
+      "adminId3": "6355488",
+      "adminId2": "2521976",
+      "toponymName": "La Romana",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Catalina_Island%2C_Dominican_Republic",
+        "lang": "link"
+      }],
+      "countryName": "Dominican Republic",
+      "adminCode1": "12",
+      "score": 15.362943649291992,
+      "lng": "-69.0072",
+      "adminName2": "",
+      "fcodeName": "island",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 18.342196,
+        "east": -68.987869,
+        "north": 18.380102,
+        "west": -69.021423
+      },
+      "name": "Isla Catalina",
+      "fcode": "ISL",
+      "geonameId": 3510043,
+      "asciiName": "Isla Catalina",
+      "lat": "18.3579",
+      "population": 0,
+      "adminName1": "La Romana",
+      "countryId": "3508796",
+      "adminId1": "3500955",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "DO",
+      "toponymName": "Isla Catalina",
+      "fcl": "T",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Guaymate",
+        "lang": "link"
+      }],
+      "countryName": "Dominican Republic",
+      "adminCode1": "12",
+      "score": 15.035484313964844,
+      "lng": "-68.97867",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 18.577878795013028,
+        "east": -68.96806177705237,
+        "north": 18.597989204986973,
+        "west": -68.98928022294764
+      },
+      "name": "Guaymate",
+      "fcode": "PPL",
+      "geonameId": 3504951,
+      "asciiName": "Guaymate",
+      "lat": "18.58793",
+      "population": 6224,
+      "adminName1": "La Romana",
+      "countryId": "3508796",
+      "adminId1": "3500955",
+      "fclName": "city, village,...",
+      "countryCode": "DO",
+      "toponymName": "Guaymate",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminId1": "3500955",
+      "countryId": "3508796",
+      "adminCode1": "12",
+      "countryName": "Dominican Republic",
+      "fclName": "stream, lake, ...",
+      "score": 15.035484313964844,
+      "countryCode": "DO",
+      "lng": "-68.68157",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "lake",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "toponymName": "Laguna Secucho",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "NA",
+      "name": "Laguna Secucho",
+      "fcode": "LK",
+      "asciiName": "Laguna Secucho",
+      "geonameId": 3492827,
+      "lat": "18.15429",
+      "adminName1": "La Romana",
+      "population": 0
+    }
+  ]
+}

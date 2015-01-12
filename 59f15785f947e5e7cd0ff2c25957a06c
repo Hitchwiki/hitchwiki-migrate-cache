@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krong Preah Sihanouk",
+               "short_name" : "Krong Preah Sihanouk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preah Sihanouk",
+               "short_name" : "Preah Sihanouk",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krong Preah Sihanouk, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.7803603,
+                  "lng" : 103.5925877
+               },
+               "southwest" : {
+                  "lat" : 10.5427243,
+                  "lng" : 103.1816841
+               }
+            },
+            "location" : {
+               "lat" : 10.6253016,
+               "lng" : 103.5233963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.6949878,
+                  "lng" : 103.5925877
+               },
+               "southwest" : {
+                  "lat" : 10.5550733,
+                  "lng" : 103.4561545
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A8",
+               "short_name" : "A8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A8, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.472047,
+                  "lng" : 4.8765485
+               },
+               "southwest" : {
+                  "lat" : 52.4202332,
+                  "lng" : 4.779616900000001
+               }
+            },
+            "location" : {
+               "lat" : 52.4526546,
+               "lng" : 4.8446395
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.472047,
+                  "lng" : 4.8765485
+               },
+               "southwest" : {
+                  "lat" : 52.4202332,
+                  "lng" : 4.779616900000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

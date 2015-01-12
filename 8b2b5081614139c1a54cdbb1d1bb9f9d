@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mengla",
+               "short_name" : "Mengla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Xishuangbanna",
+               "short_name" : "Xishuangbanna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yunnan",
+               "short_name" : "Yunnan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mengla, Xishuangbanna, Yunnan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4047332,
+                  "lng" : 101.8354286
+               },
+               "southwest" : {
+                  "lat" : 21.1417698,
+                  "lng" : 101.0941046
+               }
+            },
+            "location" : {
+               "lat" : 21.459233,
+               "lng" : 101.564636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.4047332,
+                  "lng" : 101.8354286
+               },
+               "southwest" : {
+                  "lat" : 21.1417698,
+                  "lng" : 101.0941046
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

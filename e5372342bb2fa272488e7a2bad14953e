@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vladivostok",
+               "short_name" : "Vladivostok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Vladivostok",
+               "short_name" : "g. Vladivostok",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Primorsky Krai",
+               "short_name" : "Primorsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vladivostok, Primorsky Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.289988,
+                  "lng" : 132.2311072
+               },
+               "southwest" : {
+                  "lat" : 43.057424,
+                  "lng" : 131.840567
+               }
+            },
+            "location" : {
+               "lat" : 43.133333,
+               "lng" : 131.9
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.289988,
+                  "lng" : 132.2311072
+               },
+               "southwest" : {
+                  "lat" : 43.057424,
+                  "lng" : 131.840567
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vladivostok",
+               "short_name" : "Vladivostok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "690042",
+               "short_name" : "690042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vladivostok, Russia, 690042",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.11242559999999,
+                  "lng" : 132.0098489
+               },
+               "southwest" : {
+                  "lat" : 43.11242,
+                  "lng" : 132.0098399
+               }
+            },
+            "location" : {
+               "lat" : 43.1124228,
+               "lng" : 132.0098444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.11377178029149,
+                  "lng" : 132.0111933802915
+               },
+               "southwest" : {
+                  "lat" : 43.11107381970849,
+                  "lng" : 132.0084954197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

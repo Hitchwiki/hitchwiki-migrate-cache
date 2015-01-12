@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Roraima",
+               "short_name" : "RR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista - RR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.8686558,
+                  "lng" : -60.6236814
+               },
+               "southwest" : {
+                  "lat" : 2.7457422,
+                  "lng" : -60.7694416
+               }
+            },
+            "location" : {
+               "lat" : 2.8235098,
+               "lng" : -60.6758331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.8686558,
+                  "lng" : -60.6236814
+               },
+               "southwest" : {
+                  "lat" : 2.7457422,
+                  "lng" : -60.7694416
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prishtina",
+               "short_name" : "Prishtina",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Prishtina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7031946,
+                  "lng" : 21.2087364
+               },
+               "southwest" : {
+                  "lat" : 42.6313288,
+                  "lng" : 21.1087182
+               }
+            },
+            "location" : {
+               "lat" : 42.6629138,
+               "lng" : 21.1655028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7031946,
+                  "lng" : 21.2087364
+               },
+               "southwest" : {
+                  "lat" : 42.6313288,
+                  "lng" : 21.1087182
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

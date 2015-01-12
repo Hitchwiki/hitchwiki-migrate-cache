@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doğubayazıt",
+               "short_name" : "Doğubayazıt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doğubayazıt",
+               "short_name" : "Doğubayazıt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ağrı",
+               "short_name" : "Ağrı",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Doğubayazıt/Ağrı, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.57830999999999,
+                  "lng" : 44.1083633
+               },
+               "southwest" : {
+                  "lat" : 39.531769,
+                  "lng" : 44.0345029
+               }
+            },
+            "location" : {
+               "lat" : 39.5486401,
+               "lng" : 44.0742066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.57830999999999,
+                  "lng" : 44.1083633
+               },
+               "southwest" : {
+                  "lat" : 39.531769,
+                  "lng" : 44.0345029
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

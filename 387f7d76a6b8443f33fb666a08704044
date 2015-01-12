@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Europe",
+               "short_name" : "Eastern Europe",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Europe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.8581221,
+                  "lng" : 69.0679636
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 12.090589
+               }
+            },
+            "location" : {
+               "lat" : 52.0055148,
+               "lng" : 37.95874939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 81.8581221,
+                  "lng" : 69.0679636
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 12.090589
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

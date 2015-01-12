@@ -1,0 +1,786 @@
+{
+  "totalResultsCount": 10449,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -98.44389343261719,
+        "south": 23.194442749023438,
+        "north": 27.794166564941406,
+        "west": -101.21861267089844
+      },
+      "asciiName": "Estado de Nuevo Leon",
+      "countryId": "3996063",
+      "fcl": "A",
+      "score": 64.32740020751953,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.66667",
+      "fcode": "ADM1",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-100",
+      "geonameId": 3522542,
+      "toponymName": "Estado de Nuevo León",
+      "population": 4123418,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "NL",
+          "lang": "abbr"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "ast"
+        },
+        {
+          "name": "Нуево Леон",
+          "lang": "bg"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "ca"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "cs"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "da"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "de"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "en"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "eo"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "es"
+        },
+        {
+          "name": "Nuevo Leon",
+          "lang": "eu"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "fi"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "fr"
+        },
+        {
+          "name": "León Baru",
+          "lang": "id"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "it"
+        },
+        {
+          "name": "ヌエボ・レオン州",
+          "lang": "ja"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "kw"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Nuevo_Le%C3%B3n",
+          "lang": "link"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "nl"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "no"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "pl"
+        },
+        {
+          "name": "Nuevo León",
+          "lang": "pt"
+        },
+        {
+          "name": "新萊昂州",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Nuevo León",
+      "fclName": "country, state, region,...",
+      "countryName": "Mexico",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.16572193471012,
+        "south": 25.53756213984531,
+        "north": 25.81256786015469,
+        "west": -100.47120806528989
+      },
+      "asciiName": "Monterrey",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 42.49858856201172,
+      "adminId2": "8582459",
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.67507",
+      "fcode": "PPLA",
+      "continentCode": "NA",
+      "adminCode2": "039",
+      "adminCode1": "19",
+      "lng": "-100.31847",
+      "geonameId": 3995465,
+      "toponymName": "Monterrey",
+      "population": 1122874,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "مونتيري",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Мантэрэй",
+          "lang": "be"
+        },
+        {
+          "name": "Монтерей",
+          "lang": "bg"
+        },
+        {
+          "name": "མཱོན་ཊི་རེ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "ca"
+        },
+        {
+          "name": "Монтеррей",
+          "lang": "ce"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "da"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "de"
+        },
+        {
+          "name": "Μοντερρέι",
+          "lang": "el"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "en"
+        },
+        {
+          "name": "Monterejo",
+          "lang": "eo"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "es"
+        },
+        {
+          "name": "مونتری",
+          "lang": "fa"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "fi"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "fr"
+        },
+        {
+          "name": "מונטריי",
+          "lang": "he"
+        },
+        {
+          "name": "MTY",
+          "lang": "iata"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "id"
+        },
+        {
+          "name": "モンテレイ",
+          "lang": "ja"
+        },
+        {
+          "name": "მონტერეი",
+          "lang": "ka"
+        },
+        {
+          "name": "몬테레이",
+          "lang": "ko"
+        },
+        {
+          "name": "Mons Regis",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Monterrey",
+          "lang": "link"
+        },
+        {
+          "name": "Monterėjus",
+          "lang": "lt"
+        },
+        {
+          "name": "Monterreja",
+          "lang": "lv"
+        },
+        {
+          "name": "माँतेरे",
+          "lang": "mr"
+        },
+        {
+          "name": "Tlahtoāntepēc",
+          "lang": "nah"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "nl"
+        },
+        {
+          "name": "Monterrey i Nuevo León",
+          "lang": "nn"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "no"
+        },
+        {
+          "name": "Монтеррей",
+          "lang": "os"
+        },
+        {
+          "name": "ਮੋਂਤੇਰੇਈ",
+          "lang": "pa"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "pl"
+        },
+        {
+          "name": "Monterrei",
+          "lang": "pt"
+        },
+        {
+          "name": "Монтеррей",
+          "lang": "ru"
+        },
+        {
+          "name": "Монтереј",
+          "lang": "sr"
+        },
+        {
+          "name": "Monterrey",
+          "lang": "sv"
+        },
+        {
+          "name": "มอนเตร์เรย์",
+          "lang": "th"
+        },
+        {
+          "name": "Монтеррей",
+          "lang": "uk"
+        },
+        {
+          "name": "MTY",
+          "lang": "unlc"
+        },
+        {
+          "name": "蒙特雷",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Monterrey",
+      "name": "Monterrey",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.13372428246436,
+        "south": 25.566269193902087,
+        "north": 25.78730080609791,
+        "west": -100.37920171753564
+      },
+      "asciiName": "Guadalupe",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 29.774211883544922,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.67678",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-100.25646",
+      "geonameId": 4005492,
+      "toponymName": "Guadalupe",
+      "population": 724921,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Ciudad Guadalupe",
+          "lang": "de"
+        },
+        {
+          "name": "Guadalupe",
+          "lang": "en"
+        },
+        {
+          "name": "Guadalupe",
+          "lang": "es"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Guadalupe%2C_Nuevo_Le%C3%B3n",
+          "lang": "link"
+        },
+        {
+          "name": "Guadalupe",
+          "lang": "nl"
+        },
+        {
+          "name": "Villa de Guadalupe",
+          "lang": "pl"
+        },
+        {
+          "name": "Гвадалупе",
+          "lang": "ru"
+        },
+        {
+          "name": "Ciudad Guadalupe",
+          "lang": "sv"
+        },
+        {
+          "name": "GLP",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Guadalupe",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.23464442623471,
+        "south": 25.723214809988583,
+        "north": 25.867113190011416,
+        "west": -100.39456557376529
+      },
+      "asciiName": "General Escobedo",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 25.520751953125,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.79516",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-100.31461",
+      "geonameId": 4005867,
+      "toponymName": "General Escobedo",
+      "population": 308206,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Ciudad General Escobedo",
+          "lang": "de"
+        },
+        {
+          "name": "General Escobedo",
+          "lang": "en"
+        },
+        {
+          "name": "Gral. Escobedo",
+          "lang": "es"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/General_Escobedo",
+          "lang": "link"
+        },
+        {
+          "name": "Ciudad General Escobedo",
+          "lang": "nl"
+        },
+        {
+          "name": "Ciudad General Escobedo",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "General Escobedo",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.07735193956277,
+        "south": 25.682787765473048,
+        "north": 25.836734234526954,
+        "west": -100.24839606043723
+      },
+      "asciiName": "Apodaca",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 25.520751953125,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.75976",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-100.16287",
+      "geonameId": 4018390,
+      "toponymName": "Apodaca",
+      "population": 352064,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Аподака",
+          "lang": "bg"
+        },
+        {
+          "name": "Apodaca",
+          "lang": "en"
+        },
+        {
+          "name": "Ciudad Apodaca",
+          "lang": "es"
+        },
+        {
+          "name": "آپوداکا",
+          "lang": "fa"
+        },
+        {
+          "name": "აპოდაკა",
+          "lang": "ka"
+        },
+        {
+          "name": "Apodaca",
+          "lang": "nl"
+        },
+        {
+          "name": "Аподака",
+          "lang": "ru"
+        },
+        {
+          "name": "Сијудад Аподака",
+          "lang": "sr"
+        },
+        {
+          "name": "Ciudad Apodaca",
+          "lang": "sv"
+        },
+        {
+          "name": "APD",
+          "lang": "unlc"
+        },
+        {
+          "name": "阿波達卡",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Apodaca",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -99.53132997369273,
+        "south": 24.8279280868342,
+        "north": 24.890237913165798,
+        "west": -99.60002002630726
+      },
+      "asciiName": "Linares",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 25.520751953125,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "24.85908",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-99.56567",
+      "geonameId": 3524348,
+      "toponymName": "Linares",
+      "population": 57731,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Linares%2C_Nuevo_Le%C3%B3n",
+          "lang": "link"
+        },
+        {
+          "name": "Линарес",
+          "lang": "ru"
+        },
+        {
+          "name": "LIN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Linares",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.15623877047679,
+        "south": 26.48064760475904,
+        "north": 26.52650639524096,
+        "west": -100.20749322952321
+      },
+      "asciiName": "Sabinas Hidalgo",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 21.26729393005371,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "26.50358",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-100.18187",
+      "geonameId": 3988327,
+      "toponymName": "Sabinas Hidalgo",
+      "population": 32047,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Sabinas_Hidalgo%2C_Nuevo_Le%C3%B3n",
+          "lang": "link"
+        },
+        {
+          "name": "SHO",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Sabinas Hidalgo",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.32571995827416,
+        "south": 25.6071066302513,
+        "north": 25.7005713697487,
+        "west": -100.42944604172584
+      },
+      "asciiName": "Garza Garcia",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 21.26729393005371,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.65384",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-100.37758",
+      "geonameId": 4005937,
+      "toponymName": "Garza García",
+      "population": 130646,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Garza García",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.38543963961072,
+        "south": 25.60777238756818,
+        "north": 25.73872189000014,
+        "west": -100.53081249661975
+      },
+      "asciiName": "Santa Catarina",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 21.26729393005371,
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.67325",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "19",
+      "lng": "-100.45813",
+      "geonameId": 3984583,
+      "toponymName": "Santa Catarina",
+      "population": 254472,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "STC",
+        "lang": "unlc"
+      }],
+      "adminName2": "",
+      "name": "Santa Catarina",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Monterrey",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -100.35252510895464,
+        "south": 25.611967474334055,
+        "north": 25.702352525665948,
+        "west": -100.45283489104537
+      },
+      "asciiName": "San Pedro Garza Garcia",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 21.26729393005371,
+      "adminId2": "8582440",
+      "countryCode": "MX",
+      "adminId1": "3522542",
+      "lat": "25.65716",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 540,
+      "adminCode2": "019",
+      "adminCode1": "19",
+      "lng": "-100.40268",
+      "geonameId": 8617692,
+      "toponymName": "San Pedro Garza Garcia",
+      "population": 122009,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Garza Garcia",
+          "lang": "en"
+        },
+        {
+          "name": "Garza García",
+          "lang": "es"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/San_Pedro_Garza_Garc%C3%ADa",
+          "lang": "link"
+        },
+        {
+          "name": "SPG",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "San Pedro Garza García",
+      "name": "Garza Garcia",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Nuevo León"
+    }
+  ]
+}

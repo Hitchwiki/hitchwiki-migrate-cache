@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irkeshtam",
+               "short_name" : "Irkeshtam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alay District",
+               "short_name" : "Alay District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Osh Province",
+               "short_name" : "Osh Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irkeshtam, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6808187,
+                  "lng" : 73.90223979999999
+               },
+               "southwest" : {
+                  "lat" : 39.6758313,
+                  "lng" : 73.8947939
+               }
+            },
+            "location" : {
+               "lat" : 39.6783413,
+               "lng" : 73.89850419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6808187,
+                  "lng" : 73.90223979999999
+               },
+               "southwest" : {
+                  "lat" : 39.6758313,
+                  "lng" : 73.8947939
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

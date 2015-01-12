@@ -1,0 +1,81 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Martin",
+               "short_name" : "MF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Martin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.1251338,
+                  "lng" : -62.9703926
+               },
+               "southwest" : {
+                  "lat" : 18.0465757,
+                  "lng" : -63.15332669999999
+               }
+            },
+            "location" : {
+               "lat" : 18.08255,
+               "lng" : -63.05225100000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.1251338,
+                  "lng" : -62.9703926
+               },
+               "southwest" : {
+                  "lat" : 18.0465757,
+                  "lng" : -63.15332669999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sint Maarten",
+               "short_name" : "SX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sint Maarten",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0641707,
+                  "lng" : -62.99824479999999
+               },
+               "southwest" : {
+                  "lat" : 18.005267,
+                  "lng" : -63.1379781
+               }
+            },
+            "location" : {
+               "lat" : 18.0412155,
+               "lng" : -63.05307329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.0641707,
+                  "lng" : -62.99824479999999
+               },
+               "southwest" : {
+                  "lat" : 18.005267,
+                  "lng" : -63.1379781
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

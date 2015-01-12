@@ -1,0 +1,134 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "countryId": "2017370",
+      "alternateNames": [{
+        "name": "Перевал Местиа",
+        "lang": "ru"
+      }],
+      "adminCode1": "00",
+      "countryName": "Russia",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 41.561485290527344,
+      "countryCode": "RU",
+      "lng": "42.86686",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "pass",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Volgograd"
+      },
+      "toponymName": "Pereval Mestia",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "EU",
+      "name": "Pereval Mestia",
+      "fcode": "PASS",
+      "asciiName": "Pereval Mestia",
+      "geonameId": 527375,
+      "lat": "43.18324",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "adminCode2": "7667559",
+      "alternateNames": [
+        {
+          "name": "მესტია",
+          "lang": "ka"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Mestia",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Georgia",
+      "adminCode1": "71",
+      "score": 41.561485290527344,
+      "lng": "42.75",
+      "adminName2": "Mestia",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Mestia",
+      "fcode": "ADM2",
+      "geonameId": 7667559,
+      "asciiName": "Mestia",
+      "lat": "43",
+      "population": 0,
+      "adminName1": "Samegrelo and Zemo Svaneti",
+      "countryId": "614540",
+      "adminId1": "865543",
+      "fclName": "country, state, region,...",
+      "countryCode": "GE",
+      "adminId2": "7667559",
+      "toponymName": "Mestia",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Mestia",
+          "lang": "en"
+        },
+        {
+          "name": "მესტია",
+          "lang": "ka"
+        },
+        {
+          "name": "http://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%82%D0%B8%D0%B0",
+          "lang": "link"
+        },
+        {
+          "name": "Местиа",
+          "lang": "ru"
+        }
+      ],
+      "countryName": "Georgia",
+      "adminCode1": "71",
+      "score": 35.1258659362793,
+      "lng": "42.7278",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 43.03945352998026,
+        "east": 42.736498871994264,
+        "north": 43.05217247001975,
+        "west": 42.71909312800573
+      },
+      "name": "Mestia",
+      "fcode": "PPL",
+      "geonameId": 612987,
+      "asciiName": "Mest'ia",
+      "lat": "43.04581",
+      "population": 3187,
+      "adminName1": "Samegrelo and Zemo Svaneti",
+      "countryId": "614540",
+      "adminId1": "865543",
+      "fclName": "city, village,...",
+      "countryCode": "GE",
+      "toponymName": "Mest’ia",
+      "fcl": "P",
+      "continentCode": "AS"
+    }
+  ]
+}

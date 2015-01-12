@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-6",
+               "short_name" : "A-6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-6, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3085438,
+                  "lng" : -3.7268943
+               },
+               "southwest" : {
+                  "lat" : 40.4399615,
+                  "lng" : -8.4783647
+               }
+            },
+            "location" : {
+               "lat" : 42.0055582,
+               "lng" : -5.6607834
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3085438,
+                  "lng" : -3.7268943
+               },
+               "southwest" : {
+                  "lat" : 40.4399615,
+                  "lng" : -8.4783647
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

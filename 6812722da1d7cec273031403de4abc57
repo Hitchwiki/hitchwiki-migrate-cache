@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trieste",
+               "short_name" : "Trieste",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trieste",
+               "short_name" : "Trieste",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Trieste",
+               "short_name" : "TS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Friuli-Venezia Giulia",
+               "short_name" : "Friuli-Venezia Giulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trieste, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.697797,
+                  "lng" : 13.8354566
+               },
+               "southwest" : {
+                  "lat" : 45.6068433,
+                  "lng" : 13.7318673
+               }
+            },
+            "location" : {
+               "lat" : 45.6495264,
+               "lng" : 13.7768182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.697797,
+                  "lng" : 13.8354566
+               },
+               "southwest" : {
+                  "lat" : 45.6068433,
+                  "lng" : 13.7318673
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A25",
+               "short_name" : "A25",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wels",
+               "short_name" : "Wels",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wels",
+               "short_name" : "Wels",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oberösterreich",
+               "short_name" : "Oberösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A25, Wels, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1974627,
+                  "lng" : 14.2178548
+               },
+               "southwest" : {
+                  "lat" : 48.1744938,
+                  "lng" : 13.9812424
+               }
+            },
+            "location" : {
+               "lat" : 48.183511,
+               "lng" : 14.0965019
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1974627,
+                  "lng" : 14.2178548
+               },
+               "southwest" : {
+                  "lat" : 48.1744938,
+                  "lng" : 13.9812424
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

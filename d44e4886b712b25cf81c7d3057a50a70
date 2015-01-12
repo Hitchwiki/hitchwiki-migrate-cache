@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Macedonia (FYROM)",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Macedonia (FYROM)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.373646,
+                  "lng" : 23.034093
+               },
+               "southwest" : {
+                  "lat" : 40.8537826,
+                  "lng" : 20.452423
+               }
+            },
+            "location" : {
+               "lat" : 41.608635,
+               "lng" : 21.745275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.373646,
+                  "lng" : 23.034093
+               },
+               "southwest" : {
+                  "lat" : 40.8537826,
+                  "lng" : 20.452423
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

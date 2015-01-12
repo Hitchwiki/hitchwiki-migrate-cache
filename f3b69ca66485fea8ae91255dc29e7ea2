@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heredia Province",
+               "short_name" : "Heredia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heredia Province, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.789644,
+                  "lng" : -83.714804
+               },
+               "southwest" : {
+                  "lat" : 9.951319099999999,
+                  "lng" : -84.19046589999999
+               }
+            },
+            "location" : {
+               "lat" : 10.473523,
+               "lng" : -84.01674229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.789644,
+                  "lng" : -83.714804
+               },
+               "southwest" : {
+                  "lat" : 9.951319099999999,
+                  "lng" : -84.19046589999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heredia",
+               "short_name" : "Heredia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Heredia Province",
+               "short_name" : "Heredia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heredia, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.0062128,
+                  "lng" : -84.108925
+               },
+               "southwest" : {
+                  "lat" : 9.9909979,
+                  "lng" : -84.1246963
+               }
+            },
+            "location" : {
+               "lat" : 9.996388999999999,
+               "lng" : -84.11666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.0062128,
+                  "lng" : -84.108925
+               },
+               "southwest" : {
+                  "lat" : 9.9909979,
+                  "lng" : -84.1246963
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

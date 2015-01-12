@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Râșnov",
+               "short_name" : "Râșnov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rasnov",
+               "short_name" : "Rasnov",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brașov County",
+               "short_name" : "BV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "505400",
+               "short_name" : "505400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Râșnov 505400, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6121163,
+                  "lng" : 25.511284
+               },
+               "southwest" : {
+                  "lat" : 45.5141662,
+                  "lng" : 25.4257536
+               }
+            },
+            "location" : {
+               "lat" : 45.593333,
+               "lng" : 25.460278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6121163,
+                  "lng" : 25.511284
+               },
+               "southwest" : {
+                  "lat" : 45.5141662,
+                  "lng" : 25.4257536
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

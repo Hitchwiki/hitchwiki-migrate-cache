@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fresno",
+               "short_name" : "Fresno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fresno County",
+               "short_name" : "Fresno County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fresno, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.908905,
+                  "lng" : -119.6546399
+               },
+               "southwest" : {
+                  "lat" : 36.66216190000001,
+                  "lng" : -119.934483
+               }
+            },
+            "location" : {
+               "lat" : 36.7468422,
+               "lng" : -119.7725868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.908905,
+                  "lng" : -119.6546399
+               },
+               "southwest" : {
+                  "lat" : 36.66216190000001,
+                  "lng" : -119.934483
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fresno",
+               "short_name" : "Fresno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fort Bend County",
+               "short_name" : "Fort Bend County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fresno, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.565094,
+                  "lng" : -95.434848
+               },
+               "southwest" : {
+                  "lat" : 29.5100481,
+                  "lng" : -95.504668
+               }
+            },
+            "location" : {
+               "lat" : 29.5388465,
+               "lng" : -95.4474414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.565094,
+                  "lng" : -95.434848
+               },
+               "southwest" : {
+                  "lat" : 29.5100481,
+                  "lng" : -95.504668
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fresno",
+               "short_name" : "Fresno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "White Eyes",
+               "short_name" : "White Eyes",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Coshocton County",
+               "short_name" : "Coshocton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43824",
+               "short_name" : "43824",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fresno, OH 43824, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.33256919999999,
+               "lng" : -81.7415163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.33391818029149,
+                  "lng" : -81.74016731970849
+               },
+               "southwest" : {
+                  "lat" : 40.33122021970849,
+                  "lng" : -81.74286528029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

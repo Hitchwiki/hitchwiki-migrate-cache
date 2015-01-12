@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kolding",
+               "short_name" : "Kolding",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolding Municipality",
+               "short_name" : "Kolding Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region Syddanmark",
+               "short_name" : "Region Syddanmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6000",
+               "short_name" : "6000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6000 Kolding, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5717289,
+                  "lng" : 9.5983679
+               },
+               "southwest" : {
+                  "lat" : 55.4112175,
+                  "lng" : 9.3548312
+               }
+            },
+            "location" : {
+               "lat" : 55.495973,
+               "lng" : 9.4730519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5717289,
+                  "lng" : 9.5983679
+               },
+               "southwest" : {
+                  "lat" : 55.4112175,
+                  "lng" : 9.3548312
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,169 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "alternateNames": [{
+        "name": "Vardenis Lerr",
+        "lang": "hy"
+      }],
+      "countryName": "Armenia",
+      "adminCode1": "00",
+      "score": 81.94341278076172,
+      "lng": "45.53909",
+      "adminName2": "",
+      "fcodeName": "mountain",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Yerevan"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Vardenis Lerr",
+      "fcode": "MT",
+      "geonameId": 174728,
+      "asciiName": "Vardenis Lerr",
+      "lat": "40.01145",
+      "population": 0,
+      "adminName1": "",
+      "countryId": "174982",
+      "fclName": "mountain,hill,rock,... ",
+      "elevation": 3522,
+      "countryCode": "AM",
+      "toponymName": "Vardenis Lerr",
+      "fcl": "T",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Vardenis",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Vardenis",
+          "lang": "link"
+        },
+        {
+          "name": "Варденис",
+          "lang": "ru"
+        }
+      ],
+      "countryName": "Armenia",
+      "adminCode1": "04",
+      "score": 58.071937561035156,
+      "lng": "45.7311",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Yerevan"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.16923352687335,
+        "east": 45.74875841769141,
+        "north": 40.19621447312665,
+        "west": 45.713435582308584
+      },
+      "name": "Vardenis",
+      "fcode": "PPL",
+      "geonameId": 616108,
+      "asciiName": "Vardenis",
+      "lat": "40.18272",
+      "population": 11382,
+      "adminName1": "Gegharkʼunikʼ",
+      "countryId": "174982",
+      "adminId1": "828261",
+      "fclName": "city, village,...",
+      "countryCode": "AM",
+      "toponymName": "Vardenis",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Vardenis",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Vardenis%2C_Aragatsotn",
+          "lang": "link"
+        },
+        {
+          "name": "Варденис",
+          "lang": "ru"
+        }
+      ],
+      "countryName": "Armenia",
+      "adminCode1": "01",
+      "score": 40.97170639038086,
+      "lng": "44.40586",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Yerevan"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.55846935124857,
+        "east": 44.41769693687436,
+        "north": 40.576456648751424,
+        "west": 44.39401506312564
+      },
+      "name": "Vardenis",
+      "fcode": "PPL",
+      "geonameId": 616107,
+      "asciiName": "Vardenis",
+      "lat": "40.56746",
+      "population": 0,
+      "adminName1": "Aragatsotn",
+      "countryId": "174982",
+      "adminId1": "828259",
+      "fclName": "city, village,...",
+      "countryCode": "AM",
+      "toponymName": "Vardenis",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "adminId1": "828261",
+      "countryId": "174982",
+      "adminCode1": "04",
+      "countryName": "Armenia",
+      "fclName": "stream, lake, ...",
+      "score": 12.985279083251953,
+      "countryCode": "AM",
+      "lng": "45.41824",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "stream",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Yerevan"
+      },
+      "toponymName": "Vardenis",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "AS",
+      "name": "Vardenis",
+      "fcode": "STM",
+      "asciiName": "Vardenis",
+      "geonameId": 616106,
+      "lat": "40.16699",
+      "adminName1": "Gegharkʼunikʼ",
+      "population": 0
+    }
+  ]
+}

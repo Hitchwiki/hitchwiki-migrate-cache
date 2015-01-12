@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cappadocia",
+               "short_name" : "Cappadocia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cappadocia",
+               "short_name" : "Cappadocia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "L'Aquila",
+               "short_name" : "AQ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Abruzzo",
+               "short_name" : "Abruzzo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67060",
+               "short_name" : "67060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "67060 Cappadocia AQ, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.012028,
+                  "lng" : 13.2857933
+               },
+               "southwest" : {
+                  "lat" : 42.0035153,
+                  "lng" : 13.2706437
+               }
+            },
+            "location" : {
+               "lat" : 42.007393,
+               "lng" : 13.2784102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.012028,
+                  "lng" : 13.2857933
+               },
+               "southwest" : {
+                  "lat" : 42.0035153,
+                  "lng" : 13.2706437
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

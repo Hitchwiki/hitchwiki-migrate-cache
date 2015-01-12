@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A28",
+               "short_name" : "A28",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A28, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.288881,
+                  "lng" : 8.7102211
+               },
+               "southwest" : {
+                  "lat" : 53.0043433,
+                  "lng" : 7.5010544
+               }
+            },
+            "location" : {
+               "lat" : 53.1631546,
+               "lng" : 8.127892299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.288881,
+                  "lng" : 8.7102211
+               },
+               "southwest" : {
+                  "lat" : 53.0043433,
+                  "lng" : 7.5010544
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

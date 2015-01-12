@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Göreme",
+               "short_name" : "Göreme",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevşehir",
+               "short_name" : "Nevşehir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevşehir",
+               "short_name" : "Nevşehir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50500",
+               "short_name" : "50500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50500 Göreme/Nevşehir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.649126,
+                  "lng" : 34.8359918
+               },
+               "southwest" : {
+                  "lat" : 38.639096,
+                  "lng" : 34.825577
+               }
+            },
+            "location" : {
+               "lat" : 38.6436868,
+               "lng" : 34.8306809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.649126,
+                  "lng" : 34.8359918
+               },
+               "southwest" : {
+                  "lat" : 38.639096,
+                  "lng" : 34.825577
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

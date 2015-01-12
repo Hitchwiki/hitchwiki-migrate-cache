@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovnik",
+               "short_name" : "Dubrovnik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Općina Dubrovnik",
+               "short_name" : "Općina Dubrovnik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dubrovačko-neretvanska županija",
+               "short_name" : "Dubrovačko-neretvanska županija",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrovnik, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.67051600000001,
+                  "lng" : 18.1418255
+               },
+               "southwest" : {
+                  "lat" : 42.6209352,
+                  "lng" : 18.0462905
+               }
+            },
+            "location" : {
+               "lat" : 42.65066059999999,
+               "lng" : 18.0944238
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.67051600000001,
+                  "lng" : 18.1418255
+               },
+               "southwest" : {
+                  "lat" : 42.6209352,
+                  "lng" : 18.0462905
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

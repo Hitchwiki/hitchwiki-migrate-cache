@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puntarenas",
+               "short_name" : "Puntarenas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puntarenas",
+               "short_name" : "Puntarenas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puntarenas, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.983031,
+                  "lng" : -84.7929956
+               },
+               "southwest" : {
+                  "lat" : 9.9740775,
+                  "lng" : -84.8512676
+               }
+            },
+            "location" : {
+               "lat" : 9.9778439,
+               "lng" : -84.82942109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.983031,
+                  "lng" : -84.7929956
+               },
+               "southwest" : {
+                  "lat" : 9.9740775,
+                  "lng" : -84.8512676
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puntarenas",
+               "short_name" : "Puntarenas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puntarenas, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.337526,
+                  "lng" : -82.71399699999999
+               },
+               "southwest" : {
+                  "lat" : 5.4996458,
+                  "lng" : -87.09436169999999
+               }
+            },
+            "location" : {
+               "lat" : 9.2169531,
+               "lng" : -83.33618799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.337526,
+                  "lng" : -82.71399699999999
+               },
+               "southwest" : {
+                  "lat" : 8.0376248,
+                  "lng" : -85.29674399999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

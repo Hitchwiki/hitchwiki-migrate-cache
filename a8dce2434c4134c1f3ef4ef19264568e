@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A65",
+               "short_name" : "A65",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A65, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5280883,
+                  "lng" : -0.1947671
+               },
+               "southwest" : {
+                  "lat" : 43.3563821,
+                  "lng" : -0.456896
+               }
+            },
+            "location" : {
+               "lat" : 43.9157215,
+               "lng" : -0.3784480000000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5280883,
+                  "lng" : -0.1947671
+               },
+               "southwest" : {
+                  "lat" : 43.3563821,
+                  "lng" : -0.456896
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

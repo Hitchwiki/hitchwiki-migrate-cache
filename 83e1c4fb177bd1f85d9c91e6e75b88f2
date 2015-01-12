@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8518092,
+                  "lng" : 16.3128349
+               },
+               "southwest" : {
+                  "lat" : 38.0838216,
+                  "lng" : 14.2780431
+               }
+            },
+            "location" : {
+               "lat" : 39.8790235,
+               "lng" : 15.9893974
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8518092,
+                  "lng" : 16.3128349
+               },
+               "southwest" : {
+                  "lat" : 38.0838216,
+                  "lng" : 14.2780431
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

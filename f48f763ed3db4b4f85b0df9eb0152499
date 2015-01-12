@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iqaluit",
+               "short_name" : "Iqaluit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baffin Region",
+               "short_name" : "Baffin Region",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nunavut",
+               "short_name" : "NU",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iqaluit, NU, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.78923210000001,
+                  "lng" : -68.41893279999999
+               },
+               "southwest" : {
+                  "lat" : 63.71493899999999,
+                  "lng" : -68.6160687
+               }
+            },
+            "location" : {
+               "lat" : 63.74669300000001,
+               "lng" : -68.5169669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.78923210000001,
+                  "lng" : -68.41893279999999
+               },
+               "southwest" : {
+                  "lat" : 63.71493899999999,
+                  "lng" : -68.6160687
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neuquen",
+               "short_name" : "Neuquen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Confluencia Department",
+               "short_name" : "Confluencia Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Neuquen",
+               "short_name" : "NQ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neuquén, Neuquén Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.893459,
+                  "lng" : -68.0147382
+               },
+               "southwest" : {
+                  "lat" : -38.986537,
+                  "lng" : -68.1929919
+               }
+            },
+            "location" : {
+               "lat" : -38.9524444,
+               "lng" : -68.0641389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.893459,
+                  "lng" : -68.0147382
+               },
+               "southwest" : {
+                  "lat" : -38.986537,
+                  "lng" : -68.1929919
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

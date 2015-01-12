@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirchheim",
+               "short_name" : "Kirchheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hersfeld-Rotenburg",
+               "short_name" : "Hersfeld-Rotenburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kassel",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kirchheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8904303,
+                  "lng" : 9.6302711
+               },
+               "southwest" : {
+                  "lat" : 50.8072239,
+                  "lng" : 9.494669700000001
+               }
+            },
+            "location" : {
+               "lat" : 50.8327928,
+               "lng" : 9.572866299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8904303,
+                  "lng" : 9.6302711
+               },
+               "southwest" : {
+                  "lat" : 50.8072239,
+                  "lng" : 9.494669700000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

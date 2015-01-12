@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Villa María",
+               "short_name" : "Villa María",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General San Martín Department",
+               "short_name" : "General San Martín Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "CB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Villa María, Córdoba, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.3782436,
+                  "lng" : -63.20082319999999
+               },
+               "southwest" : {
+                  "lat" : -32.4603456,
+                  "lng" : -63.29844259999999
+               }
+            },
+            "location" : {
+               "lat" : -32.4104614,
+               "lng" : -63.24364499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.3782436,
+                  "lng" : -63.20082319999999
+               },
+               "southwest" : {
+                  "lat" : -32.4603456,
+                  "lng" : -63.29844259999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

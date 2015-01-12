@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palau",
+               "short_name" : "PW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palau",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.094023399999999,
+                  "lng" : 134.7210985
+               },
+               "southwest" : {
+                  "lat" : 2.8127428,
+                  "lng" : 131.1201097
+               }
+            },
+            "location" : {
+               "lat" : 7.514979999999999,
+               "lng" : 134.58252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.759267999999999,
+                  "lng" : 134.6465868
+               },
+               "southwest" : {
+                  "lat" : 6.9733933,
+                  "lng" : 134.2216015
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

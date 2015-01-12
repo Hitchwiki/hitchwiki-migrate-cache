@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florianópolis",
+               "short_name" : "Florianópolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florianópolis",
+               "short_name" : "Florianópolis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Santa Catarina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florianópolis - State of Santa Catarina, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.3816342,
+                  "lng" : -48.359155
+               },
+               "southwest" : {
+                  "lat" : -27.8390502,
+                  "lng" : -48.6100064
+               }
+            },
+            "location" : {
+               "lat" : -27.5953778,
+               "lng" : -48.5480499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.3816342,
+                  "lng" : -48.359155
+               },
+               "southwest" : {
+                  "lat" : -27.8390502,
+                  "lng" : -48.6100064
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

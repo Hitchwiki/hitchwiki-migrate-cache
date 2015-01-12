@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A88",
+               "short_name" : "A88",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Basse-Normandie",
+               "short_name" : "Basse-Normandie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A88, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8893353,
+                  "lng" : 0.19401
+               },
+               "southwest" : {
+                  "lat" : 48.6309781,
+                  "lng" : -0.2207365
+               }
+            },
+            "location" : {
+               "lat" : 48.74320669999999,
+               "lng" : -0.07572229999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8893353,
+                  "lng" : 0.19401
+               },
+               "southwest" : {
+                  "lat" : 48.6309781,
+                  "lng" : -0.2207365
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

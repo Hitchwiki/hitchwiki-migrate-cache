@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poitou-Charentes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.17599,
+                  "lng" : 1.21323
+               },
+               "southwest" : {
+                  "lat" : 45.0887499,
+                  "lng" : -1.5626689
+               }
+            },
+            "location" : {
+               "lat" : 45.903552,
+               "lng" : -0.3091837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.17599,
+                  "lng" : 1.21323
+               },
+               "southwest" : {
+                  "lat" : 45.0887499,
+                  "lng" : -1.5626689
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

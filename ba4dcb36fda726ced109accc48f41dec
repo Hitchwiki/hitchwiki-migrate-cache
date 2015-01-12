@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Punta Arenas",
+               "short_name" : "Punta Arenas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Punta Arenas",
+               "short_name" : "Punta Arenas",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Magallanes Province",
+               "short_name" : "Magallanes Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Magallanes y la Antártica Chilena Region",
+               "short_name" : "Magallanes y la Antártica Chilena Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Punta Arenas, Punta Arenas, Magallanes y la Antártica Chilena Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -52.698691,
+                  "lng" : -70.21856369999999
+               },
+               "southwest" : {
+                  "lat" : -54.5166288,
+                  "lng" : -74.742491
+               }
+            },
+            "location" : {
+               "lat" : -53.154478,
+               "lng" : -70.916476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -52.698691,
+                  "lng" : -70.21856369999999
+               },
+               "southwest" : {
+                  "lat" : -54.5166288,
+                  "lng" : -74.742491
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

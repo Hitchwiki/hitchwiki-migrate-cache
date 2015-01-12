@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Damascus",
+               "short_name" : "Damascus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Damascus Governorate",
+               "short_name" : "Damascus Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Damascus, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5651386,
+                  "lng" : 36.3678997
+               },
+               "southwest" : {
+                  "lat" : 33.4498124,
+                  "lng" : 36.1978912
+               }
+            },
+            "location" : {
+               "lat" : 33.513,
+               "lng" : 36.292
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5651386,
+                  "lng" : 36.3678997
+               },
+               "southwest" : {
+                  "lat" : 33.4498124,
+                  "lng" : 36.1978912
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

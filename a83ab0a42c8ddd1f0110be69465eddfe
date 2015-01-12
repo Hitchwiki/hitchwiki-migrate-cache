@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tatabánya",
+               "short_name" : "Tatabánya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tatabányai",
+               "short_name" : "Tatabányai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Komárom-Esztergom",
+               "short_name" : "Komárom-Esztergom",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tatabánya, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6096499,
+                  "lng" : 18.4973549
+               },
+               "southwest" : {
+                  "lat" : 47.48642599999999,
+                  "lng" : 18.3379901
+               }
+            },
+            "location" : {
+               "lat" : 47.569246,
+               "lng" : 18.404818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6096499,
+                  "lng" : 18.4973549
+               },
+               "southwest" : {
+                  "lat" : 47.48642599999999,
+                  "lng" : 18.3379901
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

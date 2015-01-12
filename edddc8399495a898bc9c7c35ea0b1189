@@ -1,0 +1,137 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Hargeisa",
+          "lang": "link"
+        },
+        {
+          "name": "Харгейсе",
+          "lang": "ru"
+        },
+        {
+          "name": "HGA",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Somalia",
+      "adminCode1": "20",
+      "score": 105.37913513183594,
+      "lng": "44.065",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Mogadishu"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 9.470288635460872,
+        "east": 44.15599891091602,
+        "north": 9.64971136453913,
+        "west": 43.97400108908398
+      },
+      "name": "Hargeysa",
+      "fcode": "PPLA",
+      "geonameId": 57289,
+      "asciiName": "Hargeysa",
+      "lat": "9.56",
+      "population": 477876,
+      "adminName1": "Woqooyi Galbeed",
+      "countryId": "51537",
+      "adminId1": "50360",
+      "fclName": "city, village,...",
+      "countryCode": "SO",
+      "toponymName": "Hargeysa",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "adminCode2": "9179675",
+      "alternateNames": [
+        {
+          "name": "Hargeisa District",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Hargeisa_District",
+          "lang": "link"
+        },
+        {
+          "name": "Degmada Hargeysa",
+          "lang": "so"
+        }
+      ],
+      "countryName": "Somalia",
+      "adminCode1": "20",
+      "score": 41.56208801269531,
+      "lng": "44.28073",
+      "adminName2": "Hargeisa District",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Mogadishu"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hargeisa District",
+      "fcode": "ADM2",
+      "geonameId": 9179675,
+      "asciiName": "Hargeysa",
+      "lat": "9.52162",
+      "population": 0,
+      "adminName1": "Woqooyi Galbeed",
+      "countryId": "51537",
+      "adminId1": "50360",
+      "fclName": "country, state, region,...",
+      "countryCode": "SO",
+      "adminId2": "9179675",
+      "toponymName": "Hargeysa",
+      "fcl": "A",
+      "continentCode": "AF"
+    },
+    {
+      "countryName": "Somalia",
+      "adminCode1": "08",
+      "score": 21.9539852142334,
+      "lng": "42.70325",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Mogadishu"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 0.43842535124857296,
+        "east": 42.71224593410779,
+        "north": 0.45641264875142706,
+        "west": 42.69425806589221
+      },
+      "name": "Hargeysa",
+      "fcode": "PPL",
+      "geonameId": 57290,
+      "asciiName": "Hargeysa",
+      "lat": "0.44742",
+      "population": 0,
+      "adminName1": "Middle Juba",
+      "countryId": "51537",
+      "adminId1": "56084",
+      "fclName": "city, village,...",
+      "countryCode": "SO",
+      "toponymName": "Hargeysa",
+      "fcl": "P",
+      "continentCode": "AF"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A63",
+               "short_name" : "A63",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A63, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9672131,
+                  "lng" : 8.2426663
+               },
+               "southwest" : {
+                  "lat" : 49.4616582,
+                  "lng" : 7.809252
+               }
+            },
+            "location" : {
+               "lat" : 49.6994555,
+               "lng" : 8.053357099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9672131,
+                  "lng" : 8.2426663
+               },
+               "southwest" : {
+                  "lat" : 49.4616582,
+                  "lng" : 7.809252
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

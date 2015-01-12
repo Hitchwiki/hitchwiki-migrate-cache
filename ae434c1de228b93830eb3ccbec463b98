@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Düdingen",
+               "short_name" : "Düdingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sense District",
+               "short_name" : "Sense District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Fribourg",
+               "short_name" : "FR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Düdingen, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8824453,
+                  "lng" : 7.2322199
+               },
+               "southwest" : {
+                  "lat" : 46.80913,
+                  "lng" : 7.146447599999999
+               }
+            },
+            "location" : {
+               "lat" : 46.8481195,
+               "lng" : 7.1915796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8824453,
+                  "lng" : 7.2322199
+               },
+               "southwest" : {
+                  "lat" : 46.80913,
+                  "lng" : 7.146447599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

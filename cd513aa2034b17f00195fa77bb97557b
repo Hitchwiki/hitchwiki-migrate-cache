@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viña del Mar",
+               "short_name" : "Viña",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viña del Mar",
+               "short_name" : "Viña del Mar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso Province",
+               "short_name" : "Valparaíso Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viña del Mar, Viña del Mar, Valparaíso Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.9532118,
+                  "lng" : -71.4428544
+               },
+               "southwest" : {
+                  "lat" : -33.1052005,
+                  "lng" : -71.58820349999999
+               }
+            },
+            "location" : {
+               "lat" : -33.024527,
+               "lng" : -71.55234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.9532118,
+                  "lng" : -71.4428544
+               },
+               "southwest" : {
+                  "lat" : -33.1052005,
+                  "lng" : -71.58820349999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

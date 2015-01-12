@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M8",
+               "short_name" : "M8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M8, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.5838985,
+                  "lng" : 42.9379527
+               },
+               "southwest" : {
+                  "lat" : 55.8816241,
+                  "lng" : 37.7246165
+               }
+            },
+            "location" : {
+               "lat" : 60.0304869,
+               "lng" : 41.0963968
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.5838985,
+                  "lng" : 42.9379527
+               },
+               "southwest" : {
+                  "lat" : 55.8816241,
+                  "lng" : 37.7246165
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

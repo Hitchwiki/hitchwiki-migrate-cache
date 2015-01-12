@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scandinavia",
+               "short_name" : "Scandinavia",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Scandinavia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.30780000000001,
+                  "lng" : 31.5871
+               },
+               "southwest" : {
+                  "lat" : 54.43170000000001,
+                  "lng" : 4.0649
+               }
+            },
+            "location" : {
+               "lat" : 62.27864750000001,
+               "lng" : 12.3401708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.30780000000001,
+                  "lng" : 31.5871
+               },
+               "southwest" : {
+                  "lat" : 54.43170000000001,
+                  "lng" : 4.0649
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

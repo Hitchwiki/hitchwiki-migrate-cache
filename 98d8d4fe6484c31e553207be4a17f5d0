@@ -1,0 +1,348 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bath and North East Somerset",
+               "short_name" : "Bath and North East Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bath, Bath, Bath and North East Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4117741,
+                  "lng" : -2.3149068
+               },
+               "southwest" : {
+                  "lat" : 51.3484788,
+                  "lng" : -2.4141532
+               }
+            },
+            "location" : {
+               "lat" : 51.375801,
+               "lng" : -2.3599039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4117741,
+                  "lng" : -2.3149068
+               },
+               "southwest" : {
+                  "lat" : 51.3484788,
+                  "lng" : -2.4141532
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagadahoc County",
+               "short_name" : "Sagadahoc County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bath, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9813598,
+                  "lng" : -69.81032929999999
+               },
+               "southwest" : {
+                  "lat" : 43.866574,
+                  "lng" : -69.8688519
+               }
+            },
+            "location" : {
+               "lat" : 43.9106353,
+               "lng" : -69.82060229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9813598,
+                  "lng" : -69.81032929999999
+               },
+               "southwest" : {
+                  "lat" : 43.866574,
+                  "lng" : -69.8688519
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Steuben County",
+               "short_name" : "Steuben County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14810",
+               "short_name" : "14810",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bath, NY 14810, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3531148,
+                  "lng" : -77.294691
+               },
+               "southwest" : {
+                  "lat" : 42.3225051,
+                  "lng" : -77.3434561
+               }
+            },
+            "location" : {
+               "lat" : 42.3370164,
+               "lng" : -77.31775770000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3531148,
+                  "lng" : -77.294691
+               },
+               "southwest" : {
+                  "lat" : 42.3225051,
+                  "lng" : -77.3434561
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath Township",
+               "short_name" : "Bath Twp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clinton County",
+               "short_name" : "Clinton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bath Township, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8571029,
+                  "lng" : -84.363659
+               },
+               "southwest" : {
+                  "lat" : 42.7695399,
+                  "lng" : -84.4925908
+               }
+            },
+            "location" : {
+               "lat" : 42.8187367,
+               "lng" : -84.4485591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8571029,
+                  "lng" : -84.363659
+               },
+               "southwest" : {
+                  "lat" : 42.7695399,
+                  "lng" : -84.4925908
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bath, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.73593890000001,
+                  "lng" : -75.3811049
+               },
+               "southwest" : {
+                  "lat" : 40.718364,
+                  "lng" : -75.401417
+               }
+            },
+            "location" : {
+               "lat" : 40.7256524,
+               "lng" : -75.39406989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73593890000001,
+                  "lng" : -75.3811049
+               },
+               "southwest" : {
+                  "lat" : 40.718364,
+                  "lng" : -75.401417
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berkeley Springs",
+               "short_name" : "Berkeley Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Morgan County",
+               "short_name" : "Morgan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25411",
+               "short_name" : "25411",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berkeley Springs, WV 25411, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6344249,
+                  "lng" : -78.221154
+               },
+               "southwest" : {
+                  "lat" : 39.6191369,
+                  "lng" : -78.23473799999999
+               }
+            },
+            "location" : {
+               "lat" : 39.62699020000001,
+               "lng" : -78.2271957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6344249,
+                  "lng" : -78.221154
+               },
+               "southwest" : {
+                  "lat" : 39.6191369,
+                  "lng" : -78.23473799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

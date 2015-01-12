@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellingham",
+               "short_name" : "Bellingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whatcom County",
+               "short_name" : "Whatcom County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bellingham, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.81878400000001,
+                  "lng" : -122.398049
+               },
+               "southwest" : {
+                  "lat" : 48.6886873,
+                  "lng" : -122.524571
+               }
+            },
+            "location" : {
+               "lat" : 48.74908,
+               "lng" : -122.4781473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.81878400000001,
+                  "lng" : -122.398049
+               },
+               "southwest" : {
+                  "lat" : 48.6886873,
+                  "lng" : -122.524571
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellingham",
+               "short_name" : "Bellingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bellingham",
+               "short_name" : "Bellingham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Norfolk County",
+               "short_name" : "Norfolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bellingham, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.13587,
+                  "lng" : -71.4411169
+               },
+               "southwest" : {
+                  "lat" : 42.01719,
+                  "lng" : -71.5031498
+               }
+            },
+            "location" : {
+               "lat" : 42.0867608,
+               "lng" : -71.47458809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.13587,
+                  "lng" : -71.4411169
+               },
+               "southwest" : {
+                  "lat" : 42.01719,
+                  "lng" : -71.5031498
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellingham",
+               "short_name" : "Bellingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lac qui Parle County",
+               "short_name" : "Lac Qui Parle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56212",
+               "short_name" : "56212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bellingham, MN 56212, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1416739,
+                  "lng" : -96.277444
+               },
+               "southwest" : {
+                  "lat" : 45.1291248,
+                  "lng" : -96.29286399999999
+               }
+            },
+            "location" : {
+               "lat" : 45.1360821,
+               "lng" : -96.28772180000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1416739,
+                  "lng" : -96.277444
+               },
+               "southwest" : {
+                  "lat" : 45.1291248,
+                  "lng" : -96.29286399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

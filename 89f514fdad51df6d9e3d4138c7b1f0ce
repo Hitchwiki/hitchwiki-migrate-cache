@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montserrat",
+               "short_name" : "MS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montserrat",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.8240519,
+                  "lng" : -62.14417580000001
+               },
+               "southwest" : {
+                  "lat" : 16.674821,
+                  "lng" : -62.241322
+               }
+            },
+            "location" : {
+               "lat" : 16.742498,
+               "lng" : -62.187366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.8240519,
+                  "lng" : -62.14417580000001
+               },
+               "southwest" : {
+                  "lat" : 16.674821,
+                  "lng" : -62.241322
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

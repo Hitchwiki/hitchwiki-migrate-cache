@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gyumri",
+               "short_name" : "Gyumri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shirak",
+               "short_name" : "Shirak",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gyumri, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8402102,
+                  "lng" : 43.8898659
+               },
+               "southwest" : {
+                  "lat" : 40.7284784,
+                  "lng" : 43.790946
+               }
+            },
+            "location" : {
+               "lat" : 40.7929026,
+               "lng" : 43.8464971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8402102,
+                  "lng" : 43.8898659
+               },
+               "southwest" : {
+                  "lat" : 40.7284784,
+                  "lng" : 43.790946
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

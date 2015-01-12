@@ -1,0 +1,1442 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro City",
+               "short_name" : "Metro City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lampung",
+               "short_name" : "Lampung",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Metro City, Lampung, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -5.051561,
+                  "lng" : 105.358773
+               },
+               "southwest" : {
+                  "lat" : -5.185337100000001,
+                  "lng" : 105.2624
+               }
+            },
+            "location" : {
+               "lat" : -5.116667,
+               "lng" : 105.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.051561,
+                  "lng" : 105.358773
+               },
+               "southwest" : {
+                  "lat" : -5.185337100000001,
+                  "lng" : 105.2624
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro Lucena",
+               "short_name" : "Metro Lucena",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Metro Gaisano Supermarket and Department Store",
+               "short_name" : "Metro Gaisano Supermarket and Department Store",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "M. L. Tagarao Street",
+               "short_name" : "M. L. Tagarao Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barangay III",
+               "short_name" : "Barangay III",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lucena",
+               "short_name" : "Lucena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quezon",
+               "short_name" : "Quezon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabarzon",
+               "short_name" : "Calabarzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro Lucena, Metro Gaisano Supermarket and Department Store, M. L. Tagarao Street, Lucena, Quezon, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9373629,
+                  "lng" : 121.6090474
+               },
+               "southwest" : {
+                  "lat" : 13.9362565,
+                  "lng" : 121.6079101
+               }
+            },
+            "location" : {
+               "lat" : 13.936859,
+               "lng" : 121.6084313
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9381586802915,
+                  "lng" : 121.6098277302915
+               },
+               "southwest" : {
+                  "lat" : 13.9354607197085,
+                  "lng" : 121.6071297697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9990215,
+                  "lng" : -77.0017465
+               },
+               "southwest" : {
+                  "lat" : 38.9552037,
+                  "lng" : -77.03917539999999
+               }
+            },
+            "location" : {
+               "lat" : 38.9771126,
+               "lng" : -77.0204609
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9990215,
+                  "lng" : -77.0017465
+               },
+               "southwest" : {
+                  "lat" : 38.9552037,
+                  "lng" : -77.03917539999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alexandria",
+               "short_name" : "Alexandria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Alexandria, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8157286,
+                  "lng" : -77.0521289
+               },
+               "southwest" : {
+                  "lat" : 38.8045608,
+                  "lng" : -77.06364189999999
+               }
+            },
+            "location" : {
+               "lat" : 38.8101447,
+               "lng" : -77.0578854
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8157286,
+                  "lng" : -77.0521289
+               },
+               "southwest" : {
+                  "lat" : 38.8045608,
+                  "lng" : -77.06364189999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hacı Halim Mh.",
+               "short_name" : "Hacı Halim Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hacı Halim",
+               "short_name" : "Hacı Halim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kartepe",
+               "short_name" : "Kartepe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41000",
+               "short_name" : "41000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hacı Halim Mh., Metro, 41000 Hacı Halim/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.757463,
+                  "lng" : 29.995009
+               },
+               "southwest" : {
+                  "lat" : 40.756483,
+                  "lng" : 29.993819
+               }
+            },
+            "location" : {
+               "lat" : 40.757225,
+               "lng" : 29.99441
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7583219802915,
+                  "lng" : 29.9957629802915
+               },
+               "southwest" : {
+                  "lat" : 40.7556240197085,
+                  "lng" : 29.9930650197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metropolitana di Brescia",
+               "short_name" : "METROBS",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "BS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardia",
+               "short_name" : "Lombardia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Brescia BS, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5187602,
+                  "lng" : 10.2887368
+               },
+               "southwest" : {
+                  "lat" : 45.506402,
+                  "lng" : 10.2557945
+               }
+            },
+            "location" : {
+               "lat" : 45.5125811,
+               "lng" : 10.2722656
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5187602,
+                  "lng" : 10.2887368
+               },
+               "southwest" : {
+                  "lat" : 45.506402,
+                  "lng" : 10.2557945
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ayvalı Mh.",
+               "short_name" : "Ayvalı Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Keçiören",
+               "short_name" : "Keçiören",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06020",
+               "short_name" : "06020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ayvalı Mh., Metro, 06010 Ankara/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.970568,
+                  "lng" : 32.825649
+               },
+               "southwest" : {
+                  "lat" : 39.96921,
+                  "lng" : 32.823343
+               }
+            },
+            "location" : {
+               "lat" : 39.970025,
+               "lng" : 32.825002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9712379802915,
+                  "lng" : 32.8258449802915
+               },
+               "southwest" : {
+                  "lat" : 39.9685400197085,
+                  "lng" : 32.8231470197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Çamçeşme Mh.",
+               "short_name" : "Çamçeşme Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pendik",
+               "short_name" : "Pendik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34890",
+               "short_name" : "34890",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çamçeşme Mh., Metro, 34890 İstanbul/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.867517,
+                  "lng" : 29.278246
+               },
+               "southwest" : {
+                  "lat" : 40.866371,
+                  "lng" : 29.276698
+               }
+            },
+            "location" : {
+               "lat" : 40.867102,
+               "lng" : 29.277543
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.86829298029151,
+                  "lng" : 29.2788209802915
+               },
+               "southwest" : {
+                  "lat" : 40.86559501970851,
+                  "lng" : 29.2761230197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İstasyonaltı Mh.",
+               "short_name" : "İstasyonaltı Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Çiğli",
+               "short_name" : "Çiğli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35630",
+               "short_name" : "35630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "İstasyonaltı Mh., Metro, 35630 İzmir/İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.481363,
+                  "lng" : 27.068276
+               },
+               "southwest" : {
+                  "lat" : 38.479348,
+                  "lng" : 27.065928
+               }
+            },
+            "location" : {
+               "lat" : 38.480388,
+               "lng" : 27.066344
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4817044802915,
+                  "lng" : 27.0684509802915
+               },
+               "southwest" : {
+                  "lat" : 38.47900651970851,
+                  "lng" : 27.0657530197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Muskegon",
+               "short_name" : "Muskegon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laketon",
+               "short_name" : "Laketon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Muskegon County",
+               "short_name" : "Muskegon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49445",
+               "short_name" : "49445",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro, Muskegon, MI 49445, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2763802,
+                  "lng" : -86.27639259999999
+               },
+               "southwest" : {
+                  "lat" : 43.2763418,
+                  "lng" : -86.27886219999999
+               }
+            },
+            "location" : {
+               "lat" : 43.27635129999999,
+               "lng" : -86.27765660000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2777099802915,
+                  "lng" : -86.27627841970849
+               },
+               "southwest" : {
+                  "lat" : 43.2750120197085,
+                  "lng" : -86.27897638029151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Evren Mh.",
+               "short_name" : "Evren Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bağcılar",
+               "short_name" : "Bağcılar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34212",
+               "short_name" : "34212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Evren Mh., Metro, 34200 Bağcılar/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.030704,
+                  "lng" : 28.814989
+               },
+               "southwest" : {
+                  "lat" : 41.02929899999999,
+                  "lng" : 28.81339599999999
+               }
+            },
+            "location" : {
+               "lat" : 41.029802,
+               "lng" : 28.814058
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0313504802915,
+                  "lng" : 28.81554148029149
+               },
+               "southwest" : {
+                  "lat" : 41.0286525197085,
+                  "lng" : 28.8128435197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yahşi Köyü",
+               "short_name" : "Yahşi Köyü",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ortakentyahşi",
+               "short_name" : "Ortakentyahşi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bodrum",
+               "short_name" : "Bodrum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Muğla",
+               "short_name" : "Muğla",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48400",
+               "short_name" : "48400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yahşi Köyü, Metro, 48400 Ortakentyahşi/Muğla, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.057484,
+                  "lng" : 27.358056
+               },
+               "southwest" : {
+                  "lat" : 37.055583,
+                  "lng" : 27.356759
+               }
+            },
+            "location" : {
+               "lat" : 37.056524,
+               "lng" : 27.357916
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0578824802915,
+                  "lng" : 27.3587564802915
+               },
+               "southwest" : {
+                  "lat" : 37.0551845197085,
+                  "lng" : 27.3560585197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ulubatlıhasan Mh.",
+               "short_name" : "Ulubatlıhasan Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karatay",
+               "short_name" : "Karatay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42000",
+               "short_name" : "42000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ulubatlıhasan Mh., Metro, 42000 Konya/Konya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.902017,
+                  "lng" : 32.511509
+               },
+               "southwest" : {
+                  "lat" : 37.90128199999999,
+                  "lng" : 32.5101
+               }
+            },
+            "location" : {
+               "lat" : 37.90164499999999,
+               "lng" : 32.510369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.90299848029149,
+                  "lng" : 32.5121534802915
+               },
+               "southwest" : {
+                  "lat" : 37.9003005197085,
+                  "lng" : 32.5094555197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cengizhan Mh.",
+               "short_name" : "Cengizhan Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mamak",
+               "short_name" : "Mamak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06105",
+               "short_name" : "06105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cengizhan Mh., Metro, 06105 Ankara/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.89199,
+                  "lng" : 32.9339
+               },
+               "southwest" : {
+                  "lat" : 39.890692,
+                  "lng" : 32.932644
+               }
+            },
+            "location" : {
+               "lat" : 39.891156,
+               "lng" : 32.933589
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.89268998029149,
+                  "lng" : 32.9346209802915
+               },
+               "southwest" : {
+                  "lat" : 39.8899920197085,
+                  "lng" : 32.9319230197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yeşiloba Mh.",
+               "short_name" : "Yeşiloba Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Adana",
+               "short_name" : "Adana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seyhan",
+               "short_name" : "Seyhan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adana",
+               "short_name" : "Adana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01010",
+               "short_name" : "01010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yeşiloba Mh., Metro, 01010 Adana/Adana, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.99574399999999,
+                  "lng" : 35.252114
+               },
+               "southwest" : {
+                  "lat" : 36.994318,
+                  "lng" : 35.251029
+               }
+            },
+            "location" : {
+               "lat" : 36.995313,
+               "lng" : 35.251802
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.99637998029149,
+                  "lng" : 35.2529204802915
+               },
+               "southwest" : {
+                  "lat" : 36.9936820197085,
+                  "lng" : 35.2502225197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tierra y Libertad",
+               "short_name" : "Tierra y Libertad",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Navojoa",
+               "short_name" : "Navojoa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Navojoa",
+               "short_name" : "Navojoa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "SON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85880",
+               "short_name" : "85880",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro, Tierra y Libertad, 85880 Navojoa, SON, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.082546,
+                  "lng" : -109.4106799
+               },
+               "southwest" : {
+                  "lat" : 27.0824744,
+                  "lng" : -109.4139791
+               }
+            },
+            "location" : {
+               "lat" : 27.0824935,
+               "lng" : -109.4127828
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0838591802915,
+                  "lng" : -109.4106799
+               },
+               "southwest" : {
+                  "lat" : 27.08116121970849,
+                  "lng" : -109.4139791
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Karang Besuki",
+               "short_name" : "Karang Besuki",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Sukun",
+               "short_name" : "Sukun",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kota Malang",
+               "short_name" : "Kota Malang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jawa Timur",
+               "short_name" : "Jawa Tim.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65149",
+               "short_name" : "65149",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro, Sukun, Kota Malang, Jawa Timur 65149, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.956826899999999,
+                  "lng" : 112.6068545
+               },
+               "southwest" : {
+                  "lat" : -7.956990099999999,
+                  "lng" : 112.6049119
+               }
+            },
+            "location" : {
+               "lat" : -7.9569307,
+               "lng" : 112.6059903
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.955559519708498,
+                  "lng" : 112.6072321802915
+               },
+               "southwest" : {
+                  "lat" : -7.958257480291502,
+                  "lng" : 112.6045342197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Nicolás de los Garza",
+               "short_name" : "San Nicolás de los Garza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nuevo León",
+               "short_name" : "NL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Nuevo León, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7552241,
+                  "lng" : -100.2493328
+               },
+               "southwest" : {
+                  "lat" : 25.754085,
+                  "lng" : -100.2498686
+               }
+            },
+            "location" : {
+               "lat" : 25.7552241,
+               "lng" : -100.2498686
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7560035302915,
+                  "lng" : -100.2482517197085
+               },
+               "southwest" : {
+                  "lat" : 25.7533055697085,
+                  "lng" : -100.2509496802915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Metro Cash&Carry",
+               "short_name" : "Metro Cash&Carry",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Comuna Cârcea",
+               "short_name" : "Comuna Cârcea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Dolj",
+               "short_name" : "DJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Metro Cash&Carry, Romania",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.31222,
+               "lng" : 23.88692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3135689802915,
+                  "lng" : 23.8882689802915
+               },
+               "southwest" : {
+                  "lat" : 44.3108710197085,
+                  "lng" : 23.8855710197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sault Ste. Marie",
+               "short_name" : "Sault Ste. Marie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Algoma District",
+               "short_name" : "Algoma District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "P6B",
+               "short_name" : "P6B",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Metro, Sault Ste. Marie, ON P6B, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5341608,
+               "lng" : -84.32254870000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.53550978029149,
+                  "lng" : -84.32119971970852
+               },
+               "southwest" : {
+                  "lat" : 46.53281181970849,
+                  "lng" : -84.32389768029152
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Rivne",
+               "short_name" : "Rivne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rivnens'ka oblast",
+               "short_name" : "Rivnens'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Rivne, Rivnens'ka oblast, Ukraine",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.62397,
+               "lng" : 26.203407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6253189802915,
+                  "lng" : 26.20475598029151
+               },
+               "southwest" : {
+                  "lat" : 50.6226210197085,
+                  "lng" : 26.2020580197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Artemivs'kyi district",
+               "short_name" : "Artemivs'kyi district",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Luhansk",
+               "short_name" : "Luhansk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Luhansk, Luhans'ka oblast, Ukraine",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.560686,
+               "lng" : 39.245909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.56203498029149,
+                  "lng" : 39.24725798029149
+               },
+               "southwest" : {
+                  "lat" : 48.5593370197085,
+                  "lng" : 39.24456001970849
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Păulești",
+               "short_name" : "Păulești",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comuna Păulești",
+               "short_name" : "Comuna Păulești",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Prahova",
+               "short_name" : "PH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Păulești, Romania",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9694036,
+               "lng" : 25.9620291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9707525802915,
+                  "lng" : 25.9633780802915
+               },
+               "southwest" : {
+                  "lat" : 44.9680546197085,
+                  "lng" : 25.9606801197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metro",
+               "short_name" : "Metro",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sở Dầu",
+               "short_name" : "Sở Dầu",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hồng Bàng",
+               "short_name" : "Hồng Bàng",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hải Phòng",
+               "short_name" : "Hải Phòng",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metro, Sở Dầu, Hồng Bàng, Hải Phòng, Vietnam",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.864075,
+               "lng" : 106.655225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.8654239802915,
+                  "lng" : 106.6565739802915
+               },
+               "southwest" : {
+                  "lat" : 20.8627260197085,
+                  "lng" : 106.6538760197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

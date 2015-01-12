@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahti",
+               "short_name" : "Lahti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahti",
+               "short_name" : "Lahti",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15110",
+               "short_name" : "15110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15110 Lahti, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.9836925,
+               "lng" : 25.6503169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.9891043,
+                  "lng" : 25.6663243
+               },
+               "southwest" : {
+                  "lat" : 60.9782798,
+                  "lng" : 25.6343095
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

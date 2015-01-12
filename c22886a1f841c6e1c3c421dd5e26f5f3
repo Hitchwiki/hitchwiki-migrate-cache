@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zgorzelec",
+               "short_name" : "Zgorzelec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Zgorzelec",
+               "short_name" : "Gmina Zgorzelec",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Zgorzelec County",
+               "short_name" : "Zgorzelec County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zgorzelec, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1835385,
+                  "lng" : 15.0451615
+               },
+               "southwest" : {
+                  "lat" : 51.1196469,
+                  "lng" : 14.9904183
+               }
+            },
+            "location" : {
+               "lat" : 51.1496361,
+               "lng" : 15.0065645
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1835385,
+                  "lng" : 15.0451615
+               },
+               "southwest" : {
+                  "lat" : 51.1196469,
+                  "lng" : 14.9904183
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

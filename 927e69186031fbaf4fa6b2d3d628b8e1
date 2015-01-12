@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aomori",
+               "short_name" : "Aomori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aomori Prefecture",
+               "short_name" : "Aomori Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aomori, Aomori Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9702795,
+                  "lng" : 140.9808429
+               },
+               "southwest" : {
+                  "lat" : 40.6059389,
+                  "lng" : 140.5202819
+               }
+            },
+            "location" : {
+               "lat" : 40.822072,
+               "lng" : 140.7473647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9702795,
+                  "lng" : 140.9808429
+               },
+               "southwest" : {
+                  "lat" : 40.6059389,
+                  "lng" : 140.5202819
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aomori Prefecture",
+               "short_name" : "Aomori Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aomori Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.55623689999999,
+                  "lng" : 141.6830975
+               },
+               "southwest" : {
+                  "lat" : 40.21775909999999,
+                  "lng" : 139.8587192
+               }
+            },
+            "location" : {
+               "lat" : 40.8243077,
+               "lng" : 140.7399984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.55623689999999,
+                  "lng" : 141.6830975
+               },
+               "southwest" : {
+                  "lat" : 40.21775909999999,
+                  "lng" : 139.8587192
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

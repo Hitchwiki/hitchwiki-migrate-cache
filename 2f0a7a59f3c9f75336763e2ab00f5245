@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A2",
+               "short_name" : "A2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A2, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5860524,
+                  "lng" : 9.0371135
+               },
+               "southwest" : {
+                  "lat" : 45.8387444,
+                  "lng" : 7.598902799999999
+               }
+            },
+            "location" : {
+               "lat" : 46.6850491,
+               "lng" : 8.5910431
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5860524,
+                  "lng" : 9.0371135
+               },
+               "southwest" : {
+                  "lat" : 45.8387444,
+                  "lng" : 7.598902799999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

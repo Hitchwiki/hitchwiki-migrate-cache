@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "",
+               "short_name" : "",
+               "types" : [ "political" ]
+            }
+         ],
+         "formatted_address" : "",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4144162,
+                  "lng" : 47.1954658
+               },
+               "southwest" : {
+                  "lat" : 39.4456576,
+                  "lng" : 46.247494
+               }
+            },
+            "location" : {
+               "lat" : 39.87543549999999,
+               "lng" : 46.677344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4144162,
+                  "lng" : 47.1954658
+               },
+               "southwest" : {
+                  "lat" : 39.4456576,
+                  "lng" : 46.247494
+               }
+            }
+         },
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

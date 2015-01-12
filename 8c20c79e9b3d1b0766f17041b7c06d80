@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guyana",
+               "short_name" : "GY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guyana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.5466277,
+                  "lng" : -56.49112
+               },
+               "southwest" : {
+                  "lat" : 1.164724,
+                  "lng" : -61.414905
+               }
+            },
+            "location" : {
+               "lat" : 4.860416,
+               "lng" : -58.93018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.5466277,
+                  "lng" : -56.49112
+               },
+               "southwest" : {
+                  "lat" : 1.164724,
+                  "lng" : -61.414905
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A111",
+               "short_name" : "A111",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A111, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7086447,
+                  "lng" : 13.3219416
+               },
+               "southwest" : {
+                  "lat" : 52.5317911,
+                  "lng" : 13.1767834
+               }
+            },
+            "location" : {
+               "lat" : 52.620174,
+               "lng" : 13.2494473
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7086447,
+                  "lng" : 13.3219416
+               },
+               "southwest" : {
+                  "lat" : 52.5317911,
+                  "lng" : 13.1767834
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

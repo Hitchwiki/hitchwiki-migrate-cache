@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autostrada Wolności",
+               "short_name" : "A2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A2, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3901196,
+                  "lng" : 21.7781639
+               },
+               "southwest" : {
+                  "lat" : 51.8886121,
+                  "lng" : 14.5777281
+               }
+            },
+            "location" : {
+               "lat" : 52.1656068,
+               "lng" : 18.1891565
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3901196,
+                  "lng" : 21.7781639
+               },
+               "southwest" : {
+                  "lat" : 51.8886121,
+                  "lng" : 14.5777281
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

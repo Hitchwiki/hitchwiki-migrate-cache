@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cameroon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.083335,
+                  "lng" : 16.1944078
+               },
+               "southwest" : {
+                  "lat" : 1.6558999,
+                  "lng" : 8.4947634
+               }
+            },
+            "location" : {
+               "lat" : 7.369721999999999,
+               "lng" : 12.354722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0833991,
+                  "lng" : 16.1944078
+               },
+               "southwest" : {
+                  "lat" : 1.6558999,
+                  "lng" : 8.4947634
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

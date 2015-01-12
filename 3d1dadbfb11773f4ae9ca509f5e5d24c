@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tadmor",
+               "short_name" : "Tadmor",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amman",
+               "short_name" : "Amman",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tadmor, Jordan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9952819,
+                  "lng" : 36.0089221
+               },
+               "southwest" : {
+                  "lat" : 31.9937352,
+                  "lng" : 36.0037215
+               }
+            },
+            "location" : {
+               "lat" : 31.99432119999999,
+               "lng" : 36.0064528
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9958575302915,
+                  "lng" : 36.0089221
+               },
+               "southwest" : {
+                  "lat" : 31.9931595697085,
+                  "lng" : 36.0037215
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tadmor",
+               "short_name" : "Tadmor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasman District",
+               "short_name" : "Tasman District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tasman",
+               "short_name" : "Tasman",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tadmor, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.422968,
+                  "lng" : 172.793616
+               },
+               "southwest" : {
+                  "lat" : -41.55221,
+                  "lng" : 172.7248899
+               }
+            },
+            "location" : {
+               "lat" : -41.4376495,
+               "lng" : 172.7530242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.422968,
+                  "lng" : 172.793616
+               },
+               "southwest" : {
+                  "lat" : -41.55221,
+                  "lng" : 172.7248899
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tadmor",
+               "short_name" : "Tadmor",
+               "types" : []
+            },
+            {
+               "long_name" : "Upper Nazareth",
+               "short_name" : "Upper Nazareth",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18064",
+               "short_name" : "18064",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tadmor, Upper Nazareth, PA 18064, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7298192,
+               "lng" : -75.3576803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7311681802915,
+                  "lng" : -75.35633131970849
+               },
+               "southwest" : {
+                  "lat" : 40.72847021970851,
+                  "lng" : -75.35902928029151
+               }
+            }
+         },
+         "types" : []
+      }
+   ],
+   "status" : "OK"
+}

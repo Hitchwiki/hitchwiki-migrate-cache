@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz de la Sierra",
+               "short_name" : "Santa Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Provincia de Andrés Ibáñez",
+               "short_name" : "Provincia de Andrés Ibáñez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz",
+               "short_name" : "Santa Cruz",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz de la Sierra, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.4908405,
+                  "lng" : -62.76557929999999
+               },
+               "southwest" : {
+                  "lat" : -18.0244453,
+                  "lng" : -63.25768960000001
+               }
+            },
+            "location" : {
+               "lat" : -17.866667,
+               "lng" : -63
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.4908405,
+                  "lng" : -62.76557929999999
+               },
+               "southwest" : {
+                  "lat" : -18.0244453,
+                  "lng" : -63.25768960000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

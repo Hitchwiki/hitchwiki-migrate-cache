@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarp",
+               "short_name" : "Tarp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Flensburg",
+               "short_name" : "Schleswig-Flensburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarp, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.7024984,
+                  "lng" : 9.4365699
+               },
+               "southwest" : {
+                  "lat" : 54.621937,
+                  "lng" : 9.365683199999999
+               }
+            },
+            "location" : {
+               "lat" : 54.6652916,
+               "lng" : 9.3956108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.7024984,
+                  "lng" : 9.4365699
+               },
+               "southwest" : {
+                  "lat" : 54.621937,
+                  "lng" : 9.365683199999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarpa",
+               "short_name" : "Tarpa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vásárosnaményi",
+               "short_name" : "Vásárosnaményi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Szabolcs-Szatmár-Bereg",
+               "short_name" : "Szabolcs-Szatmár-Bereg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarpa, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.140317,
+                  "lng" : 22.6198829
+               },
+               "southwest" : {
+                  "lat" : 48.065772,
+                  "lng" : 22.4647111
+               }
+            },
+            "location" : {
+               "lat" : 48.1055366,
+               "lng" : 22.5316392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.140317,
+                  "lng" : 22.6198829
+               },
+               "southwest" : {
+                  "lat" : 48.065772,
+                  "lng" : 22.4647111
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

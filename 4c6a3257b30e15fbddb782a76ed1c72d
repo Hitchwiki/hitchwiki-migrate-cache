@@ -1,0 +1,338 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gainesville, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.770553,
+                  "lng" : -82.218976
+               },
+               "southwest" : {
+                  "lat" : 29.601988,
+                  "lng" : -82.42051599999999
+               }
+            },
+            "location" : {
+               "lat" : 29.6516344,
+               "lng" : -82.32482619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.770553,
+                  "lng" : -82.218976
+               },
+               "southwest" : {
+                  "lat" : 29.601988,
+                  "lng" : -82.42051599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hall County",
+               "short_name" : "Hall County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gainesville, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3628968,
+                  "lng" : -83.75568699999999
+               },
+               "southwest" : {
+                  "lat" : 34.221172,
+                  "lng" : -83.89958799999999
+               }
+            },
+            "location" : {
+               "lat" : 34.2978794,
+               "lng" : -83.8240663
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3628968,
+                  "lng" : -83.75568699999999
+               },
+               "southwest" : {
+                  "lat" : 34.221172,
+                  "lng" : -83.89958799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cooke County",
+               "short_name" : "Cooke County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76240",
+               "short_name" : "76240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gainesville, TX 76240, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7146819,
+                  "lng" : -97.080365
+               },
+               "southwest" : {
+                  "lat" : 33.5778091,
+                  "lng" : -97.21064699999999
+               }
+            },
+            "location" : {
+               "lat" : 33.62594139999999,
+               "lng" : -97.1333453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7146819,
+                  "lng" : -97.080365
+               },
+               "southwest" : {
+                  "lat" : 33.5778091,
+                  "lng" : -97.21064699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prince William County",
+               "short_name" : "Prince William County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gainesville, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8243121,
+                  "lng" : -77.57234099999999
+               },
+               "southwest" : {
+                  "lat" : 38.7632739,
+                  "lng" : -77.666388
+               }
+            },
+            "location" : {
+               "lat" : 38.7956706,
+               "lng" : -77.6138802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8243121,
+                  "lng" : -77.57234099999999
+               },
+               "southwest" : {
+                  "lat" : 38.7632739,
+                  "lng" : -77.666388
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Bridges",
+               "short_name" : "West Bridges",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ozark County",
+               "short_name" : "Ozark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65655",
+               "short_name" : "65655",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gainesville, MO 65655, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.623376,
+                  "lng" : -92.39320389999999
+               },
+               "southwest" : {
+                  "lat" : 36.5927421,
+                  "lng" : -92.47578799999999
+               }
+            },
+            "location" : {
+               "lat" : 36.6031184,
+               "lng" : -92.42821699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.623376,
+                  "lng" : -92.39320389999999
+               },
+               "southwest" : {
+                  "lat" : 36.5927421,
+                  "lng" : -92.47578799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sumter County",
+               "short_name" : "Sumter County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gainesville, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8295969,
+                  "lng" : -88.1497358
+               },
+               "southwest" : {
+                  "lat" : 32.802734,
+                  "lng" : -88.16988900000001
+               }
+            },
+            "location" : {
+               "lat" : 32.8209639,
+               "lng" : -88.158914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8295969,
+                  "lng" : -88.1497358
+               },
+               "southwest" : {
+                  "lat" : 32.802734,
+                  "lng" : -88.16988900000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

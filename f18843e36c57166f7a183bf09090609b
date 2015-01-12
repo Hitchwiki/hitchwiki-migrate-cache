@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oklahoma City",
+               "short_name" : "Oklahoma City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma County",
+               "short_name" : "Oklahoma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oklahoma City, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.674752,
+                  "lng" : -97.12472
+               },
+               "southwest" : {
+                  "lat" : 35.2905439,
+                  "lng" : -97.83367489999999
+               }
+            },
+            "location" : {
+               "lat" : 35.4675602,
+               "lng" : -97.5164276
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.674752,
+                  "lng" : -97.12472
+               },
+               "southwest" : {
+                  "lat" : 35.2905439,
+                  "lng" : -97.83367489999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oklahoma, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0023119,
+                  "lng" : -94.430662
+               },
+               "southwest" : {
+                  "lat" : 33.6158158,
+                  "lng" : -103.002455
+               }
+            },
+            "location" : {
+               "lat" : 35.0077519,
+               "lng" : -97.092877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0023119,
+                  "lng" : -94.430662
+               },
+               "southwest" : {
+                  "lat" : 33.617219,
+                  "lng" : -103.002455
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,118 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lake_Kilpisj%C3%A4rvi",
+        "lang": "link"
+      }],
+      "countryName": "Finland",
+      "adminCode1": "00",
+      "cc2": "SE",
+      "score": 69.67242431640625,
+      "lng": "20.83333",
+      "adminName2": "",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Stockholm"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Kilpisjärvi",
+      "fcode": "LK",
+      "geonameId": 605172,
+      "asciiName": "Kilpisjarvi",
+      "lat": "69",
+      "population": 0,
+      "adminName1": "",
+      "countryId": "660013",
+      "fclName": "stream, lake, ...",
+      "countryCode": "FI",
+      "toponymName": "Kilpisjärvi",
+      "fcl": "H",
+      "continentCode": "EU"
+    },
+    {
+      "countryId": "660013",
+      "adminCode1": "00",
+      "countryName": "Finland",
+      "fclName": "stream, lake, ...",
+      "score": 47.40608215332031,
+      "countryCode": "FI",
+      "lng": "20.9",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "lake",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Stockholm"
+      },
+      "toponymName": "Alajärvi",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "EU",
+      "name": "Alajärvi",
+      "fcode": "LK",
+      "asciiName": "Alajarvi",
+      "geonameId": 607007,
+      "lat": "68.98333",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "adminCode3": "047",
+      "adminCode2": "196",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Kilpisj%C3%A4rvi",
+          "lang": "link"
+        },
+        {
+          "name": "KIL",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Finland",
+      "adminCode1": "19",
+      "score": 33.18425750732422,
+      "lng": "20.8",
+      "adminName2": "Tunturi-Lappi",
+      "fcodeName": "populated place",
+      "adminName3": "Enontekiö",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Helsinki"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 69.04910063512486,
+        "east": 20.80251543567283,
+        "north": 69.05089936487514,
+        "west": 20.79748456432717
+      },
+      "name": "Kilpisjärvi",
+      "fcode": "PPL",
+      "geonameId": 652793,
+      "asciiName": "Kilpisjaervi",
+      "lat": "69.05",
+      "population": 114,
+      "adminName1": "Lapland",
+      "adminId1": "830603",
+      "countryId": "660013",
+      "fclName": "city, village,...",
+      "countryCode": "FI",
+      "adminId3": "660230",
+      "adminId2": "9610709",
+      "toponymName": "Kilpisjärvi",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Katowice",
+               "short_name" : "Katowice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Katowice",
+               "short_name" : "Katowice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Katowice",
+               "short_name" : "Katowice",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Silesian Voivodeship",
+               "short_name" : "Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Katowice, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2973176,
+                  "lng" : 19.122919
+               },
+               "southwest" : {
+                  "lat" : 50.1300272,
+                  "lng" : 18.8914664
+               }
+            },
+            "location" : {
+               "lat" : 50.26489189999999,
+               "lng" : 19.0237815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2973176,
+                  "lng" : 19.122919
+               },
+               "southwest" : {
+                  "lat" : 50.1300272,
+                  "lng" : 18.8914664
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

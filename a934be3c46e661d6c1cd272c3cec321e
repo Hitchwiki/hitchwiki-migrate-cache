@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ystad",
+               "short_name" : "Ystad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ystad",
+               "short_name" : "Ystad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Skane County",
+               "short_name" : "Skane County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ystad, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4520351,
+                  "lng" : 13.8665729
+               },
+               "southwest" : {
+                  "lat" : 55.41774909999999,
+                  "lng" : 13.7666901
+               }
+            },
+            "location" : {
+               "lat" : 55.4295051,
+               "lng" : 13.8200308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4520351,
+                  "lng" : 13.8665729
+               },
+               "southwest" : {
+                  "lat" : 55.41774909999999,
+                  "lng" : 13.7666901
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

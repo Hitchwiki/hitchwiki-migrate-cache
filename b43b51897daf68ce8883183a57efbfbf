@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berbera",
+               "short_name" : "Berbera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berbera",
+               "short_name" : "Berbera",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Woqooyi Galbeed",
+               "short_name" : "Woqooyi Galbeed",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berbera, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.4521042,
+                  "lng" : 45.0322755
+               },
+               "southwest" : {
+                  "lat" : 10.4129713,
+                  "lng" : 44.9920268
+               }
+            },
+            "location" : {
+               "lat" : 10.4392,
+               "lng" : 45.0101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.4521042,
+                  "lng" : 45.0322755
+               },
+               "southwest" : {
+                  "lat" : 10.4129713,
+                  "lng" : 44.9920268
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A19",
+               "short_name" : "A19",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A19, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1384063,
+                  "lng" : 12.4785095
+               },
+               "southwest" : {
+                  "lat" : 53.1229398,
+                  "lng" : 12.1157511
+               }
+            },
+            "location" : {
+               "lat" : 53.642426,
+               "lng" : 12.3702658
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1384063,
+                  "lng" : 12.4785095
+               },
+               "southwest" : {
+                  "lat" : 53.1229398,
+                  "lng" : 12.1157511
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A19",
+               "short_name" : "A19",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A19, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.16818319999999,
+                  "lng" : 10.8538408
+               },
+               "southwest" : {
+                  "lat" : 48.1531807,
+                  "lng" : 10.7788684
+               }
+            },
+            "location" : {
+               "lat" : 48.16060179999999,
+               "lng" : 10.8153141
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.16818319999999,
+                  "lng" : 10.8538408
+               },
+               "southwest" : {
+                  "lat" : 48.1531807,
+                  "lng" : 10.7788684
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

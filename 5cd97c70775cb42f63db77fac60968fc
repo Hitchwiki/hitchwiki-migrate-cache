@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A20",
+               "short_name" : "A20",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A20, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2515621,
+                  "lng" : 15.5473038
+               },
+               "southwest" : {
+                  "lat" : 37.9795974,
+                  "lng" : 13.832282
+               }
+            },
+            "location" : {
+               "lat" : 38.0979993,
+               "lng" : 14.7071476
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2515621,
+                  "lng" : 15.5473038
+               },
+               "southwest" : {
+                  "lat" : 37.9795974,
+                  "lng" : 13.832282
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

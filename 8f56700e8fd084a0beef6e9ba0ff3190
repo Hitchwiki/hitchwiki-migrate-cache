@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Serena",
+               "short_name" : "La Serena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Serena",
+               "short_name" : "La Serena",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Elqui Province",
+               "short_name" : "Elqui Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Coquimbo Region",
+               "short_name" : "Coquimbo Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Serena, La Serena, Coquimbo Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.548376,
+                  "lng" : -70.67858149999999
+               },
+               "southwest" : {
+                  "lat" : -30.140056,
+                  "lng" : -71.34692369999999
+               }
+            },
+            "location" : {
+               "lat" : -29.906301,
+               "lng" : -71.250204
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.548376,
+                  "lng" : -70.67858149999999
+               },
+               "southwest" : {
+                  "lat" : -30.140056,
+                  "lng" : -71.34692369999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

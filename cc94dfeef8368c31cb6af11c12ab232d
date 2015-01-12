@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pula",
+               "short_name" : "Pula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Općina Pula",
+               "short_name" : "Općina Pula",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Istria County",
+               "short_name" : "Istria County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pula, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9443883,
+                  "lng" : 13.9168286
+               },
+               "southwest" : {
+                  "lat" : 44.8263232,
+                  "lng" : 13.7154437
+               }
+            },
+            "location" : {
+               "lat" : 44.8666232,
+               "lng" : 13.8495788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9443883,
+                  "lng" : 13.9168286
+               },
+               "southwest" : {
+                  "lat" : 44.8263232,
+                  "lng" : 13.7154437
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

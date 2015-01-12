@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mauritius",
+               "short_name" : "MU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mauritius",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.3366293,
+                  "lng" : 63.5035945
+               },
+               "southwest" : {
+                  "lat" : -20.5255121,
+                  "lng" : 56.5143667
+               }
+            },
+            "location" : {
+               "lat" : -20.348404,
+               "lng" : 57.55215200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.7763,
+                  "lng" : 59.5844
+               },
+               "southwest" : {
+                  "lat" : -21.637,
+                  "lng" : 55.7666
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Asia",
+               "short_name" : "Southern Asia",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Asia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.49087670000001,
+                  "lng" : 97.395555
+               },
+               "southwest" : {
+                  "lat" : -7.4891118,
+                  "lng" : 60.5170005
+               }
+            },
+            "location" : {
+               "lat" : 25.03764,
+               "lng" : 76.45630869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.49087670000001,
+                  "lng" : 97.395555
+               },
+               "southwest" : {
+                  "lat" : -7.4891118,
+                  "lng" : 60.5170005
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

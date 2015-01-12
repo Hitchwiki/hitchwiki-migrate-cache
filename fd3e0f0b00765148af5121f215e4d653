@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramsey County, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.124533,
+                  "lng" : -92.983301
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.22790300000001
+               }
+            },
+            "location" : {
+               "lat" : 44.9963986,
+               "lng" : -93.0615978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.124533,
+                  "lng" : -92.983301
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.22790300000001
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

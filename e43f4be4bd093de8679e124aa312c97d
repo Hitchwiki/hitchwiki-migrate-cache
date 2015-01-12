@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paraparaumu",
+               "short_name" : "Paraparaumu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kapiti Coast District",
+               "short_name" : "Kapiti Coast District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paraparaumu, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.8713659,
+                  "lng" : 175.0545339
+               },
+               "southwest" : {
+                  "lat" : -40.9778984,
+                  "lng" : 174.9583269
+               }
+            },
+            "location" : {
+               "lat" : -40.9142336,
+               "lng" : 175.0083802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.8713659,
+                  "lng" : 175.0545339
+               },
+               "southwest" : {
+                  "lat" : -40.9778984,
+                  "lng" : 174.9583269
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

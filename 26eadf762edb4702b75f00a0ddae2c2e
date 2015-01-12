@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4198767,
+                  "lng" : 11.9635849
+               },
+               "southwest" : {
+                  "lat" : 44.5287638,
+                  "lng" : 11.3590309
+               }
+            },
+            "location" : {
+               "lat" : 44.9769823,
+               "lng" : 11.656134
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4198767,
+                  "lng" : 11.9635849
+               },
+               "southwest" : {
+                  "lat" : 44.5287638,
+                  "lng" : 11.3590309
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

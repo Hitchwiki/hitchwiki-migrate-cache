@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venlo",
+               "short_name" : "Venlo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Venlo",
+               "short_name" : "Venlo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limburg",
+               "short_name" : "LI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venlo, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.42132549999999,
+                  "lng" : 6.226801399999999
+               },
+               "southwest" : {
+                  "lat" : 51.3335551,
+                  "lng" : 6.0716088
+               }
+            },
+            "location" : {
+               "lat" : 51.3704888,
+               "lng" : 6.1723862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.42132549999999,
+                  "lng" : 6.226801399999999
+               },
+               "southwest" : {
+                  "lat" : 51.3335551,
+                  "lng" : 6.0716088
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,280 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salento",
+               "short_name" : "Salento",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quindio",
+               "short_name" : "Quindio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salento, Quindio, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.71652,
+                  "lng" : -75.38454
+               },
+               "southwest" : {
+                  "lat" : 4.47277,
+                  "lng" : -75.64337999999999
+               }
+            },
+            "location" : {
+               "lat" : 4.633332999999999,
+               "lng" : -75.566667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.71652,
+                  "lng" : -75.38454
+               },
+               "southwest" : {
+                  "lat" : 4.47277,
+                  "lng" : -75.64337999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salento",
+               "short_name" : "Salento",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salento",
+               "short_name" : "Salento",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Salerno",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84070",
+               "short_name" : "84070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "84070 Salento SA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2513672,
+                  "lng" : 15.196574
+               },
+               "southwest" : {
+                  "lat" : 40.245569,
+                  "lng" : 15.1851475
+               }
+            },
+            "location" : {
+               "lat" : 40.2505254,
+               "lng" : 15.1965395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2513672,
+                  "lng" : 15.196574
+               },
+               "southwest" : {
+                  "lat" : 40.245569,
+                  "lng" : 15.1851475
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salento",
+               "short_name" : "Salento",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salento, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.6282537,
+                  "lng" : -76.46168949999999
+               },
+               "southwest" : {
+                  "lat" : 3.6224289,
+                  "lng" : -76.46840039999999
+               }
+            },
+            "location" : {
+               "lat" : 3.6256398,
+               "lng" : -76.4657077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.6282537,
+                  "lng" : -76.46168949999999
+               },
+               "southwest" : {
+                  "lat" : 3.6224289,
+                  "lng" : -76.46840039999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salento",
+               "short_name" : "Salento",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Via Taranto",
+               "short_name" : "Via Taranto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lecce",
+               "short_name" : "Lecce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lecce",
+               "short_name" : "Lecce",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lecce",
+               "short_name" : "LE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puglia",
+               "short_name" : "Puglia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "73100",
+               "short_name" : "73100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salento, Via Taranto, 73100 Lecce LE, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.361359,
+               "lng" : 18.1546819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3627079802915,
+                  "lng" : 18.1560308802915
+               },
+               "southwest" : {
+                  "lat" : 40.3600100197085,
+                  "lng" : 18.1533329197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salento",
+               "short_name" : "Salento",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bello",
+               "short_name" : "Bello",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antioquia",
+               "short_name" : "Antioquia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salento, Bello, Antioquia, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.333927699999999,
+                  "lng" : -75.5615401
+               },
+               "southwest" : {
+                  "lat" : 6.330302199999999,
+                  "lng" : -75.56596039999999
+               }
+            },
+            "location" : {
+               "lat" : 6.331623,
+               "lng" : -75.5633316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.333927699999999,
+                  "lng" : -75.5615401
+               },
+               "southwest" : {
+                  "lat" : 6.330302199999999,
+                  "lng" : -75.56596039999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

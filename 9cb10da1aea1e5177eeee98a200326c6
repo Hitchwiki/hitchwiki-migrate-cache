@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enna",
+               "short_name" : "Enna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enna",
+               "short_name" : "Enna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Enna",
+               "short_name" : "EN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94100",
+               "short_name" : "94100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "94100 Enna EN, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5705528,
+                  "lng" : 14.3051983
+               },
+               "southwest" : {
+                  "lat" : 37.5456653,
+                  "lng" : 14.2629157
+               }
+            },
+            "location" : {
+               "lat" : 37.5655912,
+               "lng" : 14.2751277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5705528,
+                  "lng" : 14.3051983
+               },
+               "southwest" : {
+                  "lat" : 37.5456653,
+                  "lng" : 14.2629157
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

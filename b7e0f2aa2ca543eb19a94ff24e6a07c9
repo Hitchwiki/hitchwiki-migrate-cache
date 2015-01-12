@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A255",
+               "short_name" : "A255",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hamburg-Mitte",
+               "short_name" : "Hamburg-Mitte",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A255, Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5286721,
+                  "lng" : 10.039232
+               },
+               "southwest" : {
+                  "lat" : 53.50086409999999,
+                  "lng" : 10.0220755
+               }
+            },
+            "location" : {
+               "lat" : 53.5150069,
+               "lng" : 10.0308176
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5286721,
+                  "lng" : 10.039232
+               },
+               "southwest" : {
+                  "lat" : 53.50086409999999,
+                  "lng" : 10.0220755
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M5",
+               "short_name" : "M5",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford M5, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.490376,
+                  "lng" : -2.256361
+               },
+               "southwest" : {
+                  "lat" : 53.46493719999999,
+                  "lng" : -2.3299403
+               }
+            },
+            "location" : {
+               "lat" : 53.4796425,
+               "lng" : -2.2810639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.490376,
+                  "lng" : -2.256361
+               },
+               "southwest" : {
+                  "lat" : 53.46493719999999,
+                  "lng" : -2.3299403
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

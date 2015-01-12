@@ -1,0 +1,189 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thera",
+               "short_name" : "Thera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santorini",
+               "short_name" : "Santorini",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Santorini",
+               "short_name" : "Santorini",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Thira",
+               "short_name" : "Thira",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Notio Aigaio",
+               "short_name" : "Notio Aigaio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Egeo",
+               "short_name" : "Egeo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "847 00",
+               "short_name" : "847 00",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thera 847 00, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4280467,
+                  "lng" : 25.4371218
+               },
+               "southwest" : {
+                  "lat" : 36.4126058,
+                  "lng" : 25.4272191
+               }
+            },
+            "location" : {
+               "lat" : 36.4166485,
+               "lng" : 25.432447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4280467,
+                  "lng" : 25.4371218
+               },
+               "southwest" : {
+                  "lat" : 36.4126058,
+                  "lng" : 25.4272191
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santorini Airport",
+               "short_name" : "Santorini Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Thera",
+               "short_name" : "Thera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santorini",
+               "short_name" : "Santorini",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Santorini",
+               "short_name" : "Santorini",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Thira",
+               "short_name" : "Thira",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "847 00",
+               "short_name" : "847 00",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Santorini Airport (JTR), Thera 847 00, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4115389,
+                  "lng" : 25.4858199
+               },
+               "southwest" : {
+                  "lat" : 36.3880243,
+                  "lng" : 25.4703573
+               }
+            },
+            "location" : {
+               "lat" : 36.4003185,
+               "lng" : 25.4776476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4115389,
+                  "lng" : 25.4858199
+               },
+               "southwest" : {
+                  "lat" : 36.3880243,
+                  "lng" : 25.4703573
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santorini",
+               "short_name" : "Santorini",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santorini, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4821157,
+                  "lng" : 25.4877595
+               },
+               "southwest" : {
+                  "lat" : 36.332192,
+                  "lng" : 25.3535022
+               }
+            },
+            "location" : {
+               "lat" : 36.3931562,
+               "lng" : 25.4615092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4821157,
+                  "lng" : 25.4877595
+               },
+               "southwest" : {
+                  "lat" : 36.332192,
+                  "lng" : 25.3535022
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

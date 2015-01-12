@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cipolletti",
+               "short_name" : "Cipolletti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General Roca",
+               "short_name" : "Gral Roca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Negro",
+               "short_name" : "RN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cipolletti, Río Negro Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.8850579,
+                  "lng" : -67.9632288
+               },
+               "southwest" : {
+                  "lat" : -38.9561397,
+                  "lng" : -68.01415109999999
+               }
+            },
+            "location" : {
+               "lat" : -38.938771,
+               "lng" : -67.9954929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.8850579,
+                  "lng" : -67.9632288
+               },
+               "southwest" : {
+                  "lat" : -38.9561397,
+                  "lng" : -68.01415109999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

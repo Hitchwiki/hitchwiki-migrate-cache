@@ -1,0 +1,336 @@
+{
+  "totalResultsCount": 59,
+  "geonames": [
+    {
+      "lng": "-72.33398",
+      "geonameId": 7729891,
+      "bbox": {
+        "east": -59.420376,
+        "south": 10.036105,
+        "north": 27.232027,
+        "west": -84.957428
+      },
+      "toponymName": "Carribean",
+      "asciiName": "Carribean",
+      "countryId": "3562981",
+      "fcl": "L",
+      "population": 39169962,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 52.0037727355957,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Caribbean",
+        "lang": "link"
+      }],
+      "cc2": "CU,DO,HT,PR,JM,TT,GP,MQ,BS,BB,LC,CW,VI,GD,VC,AG,DM,AW,KN,KY,SX,MF,VG,TC,BQ,AI,MS,BL",
+      "adminName2": "",
+      "countryCode": "CU",
+      "name": "Carribean",
+      "fclName": "parks,area, ...",
+      "countryName": "Cuba",
+      "fcodeName": "region",
+      "adminName1": "",
+      "lat": "20.38583",
+      "fcode": "RGN",
+      "continentCode": "NA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -59.2689323425293,
+        "south": 7.898654937744141,
+        "north": 22.70950698852539,
+        "west": -88.99104309082031
+      },
+      "asciiName": "Caribbean Sea",
+      "countryId": "4566966",
+      "fcl": "H",
+      "score": 39.002830505371094,
+      "countryCode": "PR",
+      "adminId1": "4566886",
+      "lat": "15.00028",
+      "fcode": "SEA",
+      "continentCode": "NA",
+      "elevation": 0,
+      "adminCode1": "113",
+      "lng": "-75.00028",
+      "geonameId": 4563233,
+      "toponymName": "Caribbean Sea",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Mar dei Caraibi",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Caribbean_Sea",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Caribbean Sea",
+      "fclName": "stream, lake, ...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "sea",
+      "adminName1": "Ponce"
+    },
+    {
+      "lng": "-71.87256",
+      "geonameId": 9863210,
+      "toponymName": "Caribbean Islands",
+      "asciiName": "Caribbean Islands",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 29.070993423461914,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Caribbean",
+          "lang": "link"
+        },
+        {
+          "name": "Karibia",
+          "lang": "no"
+        },
+        {
+          "name": "Karibien",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "Caribbean Islands",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "",
+      "fcodeName": "islands",
+      "adminName1": "",
+      "lat": "20.73557",
+      "fcode": "ISLS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Melbourne",
+        "dstOffset": 10
+      },
+      "asciiName": "Caribbean Lake",
+      "countryId": "2077456",
+      "fcl": "H",
+      "score": 25.437118530273438,
+      "countryCode": "AU",
+      "adminId1": "2145234",
+      "lat": "-37.91459",
+      "fcode": "LK",
+      "continentCode": "OC",
+      "adminCode1": "07",
+      "lng": "145.22653",
+      "geonameId": 8212126,
+      "toponymName": "Caribbean Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Caribbean Lake",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Caribbean Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Australia",
+      "fcodeName": "lake",
+      "adminName1": "Victoria"
+    },
+    {
+      "lng": "-76",
+      "geonameId": 3715622,
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Thule",
+        "dstOffset": -3
+      },
+      "toponymName": "Colombian Basin",
+      "asciiName": "Colombian Basin",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 22.982637405395508,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Колумбийская Котловина",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Colombian Basin",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "basin",
+      "adminName1": "",
+      "lat": "13",
+      "fcode": "BSNU"
+    },
+    {
+      "lng": "-63.1",
+      "geonameId": 3715654,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "America/Danmarkshavn",
+        "dstOffset": 0
+      },
+      "toponymName": "Caribbean Valley",
+      "asciiName": "Caribbean Valley",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 22.751649856567383,
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Caribbean Valley",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "valley",
+      "adminName1": "",
+      "lat": "15.55",
+      "fcode": "VALU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Rio_Branco",
+        "dstOffset": -5
+      },
+      "asciiName": "Latin America and the Caribbean",
+      "countryId": "3469034",
+      "fcl": "L",
+      "score": 19.501415252685547,
+      "countryCode": "BR",
+      "adminId1": "3665474",
+      "lat": "-8.05923",
+      "fcode": "RGN",
+      "continentCode": "SA",
+      "adminCode1": "01",
+      "lng": "-72.59766",
+      "geonameId": 7730009,
+      "toponymName": "Latin America and the Caribbean",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Community_of_Latin_American_and_Caribbean_States",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Latin America and the Caribbean",
+      "fclName": "parks,area, ...",
+      "countryName": "Brazil",
+      "fcodeName": "region",
+      "adminName1": "Acre"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "asciiName": "Caribbean School",
+      "countryId": "4566966",
+      "fcl": "S",
+      "score": 19.501415252685547,
+      "countryCode": "PR",
+      "adminId1": "4566886",
+      "lat": "17.9983",
+      "fcode": "SCH",
+      "continentCode": "NA",
+      "elevation": 5,
+      "adminCode1": "113",
+      "lng": "-66.62045",
+      "geonameId": 4563232,
+      "toponymName": "Caribbean School",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Caribbean_School",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Caribbean School",
+      "fclName": "spot, building, farm",
+      "countryName": "Puerto Rico",
+      "fcodeName": "school",
+      "adminName1": "Ponce"
+    },
+    {
+      "adminCode1": "107",
+      "lng": "-66.4306",
+      "geonameId": 8502122,
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Puerto_Rico",
+        "dstOffset": -4
+      },
+      "toponymName": "Caribbean Region - 2-digit Hydrologic Unit Code - 21",
+      "asciiName": "Caribbean Region - 2-digit Hydrologic Unit Code - 21",
+      "countryId": "4566966",
+      "fcl": "A",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 19.501415252685547,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PR",
+      "name": "Caribbean Region - 2-digit Hydrologic Unit Code - 21",
+      "fclName": "country, state, region,...",
+      "countryName": "Puerto Rico",
+      "fcodeName": "zone",
+      "adminId1": "4566456",
+      "adminName1": "Orocovis",
+      "lat": "18.22478",
+      "fcode": "ZN",
+      "continentCode": "NA"
+    },
+    {
+      "lng": "-68",
+      "geonameId": 3715219,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "America/Danmarkshavn",
+        "dstOffset": 0
+      },
+      "toponymName": "Venezuelan Basin",
+      "asciiName": "Venezuelan Basin",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 18.386110305786133,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Венесуэльская Котловина",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Venezuelan Basin",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "basin",
+      "adminName1": "",
+      "lat": "15",
+      "fcode": "BSNU"
+    }
+  ]
+}

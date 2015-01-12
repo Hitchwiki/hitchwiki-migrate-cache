@@ -1,0 +1,232 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rome, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0505462,
+                  "lng" : 12.7302888
+               },
+               "southwest" : {
+                  "lat" : 41.769596,
+                  "lng" : 12.341707
+               }
+            },
+            "location" : {
+               "lat" : 41.9027835,
+               "lng" : 12.4963655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0505462,
+                  "lng" : 12.7302888
+               },
+               "southwest" : {
+                  "lat" : 41.769596,
+                  "lng" : 12.341707
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Latina",
+               "short_name" : "Latina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Latina",
+               "short_name" : "LT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04100",
+               "short_name" : "04100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "04100 Rome, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4462202,
+                  "lng" : 12.7971034
+               },
+               "southwest" : {
+                  "lat" : 41.4317114,
+                  "lng" : 12.7807103
+               }
+            },
+            "location" : {
+               "lat" : 41.4393617,
+               "lng" : 12.7860708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4462202,
+                  "lng" : 12.7971034
+               },
+               "southwest" : {
+                  "lat" : 41.4317114,
+                  "lng" : 12.7807103
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Floyd County",
+               "short_name" : "Floyd County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rome, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3565,
+                  "lng" : -85.11224609999999
+               },
+               "southwest" : {
+                  "lat" : 34.193159,
+                  "lng" : -85.278941
+               }
+            },
+            "location" : {
+               "lat" : 34.257038,
+               "lng" : -85.1646726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3565,
+                  "lng" : -85.11224609999999
+               },
+               "southwest" : {
+                  "lat" : 34.193159,
+                  "lng" : -85.278941
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oneida County",
+               "short_name" : "Oneida County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rome, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2815231,
+                  "lng" : -75.34091409999999
+               },
+               "southwest" : {
+                  "lat" : 43.168892,
+                  "lng" : -75.667017
+               }
+            },
+            "location" : {
+               "lat" : 43.2128473,
+               "lng" : -75.4557303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2815231,
+                  "lng" : -75.34091409999999
+               },
+               "southwest" : {
+                  "lat" : 43.168892,
+                  "lng" : -75.667017
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,154 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gotland",
+               "short_name" : "Gotland",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gotland, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.9718728,
+                  "lng" : 19.430167
+               },
+               "southwest" : {
+                  "lat" : 56.9048658,
+                  "lng" : 18.0854298
+               }
+            },
+            "location" : {
+               "lat" : 57.46841209999999,
+               "lng" : 18.4867447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.9297501,
+                  "lng" : 19.124104
+               },
+               "southwest" : {
+                  "lat" : 56.9048658,
+                  "lng" : 18.0854298
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gotland",
+               "short_name" : "Gotland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slite",
+               "short_name" : "Slite",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gotland",
+               "short_name" : "Gotland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gotlands län",
+               "short_name" : "Gotlands län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "62434",
+               "short_name" : "62434",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "624 34 Gotland, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.649684,
+               "lng" : 18.714468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.6510329802915,
+                  "lng" : 18.71581698029151
+               },
+               "southwest" : {
+                  "lat" : 57.64833501970849,
+                  "lng" : 18.7131190197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gotland",
+               "short_name" : "Gotland",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gotland",
+               "short_name" : "Gotland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gotlands län",
+               "short_name" : "Gotlands län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gotland, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.0004911,
+                  "lng" : 19.3505099
+               },
+               "southwest" : {
+                  "lat" : 57.68190989999999,
+                  "lng" : 18.7042861
+               }
+            },
+            "location" : {
+               "lat" : 57.8420836,
+               "lng" : 18.9642583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.0004911,
+                  "lng" : 19.3505099
+               },
+               "southwest" : {
+                  "lat" : 57.68190989999999,
+                  "lng" : 18.7042861
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

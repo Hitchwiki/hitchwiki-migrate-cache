@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Europe",
+               "short_name" : "Western Europe",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Europe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.916555
+               },
+               "southwest" : {
+                  "lat" : 27.4985,
+                  "lng" : -31.4648
+               }
+            },
+            "location" : {
+               "lat" : 46.2021848,
+               "lng" : 1.2643875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 17.1606861
+               },
+               "southwest" : {
+                  "lat" : 35.2655684,
+                  "lng" : -10.7666
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muratlı",
+               "short_name" : "Muratlı",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muratlı",
+               "short_name" : "Muratlı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tekirdağ",
+               "short_name" : "Tekirdağ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muratlı/Tekirdağ, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.183263,
+                  "lng" : 27.5160701
+               },
+               "southwest" : {
+                  "lat" : 41.15933,
+                  "lng" : 27.4846579
+               }
+            },
+            "location" : {
+               "lat" : 41.1740489,
+               "lng" : 27.508789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.183263,
+                  "lng" : 27.5160701
+               },
+               "southwest" : {
+                  "lat" : 41.15933,
+                  "lng" : 27.4846579
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,149 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cajamarca",
+               "short_name" : "Cajamarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cajamarca, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.6272731,
+                  "lng" : -77.7339101
+               },
+               "southwest" : {
+                  "lat" : -7.757741900000001,
+                  "lng" : -79.4470061
+               }
+            },
+            "location" : {
+               "lat" : -6.4549673,
+               "lng" : -78.8382644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.6272731,
+                  "lng" : -77.7339101
+               },
+               "southwest" : {
+                  "lat" : -7.757741900000001,
+                  "lng" : -79.4470061
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cajamarca",
+               "short_name" : "Cajamarca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cajamarca",
+               "short_name" : "Cajamarca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cajamarca",
+               "short_name" : "Cajamarca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cajamarca, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.126103,
+                  "lng" : -78.4743117
+               },
+               "southwest" : {
+                  "lat" : -7.195168799999999,
+                  "lng" : -78.53409289999999
+               }
+            },
+            "location" : {
+               "lat" : -7.1617465,
+               "lng" : -78.51278549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.126103,
+                  "lng" : -78.4743117
+               },
+               "southwest" : {
+                  "lat" : -7.195168799999999,
+                  "lng" : -78.53409289999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cajamarca",
+               "short_name" : "Cajamarca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tolima",
+               "short_name" : "Tolima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cajamarca, Tolima, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.582669999999999,
+                  "lng" : -75.36547999999999
+               },
+               "southwest" : {
+                  "lat" : 4.23029,
+                  "lng" : -75.60435000000001
+               }
+            },
+            "location" : {
+               "lat" : 4.416666999999999,
+               "lng" : -75.5
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.582669999999999,
+                  "lng" : -75.36547999999999
+               },
+               "southwest" : {
+                  "lat" : 4.23029,
+                  "lng" : -75.60435000000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

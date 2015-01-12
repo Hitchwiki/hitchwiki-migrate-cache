@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wageningen",
+               "short_name" : "Wageningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wageningen",
+               "short_name" : "Wageningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wageningen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0007418,
+                  "lng" : 5.724348099999999
+               },
+               "southwest" : {
+                  "lat" : 51.9363499,
+                  "lng" : 5.6058804
+               }
+            },
+            "location" : {
+               "lat" : 51.9691868,
+               "lng" : 5.6653948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0007418,
+                  "lng" : 5.724348099999999
+               },
+               "southwest" : {
+                  "lat" : 51.9363499,
+                  "lng" : 5.6058804
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

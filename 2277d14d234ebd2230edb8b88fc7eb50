@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcester, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3411789,
+                  "lng" : -71.7329668
+               },
+               "southwest" : {
+                  "lat" : 42.209691,
+                  "lng" : -71.88391709999999
+               }
+            },
+            "location" : {
+               "lat" : 42.2625932,
+               "lng" : -71.8022934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3411789,
+                  "lng" : -71.7329668
+               },
+               "southwest" : {
+                  "lat" : 42.209691,
+                  "lng" : -71.88391709999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Otsego County",
+               "short_name" : "Otsego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcester, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.631674,
+                  "lng" : -74.71033290000001
+               },
+               "southwest" : {
+                  "lat" : 42.5610189,
+                  "lng" : -74.783092
+               }
+            },
+            "location" : {
+               "lat" : 42.591717,
+               "lng" : -74.7504996
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.631674,
+                  "lng" : -74.71033290000001
+               },
+               "southwest" : {
+                  "lat" : 42.5610189,
+                  "lng" : -74.783092
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19446",
+               "short_name" : "19446",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Worcester, PA 19446, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.2007702,
+               "lng" : -75.34605049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2021191802915,
+                  "lng" : -75.34470151970848
+               },
+               "southwest" : {
+                  "lat" : 40.1994212197085,
+                  "lng" : -75.3473994802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcester, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.479292,
+                  "lng" : -72.49054799999999
+               },
+               "southwest" : {
+                  "lat" : 44.345628,
+                  "lng" : -72.65439789999999
+               }
+            },
+            "location" : {
+               "lat" : 44.37331,
+               "lng" : -72.5496503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.479292,
+                  "lng" : -72.49054799999999
+               },
+               "southwest" : {
+                  "lat" : 44.345628,
+                  "lng" : -72.65439789999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

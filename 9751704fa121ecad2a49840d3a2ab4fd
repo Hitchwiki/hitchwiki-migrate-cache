@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wolfsburg",
+               "short_name" : "WOB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wolfsburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4951103,
+                  "lng" : 10.9066238
+               },
+               "southwest" : {
+                  "lat" : 52.3159605,
+                  "lng" : 10.6471806
+               }
+            },
+            "location" : {
+               "lat" : 52.4226503,
+               "lng" : 10.7865461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4951103,
+                  "lng" : 10.9066238
+               },
+               "southwest" : {
+                  "lat" : 52.3159605,
+                  "lng" : 10.6471806
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

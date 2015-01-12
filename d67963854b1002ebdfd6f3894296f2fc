@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sigulda",
+               "short_name" : "Sigulda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siguldas pilsēta",
+               "short_name" : "Siguldas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sigulda Municipality",
+               "short_name" : "Sigulda Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sigulda, Siguldas pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.18883599999999,
+                  "lng" : 24.891572
+               },
+               "southwest" : {
+                  "lat" : 57.1378335,
+                  "lng" : 24.7992091
+               }
+            },
+            "location" : {
+               "lat" : 57.1495626,
+               "lng" : 24.8603325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.18883599999999,
+                  "lng" : 24.891572
+               },
+               "southwest" : {
+                  "lat" : 57.1378335,
+                  "lng" : 24.7992091
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

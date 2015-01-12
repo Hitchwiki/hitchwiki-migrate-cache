@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sochi",
+               "short_name" : "Sochi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod-kurort Sochi",
+               "short_name" : "gorod-kurort Sochi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sochi, Krasnodar Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.658735,
+                  "lng" : 39.789561
+               },
+               "southwest" : {
+                  "lat" : 43.544708,
+                  "lng" : 39.6606969
+               }
+            },
+            "location" : {
+               "lat" : 43.585278,
+               "lng" : 39.720278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.658735,
+                  "lng" : 39.789561
+               },
+               "southwest" : {
+                  "lat" : 43.544708,
+                  "lng" : 39.6606969
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

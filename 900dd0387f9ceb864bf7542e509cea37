@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalisco",
+               "short_name" : "JAL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jalisco, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7497996,
+                  "lng" : -101.5099526
+               },
+               "southwest" : {
+                  "lat" : 18.3443337,
+                  "lng" : -114.7601011
+               }
+            },
+            "location" : {
+               "lat" : 20.6595382,
+               "lng" : -103.3494376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7497996,
+                  "lng" : -101.5099526
+               },
+               "southwest" : {
+                  "lat" : 18.9253439,
+                  "lng" : -105.6945916
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

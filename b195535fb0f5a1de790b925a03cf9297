@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A10",
+               "short_name" : "A10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liguria",
+               "short_name" : "Liguria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A10, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4340846,
+                  "lng" : 8.8924754
+               },
+               "southwest" : {
+                  "lat" : 43.7869731,
+                  "lng" : 7.529672700000001
+               }
+            },
+            "location" : {
+               "lat" : 44.1159191,
+               "lng" : 8.227565999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4340846,
+                  "lng" : 8.8924754
+               },
+               "southwest" : {
+                  "lat" : 43.7869731,
+                  "lng" : 7.529672700000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

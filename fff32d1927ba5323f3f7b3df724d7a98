@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hopfgarten im Brixental",
+               "short_name" : "Hopfgarten im Brixental",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kitzbühel",
+               "short_name" : "Kitzbühel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tyrol",
+               "short_name" : "Tirol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hopfgarten im Brixental, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.47094999999999,
+                  "lng" : 12.20485
+               },
+               "southwest" : {
+                  "lat" : 47.26889,
+                  "lng" : 12.00416
+               }
+            },
+            "location" : {
+               "lat" : 47.43098,
+               "lng" : 12.14989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.47094999999999,
+                  "lng" : 12.20485
+               },
+               "southwest" : {
+                  "lat" : 47.26889,
+                  "lng" : 12.00416
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A351",
+               "short_name" : "A351",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bas-Rhin",
+               "short_name" : "67",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace",
+               "short_name" : "Alsace",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A351, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.59418609999999,
+                  "lng" : 7.720615800000001
+               },
+               "southwest" : {
+                  "lat" : 48.5861434,
+                  "lng" : 7.6671651
+               }
+            },
+            "location" : {
+               "lat" : 48.58998,
+               "lng" : 7.6944627
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.59418609999999,
+                  "lng" : 7.720615800000001
+               },
+               "southwest" : {
+                  "lat" : 48.5861434,
+                  "lng" : 7.6671651
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

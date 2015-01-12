@@ -1,0 +1,165 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -78.23685437884617,
+        "south": 0.20847860475820137,
+        "north": 0.2543373952417986,
+        "west": -78.28271362115382
+      },
+      "asciiName": "Otavalo",
+      "countryId": "3658394",
+      "fcl": "P",
+      "score": 91.2610092163086,
+      "countryCode": "EC",
+      "adminId1": "3655635",
+      "lat": "0.23141",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode1": "11",
+      "lng": "-78.25978",
+      "geonameId": 3653693,
+      "toponymName": "Otavalo",
+      "population": 32330,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "اوتابالو",
+          "lang": "ar"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "ca"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "de"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "en"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "es"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "fr"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Otavalo_%28city%29",
+          "lang": "link"
+        },
+        {
+          "name": "Otavalas",
+          "lang": "lt"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "nl"
+        },
+        {
+          "name": "Otavalo",
+          "lang": "pt"
+        },
+        {
+          "name": "Utawalu",
+          "lang": "qu"
+        },
+        {
+          "name": "Отавало",
+          "lang": "ru"
+        },
+        {
+          "name": "Отавало",
+          "lang": "uk"
+        }
+      ],
+      "adminName2": "",
+      "name": "Otavalo",
+      "fclName": "city, village,...",
+      "countryName": "Ecuador",
+      "fcodeName": "populated place",
+      "adminName1": "Imbabura"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil",
+        "dstOffset": -5
+      },
+      "asciiName": "Canton Otavalo",
+      "countryId": "3658394",
+      "fcl": "A",
+      "score": 55.5396728515625,
+      "adminId2": "3653692",
+      "countryCode": "EC",
+      "adminId1": "3655635",
+      "lat": "0.22409",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "3653692",
+      "adminCode1": "11",
+      "lng": "-78.17255",
+      "geonameId": 3653692,
+      "toponymName": "Cantón Otavalo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Cantón Otavalo",
+        "lang": "es"
+      }],
+      "adminName2": "Cantón Otavalo",
+      "name": "Cantón Otavalo",
+      "fclName": "country, state, region,...",
+      "countryName": "Ecuador",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Imbabura"
+    },
+    {
+      "adminCode1": "11",
+      "lng": "-78.2666",
+      "geonameId": 6522504,
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil",
+        "dstOffset": -5
+      },
+      "toponymName": "Puertolago Country Inn",
+      "asciiName": "PUERTOLAGO COUNTRY INN",
+      "countryId": "3658394",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 2.4545302391052246,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "EC",
+      "name": "Puertolago Country Inn",
+      "fclName": "spot, building, farm",
+      "countryName": "Ecuador",
+      "fcodeName": "hotel",
+      "adminId1": "3655635",
+      "adminName1": "Imbabura",
+      "lat": "0.2333",
+      "fcode": "HTL",
+      "continentCode": "SA"
+    }
+  ]
+}

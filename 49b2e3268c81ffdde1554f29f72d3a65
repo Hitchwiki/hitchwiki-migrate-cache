@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A980",
+               "short_name" : "A980",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A980, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6876522,
+                  "lng" : 10.3629594
+               },
+               "southwest" : {
+                  "lat" : 47.680483,
+                  "lng" : 10.305092
+               }
+            },
+            "location" : {
+               "lat" : 47.6839988,
+               "lng" : 10.334108
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6876522,
+                  "lng" : 10.3629594
+               },
+               "southwest" : {
+                  "lat" : 47.680483,
+                  "lng" : 10.305092
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

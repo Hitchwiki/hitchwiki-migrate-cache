@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Kitts and Nevis",
+               "short_name" : "KN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Kitts and Nevis",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4182012,
+                  "lng" : -62.53988090000001
+               },
+               "southwest" : {
+                  "lat" : 17.094157,
+                  "lng" : -62.8640468
+               }
+            },
+            "location" : {
+               "lat" : 17.357822,
+               "lng" : -62.782998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4182012,
+                  "lng" : -62.53988090000001
+               },
+               "southwest" : {
+                  "lat" : 17.094157,
+                  "lng" : -62.8640468
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

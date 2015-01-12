@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Teslić",
+               "short_name" : "Teslić",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teslić",
+               "short_name" : "Teslić",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Republika Srpska",
+               "short_name" : "Republika Srpska",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Teslić, Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.61541829999999,
+                  "lng" : 17.8706897
+               },
+               "southwest" : {
+                  "lat" : 44.5913993,
+                  "lng" : 17.8331279
+               }
+            },
+            "location" : {
+               "lat" : 44.6063199,
+               "lng" : 17.8595342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.61541829999999,
+                  "lng" : 17.8706897
+               },
+               "southwest" : {
+                  "lat" : 44.5913993,
+                  "lng" : 17.8331279
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

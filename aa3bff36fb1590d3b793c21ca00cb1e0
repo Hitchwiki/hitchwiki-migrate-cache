@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Louisiana, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.019544,
+                  "lng" : -88.8162401
+               },
+               "southwest" : {
+                  "lat" : 28.9254079,
+                  "lng" : -94.043352
+               }
+            },
+            "location" : {
+               "lat" : 30.9842977,
+               "lng" : -91.96233269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.019544,
+                  "lng" : -88.8164673
+               },
+               "southwest" : {
+                  "lat" : 28.9272092,
+                  "lng" : -94.043352
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

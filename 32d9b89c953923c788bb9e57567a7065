@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hirtshals",
+               "short_name" : "Hirtshals",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hjørring Municipality",
+               "short_name" : "Hjørring Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Denmark Region",
+               "short_name" : "North Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9850",
+               "short_name" : "9850",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9850 Hirtshals, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.5963754,
+                  "lng" : 10.0796555
+               },
+               "southwest" : {
+                  "lat" : 57.5065072,
+                  "lng" : 9.863603399999999
+               }
+            },
+            "location" : {
+               "lat" : 57.58695299999999,
+               "lng" : 9.9668379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5963754,
+                  "lng" : 10.0796555
+               },
+               "southwest" : {
+                  "lat" : 57.5065072,
+                  "lng" : 9.863603399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

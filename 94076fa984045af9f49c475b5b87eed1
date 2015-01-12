@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A72",
+               "short_name" : "A72",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Loire",
+               "short_name" : "42",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A72, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.824998,
+                  "lng" : 4.4337803
+               },
+               "southwest" : {
+                  "lat" : 45.4332758,
+                  "lng" : 4.1081725
+               }
+            },
+            "location" : {
+               "lat" : 45.6180135,
+               "lng" : 4.2043043
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.824998,
+                  "lng" : 4.4337803
+               },
+               "southwest" : {
+                  "lat" : 45.4332758,
+                  "lng" : 4.1081725
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

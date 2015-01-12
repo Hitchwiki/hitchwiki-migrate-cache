@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayonne",
+               "short_name" : "Bayonne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pyrénées-Atlantiques",
+               "short_name" : "64",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayonne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.518909,
+                  "lng" : -1.4172731
+               },
+               "southwest" : {
+                  "lat" : 43.44989,
+                  "lng" : -1.5048561
+               }
+            },
+            "location" : {
+               "lat" : 43.492949,
+               "lng" : -1.474841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.518909,
+                  "lng" : -1.4172731
+               },
+               "southwest" : {
+                  "lat" : 43.44989,
+                  "lng" : -1.5048561
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayonne",
+               "short_name" : "Bayonne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hudson County",
+               "short_name" : "Hudson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayonne, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.701072,
+                  "lng" : -74.0658548
+               },
+               "southwest" : {
+                  "lat" : 40.6437813,
+                  "lng" : -74.1613741
+               }
+            },
+            "location" : {
+               "lat" : 40.6687141,
+               "lng" : -74.1143091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.701072,
+                  "lng" : -74.0658548
+               },
+               "southwest" : {
+                  "lat" : 40.6437813,
+                  "lng" : -74.1613741
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

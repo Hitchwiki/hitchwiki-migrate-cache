@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A21",
+               "short_name" : "A21",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A21, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1382386,
+                  "lng" : 10.3354722
+               },
+               "southwest" : {
+                  "lat" : 53.7158771,
+                  "lng" : 10.2127383
+               }
+            },
+            "location" : {
+               "lat" : 53.9268511,
+               "lng" : 10.275924
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1382386,
+                  "lng" : 10.3354722
+               },
+               "southwest" : {
+                  "lat" : 53.7158771,
+                  "lng" : 10.2127383
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A21",
+               "short_name" : "A21",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Altenmünster",
+               "short_name" : "Altenmünster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86450",
+               "short_name" : "86450",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A21, 86450 Altenmünster, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4654489,
+                  "lng" : 10.6324225
+               },
+               "southwest" : {
+                  "lat" : 48.4530171,
+                  "lng" : 10.5334124
+               }
+            },
+            "location" : {
+               "lat" : 48.462765,
+               "lng" : 10.5816864
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4654489,
+                  "lng" : 10.6324225
+               },
+               "southwest" : {
+                  "lat" : 48.4530171,
+                  "lng" : 10.5334124
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

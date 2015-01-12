@@ -1,0 +1,124 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode2": "8632581",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Lapseki",
+          "lang": "link"
+        },
+        {
+          "name": "Lâpseki İlçesi",
+          "lang": "tr"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "17",
+      "score": 35.34523391723633,
+      "lng": "26.70657",
+      "adminName2": "Lâpseki İlçesi",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Lâpseki İlçesi",
+      "fcode": "ADM2",
+      "geonameId": 8632581,
+      "asciiName": "Lapseki Ilcesi",
+      "lat": "40.3528",
+      "population": 25661,
+      "adminName1": "Çanakkale",
+      "countryId": "298795",
+      "adminId1": "749778",
+      "fclName": "country, state, region,...",
+      "countryCode": "TR",
+      "adminId2": "8632581",
+      "toponymName": "Lâpseki İlçesi",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Lapseki",
+          "lang": "link"
+        },
+        {
+          "name": "LAP",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "17",
+      "score": 25.97630500793457,
+      "lng": "26.68556",
+      "adminName2": "",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.33144775996051,
+        "east": 26.70224655825425,
+        "north": 40.35688564003949,
+        "west": 26.668864641745753
+      },
+      "name": "Lâpseki",
+      "fcode": "PPLA2",
+      "geonameId": 741878,
+      "asciiName": "Lapseki",
+      "lat": "40.34417",
+      "population": 10076,
+      "adminName1": "Çanakkale",
+      "countryId": "298795",
+      "adminId1": "749778",
+      "fclName": "city, village,...",
+      "countryCode": "TR",
+      "toponymName": "Lâpseki",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "countryName": "Turkey",
+      "adminCode1": "17",
+      "cc2": "TR",
+      "score": 10.203289985656738,
+      "lng": "26.66667",
+      "adminName2": "",
+      "fcodeName": "stream",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Çınarlı Dere",
+      "fcode": "STM",
+      "geonameId": 749060,
+      "asciiName": "Cinarli Dere",
+      "lat": "40.33333",
+      "population": 0,
+      "adminName1": "Çanakkale",
+      "countryId": "298795",
+      "adminId1": "749778",
+      "fclName": "stream, lake, ...",
+      "countryCode": "TR",
+      "toponymName": "Çınarlı Dere",
+      "fcl": "H",
+      "continentCode": "AS"
+    }
+  ]
+}

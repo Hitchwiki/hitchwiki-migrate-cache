@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trinidad and Tobago",
+               "short_name" : "TT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trinidad and Tobago",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.3625021,
+                  "lng" : -60.4924983
+               },
+               "southwest" : {
+                  "lat" : 10.0429929,
+                  "lng" : -61.93095939999999
+               }
+            },
+            "location" : {
+               "lat" : 10.691803,
+               "lng" : -61.222503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.8444328,
+                  "lng" : -60.9073234
+               },
+               "southwest" : {
+                  "lat" : 10.0429929,
+                  "lng" : -61.93095939999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

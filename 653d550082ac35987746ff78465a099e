@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramtha",
+               "short_name" : "Ramtha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Habaka",
+               "short_name" : "Habaka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramtha, Jordan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.5584541,
+               "lng" : 36.014667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.567858,
+                  "lng" : 36.0306744
+               },
+               "southwest" : {
+                  "lat" : 32.5490492,
+                  "lng" : 35.9986596
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samoa",
+               "short_name" : "WS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samoa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -13.4400333,
+                  "lng" : -171.405859
+               },
+               "southwest" : {
+                  "lat" : -14.0765884,
+                  "lng" : -172.8036764
+               }
+            },
+            "location" : {
+               "lat" : -13.759029,
+               "lng" : -172.104629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.4400333,
+                  "lng" : -171.405859
+               },
+               "southwest" : {
+                  "lat" : -14.0765884,
+                  "lng" : -172.8036764
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

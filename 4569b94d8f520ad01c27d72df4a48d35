@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Americas",
+               "short_name" : "Americas",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Americas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -25.4663085
+               },
+               "southwest" : {
+                  "lat" : -59.91097600000001,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 54.5259614,
+               "lng" : -105.2551187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.63809999999999,
+                  "lng" : -25.4663085
+               },
+               "southwest" : {
+                  "lat" : -59.91097600000001,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

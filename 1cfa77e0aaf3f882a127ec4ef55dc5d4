@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baja California",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baja California, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186651,
+                  "lng" : -112.7612978
+               },
+               "southwest" : {
+                  "lat" : 27.9993369,
+                  "lng" : -118.3622875
+               }
+            },
+            "location" : {
+               "lat" : 30.8406338,
+               "lng" : -115.2837585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186651,
+                  "lng" : -112.7612978
+               },
+               "southwest" : {
+                  "lat" : 27.9993369,
+                  "lng" : -117.3005453
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

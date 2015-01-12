@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulcan",
+               "short_name" : "Tulcan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carchi",
+               "short_name" : "Carchi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tulcan, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.839952,
+                  "lng" : -77.68939019999999
+               },
+               "southwest" : {
+                  "lat" : 0.7854118999999999,
+                  "lng" : -77.74955749999999
+               }
+            },
+            "location" : {
+               "lat" : 0.8116669999999999,
+               "lng" : -77.718611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.839952,
+                  "lng" : -77.68939019999999
+               },
+               "southwest" : {
+                  "lat" : 0.7854118999999999,
+                  "lng" : -77.74955749999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

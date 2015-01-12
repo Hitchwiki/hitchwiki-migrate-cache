@@ -1,0 +1,423 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "Germany",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Orlando",
+               "short_name" : "Orlando",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32821",
+               "short_name" : "32821",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Germany, Orlando, FL 32821, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.3677726,
+               "lng" : -81.5464094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3691215802915,
+                  "lng" : -81.54506041970851
+               },
+               "southwest" : {
+                  "lat" : 28.3664236197085,
+                  "lng" : -81.54775838029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "Germany",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "United Nations Avenue",
+               "short_name" : "United Nations Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cathedral Hill",
+               "short_name" : "Cathedral Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lusaka Central",
+               "short_name" : "Lusaka Central",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany, United Nations Avenue, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4227947,
+               "lng" : 28.3115959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.4214457197085,
+                  "lng" : 28.3129448802915
+               },
+               "southwest" : {
+                  "lat" : -15.4241436802915,
+                  "lng" : 28.3102469197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "Germany",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9 de Octubre",
+               "short_name" : "9 de Octubre",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mariscal Sucre",
+               "short_name" : "Mariscal Sucre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mariscal Sucre",
+               "short_name" : "Mariscal Sucre",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "170143",
+               "short_name" : "170143",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Germany, 9 de Octubre, Quito 170143, Ecuador",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.2068713,
+               "lng" : -78.4977806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.205522319708498,
+                  "lng" : -78.4964316197085
+               },
+               "southwest" : {
+                  "lat" : -0.208220280291502,
+                  "lng" : -78.49912958029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "Germany",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Binãn",
+               "short_name" : "Binãn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laguna",
+               "short_name" : "Laguna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabarzon",
+               "short_name" : "Calabarzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany, Binãn, Laguna, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.3093767,
+                  "lng" : 121.0728297
+               },
+               "southwest" : {
+                  "lat" : 14.307456,
+                  "lng" : 121.0702645
+               }
+            },
+            "location" : {
+               "lat" : 14.308379,
+               "lng" : 121.0716516
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.3097653302915,
+                  "lng" : 121.0728960802915
+               },
+               "southwest" : {
+                  "lat" : 14.3070673697085,
+                  "lng" : 121.0701981197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "Germany",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parañaque",
+               "short_name" : "Parañaque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany, Parañaque, Metro Manila, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.4838306,
+                  "lng" : 121.03425
+               },
+               "southwest" : {
+                  "lat" : 14.482758,
+                  "lng" : 121.0313223
+               }
+            },
+            "location" : {
+               "lat" : 14.4838306,
+               "lng" : 121.0313223
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.4846432802915,
+                  "lng" : 121.03425
+               },
+               "southwest" : {
+                  "lat" : 14.4819453197085,
+                  "lng" : 121.0313223
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "Germany",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dasmariñas City",
+               "short_name" : "Dasmariñas City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cavite",
+               "short_name" : "Cavite",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabarzon",
+               "short_name" : "Calabarzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany, Dasmariñas City, Cavite, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.3280816,
+                  "lng" : 120.9773946
+               },
+               "southwest" : {
+                  "lat" : 14.327163,
+                  "lng" : 120.9768259
+               }
+            },
+            "location" : {
+               "lat" : 14.3271835,
+               "lng" : 120.9773817
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.3289712802915,
+                  "lng" : 120.9784592302915
+               },
+               "southwest" : {
+                  "lat" : 14.3262733197085,
+                  "lng" : 120.9757612697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Germany",
+               "short_name" : "Germany",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sicuani",
+               "short_name" : "Sicuani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canchis",
+               "short_name" : "Canchis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cuzco",
+               "short_name" : "Cuzco",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Germany, Sicuani, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.2585255,
+                  "lng" : -71.2285648
+               },
+               "southwest" : {
+                  "lat" : -14.2586643,
+                  "lng" : -71.22926389999999
+               }
+            },
+            "location" : {
+               "lat" : -14.2585289,
+               "lng" : -71.22858169999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.2572459197085,
+                  "lng" : -71.22756536970849
+               },
+               "southwest" : {
+                  "lat" : -14.2599438802915,
+                  "lng" : -71.23026333029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

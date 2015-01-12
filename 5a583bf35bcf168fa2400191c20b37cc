@@ -1,0 +1,276 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue Pierre Trudeau",
+               "short_name" : "Rue Pierre Trudeau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dollard-des-Ormeaux",
+               "short_name" : "Dollard-des-Ormeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Montréal",
+               "short_name" : "Communauté-Urbaine-de-Montréal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H9A 3J8",
+               "short_name" : "H9A 3J8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue Pierre Trudeau, Dollard-des-Ormeaux, QC H9A 3J8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.48726130000001,
+                  "lng" : -73.84415
+               },
+               "southwest" : {
+                  "lat" : 45.4859047,
+                  "lng" : -73.84640519999999
+               }
+            },
+            "location" : {
+               "lat" : 45.486533,
+               "lng" : -73.84486400000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.48793198029151,
+                  "lng" : -73.84392861970849
+               },
+               "southwest" : {
+                  "lat" : 45.48523401970851,
+                  "lng" : -73.8466265802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Place Pierre Est Trudeau",
+               "short_name" : "Place Pierre Est Trudeau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cap-de-la-Madeleine",
+               "short_name" : "Cap-de-la-Madeleine",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Trois-Rivières",
+               "short_name" : "Trois-Rivières",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Francheville",
+               "short_name" : "Francheville",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G8W 1R7",
+               "short_name" : "G8W 1R7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Place Pierre Est Trudeau, Trois-Rivières, QC G8W 1R7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.37177519999999,
+                  "lng" : -72.5678437
+               },
+               "southwest" : {
+                  "lat" : 46.3713533,
+                  "lng" : -72.5692078
+               }
+            },
+            "location" : {
+               "lat" : 46.3716963,
+               "lng" : -72.5678437
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3729132302915,
+                  "lng" : -72.56717676970848
+               },
+               "southwest" : {
+                  "lat" : 46.3702152697085,
+                  "lng" : -72.5698747302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue Pierre Elliot Trudeau",
+               "short_name" : "Rue Pierre Elliot Trudeau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint-Léonard",
+               "short_name" : "Saint-Léonard",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montréal",
+               "short_name" : "Montréal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Montréal",
+               "short_name" : "Communauté-Urbaine-de-Montréal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H1R",
+               "short_name" : "H1R",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rue Pierre Elliot Trudeau, Saint-Léonard, QC H1R, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5868717,
+                  "lng" : -73.6168548
+               },
+               "southwest" : {
+                  "lat" : 45.5855393,
+                  "lng" : -73.61965239999999
+               }
+            },
+            "location" : {
+               "lat" : 45.5859156,
+               "lng" : -73.61775179999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.58755448029149,
+                  "lng" : -73.6168548
+               },
+               "southwest" : {
+                  "lat" : 45.5848565197085,
+                  "lng" : -73.61965239999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Internationales Gymnasium Pierre Trudeau",
+               "short_name" : "Internationales Gymnasium Pierre Trudeau",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "27",
+               "short_name" : "27",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bahnhofstraße",
+               "short_name" : "Bahnhofstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barleben",
+               "short_name" : "Barleben",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barleben",
+               "short_name" : "Barleben",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Börde",
+               "short_name" : "Börde",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39179",
+               "short_name" : "39179",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Internationales Gymnasium Pierre Trudeau, Bahnhofstraße 27, 39179 Barleben, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2085912,
+               "lng" : 11.6222826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2099401802915,
+                  "lng" : 11.6236315802915
+               },
+               "southwest" : {
+                  "lat" : 52.2072422197085,
+                  "lng" : 11.6209336197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

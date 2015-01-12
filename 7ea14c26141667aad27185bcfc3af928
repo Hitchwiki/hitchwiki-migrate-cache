@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "Córdoba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Department",
+               "short_name" : "Capital Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cordoba",
+               "short_name" : "CB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Córdoba, Cordoba, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.3062938,
+                  "lng" : -64.0621309
+               },
+               "southwest" : {
+                  "lat" : -31.4912166,
+                  "lng" : -64.31158649999999
+               }
+            },
+            "location" : {
+               "lat" : -31.3989296,
+               "lng" : -64.1821289
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.3062938,
+                  "lng" : -64.0621309
+               },
+               "southwest" : {
+                  "lat" : -31.4912166,
+                  "lng" : -64.31158649999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

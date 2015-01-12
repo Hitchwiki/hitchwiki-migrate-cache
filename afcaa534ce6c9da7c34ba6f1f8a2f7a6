@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A200",
+               "short_name" : "A200",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A200, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3868521,
+                  "lng" : 4.7412284
+               },
+               "southwest" : {
+                  "lat" : 52.3831848,
+                  "lng" : 4.6815568
+               }
+            },
+            "location" : {
+               "lat" : 52.3848269,
+               "lng" : 4.711038299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3868521,
+                  "lng" : 4.7412284
+               },
+               "southwest" : {
+                  "lat" : 52.3831848,
+                  "lng" : 4.6815568
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

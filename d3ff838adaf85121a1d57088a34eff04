@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hardenberg",
+               "short_name" : "Hardenberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hardenberg",
+               "short_name" : "Hardenberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hardenberg, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5941956,
+                  "lng" : 6.659012799999999
+               },
+               "southwest" : {
+                  "lat" : 52.5531442,
+                  "lng" : 6.578049099999999
+               }
+            },
+            "location" : {
+               "lat" : 52.5754084,
+               "lng" : 6.6166947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5941956,
+                  "lng" : 6.659012799999999
+               },
+               "southwest" : {
+                  "lat" : 52.5531442,
+                  "lng" : 6.578049099999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

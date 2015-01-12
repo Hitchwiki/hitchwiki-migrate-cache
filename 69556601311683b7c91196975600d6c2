@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uppsala County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.7313874,
+                  "lng" : 18.7711579
+               },
+               "southwest" : {
+                  "lat" : 59.4050129,
+                  "lng" : 16.678336
+               }
+            },
+            "location" : {
+               "lat" : 60.00922619999999,
+               "lng" : 17.2714589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.73133649999999,
+                  "lng" : 18.7711579
+               },
+               "southwest" : {
+                  "lat" : 59.4050129,
+                  "lng" : 16.678336
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

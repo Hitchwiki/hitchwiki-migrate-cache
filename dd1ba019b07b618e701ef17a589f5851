@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R46",
+               "short_name" : "R46",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R46, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5713575,
+                  "lng" : 17.2187508
+               },
+               "southwest" : {
+                  "lat" : 49.2725768,
+                  "lng" : 17.0192281
+               }
+            },
+            "location" : {
+               "lat" : 49.4221492,
+               "lng" : 17.1116124
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5713575,
+                  "lng" : 17.2187508
+               },
+               "southwest" : {
+                  "lat" : 49.2725768,
+                  "lng" : 17.0192281
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

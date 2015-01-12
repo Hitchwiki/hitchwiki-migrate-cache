@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S5",
+               "short_name" : "S5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Krems an der Donau",
+               "short_name" : "Krems an der Donau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niederösterreich",
+               "short_name" : "Niederösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S5, Krems an der Donau, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4127405,
+                  "lng" : 16.181024
+               },
+               "southwest" : {
+                  "lat" : 48.3574566,
+                  "lng" : 15.6230486
+               }
+            },
+            "location" : {
+               "lat" : 48.3887572,
+               "lng" : 15.9190286
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4127405,
+                  "lng" : 16.181024
+               },
+               "southwest" : {
+                  "lat" : 48.3574566,
+                  "lng" : 15.6230486
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

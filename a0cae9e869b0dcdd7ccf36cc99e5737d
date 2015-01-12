@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sevlievo",
+               "short_name" : "Sevlievo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sevlievo",
+               "short_name" : "Sevlievo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gabrovo",
+               "short_name" : "Gabrovo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sevlievo, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0404234,
+                  "lng" : 25.1238037
+               },
+               "southwest" : {
+                  "lat" : 43.006455,
+                  "lng" : 25.0788757
+               }
+            },
+            "location" : {
+               "lat" : 43.0266904,
+               "lng" : 25.1034006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0404234,
+                  "lng" : 25.1238037
+               },
+               "southwest" : {
+                  "lat" : 43.006455,
+                  "lng" : 25.0788757
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

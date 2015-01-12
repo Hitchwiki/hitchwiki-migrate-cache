@@ -1,0 +1,343 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington City",
+               "short_name" : "Wellington City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellington, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.126285,
+                  "lng" : 174.9106252
+               },
+               "southwest" : {
+                  "lat" : -41.3624551,
+                  "lng" : 174.613084
+               }
+            },
+            "location" : {
+               "lat" : -41.2864603,
+               "lng" : 174.776236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.126285,
+                  "lng" : 174.9106252
+               },
+               "southwest" : {
+                  "lat" : -41.3624551,
+                  "lng" : 174.613084
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington City",
+               "short_name" : "Wellington City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellington, Wellington, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.2779306,
+                  "lng" : 174.780461
+               },
+               "southwest" : {
+                  "lat" : -41.2911216,
+                  "lng" : 174.7707681
+               }
+            },
+            "location" : {
+               "lat" : -41.2864257,
+               "lng" : 174.7762442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.2779306,
+                  "lng" : 174.780461
+               },
+               "southwest" : {
+                  "lat" : -41.2911216,
+                  "lng" : 174.7707681
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palm Beach County",
+               "short_name" : "Palm Beach County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellington, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.685164,
+                  "lng" : -80.174336
+               },
+               "southwest" : {
+                  "lat" : 26.592635,
+                  "lng" : -80.36378999999999
+               }
+            },
+            "location" : {
+               "lat" : 26.6617635,
+               "lng" : -80.2683571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.685164,
+                  "lng" : -80.174336
+               },
+               "southwest" : {
+                  "lat" : 26.592635,
+                  "lng" : -80.36378999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sumner County",
+               "short_name" : "Sumner County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wellington, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3384269,
+                  "lng" : -97.3643
+               },
+               "southwest" : {
+                  "lat" : 37.2000071,
+                  "lng" : -97.53523799999999
+               }
+            },
+            "location" : {
+               "lat" : 37.26530040000001,
+               "lng" : -97.3717118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.297056,
+                  "lng" : -97.3643
+               },
+               "southwest" : {
+                  "lat" : 37.2522301,
+                  "lng" : -97.424954
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larimer County",
+               "short_name" : "Larimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80549",
+               "short_name" : "80549",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wellington, CO 80549, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.725881,
+                  "lng" : -104.9903061
+               },
+               "southwest" : {
+                  "lat" : 40.68247789999999,
+                  "lng" : -105.019288
+               }
+            },
+            "location" : {
+               "lat" : 40.70387119999999,
+               "lng" : -105.0085856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.725881,
+                  "lng" : -104.9903061
+               },
+               "southwest" : {
+                  "lat" : 40.68247789999999,
+                  "lng" : -105.019288
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lorain County",
+               "short_name" : "Lorain County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44090",
+               "short_name" : "44090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wellington, OH 44090, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.185987,
+                  "lng" : -82.20613500000002
+               },
+               "southwest" : {
+                  "lat" : 41.1373509,
+                  "lng" : -82.261049
+               }
+            },
+            "location" : {
+               "lat" : 41.1689421,
+               "lng" : -82.2179354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.185987,
+                  "lng" : -82.20613500000002
+               },
+               "southwest" : {
+                  "lat" : 41.1373509,
+                  "lng" : -82.261049
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

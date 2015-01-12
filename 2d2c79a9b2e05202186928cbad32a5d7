@@ -1,0 +1,457 @@
+{
+  "totalResultsCount": 35,
+  "geonames": [
+    {
+      "adminCode2": "16",
+      "alternateNames": [
+        {
+          "name": "Sorel",
+          "lang": "af"
+        },
+        {
+          "name": "سوريل، تريسي، كيبك",
+          "lang": "ar"
+        },
+        {
+          "name": "سورل-تراسی",
+          "lang": "fa"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sorel-Tracy",
+          "lang": "link"
+        },
+        {
+          "name": "Сорель-Трейси",
+          "lang": "ru"
+        },
+        {
+          "name": "Сорел Траси",
+          "lang": "sr"
+        },
+        {
+          "name": "Сорель-Трасі",
+          "lang": "uk"
+        },
+        {
+          "name": "SOR",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Canada",
+      "adminCode1": "10",
+      "score": 55.709510803222656,
+      "lng": "-73.11585",
+      "adminName2": "Montérégie",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 46.009996024125655,
+        "east": -73.08217420149073,
+        "north": 46.05672839387435,
+        "west": -73.14951717250928
+      },
+      "name": "Sorel-Tracy",
+      "fcode": "PPL",
+      "geonameId": 6151352,
+      "asciiName": "Sorel-Tracy",
+      "lat": "46.03336",
+      "population": 33591,
+      "adminName1": "Quebec",
+      "adminId1": "6115047",
+      "countryId": "6251999",
+      "fclName": "city, village,...",
+      "countryCode": "CA",
+      "adminId2": "6076966",
+      "toponymName": "Sorel-Tracy",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "14",
+      "countryName": "Canada",
+      "adminCode1": "10",
+      "score": 27.023082733154297,
+      "lng": "-74.29655",
+      "adminName2": "Lanaudière",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Lac Sorel",
+      "fcode": "LK",
+      "geonameId": 6043183,
+      "asciiName": "Lac Sorel",
+      "lat": "46.44004",
+      "population": 0,
+      "adminName1": "Quebec",
+      "countryId": "6251999",
+      "adminId1": "6115047",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "6049141",
+      "toponymName": "Lac Sorel",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "04",
+      "countryName": "Canada",
+      "adminCode1": "10",
+      "score": 27.023082733154297,
+      "lng": "-72.77873",
+      "adminName2": "Mauricie",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Lac Sorel",
+      "fcode": "LK",
+      "geonameId": 6043184,
+      "asciiName": "Lac Sorel",
+      "lat": "47.9456",
+      "population": 0,
+      "adminName1": "Quebec",
+      "countryId": "6251999",
+      "adminId1": "6115047",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "6068167",
+      "toponymName": "Lac Sorel",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [{
+        "name": "Sorel Point",
+        "lang": "en"
+      }],
+      "countryName": "Jersey",
+      "adminCode1": "00",
+      "cc2": "GB",
+      "score": 24.82228660583496,
+      "lng": "-2.16056",
+      "adminName2": "",
+      "fcodeName": "point",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Jersey"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Sorel Point",
+      "fcode": "PT",
+      "geonameId": 3042084,
+      "asciiName": "Sorel Point",
+      "lat": "49.26139",
+      "population": 0,
+      "adminName1": "",
+      "countryId": "3042142",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "JE",
+      "toponymName": "Sorel Point",
+      "fcl": "T",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "53052",
+      "adminCode2": "16",
+      "countryName": "Canada",
+      "adminCode1": "10",
+      "score": 24.82228660583496,
+      "lng": "-73.11359",
+      "adminName2": "Montérégie",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Sorel-Tracy",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 45.95521884500005,
+        "east": -73.01218623799997,
+        "north": 46.06062805700003,
+        "west": -73.18629104699994
+      },
+      "name": "Sorel-Tracy",
+      "fcode": "ADM3",
+      "geonameId": 8674017,
+      "asciiName": "Sorel-Tracy",
+      "lat": "46.01415",
+      "population": 0,
+      "adminName1": "Quebec",
+      "adminId1": "6115047",
+      "countryId": "6251999",
+      "fclName": "country, state, region,...",
+      "countryCode": "CA",
+      "adminId3": "8674017",
+      "adminId2": "6076966",
+      "toponymName": "Sorel-Tracy",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "16",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Sainte-Victoire-de-Sorel%2C_Quebec",
+          "lang": "link"
+        },
+        {
+          "name": "SVD",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Canada",
+      "adminCode1": "10",
+      "score": 23.64519691467285,
+      "lng": "-73.08244",
+      "adminName2": "Montérégie",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 45.94107191924857,
+        "east": -73.06950600579232,
+        "north": 45.95905921675143,
+        "west": -73.09538060020769
+      },
+      "name": "Sainte-Victoire-de-Sorel",
+      "fcode": "PPL",
+      "geonameId": 6138190,
+      "asciiName": "Sainte-Victoire-de-Sorel",
+      "lat": "45.95007",
+      "population": 0,
+      "adminName1": "Quebec",
+      "adminId1": "6115047",
+      "countryId": "6251999",
+      "fclName": "city, village,...",
+      "countryCode": "CA",
+      "adminId2": "6076966",
+      "toponymName": "Sainte-Victoire-de-Sorel",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "16",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Saint-Joseph-de-Sorel%2C_Quebec",
+          "lang": "link"
+        },
+        {
+          "name": "JDS",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Canada",
+      "adminCode1": "10",
+      "score": 23.64519691467285,
+      "lng": "-73.11585",
+      "adminName2": "Montérégie",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 46.024368560248575,
+        "east": -73.1028888981191,
+        "north": 46.04235585775143,
+        "west": -73.1288024758809
+      },
+      "name": "Saint-Joseph-de-Sorel",
+      "fcode": "PPL",
+      "geonameId": 6138569,
+      "asciiName": "Saint-Joseph-de-Sorel",
+      "lat": "46.03336",
+      "population": 0,
+      "adminName1": "Quebec",
+      "adminId1": "6115047",
+      "countryId": "6251999",
+      "fclName": "city, village,...",
+      "countryCode": "CA",
+      "adminId2": "6076966",
+      "toponymName": "Saint-Joseph-de-Sorel",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode3": "53065",
+      "adminCode2": "16",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Sainte-Anne-de-Sorel%2C_Quebec",
+        "lang": "link"
+      }],
+      "countryName": "Canada",
+      "adminCode1": "10",
+      "score": 20.685237884521484,
+      "lng": "-73.07736",
+      "adminName2": "Montérégie",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Sainte-Anne-de-Sorel",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 46.03260126300007,
+        "east": -72.95234470999998,
+        "north": 46.11346501300005,
+        "west": -73.09613213599994
+      },
+      "name": "Sainte-Anne-de-Sorel",
+      "fcode": "ADM3",
+      "geonameId": 6137750,
+      "asciiName": "Sainte-Anne-de-Sorel",
+      "lat": "46.04714",
+      "population": 0,
+      "adminName1": "Quebec",
+      "adminId1": "6115047",
+      "countryId": "6251999",
+      "fclName": "country, state, region,...",
+      "countryCode": "CA",
+      "adminId3": "6137750",
+      "adminId2": "6076966",
+      "toponymName": "Sainte-Anne-de-Sorel",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode3": "283",
+      "alternateNames": [
+        {
+          "name": "Montagne-du-Droit-de-l'Homme",
+          "lang": "fr_1793"
+        },
+        {
+          "name": "28260",
+          "lang": "post"
+        },
+        {
+          "name": "SMF",
+          "lang": "unlc"
+        }
+      ],
+      "adminCode2": "28",
+      "countryName": "France",
+      "adminCode1": "A3",
+      "score": 20.685237884521484,
+      "lng": "1.36699",
+      "adminCode4": "28377",
+      "adminName2": "Eure-et-Loir",
+      "fcodeName": "populated place",
+      "adminName3": "Arrondissement de Dreux",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris"
+      },
+      "adminName4": "Sorel-Moussel",
+      "adminName5": "",
+      "bbox": {
+        "south": 48.82941317562429,
+        "east": 1.3738221597206655,
+        "north": 48.83840682437572,
+        "west": 1.3601578402793344
+      },
+      "name": "Sorel-Moussel",
+      "fcode": "PPL",
+      "geonameId": 2974197,
+      "asciiName": "Sorel-Moussel",
+      "lat": "48.83391",
+      "population": 1526,
+      "adminName1": "Centre",
+      "adminId1": "3027939",
+      "countryId": "3017382",
+      "fclName": "city, village,...",
+      "countryCode": "FR",
+      "adminId4": "6612443",
+      "adminId3": "3020809",
+      "adminId2": "3019316",
+      "toponymName": "Sorel-Moussel",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "603",
+      "alternateNames": [{
+        "name": "60490",
+        "lang": "post"
+      }],
+      "adminCode2": "60",
+      "countryName": "France",
+      "adminCode1": "B6",
+      "score": 20.685237884521484,
+      "lng": "2.7085",
+      "adminCode4": "60483",
+      "adminName2": "Oise",
+      "fcodeName": "populated place",
+      "adminName3": "Arrondissement de Compiègne",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris"
+      },
+      "adminName4": "Orvillers-Sorel",
+      "adminName5": "",
+      "bbox": {
+        "south": 49.577230635124856,
+        "east": 2.709890055680167,
+        "north": 49.57902936487515,
+        "west": 2.707115944319833
+      },
+      "name": "Orvillers-Sorel",
+      "fcode": "PPL",
+      "geonameId": 2989160,
+      "asciiName": "Orvillers-Sorel",
+      "lat": "49.57813",
+      "population": 578,
+      "adminName1": "Picardie",
+      "adminId1": "2987375",
+      "countryId": "3017382",
+      "fclName": "city, village,...",
+      "countryCode": "FR",
+      "adminId4": "6438879",
+      "adminId3": "3024065",
+      "adminId2": "2989663",
+      "toponymName": "Orvillers-Sorel",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

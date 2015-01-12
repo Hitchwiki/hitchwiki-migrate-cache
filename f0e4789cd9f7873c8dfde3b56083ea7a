@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rēzekne",
+               "short_name" : "Rēzekne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rēzeknes pilsēta",
+               "short_name" : "Rēzeknes pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rēzeknes pilsēta",
+               "short_name" : "Rēzeknes pilsēta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rēzekne, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.53846009999999,
+                  "lng" : 27.379451
+               },
+               "southwest" : {
+                  "lat" : 56.4775499,
+                  "lng" : 27.3038497
+               }
+            },
+            "location" : {
+               "lat" : 56.5099223,
+               "lng" : 27.3331357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.53846009999999,
+                  "lng" : 27.379451
+               },
+               "southwest" : {
+                  "lat" : 56.4775499,
+                  "lng" : 27.3038497
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

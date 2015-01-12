@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osnabrück",
+               "short_name" : "Osnabrück",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osnabrück, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.33738469999999,
+                  "lng" : 8.180900099999999
+               },
+               "southwest" : {
+                  "lat" : 52.2185885,
+                  "lng" : 7.929959
+               }
+            },
+            "location" : {
+               "lat" : 52.2799112,
+               "lng" : 8.047178799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.33738469999999,
+                  "lng" : 8.180900099999999
+               },
+               "southwest" : {
+                  "lat" : 52.2185885,
+                  "lng" : 7.929959
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

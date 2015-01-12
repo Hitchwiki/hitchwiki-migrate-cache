@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Statistics",
+               "short_name" : "Statistics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Virginia",
+               "short_name" : "University of Virginia",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Charlottesville",
+               "short_name" : "Charlottesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jack Jouett",
+               "short_name" : "Jack Jouett",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Albemarle County",
+               "short_name" : "Albemarle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22903",
+               "short_name" : "22903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Statistics, University of Virginia, Charlottesville, VA 22903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0293059,
+               "lng" : -78.47667810000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0306548802915,
+                  "lng" : -78.47532911970852
+               },
+               "southwest" : {
+                  "lat" : 38.0279569197085,
+                  "lng" : -78.47802708029153
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Statistics",
+               "short_name" : "Dept of Statistics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of South Carolina",
+               "short_name" : "University of South Carolina",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1523",
+               "short_name" : "1523",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Greene Street",
+               "short_name" : "Greene St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown - Downtown",
+               "short_name" : "Midtown - Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29201",
+               "short_name" : "29201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Statistics, University of South Carolina, 1523 Greene Street, Columbia, SC 29201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9983296,
+               "lng" : -81.0254163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9996785802915,
+                  "lng" : -81.02406731970851
+               },
+               "southwest" : {
+                  "lat" : 33.9969806197085,
+                  "lng" : -81.02676528029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

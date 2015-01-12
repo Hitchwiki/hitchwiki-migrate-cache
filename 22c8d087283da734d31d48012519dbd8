@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duluth",
+               "short_name" : "Duluth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Duluth, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8807361,
+                  "lng" : -91.92125449999999
+               },
+               "southwest" : {
+                  "lat" : 46.6492409,
+                  "lng" : -92.301192
+               }
+            },
+            "location" : {
+               "lat" : 46.78667189999999,
+               "lng" : -92.10048519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8807361,
+                  "lng" : -91.92125449999999
+               },
+               "southwest" : {
+                  "lat" : 46.6492409,
+                  "lng" : -92.301192
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duluth",
+               "short_name" : "Duluth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gwinnett County",
+               "short_name" : "Gwinnett County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Duluth, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0332821,
+                  "lng" : -84.09477099999999
+               },
+               "southwest" : {
+                  "lat" : 33.9669978,
+                  "lng" : -84.18216
+               }
+            },
+            "location" : {
+               "lat" : 34.0028786,
+               "lng" : -84.1446376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0332821,
+                  "lng" : -84.09477099999999
+               },
+               "southwest" : {
+                  "lat" : 33.9669978,
+                  "lng" : -84.18216
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duluth",
+               "short_name" : "Duluth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mill Creek",
+               "short_name" : "Mill Creek",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pottawatomie County",
+               "short_name" : "Pottawatomie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Duluth, KS, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.5247184,
+               "lng" : -96.22305659999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5260673802915,
+                  "lng" : -96.22170761970848
+               },
+               "southwest" : {
+                  "lat" : 39.5233694197085,
+                  "lng" : -96.2244055802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

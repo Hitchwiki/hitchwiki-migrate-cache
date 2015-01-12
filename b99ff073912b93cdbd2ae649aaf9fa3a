@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heerenveen",
+               "short_name" : "Heerenveen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Heerenveen",
+               "short_name" : "Heerenveen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Friesland",
+               "short_name" : "Frater",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heerenveen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9920666,
+                  "lng" : 5.9720908
+               },
+               "southwest" : {
+                  "lat" : 52.9198979,
+                  "lng" : 5.8824489
+               }
+            },
+            "location" : {
+               "lat" : 52.9605613,
+               "lng" : 5.920521700000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9920666,
+                  "lng" : 5.9720908
+               },
+               "southwest" : {
+                  "lat" : 52.9198979,
+                  "lng" : 5.8824489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

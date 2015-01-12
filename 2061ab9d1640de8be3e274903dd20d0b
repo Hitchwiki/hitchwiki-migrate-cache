@@ -1,0 +1,955 @@
+{
+  "totalResultsCount": 3591,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 2.600555419921875,
+        "south": 44.927215576171875,
+        "north": 46.43860626220703,
+        "west": 0.635833263397217
+      },
+      "asciiName": "Limousin",
+      "countryId": "3017382",
+      "fcl": "A",
+      "score": 58.33409118652344,
+      "countryCode": "FR",
+      "adminId1": "2998268",
+      "lat": "45.5",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "B1",
+      "lng": "1.83333",
+      "geonameId": 2998268,
+      "toponymName": "Limousin",
+      "population": 737001,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Limousin",
+          "lang": "de"
+        },
+        {
+          "name": "Limousin",
+          "lang": "en"
+        },
+        {
+          "name": "Lemosín",
+          "lang": "es"
+        },
+        {
+          "name": "Région Limousin",
+          "lang": "fr"
+        },
+        {
+          "name": "리무쟁",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Limousin_(region)",
+          "lang": "link"
+        },
+        {
+          "name": "Limusino",
+          "lang": "pt"
+        }
+      ],
+      "adminName2": "",
+      "name": "Limousin",
+      "fclName": "country, state, region,...",
+      "countryName": "France",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 1.6984216014531952,
+        "south": 45.20718617562429,
+        "north": 45.216179824375715,
+        "west": 1.6856543985468047
+      },
+      "asciiName": "Cornil",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3023532",
+      "adminId3": "2971481",
+      "countryCode": "FR",
+      "adminId4": "6447522",
+      "adminId1": "2998268",
+      "lat": "45.21168",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "19",
+      "adminCode3": "192",
+      "adminCode1": "B1",
+      "lng": "1.69204",
+      "geonameId": 3023587,
+      "toponymName": "Cornil",
+      "adminCode4": "19061",
+      "population": 1392,
+      "adminName5": "",
+      "adminName4": "Cornil",
+      "adminName3": "Arrondissement de Tulle",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Cornil",
+          "lang": "link"
+        },
+        {
+          "name": "19150",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Corrèze",
+      "name": "Cornil",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 1.2827188573850097,
+        "south": 46.130866175624284,
+        "north": 46.13985982437571,
+        "west": 1.2697391426149904
+      },
+      "asciiName": "Chateauponsac",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3013719",
+      "adminId3": "3033765",
+      "countryCode": "FR",
+      "adminId4": "6451708",
+      "adminId1": "2998268",
+      "lat": "46.13536",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "87",
+      "adminCode3": "871",
+      "adminCode1": "B1",
+      "lng": "1.27623",
+      "geonameId": 3026217,
+      "toponymName": "Châteauponsac",
+      "adminCode4": "87041",
+      "population": 2374,
+      "adminName5": "",
+      "adminName4": "Châteauponsac",
+      "adminName3": "Arrondissement de Bellac",
+      "alternateNames": [
+        {
+          "name": "Chastél Ponçac",
+          "lang": "ca"
+        },
+        {
+          "name": "Châteauponsac",
+          "lang": "en"
+        },
+        {
+          "name": "Châteauponsac",
+          "lang": "fr"
+        },
+        {
+          "name": "Ponsac-la-Montagne",
+          "lang": "fr_1793"
+        },
+        {
+          "name": "Châteauponsac",
+          "lang": "it"
+        },
+        {
+          "name": "Шатопонсак",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Ch%C3%A2teauponsac",
+          "lang": "link"
+        },
+        {
+          "name": "Châteauponsac",
+          "lang": "nl"
+        },
+        {
+          "name": "Chastel",
+          "lang": "oc"
+        },
+        {
+          "name": "Châteauponsac",
+          "lang": "pl"
+        },
+        {
+          "name": "87290",
+          "lang": "post"
+        },
+        {
+          "name": "Шатопонсак",
+          "lang": "sr"
+        },
+        {
+          "name": "Шатопонсак",
+          "lang": "uk"
+        },
+        {
+          "name": "CUP",
+          "lang": "unlc"
+        },
+        {
+          "name": "沙托蓬萨克",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Haute-Vienne",
+      "name": "Châteauponsac",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 1.7054346341802782,
+        "south": 45.431996635124854,
+        "north": 45.433795364875145,
+        "west": 1.7028713658197219
+      },
+      "asciiName": "Chamboulive",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3023532",
+      "adminId3": "2971481",
+      "countryCode": "FR",
+      "adminId4": "6447506",
+      "adminId1": "2998268",
+      "lat": "45.4329",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "19",
+      "adminCode3": "192",
+      "adminCode1": "B1",
+      "lng": "1.70415",
+      "geonameId": 3027353,
+      "toponymName": "Chamboulive",
+      "adminCode4": "19037",
+      "population": 1169,
+      "adminName5": "",
+      "adminName4": "Chamboulive",
+      "adminName3": "Arrondissement de Tulle",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Chamboulive",
+          "lang": "link"
+        },
+        {
+          "name": "19450",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Corrèze",
+      "name": "Chamboulive",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 0.9865468837139016,
+        "south": 45.64990617562429,
+        "north": 45.658899824375716,
+        "west": 0.9736791162860984
+      },
+      "asciiName": "Chalus",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3013719",
+      "adminId3": "2998285",
+      "countryCode": "FR",
+      "adminId4": "6451700",
+      "adminId1": "2998268",
+      "lat": "45.6544",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "87",
+      "adminCode3": "872",
+      "adminCode1": "B1",
+      "lng": "0.98011",
+      "geonameId": 3027470,
+      "toponymName": "Châlus",
+      "adminCode4": "87032",
+      "population": 1867,
+      "adminName5": "",
+      "adminName4": "Châlus",
+      "adminName3": "Arrondissement de Limoges",
+      "alternateNames": [
+        {
+          "name": "شالو",
+          "lang": "ar"
+        },
+        {
+          "name": "Chasluç",
+          "lang": "ca"
+        },
+        {
+          "name": "Châlus",
+          "lang": "de"
+        },
+        {
+          "name": "Châlus",
+          "lang": "en"
+        },
+        {
+          "name": "Châlus",
+          "lang": "fr"
+        },
+        {
+          "name": "Châlus",
+          "lang": "it"
+        },
+        {
+          "name": "Шалю",
+          "lang": "kk"
+        },
+        {
+          "name": "Caluca",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Ch%C3%A2lus",
+          "lang": "link"
+        },
+        {
+          "name": "Châlus",
+          "lang": "nl"
+        },
+        {
+          "name": "Chasluç",
+          "lang": "oc"
+        },
+        {
+          "name": "Châlus",
+          "lang": "pl"
+        },
+        {
+          "name": "87230",
+          "lang": "post"
+        },
+        {
+          "name": "Шали",
+          "lang": "sr"
+        },
+        {
+          "name": "Шалю",
+          "lang": "uk"
+        },
+        {
+          "name": "CHW",
+          "lang": "unlc"
+        },
+        {
+          "name": "沙吕",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Haute-Vienne",
+      "name": "Châlus",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 1.9301513900604497,
+        "south": 45.59666463512485,
+        "north": 45.598463364875144,
+        "west": 1.9275806099395503
+      },
+      "asciiName": "Bugeat",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3023532",
+      "adminId3": "2971297",
+      "countryCode": "FR",
+      "adminId4": "6447503",
+      "adminId1": "2998268",
+      "lat": "45.59756",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "19",
+      "adminCode3": "193",
+      "adminCode1": "B1",
+      "lng": "1.92887",
+      "geonameId": 3029637,
+      "toponymName": "Bugeat",
+      "adminCode4": "19033",
+      "population": 1014,
+      "adminName5": "",
+      "adminName4": "Bugeat",
+      "adminName3": "Arrondissement d’Ussel",
+      "alternateNames": [
+        {
+          "name": "Bujac",
+          "lang": "ca"
+        },
+        {
+          "name": "Бюжа",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bugeat",
+          "lang": "link"
+        },
+        {
+          "name": "Bujac",
+          "lang": "oc"
+        },
+        {
+          "name": "19170",
+          "lang": "post"
+        },
+        {
+          "name": "Бюжа",
+          "lang": "ru"
+        },
+        {
+          "name": "Бижа",
+          "lang": "sr"
+        },
+        {
+          "name": "Бюжа",
+          "lang": "uk"
+        },
+        {
+          "name": "BGT",
+          "lang": "unlc"
+        },
+        {
+          "name": "比雅",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Corrèze",
+      "name": "Bugeat",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 2.180766348697847,
+        "south": 45.878836175624286,
+        "north": 45.887829824375714,
+        "west": 2.1678456513021533
+      },
+      "asciiName": "Felletin",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3022516",
+      "adminId3": "3036293",
+      "countryCode": "FR",
+      "adminId4": "6447732",
+      "adminId1": "2998268",
+      "lat": "45.88333",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "23",
+      "adminCode3": "231",
+      "adminCode1": "B1",
+      "lng": "2.17431",
+      "geonameId": 3018747,
+      "toponymName": "Felletin",
+      "adminCode4": "23079",
+      "population": 2332,
+      "adminName5": "",
+      "adminName4": "Felletin",
+      "adminName3": "Arrondissement d’Aubusson",
+      "alternateNames": [
+        {
+          "name": "Falatin",
+          "lang": "ca"
+        },
+        {
+          "name": "Фельтен",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Felletin",
+          "lang": "link"
+        },
+        {
+          "name": "Falatin",
+          "lang": "oc"
+        },
+        {
+          "name": "23500",
+          "lang": "post"
+        },
+        {
+          "name": "Фельтен",
+          "lang": "ru"
+        },
+        {
+          "name": "Фельтен",
+          "lang": "uk"
+        },
+        {
+          "name": "FTI",
+          "lang": "unlc"
+        },
+        {
+          "name": "费勒坦",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Creuse",
+      "name": "Felletin",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 1.9488788138474447,
+        "south": 45.08998352998025,
+        "north": 45.10270247001974,
+        "west": 1.9308591861525555
+      },
+      "asciiName": "Argentat",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3023532",
+      "adminId3": "2971481",
+      "countryCode": "FR",
+      "adminId4": "6447485",
+      "adminId1": "2998268",
+      "lat": "45.09634",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "19",
+      "adminCode3": "192",
+      "adminCode1": "B1",
+      "lng": "1.93987",
+      "geonameId": 3037049,
+      "toponymName": "Argentat",
+      "adminCode4": "19010",
+      "population": 3112,
+      "adminName5": "",
+      "adminName4": "Argentat",
+      "adminName3": "Arrondissement de Tulle",
+      "alternateNames": [
+        {
+          "name": "Argentat",
+          "lang": "ceb"
+        },
+        {
+          "name": "Argentat",
+          "lang": "de"
+        },
+        {
+          "name": "Argentat",
+          "lang": "en"
+        },
+        {
+          "name": "Argentat",
+          "lang": "fr"
+        },
+        {
+          "name": "Argentat",
+          "lang": "it"
+        },
+        {
+          "name": "Argentat",
+          "lang": "nl"
+        },
+        {
+          "name": "Argentat",
+          "lang": "pl"
+        },
+        {
+          "name": "19400",
+          "lang": "post"
+        },
+        {
+          "name": "Аржента",
+          "lang": "sr"
+        },
+        {
+          "name": "GTT",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Corrèze",
+      "name": "Argentat",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 0.9208150484773753,
+        "south": 45.87518052687286,
+        "north": 45.902161473127144,
+        "west": 0.8820429515226248
+      },
+      "asciiName": "Saint-Junien",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3013719",
+      "adminId3": "2983290",
+      "countryCode": "FR",
+      "adminId4": "6454825",
+      "adminId1": "2998268",
+      "lat": "45.88867",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "87",
+      "adminCode3": "873",
+      "adminCode1": "B1",
+      "lng": "0.90143",
+      "geonameId": 2979036,
+      "toponymName": "Saint-Junien",
+      "adminCode4": "87154",
+      "population": 11553,
+      "adminName5": "",
+      "adminName4": "Saint-Junien",
+      "adminName3": "Arrondissement de Rochechouart",
+      "alternateNames": [
+        {
+          "name": "سان جونيان",
+          "lang": "ar"
+        },
+        {
+          "name": "Sent Junian",
+          "lang": "ca"
+        },
+        {
+          "name": "Junien-la-Montagne",
+          "lang": "fr_1793"
+        },
+        {
+          "name": "Сен-Жуньян",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Saint-Junien",
+          "lang": "link"
+        },
+        {
+          "name": "Sent Junian",
+          "lang": "oc"
+        },
+        {
+          "name": "87200",
+          "lang": "post"
+        },
+        {
+          "name": "Сен-Жуньян",
+          "lang": "uk"
+        },
+        {
+          "name": "JNI",
+          "lang": "unlc"
+        },
+        {
+          "name": "圣瑞尼安",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Haute-Vienne",
+      "name": "Saint-Junien",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "populated place",
+      "adminName1": "Limousin"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 1.3276747269755895,
+        "south": 45.78289340740982,
+        "north": 45.88017459259017,
+        "west": 1.1879352730244106
+      },
+      "asciiName": "Limoges",
+      "countryId": "3017382",
+      "fcl": "P",
+      "score": 17.81764793395996,
+      "adminId2": "3013719",
+      "adminId3": "2998285",
+      "countryCode": "FR",
+      "adminId4": "6451740",
+      "adminId1": "2998268",
+      "lat": "45.83153",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "87",
+      "adminCode3": "872",
+      "adminCode1": "B1",
+      "lng": "1.25781",
+      "geonameId": 2998286,
+      "toponymName": "Limoges",
+      "adminCode4": "87085",
+      "population": 141176,
+      "adminName5": "",
+      "adminName4": "Limoges",
+      "adminName3": "Arrondissement de Limoges",
+      "alternateNames": [
+        {
+          "name": "Limòtges",
+          "lang": "an"
+        },
+        {
+          "name": "ليموج",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Лімож",
+          "lang": "be"
+        },
+        {
+          "name": "Лимож",
+          "lang": "bg"
+        },
+        {
+          "name": "Lemojez",
+          "lang": "br"
+        },
+        {
+          "name": "Llemotges",
+          "lang": "ca"
+        },
+        {
+          "name": "Limoges",
+          "lang": "de"
+        },
+        {
+          "name": "Λιμόζ",
+          "lang": "el"
+        },
+        {
+          "name": "Limoges",
+          "lang": "en"
+        },
+        {
+          "name": "Limoges",
+          "lang": "eo"
+        },
+        {
+          "name": "Limoges",
+          "lang": "es"
+        },
+        {
+          "name": "Limoges",
+          "lang": "eu"
+        },
+        {
+          "name": "لیموژ",
+          "lang": "fa"
+        },
+        {
+          "name": "Limoges",
+          "lang": "fi"
+        },
+        {
+          "name": "Limoges",
+          "lang": "fr"
+        },
+        {
+          "name": "Limog·es",
+          "lang": "frp"
+        },
+        {
+          "name": "לימוז",
+          "lang": "he"
+        },
+        {
+          "name": "लिमोज",
+          "lang": "hi"
+        },
+        {
+          "name": "Լիմոժ",
+          "lang": "hy"
+        },
+        {
+          "name": "LIG",
+          "lang": "iata"
+        },
+        {
+          "name": "Limoges",
+          "lang": "id"
+        },
+        {
+          "name": "Limoges",
+          "lang": "it"
+        },
+        {
+          "name": "リモージュ",
+          "lang": "ja"
+        },
+        {
+          "name": "ლიმოჟი",
+          "lang": "ka"
+        },
+        {
+          "name": "Лимож",
+          "lang": "kk"
+        },
+        {
+          "name": "리모주",
+          "lang": "ko"
+        },
+        {
+          "name": "Augustoritum",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Limoges",
+          "lang": "link"
+        },
+        {
+          "name": "Limožas",
+          "lang": "lt"
+        },
+        {
+          "name": "Limoža",
+          "lang": "lv"
+        },
+        {
+          "name": "लिमोज",
+          "lang": "mr"
+        },
+        {
+          "name": "لیموژ",
+          "lang": "mzn"
+        },
+        {
+          "name": "Limoges",
+          "lang": "nl"
+        },
+        {
+          "name": "Limòtges",
+          "lang": "oc"
+        },
+        {
+          "name": "Limoges",
+          "lang": "pl"
+        },
+        {
+          "name": "لیموگے",
+          "lang": "pnb"
+        },
+        {
+          "name": "87000",
+          "lang": "post"
+        },
+        {
+          "name": "Limoges",
+          "lang": "pt"
+        },
+        {
+          "name": "Limoges",
+          "lang": "ro"
+        },
+        {
+          "name": "Лимож",
+          "lang": "ru"
+        },
+        {
+          "name": "Limoges",
+          "lang": "sl"
+        },
+        {
+          "name": "Лимож",
+          "lang": "sr"
+        },
+        {
+          "name": "Limoges",
+          "lang": "sv"
+        },
+        {
+          "name": "Лімож",
+          "lang": "uk"
+        },
+        {
+          "name": "LIG",
+          "lang": "unlc"
+        },
+        {
+          "name": "利摩日",
+          "lang": "zh"
+        },
+        {
+          "name": "里蒙",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Haute-Vienne",
+      "name": "Limoges",
+      "fclName": "city, village,...",
+      "countryName": "France",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Limousin"
+    }
+  ]
+}

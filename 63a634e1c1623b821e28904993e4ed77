@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seychelles",
+               "short_name" : "SC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seychelles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -4.2097858,
+                  "lng" : 56.29429400000001
+               },
+               "southwest" : {
+                  "lat" : -10.2270331,
+                  "lng" : 46.2003332
+               }
+            },
+            "location" : {
+               "lat" : -4.679574,
+               "lng" : 55.491977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.5609817,
+                  "lng" : 55.5390421
+               },
+               "southwest" : {
+                  "lat" : -4.8067924,
+                  "lng" : 55.3599142
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

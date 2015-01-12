@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayan-Ulgii",
+               "short_name" : "Bayan-Ulgii",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayan-Ulgii, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.009587,
+                  "lng" : 91.9268699
+               },
+               "southwest" : {
+                  "lat" : 46.544199,
+                  "lng" : 87.74966409999999
+               }
+            },
+            "location" : {
+               "lat" : 48.3983254,
+               "lng" : 89.66259149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.009587,
+                  "lng" : 91.9268699
+               },
+               "southwest" : {
+                  "lat" : 46.544199,
+                  "lng" : 87.74966409999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

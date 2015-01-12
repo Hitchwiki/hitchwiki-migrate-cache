@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A21",
+               "short_name" : "A21",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A21, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5005537,
+                  "lng" : 10.2347644
+               },
+               "southwest" : {
+                  "lat" : 44.9013774,
+                  "lng" : 7.7786805
+               }
+            },
+            "location" : {
+               "lat" : 45.0235165,
+               "lng" : 9.0495392
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5005537,
+                  "lng" : 10.2347644
+               },
+               "southwest" : {
+                  "lat" : 44.9013774,
+                  "lng" : 7.7786805
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Somaliland",
+               "short_name" : "Somaliland",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Somaliland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.477937,
+                  "lng" : 48.9221191
+               },
+               "southwest" : {
+                  "lat" : 7.972197700000001,
+                  "lng" : 42.6791382
+               }
+            },
+            "location" : {
+               "lat" : 9.411743399999999,
+               "lng" : 46.8252838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.477937,
+                  "lng" : 48.9221191
+               },
+               "southwest" : {
+                  "lat" : 7.972197700000001,
+                  "lng" : 42.6791382
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

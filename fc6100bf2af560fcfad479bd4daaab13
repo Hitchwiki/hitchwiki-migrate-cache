@@ -1,0 +1,114 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode2": "572",
+      "countryName": "India",
+      "adminCode1": "19",
+      "score": 8.857627868652344,
+      "lng": "77.54614",
+      "adminName2": "Bangalore Urban",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 5.5,
+        "gmtOffset": 5.5,
+        "timeZoneId": "Asia/Kolkata"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 12.989417265626306,
+        "east": 77.55536925762318,
+        "north": 13.007404563129159,
+        "west": 77.53690826923228
+      },
+      "name": "Modi Hospital Road",
+      "fcode": "PPL",
+      "geonameId": 6692840,
+      "asciiName": "Modi Hospital Road",
+      "lat": "12.99841",
+      "population": 0,
+      "adminName1": "Karnataka",
+      "countryId": "1269750",
+      "adminId1": "1267701",
+      "fclName": "city, village,...",
+      "countryCode": "IN",
+      "adminId2": "1277331",
+      "toponymName": "Modi Hospital Road",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "countryName": "Palestine",
+      "adminCode1": "WE",
+      "cc2": "PS",
+      "score": 8.108506202697754,
+      "lng": "35.03333",
+      "adminName2": "",
+      "fcodeName": "israeli settlement",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Hebron"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 31.848679402497147,
+        "east": 35.054516928147414,
+        "north": 31.884653997502852,
+        "west": 35.01214967185259
+      },
+      "name": "Mevo H̱oron",
+      "fcode": "STLMT",
+      "geonameId": 282772,
+      "asciiName": "Mevo Horon",
+      "lat": "31.86667",
+      "population": 0,
+      "adminName1": "West Bank",
+      "countryId": "6254930",
+      "adminId1": "285153",
+      "fclName": "city, village,...",
+      "countryCode": "PS",
+      "toponymName": "Mevo H̱oron",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "בית ספר יסודי מודיעין",
+        "lang": "he"
+      }],
+      "countryName": "Israel",
+      "adminCode1": "05",
+      "score": 4.915520668029785,
+      "lng": "34.79156",
+      "adminName2": "",
+      "fcodeName": "school",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Jerusalem"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Bet Sefer Yesodi Modi’in",
+      "fcode": "SCH",
+      "geonameId": 8622522,
+      "asciiName": "Bet Sefer Yesodi Modi'in",
+      "lat": "32.05622",
+      "population": 0,
+      "adminName1": "Tel Aviv",
+      "countryId": "294640",
+      "adminId1": "293396",
+      "fclName": "spot, building, farm",
+      "countryCode": "IL",
+      "toponymName": "Bet Sefer Yesodi Modi’in",
+      "fcl": "S",
+      "continentCode": "AS"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diyarbakir",
+               "short_name" : "Diyarbakir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Diyarbakır Province",
+               "short_name" : "Diyarbakır Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Diyarbakır/Diyarbakır Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.979755,
+                  "lng" : 40.24692
+               },
+               "southwest" : {
+                  "lat" : 37.86583,
+                  "lng" : 40.078436
+               }
+            },
+            "location" : {
+               "lat" : 37.9144099,
+               "lng" : 40.230629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.979755,
+                  "lng" : 40.24692
+               },
+               "southwest" : {
+                  "lat" : 37.86583,
+                  "lng" : 40.078436
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

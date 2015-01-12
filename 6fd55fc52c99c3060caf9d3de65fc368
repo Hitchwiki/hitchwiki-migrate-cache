@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A186",
+               "short_name" : "A186",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "93",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A186, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8756322,
+                  "lng" : 2.4630052
+               },
+               "southwest" : {
+                  "lat" : 48.8635984,
+                  "lng" : 2.43405
+               }
+            },
+            "location" : {
+               "lat" : 48.8712989,
+               "lng" : 2.4505691
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8756322,
+                  "lng" : 2.4630052
+               },
+               "southwest" : {
+                  "lat" : 48.8635984,
+                  "lng" : 2.43405
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

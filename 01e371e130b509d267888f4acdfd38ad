@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gedser",
+               "short_name" : "Gedser",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guldborgsund Municipality",
+               "short_name" : "Guldborgsund Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region Zealand",
+               "short_name" : "Region Zealand",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4874",
+               "short_name" : "4874",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4874 Gedser, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6722072,
+                  "lng" : 11.973989
+               },
+               "southwest" : {
+                  "lat" : 54.5591211,
+                  "lng" : 11.8661823
+               }
+            },
+            "location" : {
+               "lat" : 54.574422,
+               "lng" : 11.931194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6722072,
+                  "lng" : 11.973989
+               },
+               "southwest" : {
+                  "lat" : 54.5591211,
+                  "lng" : 11.8661823
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

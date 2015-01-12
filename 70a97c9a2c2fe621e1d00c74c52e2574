@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Benin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.4086111,
+                  "lng" : 3.843343
+               },
+               "southwest" : {
+                  "lat" : 6.234831799999999,
+                  "lng" : 0.7766672
+               }
+            },
+            "location" : {
+               "lat" : 9.307689999999999,
+               "lng" : 2.315834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.4086111,
+                  "lng" : 3.843343
+               },
+               "southwest" : {
+                  "lat" : 6.234831799999999,
+                  "lng" : 0.7766672
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

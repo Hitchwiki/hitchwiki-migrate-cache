@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Noumea",
+               "short_name" : "Noumea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Province",
+               "short_name" : "South Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Caledonia",
+               "short_name" : "NC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Noumea, New Caledonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.2162913,
+                  "lng" : 166.5041114
+               },
+               "southwest" : {
+                  "lat" : -22.3124234,
+                  "lng" : 166.3857937
+               }
+            },
+            "location" : {
+               "lat" : -22.2758,
+               "lng" : 166.458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.2162913,
+                  "lng" : 166.5041114
+               },
+               "southwest" : {
+                  "lat" : -22.3124234,
+                  "lng" : 166.3857937
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

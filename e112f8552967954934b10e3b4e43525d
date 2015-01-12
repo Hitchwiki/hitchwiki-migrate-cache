@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S3",
+               "short_name" : "S3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S3, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8427923,
+                  "lng" : 15.8077061
+               },
+               "southwest" : {
+                  "lat" : 51.6667862,
+                  "lng" : 14.5687848
+               }
+            },
+            "location" : {
+               "lat" : 52.7474307,
+               "lng" : 15.1594228
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8427923,
+                  "lng" : 15.8077061
+               },
+               "southwest" : {
+                  "lat" : 51.6667862,
+                  "lng" : 14.5687848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

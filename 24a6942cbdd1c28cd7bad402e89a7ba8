@@ -1,0 +1,285 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, Exeter, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.456359
+               },
+               "southwest" : {
+                  "lat" : 50.6873915,
+                  "lng" : -3.570736
+               }
+            },
+            "location" : {
+               "lat" : 50.718412,
+               "lng" : -3.533899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.456359
+               },
+               "southwest" : {
+                  "lat" : 50.6873915,
+                  "lng" : -3.570736
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rockingham County",
+               "short_name" : "Rockingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0338601,
+                  "lng" : -70.887699
+               },
+               "southwest" : {
+                  "lat" : 42.956986,
+                  "lng" : -71.0138839
+               }
+            },
+            "location" : {
+               "lat" : 42.9814292,
+               "lng" : -70.9477546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0338601,
+                  "lng" : -70.887699
+               },
+               "southwest" : {
+                  "lat" : 42.956986,
+                  "lng" : -71.0138839
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tulare County",
+               "short_name" : "Tulare County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93221",
+               "short_name" : "93221",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Exeter, CA 93221, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.306502,
+                  "lng" : -119.127593
+               },
+               "southwest" : {
+                  "lat" : 36.268311,
+                  "lng" : -119.167487
+               }
+            },
+            "location" : {
+               "lat" : 36.2960613,
+               "lng" : -119.1420517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.306502,
+                  "lng" : -119.127593
+               },
+               "southwest" : {
+                  "lat" : 36.2825451,
+                  "lng" : -119.1633039
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6025989,
+                  "lng" : -71.507886
+               },
+               "southwest" : {
+                  "lat" : 41.50006,
+                  "lng" : -71.79141589999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5750676,
+               "lng" : -71.5351476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6025989,
+                  "lng" : -71.507886
+               },
+               "southwest" : {
+                  "lat" : 41.50006,
+                  "lng" : -71.79141589999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luzerne County",
+               "short_name" : "Luzerne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.355471,
+                  "lng" : -75.7941379
+               },
+               "southwest" : {
+                  "lat" : 41.30858,
+                  "lng" : -75.85173999999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3206358,
+               "lng" : -75.81908349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.355471,
+                  "lng" : -75.7941379
+               },
+               "southwest" : {
+                  "lat" : 41.30858,
+                  "lng" : -75.85173999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

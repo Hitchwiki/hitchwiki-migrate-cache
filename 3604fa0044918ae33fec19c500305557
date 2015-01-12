@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A352",
+               "short_name" : "A352",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A352, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5508547,
+                  "lng" : 9.800658799999999
+               },
+               "southwest" : {
+                  "lat" : 52.42534879999999,
+                  "lng" : 9.6555125
+               }
+            },
+            "location" : {
+               "lat" : 52.4888535,
+               "lng" : 9.7267118
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5508547,
+                  "lng" : 9.800658799999999
+               },
+               "southwest" : {
+                  "lat" : 52.42534879999999,
+                  "lng" : 9.6555125
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qatar",
+               "short_name" : "QA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qatar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.1830927,
+                  "lng" : 51.6432602
+               },
+               "southwest" : {
+                  "lat" : 24.471118,
+                  "lng" : 50.7500553
+               }
+            },
+            "location" : {
+               "lat" : 25.354826,
+               "lng" : 51.183884
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1830927,
+                  "lng" : 51.6432602
+               },
+               "southwest" : {
+                  "lat" : 24.471118,
+                  "lng" : 50.7500553
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

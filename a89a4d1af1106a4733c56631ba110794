@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Dyé-sur-Loire",
+               "short_name" : "Saint-Dyé-sur-Loire",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loir-et-Cher",
+               "short_name" : "41",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Dyé-sur-Loire, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.662385,
+                  "lng" : 1.522161
+               },
+               "southwest" : {
+                  "lat" : 47.63934,
+                  "lng" : 1.4701168
+               }
+            },
+            "location" : {
+               "lat" : 47.6553479,
+               "lng" : 1.487246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.662385,
+                  "lng" : 1.522161
+               },
+               "southwest" : {
+                  "lat" : 47.63934,
+                  "lng" : 1.4701168
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reutlingen",
+               "short_name" : "RT",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reutlingen",
+               "short_name" : "RT",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "TÜ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reutlingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5786104,
+                  "lng" : 9.2555938
+               },
+               "southwest" : {
+                  "lat" : 48.4126753,
+                  "lng" : 9.114873899999999
+               }
+            },
+            "location" : {
+               "lat" : 48.50693889999999,
+               "lng" : 9.2038043
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5786104,
+                  "lng" : 9.2555938
+               },
+               "southwest" : {
+                  "lat" : 48.4126753,
+                  "lng" : 9.114873899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

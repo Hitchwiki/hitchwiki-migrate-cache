@@ -1,0 +1,159 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Mengla_County",
+          "lang": "link"
+        },
+        {
+          "name": "勐腊",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "China",
+      "adminCode1": "29",
+      "score": 28.44890594482422,
+      "lng": "101.48905",
+      "adminName2": "",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 8,
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Shanghai"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Mengla Xian",
+      "fcode": "ADM3",
+      "geonameId": 1800715,
+      "asciiName": "Mengla Xian",
+      "lat": "21.7424",
+      "population": 0,
+      "adminName1": "Yunnan",
+      "countryId": "1814991",
+      "adminId1": "1785694",
+      "fclName": "country, state, region,...",
+      "countryCode": "CN",
+      "toponymName": "Mengla Xian",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "勐腊",
+        "lang": "zh"
+      }],
+      "countryName": "China",
+      "adminCode1": "29",
+      "score": 21.641815185546875,
+      "lng": "101.55069",
+      "adminName2": "",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 8,
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Shanghai"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 21.450600702497148,
+        "east": 101.57001871658454,
+        "north": 21.486575297502853,
+        "west": 101.53135728341545
+      },
+      "name": "Mengla",
+      "fcode": "PPLA3",
+      "geonameId": 1800716,
+      "asciiName": "Mengla",
+      "lat": "21.46859",
+      "population": 0,
+      "adminName1": "Yunnan",
+      "countryId": "1814991",
+      "adminId1": "1785694",
+      "fclName": "city, village,...",
+      "countryCode": "CN",
+      "toponymName": "Mengla",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode3": "9076",
+      "adminCode2": "20",
+      "alternateNames": [{
+        "name": "Μέγκλα",
+        "lang": "el"
+      }],
+      "countryName": "Greece",
+      "adminCode1": "ESYE21",
+      "score": 16.42498207092285,
+      "lng": "21.04317",
+      "adminName2": "Árta",
+      "fcodeName": "populated place",
+      "adminName3": "Nikolaos Skoufas",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Athens"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 39.238946635124854,
+        "east": 21.044327227789896,
+        "north": 39.240745364875146,
+        "west": 21.042004772210102
+      },
+      "name": "Mégkla",
+      "fcode": "PPL",
+      "geonameId": 257269,
+      "asciiName": "Megkla",
+      "lat": "39.23985",
+      "population": 85,
+      "adminName1": "Epirus",
+      "adminId1": "6697804",
+      "countryId": "390903",
+      "fclName": "city, village,...",
+      "countryCode": "GR",
+      "adminId3": "8133727",
+      "adminId2": "264545",
+      "toponymName": "Mégkla",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminId1": "1164807",
+      "countryId": "1168579",
+      "adminCode1": "05",
+      "countryName": "Pakistan",
+      "fclName": "stream, lake, ...",
+      "score": 3.871405601501465,
+      "countryCode": "PK",
+      "lng": "68.08946",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "canal",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 5,
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Karachi"
+      },
+      "toponymName": "Mengla Distributary",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "AS",
+      "name": "Mengla Distributary",
+      "fcode": "CNL",
+      "asciiName": "Mengla Distributary",
+      "geonameId": 1369250,
+      "lat": "26.66496",
+      "adminName1": "Sindh",
+      "population": 0
+    }
+  ]
+}

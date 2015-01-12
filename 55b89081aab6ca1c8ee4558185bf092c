@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Simferopol",
+               "short_name" : "Simferopol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Simferopol's'ka city council",
+               "short_name" : "Simferopol's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Crimea",
+               "short_name" : "Crimea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Simferopol",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.00326,
+                  "lng" : 34.19008290000001
+               },
+               "southwest" : {
+                  "lat" : 44.890336,
+                  "lng" : 34.0283439
+               }
+            },
+            "location" : {
+               "lat" : 44.952117,
+               "lng" : 34.102417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.00326,
+                  "lng" : 34.19008290000001
+               },
+               "southwest" : {
+                  "lat" : 44.890336,
+                  "lng" : 34.0283439
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

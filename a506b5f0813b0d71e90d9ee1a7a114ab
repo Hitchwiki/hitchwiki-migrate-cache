@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aktau",
+               "short_name" : "Aktau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Munaily District",
+               "short_name" : "Munaily District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mangystau",
+               "short_name" : "Mangystau",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aktau, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7487772,
+                  "lng" : 51.3404845
+               },
+               "southwest" : {
+                  "lat" : 43.5704564,
+                  "lng" : 51.1179202
+               }
+            },
+            "location" : {
+               "lat" : 43.6410973,
+               "lng" : 51.1985113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7487772,
+                  "lng" : 51.3404845
+               },
+               "southwest" : {
+                  "lat" : 43.5704564,
+                  "lng" : 51.1179202
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

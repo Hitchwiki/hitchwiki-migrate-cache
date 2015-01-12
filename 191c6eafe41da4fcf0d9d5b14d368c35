@@ -1,0 +1,426 @@
+{
+  "totalResultsCount": 12,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Australia/Brisbane",
+        "dstOffset": 10
+      },
+      "asciiName": "Cooktown Airport",
+      "countryId": "2077456",
+      "fcl": "S",
+      "score": 36.325843811035156,
+      "adminId2": "7839573",
+      "countryCode": "AU",
+      "adminId1": "2152274",
+      "lat": "-15.4447",
+      "fcode": "AIRP",
+      "continentCode": "OC",
+      "adminCode2": "32500",
+      "adminCode1": "04",
+      "lng": "145.18401",
+      "geonameId": 7668701,
+      "toponymName": "Cooktown Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "CTN",
+          "lang": "iata"
+        },
+        {
+          "name": "YCKN",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Cooktown_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Cook",
+      "name": "Cooktown Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Australia",
+      "fcodeName": "airport",
+      "adminName1": "Queensland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Australia/Brisbane",
+        "dstOffset": 10
+      },
+      "bbox": {
+        "east": 145.350512992,
+        "south": -15.6803770089999,
+        "north": -15.062479007,
+        "west": 144.673934016
+      },
+      "asciiName": "Cooktown",
+      "countryId": "2077456",
+      "fcl": "P",
+      "score": 28.42947006225586,
+      "adminId2": "7839573",
+      "countryCode": "AU",
+      "adminId1": "2152274",
+      "lat": "-15.47028",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "32500",
+      "adminCode1": "04",
+      "lng": "145.24986",
+      "geonameId": 2170658,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "CTN",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Cooktown%2C_Queensland",
+          "lang": "link"
+        },
+        {
+          "name": "कूकटाउन",
+          "lang": "mr"
+        },
+        {
+          "name": "Куктаун",
+          "lang": "ru"
+        },
+        {
+          "name": "Куктаун",
+          "lang": "uk"
+        },
+        {
+          "name": "CTN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Cook",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "Australia",
+      "fcodeName": "populated place",
+      "adminName1": "Queensland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -85.92957378132303,
+        "south": 36.825780251248574,
+        "north": 36.84376754875143,
+        "west": -85.95205021867696
+      },
+      "asciiName": "Cooktown",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 14.5303373336792,
+      "adminId2": "4283268",
+      "countryCode": "US",
+      "adminId1": "6254925",
+      "lat": "36.83477",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 240,
+      "adminCode2": "009",
+      "adminCode1": "KY",
+      "lng": "-85.94081",
+      "geonameId": 4288544,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Cooktown%2C_Kentucky",
+        "lang": "link"
+      }],
+      "adminName2": "Barren County",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Kentucky"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -77.37174762762116,
+        "south": 38.97778285124857,
+        "north": 38.995770148751426,
+        "west": -77.39489157237882
+      },
+      "asciiName": "Cooktown",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 14.5303373336792,
+      "adminId2": "4758041",
+      "countryCode": "US",
+      "adminId1": "6254928",
+      "lat": "38.98678",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 96,
+      "adminCode2": "059",
+      "adminCode1": "VA",
+      "lng": "-77.38332",
+      "geonameId": 4753960,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Cooktown%2C_Virginia",
+        "lang": "link"
+      }],
+      "adminName2": "Fairfax County",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Virginia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -84.54967579946741,
+        "south": 31.198132551248573,
+        "north": 31.21611984875143,
+        "west": -84.5707082005326
+      },
+      "asciiName": "Cooktown",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 12.714045524597168,
+      "adminId2": "4209479",
+      "countryCode": "US",
+      "adminId1": "4197000",
+      "lat": "31.20713",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 55,
+      "adminCode2": "201",
+      "adminCode1": "GA",
+      "lng": "-84.56019",
+      "geonameId": 4189276,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Miller County",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Georgia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -83.12252710978032,
+        "south": 32.62755265124857,
+        "north": 32.64553994875143,
+        "west": -83.14388909021969
+      },
+      "asciiName": "Cooktown",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 9.081460952758789,
+      "adminId2": "4231046",
+      "countryCode": "US",
+      "adminId1": "4197000",
+      "lat": "32.63655",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 120,
+      "adminCode2": "319",
+      "adminCode1": "GA",
+      "lng": "-83.13321",
+      "geonameId": 4189277,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Wilkinson County",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Georgia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -92.64642340686358,
+        "south": 32.54198895124857,
+        "north": 32.559976248751425,
+        "west": -92.66776499313643
+      },
+      "asciiName": "Cooktown",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 7.2651686668396,
+      "adminId2": "4330983",
+      "countryCode": "US",
+      "adminId1": "4331987",
+      "lat": "32.55098",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 81,
+      "adminCode2": "061",
+      "adminCode1": "LA",
+      "lng": "-92.65709",
+      "geonameId": 4320677,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Lincoln Parish",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Louisiana"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -85.1129591457005,
+        "south": 36.330794651248574,
+        "north": 36.34878194875143,
+        "west": -85.13529185429951
+      },
+      "asciiName": "Cooktown",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 7.2651686668396,
+      "adminId2": "4621984",
+      "countryCode": "US",
+      "adminId1": "4662168",
+      "lat": "36.33979",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 555,
+      "adminCode2": "049",
+      "adminCode1": "TN",
+      "lng": "-85.12413",
+      "geonameId": 4615177,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Fentress County",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Tennessee"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "145.25",
+      "geonameId": 2170657,
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Australia/Brisbane",
+        "dstOffset": 10
+      },
+      "toponymName": "Cooktown Harbour",
+      "asciiName": "Cooktown Harbour",
+      "countryId": "2077456",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 5.44887638092041,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AU",
+      "name": "Cooktown Harbour",
+      "fclName": "stream, lake, ...",
+      "countryName": "Australia",
+      "fcodeName": "harbor(s)",
+      "adminId1": "2152274",
+      "adminName1": "Queensland",
+      "lat": "-15.46667",
+      "fcode": "HBR",
+      "continentCode": "OC"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -82.14594216849437,
+        "south": 36.05473455124857,
+        "north": 36.07272184875143,
+        "west": -82.16819623150562
+      },
+      "asciiName": "Cooktown",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 5.44887638092041,
+      "adminId2": "4479817",
+      "countryCode": "US",
+      "adminId1": "4482348",
+      "lat": "36.06373",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 993,
+      "adminCode2": "121",
+      "adminCode1": "NC",
+      "lng": "-82.15707",
+      "geonameId": 4461736,
+      "toponymName": "Cooktown",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Mitchell County",
+      "name": "Cooktown",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "North Carolina"
+    }
+  ]
+}

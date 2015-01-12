@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ibarra",
+               "short_name" : "Ibarra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imbabura",
+               "short_name" : "Imbabura",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ibarra, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3890675,
+                  "lng" : -78.08824539999999
+               },
+               "southwest" : {
+                  "lat" : 0.3143104,
+                  "lng" : -78.1586052
+               }
+            },
+            "location" : {
+               "lat" : 0.3626780000000001,
+               "lng" : -78.130667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3890675,
+                  "lng" : -78.08824539999999
+               },
+               "southwest" : {
+                  "lat" : 0.3143104,
+                  "lng" : -78.1586052
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

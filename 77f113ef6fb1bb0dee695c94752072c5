@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ingolstadt",
+               "short_name" : "Ingolstadt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ingolstadt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8228908,
+                  "lng" : 11.50333
+               },
+               "southwest" : {
+                  "lat" : 48.6838581,
+                  "lng" : 11.2559732
+               }
+            },
+            "location" : {
+               "lat" : 48.7665351,
+               "lng" : 11.4257541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8228908,
+                  "lng" : 11.50333
+               },
+               "southwest" : {
+                  "lat" : 48.6838581,
+                  "lng" : 11.2559732
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ingolstadt",
+               "short_name" : "Ingolstadt",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sugenheim",
+               "short_name" : "Sugenheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mittelfranken",
+               "short_name" : "Mittelfranken",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91484",
+               "short_name" : "91484",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ingolstadt, 91484 Sugenheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6061462,
+                  "lng" : 10.3825053
+               },
+               "southwest" : {
+                  "lat" : 49.6027271,
+                  "lng" : 10.3755687
+               }
+            },
+            "location" : {
+               "lat" : 49.60387679999999,
+               "lng" : 10.3792304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6061462,
+                  "lng" : 10.3825053
+               },
+               "southwest" : {
+                  "lat" : 49.6027271,
+                  "lng" : 10.3755687
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

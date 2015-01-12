@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A66",
+               "short_name" : "A66",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A66, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.490115,
+                  "lng" : 9.7118699
+               },
+               "southwest" : {
+                  "lat" : 50.049298,
+                  "lng" : 8.172158699999999
+               }
+            },
+            "location" : {
+               "lat" : 50.1702531,
+               "lng" : 9.02328
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.490115,
+                  "lng" : 9.7118699
+               },
+               "southwest" : {
+                  "lat" : 50.049298,
+                  "lng" : 8.172158699999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

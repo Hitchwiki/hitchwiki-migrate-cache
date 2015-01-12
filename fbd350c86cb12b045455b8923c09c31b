@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gemlik",
+               "short_name" : "Gemlik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gemlik, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.449193,
+                  "lng" : 29.1958841
+               },
+               "southwest" : {
+                  "lat" : 40.418819,
+                  "lng" : 29.1310409
+               }
+            },
+            "location" : {
+               "lat" : 40.4285523,
+               "lng" : 29.1652303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.449193,
+                  "lng" : 29.1958841
+               },
+               "southwest" : {
+                  "lat" : 40.418819,
+                  "lng" : 29.1310409
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

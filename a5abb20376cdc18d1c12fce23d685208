@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kufstein",
+               "short_name" : "Kufstein",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kufstein",
+               "short_name" : "Kufstein",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kufstein District",
+               "short_name" : "Kufstein District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tyrol",
+               "short_name" : "Tirol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kufstein, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.61476,
+                  "lng" : 12.31587
+               },
+               "southwest" : {
+                  "lat" : 47.55216009999999,
+                  "lng" : 12.1327801
+               }
+            },
+            "location" : {
+               "lat" : 47.58237,
+               "lng" : 12.16275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.61476,
+                  "lng" : 12.31587
+               },
+               "southwest" : {
+                  "lat" : 47.55216009999999,
+                  "lng" : 12.1327801
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

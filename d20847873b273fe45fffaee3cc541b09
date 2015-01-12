@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erlangen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6455845,
+                  "lng" : 11.0536043
+               },
+               "southwest" : {
+                  "lat" : 49.5327698,
+                  "lng" : 10.9153629
+               }
+            },
+            "location" : {
+               "lat" : 49.5896744,
+               "lng" : 11.0119611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6455845,
+                  "lng" : 11.0536043
+               },
+               "southwest" : {
+                  "lat" : 49.5327698,
+                  "lng" : 10.9153629
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

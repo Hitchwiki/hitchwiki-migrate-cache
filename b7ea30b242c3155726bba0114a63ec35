@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A28",
+               "short_name" : "A28",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aubange",
+               "short_name" : "Aubange",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LX",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Région wallonne",
+               "short_name" : "Région wallonne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6790",
+               "short_name" : "6790",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A28, 6790 Aubange, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5745971,
+                  "lng" : 5.8208271
+               },
+               "southwest" : {
+                  "lat" : 49.551823,
+                  "lng" : 5.8081084
+               }
+            },
+            "location" : {
+               "lat" : 49.5614496,
+               "lng" : 5.8172096
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5745971,
+                  "lng" : 5.8208271
+               },
+               "southwest" : {
+                  "lat" : 49.551823,
+                  "lng" : 5.8081084
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

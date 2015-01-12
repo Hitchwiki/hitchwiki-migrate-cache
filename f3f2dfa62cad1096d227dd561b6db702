@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panama",
+               "short_name" : "Panama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "Panama",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "Panama",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panama, Panama",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.2596966,
+                  "lng" : -79.30689409999999
+               },
+               "southwest" : {
+                  "lat" : 8.906753999999999,
+                  "lng" : -79.59786459999999
+               }
+            },
+            "location" : {
+               "lat" : 8.983333,
+               "lng" : -79.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.2596966,
+                  "lng" : -79.30689409999999
+               },
+               "southwest" : {
+                  "lat" : 8.906753999999999,
+                  "lng" : -79.59786459999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panama City",
+               "short_name" : "Panama City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bay County",
+               "short_name" : "Bay County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panama City, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2772461,
+                  "lng" : -85.4654039
+               },
+               "southwest" : {
+                  "lat" : 30.1340559,
+                  "lng" : -85.7372383
+               }
+            },
+            "location" : {
+               "lat" : 30.1588129,
+               "lng" : -85.6602058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2772461,
+                  "lng" : -85.4654039
+               },
+               "southwest" : {
+                  "lat" : 30.1340559,
+                  "lng" : -85.7372383
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

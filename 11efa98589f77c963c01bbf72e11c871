@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Szeged",
+               "short_name" : "Szeged",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Szegedi",
+               "short_name" : "Szegedi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Csongrád",
+               "short_name" : "Csongrád",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Szeged, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.349812,
+                  "lng" : 20.3085971
+               },
+               "southwest" : {
+                  "lat" : 46.115766,
+                  "lng" : 19.97234
+               }
+            },
+            "location" : {
+               "lat" : 46.2530102,
+               "lng" : 20.1414253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.349812,
+                  "lng" : 20.3085971
+               },
+               "southwest" : {
+                  "lat" : 46.115766,
+                  "lng" : 19.97234
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

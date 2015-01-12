@@ -1,0 +1,612 @@
+{
+  "totalResultsCount": 7780,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Makassar",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 115.71470642089844,
+        "south": -8.854999542236328,
+        "north": -8.056388854980469,
+        "west": 114.4455337524414
+      },
+      "asciiName": "Provinsi Bali",
+      "countryId": "1643084",
+      "fcl": "A",
+      "score": 48.815086364746094,
+      "countryCode": "ID",
+      "adminId1": "1650535",
+      "lat": "-8.5",
+      "fcode": "ADM1",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "115",
+      "geonameId": 1650535,
+      "toponymName": "Provinsi Bali",
+      "population": 3890757,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Bali",
+          "lang": "en"
+        },
+        {
+          "name": "Provinsi Bali",
+          "lang": "id"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bali",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bali",
+      "fclName": "country, state, region,...",
+      "countryName": "Indonesia",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bali"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Lagos",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": 11.796403885000075,
+        "south": 7.50019693400003,
+        "north": 8.677298546000031,
+        "west": 10.315226555000038
+      },
+      "asciiName": "Bali",
+      "countryId": "2328926",
+      "fcl": "A",
+      "score": 36.61131286621094,
+      "adminId2": "8659779",
+      "countryCode": "NG",
+      "adminId1": "2597366",
+      "lat": "8.15541",
+      "fcode": "ADM2",
+      "continentCode": "AF",
+      "adminCode2": "35002",
+      "adminCode1": "43",
+      "lng": "10.96853",
+      "geonameId": 8659779,
+      "toponymName": "Bali",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Bali",
+      "name": "Bali",
+      "fclName": "country, state, region,...",
+      "countryName": "Nigeria",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Taraba"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Makassar",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 115.3002727289266,
+        "south": -8.732673110256671,
+        "north": -8.56732688974333,
+        "west": 115.13306067107341
+      },
+      "asciiName": "Denpasar",
+      "countryId": "1643084",
+      "fcl": "P",
+      "score": 34.87518310546875,
+      "countryCode": "ID",
+      "adminId1": "1650535",
+      "lat": "-8.65",
+      "fcode": "PPLA",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "115.21667",
+      "geonameId": 1645528,
+      "toponymName": "Denpasar",
+      "population": 405923,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Горад Дэнпасар",
+          "lang": "be"
+        },
+        {
+          "name": "Денпасар",
+          "lang": "bg"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "de"
+        },
+        {
+          "name": "Ντενπασάρ",
+          "lang": "el"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "en"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "es"
+        },
+        {
+          "name": "دنپاسار",
+          "lang": "fa"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "fi"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "fr"
+        },
+        {
+          "name": "દેનપસાર",
+          "lang": "gu"
+        },
+        {
+          "name": "דנפסאר",
+          "lang": "he"
+        },
+        {
+          "name": "देनपसार",
+          "lang": "hi"
+        },
+        {
+          "name": "DPS",
+          "lang": "iata"
+        },
+        {
+          "name": "Kota Denpasar",
+          "lang": "id"
+        },
+        {
+          "name": "デンパサール",
+          "lang": "ja"
+        },
+        {
+          "name": "Kutha Denpasar",
+          "lang": "jv"
+        },
+        {
+          "name": "დენპასარი",
+          "lang": "ka"
+        },
+        {
+          "name": "덴파사르",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Denpasar",
+          "lang": "link"
+        },
+        {
+          "name": "Denpasaras",
+          "lang": "lt"
+        },
+        {
+          "name": "Kota Denpasar",
+          "lang": "mg"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "ms"
+        },
+        {
+          "name": "ဒန်ပါဆာမြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "nl"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "no"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "pl"
+        },
+        {
+          "name": "ڈنپاسار",
+          "lang": "pnb"
+        },
+        {
+          "name": "Dempassar",
+          "lang": "pt"
+        },
+        {
+          "name": "Dempasar",
+          "lang": "ro"
+        },
+        {
+          "name": "Денпасар",
+          "lang": "ru"
+        },
+        {
+          "name": "Denpasar",
+          "lang": "sv"
+        },
+        {
+          "name": "Денпасар",
+          "lang": "uk"
+        },
+        {
+          "name": "DPS",
+          "lang": "unlc"
+        },
+        {
+          "name": "ڈنپسار",
+          "lang": "ur"
+        },
+        {
+          "name": "丹帕沙",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Denpasar",
+      "fclName": "city, village,...",
+      "countryName": "Indonesia",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Bali"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Douala",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": 10.046779151993766,
+        "south": 5.852533748162815,
+        "north": 5.922198251837186,
+        "west": 9.976740848006235
+      },
+      "asciiName": "Bali",
+      "countryId": "2233387",
+      "fcl": "P",
+      "score": 28.764564514160156,
+      "countryCode": "CM",
+      "adminId1": "2223602",
+      "lat": "5.88737",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "07",
+      "lng": "10.01176",
+      "geonameId": 2235029,
+      "toponymName": "Bali",
+      "population": 72606,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Bali",
+          "lang": "en"
+        },
+        {
+          "name": "Bali",
+          "lang": "fr"
+        },
+        {
+          "name": "BLC",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bali%2C_Cameroon",
+          "lang": "link"
+        },
+        {
+          "name": "Bali",
+          "lang": "pl"
+        },
+        {
+          "name": "Бали",
+          "lang": "ru"
+        },
+        {
+          "name": "BLC",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bali",
+      "fclName": "city, village,...",
+      "countryName": "Cameroon",
+      "fcodeName": "populated place",
+      "adminName1": "North-West Province"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Makassar",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 115.00657794810702,
+        "south": -8.228683145947244,
+        "north": -8.151316854052755,
+        "west": 114.92842205189298
+      },
+      "asciiName": "Banjar",
+      "countryId": "1643084",
+      "fcl": "P",
+      "score": 27.28846549987793,
+      "countryCode": "ID",
+      "adminId1": "1650535",
+      "lat": "-8.19",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "114.9675",
+      "geonameId": 1650232,
+      "toponymName": "Banjar",
+      "population": 89040,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Banjar",
+        "lang": "id"
+      }],
+      "adminName2": "",
+      "name": "Banjar",
+      "fclName": "city, village,...",
+      "countryName": "Indonesia",
+      "fcodeName": "populated place",
+      "adminName1": "Bali"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Makassar",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 115.42180619663462,
+        "south": -8.554896012095847,
+        "north": -8.511763987904152,
+        "west": 115.37819380336539
+      },
+      "asciiName": "Klungkung",
+      "countryId": "1643084",
+      "fcl": "P",
+      "score": 27.28846549987793,
+      "countryCode": "ID",
+      "adminId1": "1650535",
+      "lat": "-8.53333",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "115.4",
+      "geonameId": 1639850,
+      "toponymName": "Klungkung",
+      "population": 27836,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Klungkung_Regency",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Klungkung",
+      "fclName": "city, village,...",
+      "countryName": "Indonesia",
+      "fcodeName": "populated place",
+      "adminName1": "Bali"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Makassar",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 115.136031696573,
+        "south": -8.159377603677456,
+        "north": -8.064623634457643,
+        "west": 115.040331294761
+      },
+      "asciiName": "Singaraja",
+      "countryId": "1643084",
+      "fcl": "P",
+      "score": 27.28846549987793,
+      "countryCode": "ID",
+      "adminId1": "1650535",
+      "lat": "-8.112",
+      "fcode": "PPLA3",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "115.08818",
+      "geonameId": 1626932,
+      "toponymName": "Singaraja",
+      "population": 133784,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Singaraja",
+          "lang": "de"
+        },
+        {
+          "name": "Singaraja",
+          "lang": "en"
+        },
+        {
+          "name": "Singaraja",
+          "lang": "id"
+        },
+        {
+          "name": "シガラジャ",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Singaraja",
+          "lang": "link"
+        },
+        {
+          "name": "Singaraja",
+          "lang": "no"
+        },
+        {
+          "name": "Сингараджа",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Singaraja",
+      "fclName": "city, village,...",
+      "countryName": "Indonesia",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Bali"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Makassar",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 114.64055954095736,
+        "south": -8.38031018487435,
+        "north": -8.33357781512565,
+        "west": 114.59332845904265
+      },
+      "asciiName": "Negara",
+      "countryId": "1643084",
+      "fcl": "P",
+      "score": 27.28846549987793,
+      "countryCode": "ID",
+      "adminId1": "1650535",
+      "lat": "-8.35694",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "114.61694",
+      "geonameId": 1634266,
+      "toponymName": "Negara",
+      "population": 33191,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Negara%2C_Bali",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Negara",
+      "fclName": "city, village,...",
+      "countryName": "Indonesia",
+      "fcodeName": "populated place",
+      "adminName1": "Bali"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 5.5,
+        "timeZoneId": "Asia/Kolkata",
+        "dstOffset": 5.5
+      },
+      "bbox": {
+        "east": 88.41776807073435,
+        "south": 22.577916857448496,
+        "north": 22.7192631425515,
+        "west": 88.26453192926564
+      },
+      "asciiName": "Bali",
+      "countryId": "1269750",
+      "fcl": "P",
+      "score": 26.906787872314453,
+      "adminId2": "1270397",
+      "countryCode": "IN",
+      "adminId1": "1252881",
+      "lat": "22.64859",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode2": "341",
+      "adminCode1": "28",
+      "lng": "88.34115",
+      "geonameId": 1277539,
+      "toponymName": "Bāli",
+      "population": 296973,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Bally%2C_Howrah",
+          "lang": "link"
+        },
+        {
+          "name": "Бали",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "Hāora",
+      "name": "Bāli",
+      "fclName": "city, village,...",
+      "countryName": "India",
+      "fcodeName": "populated place",
+      "adminName1": "West Bengal"
+    },
+    {
+      "lng": "115.5",
+      "geonameId": 1818207,
+      "timezone": {
+        "gmtOffset": 7,
+        "timeZoneId": "Asia/Pontianak",
+        "dstOffset": 7
+      },
+      "bbox": {
+        "east": 117.18313598632812,
+        "south": -9.001111030578613,
+        "north": -7.015638828277588,
+        "west": 114.34046936035156
+      },
+      "toponymName": "Bali Sea",
+      "asciiName": "Bali Sea",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 24.910846710205078,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Laut Bali",
+          "lang": "id"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bali_Sea",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bali Sea",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "sea",
+      "adminName1": "",
+      "lat": "-7.75",
+      "fcode": "SEA"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Africa",
+               "short_name" : "West Africa",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "West Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.000012,
+                  "lng" : 15.999034
+               },
+               "southwest" : {
+                  "lat" : 4.1821,
+                  "lng" : -17.688
+               }
+            },
+            "location" : {
+               "lat" : 13.531665,
+               "lng" : -2.4604145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0000953,
+                  "lng" : 15.999034
+               },
+               "southwest" : {
+                  "lat" : 4.1821,
+                  "lng" : -17.688
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

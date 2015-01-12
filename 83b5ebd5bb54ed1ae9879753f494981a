@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Transjurane",
+               "short_name" : "A16",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A16, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4936285,
+                  "lng" : 7.393351899999999
+               },
+               "southwest" : {
+                  "lat" : 47.1571698,
+                  "lng" : 6.985431200000001
+               }
+            },
+            "location" : {
+               "lat" : 47.3431824,
+               "lng" : 7.2083111
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4936285,
+                  "lng" : 7.393351899999999
+               },
+               "southwest" : {
+                  "lat" : 47.1571698,
+                  "lng" : 6.985431200000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

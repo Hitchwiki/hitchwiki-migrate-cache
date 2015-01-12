@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hami(Kumul)",
+               "short_name" : "Hami(Kumul)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xinjiang",
+               "short_name" : "Xinjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kumul, Xinjiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.096884,
+                  "lng" : 96.38619419999999
+               },
+               "southwest" : {
+                  "lat" : 40.8725129,
+                  "lng" : 91.1535258
+               }
+            },
+            "location" : {
+               "lat" : 42.81842,
+               "lng" : 93.515151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.096884,
+                  "lng" : 96.38619419999999
+               },
+               "southwest" : {
+                  "lat" : 40.8725129,
+                  "lng" : 91.1535258
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

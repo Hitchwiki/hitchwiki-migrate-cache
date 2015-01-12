@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso Province",
+               "short_name" : "Valparaíso Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valparaíso, Valparaíso, Valparaíso Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.0178165,
+                  "lng" : -71.38561109999999
+               },
+               "southwest" : {
+                  "lat" : -33.2149745,
+                  "lng" : -71.74445249999999
+               }
+            },
+            "location" : {
+               "lat" : -33.045646,
+               "lng" : -71.620361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0178165,
+                  "lng" : -71.38561109999999
+               },
+               "southwest" : {
+                  "lat" : -33.2149745,
+                  "lng" : -71.74445249999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Porter County",
+               "short_name" : "Porter County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valparaiso, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.51203599999999,
+                  "lng" : -86.9974599
+               },
+               "southwest" : {
+                  "lat" : 41.4388139,
+                  "lng" : -87.109371
+               }
+            },
+            "location" : {
+               "lat" : 41.4730948,
+               "lng" : -87.06114119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.51203599999999,
+                  "lng" : -86.9974599
+               },
+               "southwest" : {
+                  "lat" : 41.4388139,
+                  "lng" : -87.109371
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A995",
+               "short_name" : "A995",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A995, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0956451,
+                  "lng" : 11.6543218
+               },
+               "southwest" : {
+                  "lat" : 48.0261394,
+                  "lng" : 11.5876162
+               }
+            },
+            "location" : {
+               "lat" : 48.0634263,
+               "lng" : 11.5958534
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0956451,
+                  "lng" : 11.6543218
+               },
+               "southwest" : {
+                  "lat" : 48.0261394,
+                  "lng" : 11.5876162
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

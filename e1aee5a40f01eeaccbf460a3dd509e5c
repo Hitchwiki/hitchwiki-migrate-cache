@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-11",
+               "short_name" : "A-11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castilla y León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-11, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6198746,
+                  "lng" : -3.0354919
+               },
+               "southwest" : {
+                  "lat" : 41.5037973,
+                  "lng" : -5.802444299999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5870692,
+               "lng" : -4.5505542
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6198746,
+                  "lng" : -3.0354919
+               },
+               "southwest" : {
+                  "lat" : 41.5037973,
+                  "lng" : -5.802444299999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

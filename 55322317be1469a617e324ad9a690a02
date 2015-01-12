@@ -1,0 +1,169 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode2": "860",
+      "alternateNames": [
+        {
+          "name": "Hirtshals",
+          "lang": "da"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "de"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "en"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "fi"
+        },
+        {
+          "name": "XAJ",
+          "lang": "iata"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Hirtshals",
+          "lang": "link"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "no"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "pl"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "pt"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "ro"
+        },
+        {
+          "name": "Хиртсхальс",
+          "lang": "ru"
+        },
+        {
+          "name": "Hirtshals",
+          "lang": "sv"
+        },
+        {
+          "name": "HIR",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Denmark",
+      "adminCode1": "19",
+      "score": 60.84067153930664,
+      "lng": "9.95922",
+      "adminName2": "Hjørring Kommune",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 57.5780621278606,
+        "east": 9.977989295956966,
+        "north": 57.598172537835275,
+        "west": 9.940459629061344
+      },
+      "name": "Hirtshals",
+      "fcode": "PPL",
+      "geonameId": 2620279,
+      "asciiName": "Hirtshals",
+      "lat": "57.58812",
+      "population": 6653,
+      "adminName1": "North Denmark",
+      "adminId1": "6418540",
+      "countryId": "2623032",
+      "fclName": "city, village,...",
+      "countryCode": "DK",
+      "adminId2": "2620209",
+      "toponymName": "Hirtshals",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "860",
+      "alternateNames": [{
+        "name": "Hirtshals Ferry Port",
+        "lang": "en"
+      }],
+      "countryName": "Denmark",
+      "adminCode1": "19",
+      "score": 19.23950958251953,
+      "lng": "9.97842",
+      "adminName2": "Hjørring Kommune",
+      "fcodeName": "port",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hirtshals Ferry Port",
+      "fcode": "PRT",
+      "geonameId": 9828916,
+      "asciiName": "Hirtshals Port",
+      "lat": "57.59006",
+      "population": 0,
+      "adminName1": "North Denmark",
+      "countryId": "2623032",
+      "adminId1": "6418540",
+      "fclName": "parks,area, ...",
+      "countryCode": "DK",
+      "adminId2": "2620209",
+      "toponymName": "Hirtshals Port",
+      "fcl": "L",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "860",
+      "countryName": "Denmark",
+      "adminCode1": "19",
+      "score": 2.4545302391052246,
+      "lng": "9.9782",
+      "adminName2": "Hjørring Kommune",
+      "fcodeName": "hotel",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Skaga Hotel",
+      "fcode": "HTL",
+      "geonameId": 6533002,
+      "asciiName": "SKAGA HOTEL",
+      "lat": "57.5867",
+      "population": 0,
+      "adminName1": "North Denmark",
+      "countryId": "2623032",
+      "adminId1": "6418540",
+      "fclName": "spot, building, farm",
+      "countryCode": "DK",
+      "adminId2": "2620209",
+      "toponymName": "Skaga Hotel",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

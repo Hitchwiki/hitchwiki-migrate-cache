@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A602",
+               "short_name" : "A602",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A602, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8128975,
+                  "lng" : 6.7606778
+               },
+               "southwest" : {
+                  "lat" : 49.7732864,
+                  "lng" : 6.6698441
+               }
+            },
+            "location" : {
+               "lat" : 49.79241380000001,
+               "lng" : 6.705450799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8128975,
+                  "lng" : 6.7606778
+               },
+               "southwest" : {
+                  "lat" : 49.7732864,
+                  "lng" : 6.6698441
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

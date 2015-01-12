@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suriname",
+               "short_name" : "SR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suriname",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.0092832,
+                  "lng" : -53.9510243
+               },
+               "southwest" : {
+                  "lat" : 1.837306,
+                  "lng" : -58.07050599999999
+               }
+            },
+            "location" : {
+               "lat" : 3.919305,
+               "lng" : -56.027783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.0092832,
+                  "lng" : -53.978763
+               },
+               "southwest" : {
+                  "lat" : 1.837306,
+                  "lng" : -58.07050599999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A51",
+               "short_name" : "A51",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bülach",
+               "short_name" : "Bülach",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zürich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A51, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5329253,
+                  "lng" : 8.579101999999999
+               },
+               "southwest" : {
+                  "lat" : 47.4261575,
+                  "lng" : 8.525127299999999
+               }
+            },
+            "location" : {
+               "lat" : 47.4812236,
+               "lng" : 8.549328299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5329253,
+                  "lng" : 8.579101999999999
+               },
+               "southwest" : {
+                  "lat" : 47.4261575,
+                  "lng" : 8.525127299999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

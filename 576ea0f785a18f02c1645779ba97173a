@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A37",
+               "short_name" : "A37",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A37, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.445564,
+                  "lng" : 9.9381971
+               },
+               "southwest" : {
+                  "lat" : 52.2984523,
+                  "lng" : 9.820149799999999
+               }
+            },
+            "location" : {
+               "lat" : 52.4112271,
+               "lng" : 9.8447043
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.445564,
+                  "lng" : 9.9381971
+               },
+               "southwest" : {
+                  "lat" : 52.2984523,
+                  "lng" : 9.820149799999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

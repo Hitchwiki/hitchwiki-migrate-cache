@@ -1,0 +1,468 @@
+{
+  "totalResultsCount": 63,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton",
+        "dstOffset": -6
+      },
+      "bbox": {
+        "east": -115.55224649970597,
+        "south": 51.16520720340729,
+        "north": 51.18723705377411,
+        "west": -115.58739430840004
+      },
+      "asciiName": "Banff",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 46.64287185668945,
+      "countryCode": "CA",
+      "adminId1": "5883102",
+      "lat": "51.17622",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-115.56982",
+      "geonameId": 5892532,
+      "toponymName": "Banff",
+      "population": 7502,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Banff",
+          "lang": "de"
+        },
+        {
+          "name": "Banff",
+          "lang": "en"
+        },
+        {
+          "name": "Banff",
+          "lang": "eo"
+        },
+        {
+          "name": "Banff",
+          "lang": "es"
+        },
+        {
+          "name": "بنف",
+          "lang": "fa"
+        },
+        {
+          "name": "Banff",
+          "lang": "fi"
+        },
+        {
+          "name": "Banff",
+          "lang": "fr"
+        },
+        {
+          "name": "YBA",
+          "lang": "iata"
+        },
+        {
+          "name": "バンフ",
+          "lang": "ja"
+        },
+        {
+          "name": "ბანფი",
+          "lang": "ka"
+        },
+        {
+          "name": "밴프",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Banff%2C_Alberta",
+          "lang": "link"
+        },
+        {
+          "name": "Banff",
+          "lang": "lt"
+        },
+        {
+          "name": "Banff",
+          "lang": "pt"
+        },
+        {
+          "name": "Банф",
+          "lang": "ru"
+        },
+        {
+          "name": "Банф",
+          "lang": "sr"
+        },
+        {
+          "name": "Банфф",
+          "lang": "uk"
+        },
+        {
+          "name": "BAF",
+          "lang": "unlc"
+        },
+        {
+          "name": "班夫",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Banff",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Alberta"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton",
+        "dstOffset": -6
+      },
+      "asciiName": "Banff Airport",
+      "countryId": "6251999",
+      "fcl": "S",
+      "score": 31.687593460083008,
+      "countryCode": "CA",
+      "adminId1": "5883102",
+      "lat": "51.20753",
+      "fcode": "AIRP",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-115.54124",
+      "geonameId": 8260779,
+      "toponymName": "Banff Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Banff Airport",
+          "lang": "en"
+        },
+        {
+          "name": "YBA",
+          "lang": "iata"
+        },
+        {
+          "name": "CYBA",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Banff_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Banff Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "airport",
+      "adminName1": "Alberta"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -2.5150717248846517,
+        "south": 57.6569861998573,
+        "north": 57.672563656440204,
+        "west": -2.544201697317056
+      },
+      "asciiName": "Banff",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 25.87281036376953,
+      "adminId2": "2657830",
+      "countryCode": "GB",
+      "adminId1": "2638360",
+      "lat": "57.66477",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "T6",
+      "adminCode1": "SCT",
+      "lng": "-2.52964",
+      "geonameId": 2656402,
+      "toponymName": "Banff",
+      "population": 3914,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Banff_and_Macduff",
+          "lang": "link"
+        },
+        {
+          "name": "BFF",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Aberdeenshire",
+      "name": "Banff",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "Scotland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Banffshire",
+      "countryId": "2635167",
+      "fcl": "A",
+      "score": 19.804746627807617,
+      "cc2": "GB",
+      "adminId2": "2642240",
+      "adminId3": "2656399",
+      "countryCode": "GB",
+      "adminId1": "2638360",
+      "lat": "57.5",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "V6",
+      "adminCode3": "2656399",
+      "adminCode1": "SCT",
+      "lng": "-3.08333",
+      "geonameId": 2656399,
+      "toponymName": "Banffshire",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Banffshire",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Banffshire",
+        "lang": "link"
+      }],
+      "adminName2": "Moray",
+      "name": "Banffshire",
+      "fclName": "country, state, region,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Scotland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton",
+        "dstOffset": -6
+      },
+      "asciiName": "Banff Trail",
+      "countryId": "6251999",
+      "fcl": "L",
+      "score": 19.40460777282715,
+      "countryCode": "CA",
+      "adminId1": "5883102",
+      "lat": "51.0743",
+      "fcode": "AREA",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-114.11242",
+      "geonameId": 5892535,
+      "toponymName": "Banff Trail",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Banff_Trail_%28C-Train%29",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Banff Trail",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "area",
+      "adminName1": "Alberta"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton",
+        "dstOffset": -6
+      },
+      "asciiName": "Banff Park Museum National Historic Site of Canada",
+      "countryId": "6251999",
+      "fcl": "L",
+      "score": 15.843796730041504,
+      "countryCode": "CA",
+      "adminId1": "5883102",
+      "lat": "51.17334",
+      "fcode": "RES",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-115.57429",
+      "geonameId": 5892534,
+      "toponymName": "Banff Park Museum National Historic Site of Canada",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Lieu historique national du Canada du Musée-du-Parc-Banff",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Banff_Park_Museum",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Banff Park Museum National Historic Site of Canada",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "reserve",
+      "adminName1": "Alberta"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Banff Bay",
+      "countryId": "2635167",
+      "fcl": "H",
+      "score": 14.463340759277344,
+      "adminId2": "2657830",
+      "countryCode": "GB",
+      "adminId1": "2638360",
+      "lat": "57.66667",
+      "fcode": "BAY",
+      "continentCode": "EU",
+      "adminCode2": "T6",
+      "adminCode1": "SCT",
+      "lng": "-2.51667",
+      "geonameId": 2656401,
+      "toponymName": "Banff Bay",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Banff_Bay",
+        "lang": "link"
+      }],
+      "adminName2": "Aberdeenshire",
+      "name": "Banff Bay",
+      "fclName": "stream, lake, ...",
+      "countryName": "United Kingdom",
+      "fcodeName": "bay",
+      "adminName1": "Scotland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton",
+        "dstOffset": -6
+      },
+      "asciiName": "Banff Railway Station",
+      "countryId": "6251999",
+      "fcl": "S",
+      "score": 14.463340759277344,
+      "countryCode": "CA",
+      "adminId1": "5883102",
+      "lat": "51.18193",
+      "fcode": "RSTN",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-115.57604",
+      "geonameId": 8521566,
+      "toponymName": "Banff Railway Station",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Banff Railway Station",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Banff_railway_station",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Banff Railway Station",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "railroad station",
+      "adminName1": "Alberta"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton",
+        "dstOffset": -6
+      },
+      "asciiName": "Banff Training Area",
+      "countryId": "6251999",
+      "fcl": "L",
+      "score": 10.847505569458008,
+      "countryCode": "CA",
+      "adminId1": "5883102",
+      "lat": "51.21315",
+      "fcode": "MILB",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-115.53649",
+      "geonameId": 5892536,
+      "toponymName": "Banff Training Area",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Champ de manoeuvre Banff",
+        "lang": "fr"
+      }],
+      "adminName2": "",
+      "name": "Banff Training Area",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "military base",
+      "adminName1": "Alberta"
+    },
+    {
+      "adminCode1": "01",
+      "lng": "-116.0522",
+      "geonameId": 5892533,
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Edmonton",
+        "dstOffset": -6
+      },
+      "toponymName": "Banff National Park of Canada",
+      "asciiName": "Banff National Park of Canada",
+      "countryId": "6251999",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 9.702303886413574,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Banff National Park of Canada",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "reserve",
+      "adminId1": "5883102",
+      "adminName1": "Alberta",
+      "lat": "51.6",
+      "fcode": "RES",
+      "continentCode": "NA"
+    }
+  ]
+}

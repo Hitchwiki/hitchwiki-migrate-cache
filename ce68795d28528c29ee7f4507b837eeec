@@ -1,0 +1,75 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Walachia",
+          "lang": "en"
+        },
+        {
+          "name": "Valaquia",
+          "lang": "es"
+        }
+      ],
+      "countryName": "Romania",
+      "adminCode1": "00",
+      "cc2": "RO",
+      "score": 19.9958438873291,
+      "lng": "25",
+      "adminName2": "",
+      "fcodeName": "region",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Walachia",
+      "fcode": "RGN",
+      "geonameId": 662112,
+      "asciiName": "Walachia",
+      "lat": "44",
+      "population": 0,
+      "adminName1": "",
+      "countryId": "798549",
+      "fclName": "parks,area, ...",
+      "countryCode": "RO",
+      "toponymName": "Walachia",
+      "fcl": "L",
+      "continentCode": "EU"
+    },
+    {
+      "countryId": "798549",
+      "adminCode1": "00",
+      "countryName": "Romania",
+      "cc2": "RO",
+      "fclName": "parks,area, ...",
+      "score": 19.9958438873291,
+      "countryCode": "RO",
+      "lng": "26",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "region",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest"
+      },
+      "toponymName": "Muntenia",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "EU",
+      "name": "Muntenia",
+      "fcode": "RGN",
+      "asciiName": "Muntenia",
+      "geonameId": 672655,
+      "lat": "44",
+      "adminName1": "",
+      "population": 0
+    }
+  ]
+}

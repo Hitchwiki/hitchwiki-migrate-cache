@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiasso",
+               "short_name" : "Chiasso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mendrisio",
+               "short_name" : "Mendrisio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ticino",
+               "short_name" : "TI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiasso, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.83997,
+                  "lng" : 9.0377501
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 8.9929799
+               }
+            },
+            "location" : {
+               "lat" : 45.8349334,
+               "lng" : 9.0270226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.83997,
+                  "lng" : 9.0377501
+               },
+               "southwest" : {
+                  "lat" : 45.81792,
+                  "lng" : 8.9929799
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

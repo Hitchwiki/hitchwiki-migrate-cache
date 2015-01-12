@@ -1,0 +1,119 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Salta",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -67.94482556434063,
+        "south": -38.96932603054241,
+        "north": -38.898509969457585,
+        "west": -68.03581843565938
+      },
+      "asciiName": "Cipolletti",
+      "countryId": "3865483",
+      "fcl": "P",
+      "score": 52.904029846191406,
+      "countryCode": "AR",
+      "adminId1": "3838830",
+      "lat": "-38.93392",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode1": "16",
+      "lng": "-67.99032",
+      "geonameId": 3861056,
+      "toponymName": "Cipolletti",
+      "population": 75078,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Cipolletti",
+          "lang": "en"
+        },
+        {
+          "name": "سیپویتی",
+          "lang": "fa"
+        },
+        {
+          "name": "CPZ",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Cipolletti",
+          "lang": "link"
+        },
+        {
+          "name": "Čipoletis",
+          "lang": "lt"
+        },
+        {
+          "name": "Чиполлетти",
+          "lang": "ru"
+        },
+        {
+          "name": "Чіполлетті",
+          "lang": "uk"
+        },
+        {
+          "name": "CPA",
+          "lang": "unlc"
+        },
+        {
+          "name": "西波列蒂",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Cipolletti",
+      "fclName": "city, village,...",
+      "countryName": "Argentina",
+      "fcodeName": "populated place",
+      "adminName1": "Rio Negro"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Salta",
+        "dstOffset": -3
+      },
+      "asciiName": "Cipolletti Bus Station",
+      "countryId": "3865483",
+      "fcl": "S",
+      "score": 8.942413330078125,
+      "countryCode": "AR",
+      "adminId1": "3838830",
+      "lat": "-38.94247",
+      "fcode": "BUSTN",
+      "continentCode": "SA",
+      "adminCode1": "16",
+      "lng": "-68.0079",
+      "geonameId": 8617185,
+      "toponymName": "Cipolletti Bus Station",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Cipolletti Bus Station",
+          "lang": "en"
+        },
+        {
+          "name": "CPZ",
+          "lang": "iata"
+        }
+      ],
+      "adminName2": "",
+      "name": "Cipolletti Bus Station",
+      "fclName": "spot, building, farm",
+      "countryName": "Argentina",
+      "fcodeName": "bus station",
+      "adminName1": "Rio Negro"
+    }
+  ]
+}

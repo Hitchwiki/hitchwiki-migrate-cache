@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schengen",
+               "short_name" : "Schengen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Remich",
+               "short_name" : "Remich",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grevenmacher",
+               "short_name" : "Grevenmacher",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Schengen, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5387,
+                  "lng" : 6.36917
+               },
+               "southwest" : {
+                  "lat" : 49.4594601,
+                  "lng" : 6.2844801
+               }
+            },
+            "location" : {
+               "lat" : 49.4709461,
+               "lng" : 6.365046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5387,
+                  "lng" : 6.36917
+               },
+               "southwest" : {
+                  "lat" : 49.4594601,
+                  "lng" : 6.2844801
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

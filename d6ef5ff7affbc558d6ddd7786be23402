@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ashgabat",
+               "short_name" : "Ashgabat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ashgabat",
+               "short_name" : "Ashgabat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkmenistan",
+               "short_name" : "TM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ashgabat, Turkmenistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1080875,
+                  "lng" : 58.4944724
+               },
+               "southwest" : {
+                  "lat" : 37.8183276,
+                  "lng" : 58.00609579999999
+               }
+            },
+            "location" : {
+               "lat" : 37.933333,
+               "lng" : 58.366667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1080875,
+                  "lng" : 58.4944724
+               },
+               "southwest" : {
+                  "lat" : 37.8183276,
+                  "lng" : 58.00609579999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

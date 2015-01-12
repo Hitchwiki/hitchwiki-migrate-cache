@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antigua and Barbuda",
+               "short_name" : "AG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antigua and Barbuda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.7293873,
+                  "lng" : -61.6571617
+               },
+               "southwest" : {
+                  "lat" : 16.9325319,
+                  "lng" : -62.347657
+               }
+            },
+            "location" : {
+               "lat" : 17.060816,
+               "lng" : -61.796428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.1764956,
+                  "lng" : -61.6571617
+               },
+               "southwest" : {
+                  "lat" : 16.9973826,
+                  "lng" : -61.90982039999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

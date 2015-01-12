@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Be'er Sheva",
+               "short_name" : "ב\"ש",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Be'er Sheva",
+               "short_name" : "Be'er Sheva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South District",
+               "short_name" : "South District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Be'er Sheva, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3110787,
+                  "lng" : 34.8438839
+               },
+               "southwest" : {
+                  "lat" : 31.2118039,
+                  "lng" : 34.7378901
+               }
+            },
+            "location" : {
+               "lat" : 31.252973,
+               "lng" : 34.791462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3110787,
+                  "lng" : 34.8438839
+               },
+               "southwest" : {
+                  "lat" : 31.2118039,
+                  "lng" : 34.7378901
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

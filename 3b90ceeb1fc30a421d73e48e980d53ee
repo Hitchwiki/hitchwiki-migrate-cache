@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milhosť",
+               "short_name" : "Milhosť",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Košice-okolie District",
+               "short_name" : "Košice-okolie District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Košice Region",
+               "short_name" : "Košice Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milhosť, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5452798,
+                  "lng" : 21.3114741
+               },
+               "southwest" : {
+                  "lat" : 48.5216384,
+                  "lng" : 21.2379673
+               }
+            },
+            "location" : {
+               "lat" : 48.5394356,
+               "lng" : 21.2679447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5452798,
+                  "lng" : 21.3114741
+               },
+               "southwest" : {
+                  "lat" : 48.5216384,
+                  "lng" : 21.2379673
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

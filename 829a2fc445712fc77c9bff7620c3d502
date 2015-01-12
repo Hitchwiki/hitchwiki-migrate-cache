@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Coast",
+               "short_name" : "West Coast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Coast, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.16730769999999,
+                  "lng" : 172.4800189
+               },
+               "southwest" : {
+                  "lat" : -44.7743752,
+                  "lng" : 168.0529071
+               }
+            },
+            "location" : {
+               "lat" : -42.4064185,
+               "lng" : 171.6911559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.16730769999999,
+                  "lng" : 172.4800189
+               },
+               "southwest" : {
+                  "lat" : -44.7743752,
+                  "lng" : 168.0529071
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

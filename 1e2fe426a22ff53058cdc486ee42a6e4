@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dalby",
+               "short_name" : "Dalby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4405",
+               "short_name" : "4405",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dalby QLD 4405, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.0301634,
+                  "lng" : 151.3852144
+               },
+               "southwest" : {
+                  "lat" : -27.251515,
+                  "lng" : 151.1414835
+               }
+            },
+            "location" : {
+               "lat" : -27.1832863,
+               "lng" : 151.2637479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.0301634,
+                  "lng" : 151.3852144
+               },
+               "southwest" : {
+                  "lat" : -27.251515,
+                  "lng" : 151.1414835
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

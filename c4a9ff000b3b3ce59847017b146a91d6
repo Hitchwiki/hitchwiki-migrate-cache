@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sierra Leone",
+               "short_name" : "SL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sierra Leone",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.999972399999999,
+                  "lng" : -10.271651
+               },
+               "southwest" : {
+                  "lat" : 6.8990253,
+                  "lng" : -13.3020067
+               }
+            },
+            "location" : {
+               "lat" : 8.460554999999999,
+               "lng" : -11.779889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.999972399999999,
+                  "lng" : -10.271651
+               },
+               "southwest" : {
+                  "lat" : 6.8990253,
+                  "lng" : -13.3020067
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

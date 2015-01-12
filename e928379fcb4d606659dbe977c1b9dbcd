@@ -1,0 +1,38 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laxey",
+               "short_name" : "Laxey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Man",
+               "short_name" : "IM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laxey, Isle of Man",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.228437,
+               "lng" : -4.40471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2349589,
+                  "lng" : -4.3887026
+               },
+               "southwest" : {
+                  "lat" : 54.221914,
+                  "lng" : -4.4207174
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

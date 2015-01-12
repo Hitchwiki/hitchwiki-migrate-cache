@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Şırnak",
+               "short_name" : "Şırnak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Şırnak",
+               "short_name" : "Şırnak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Şırnak Province",
+               "short_name" : "Şırnak Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Şırnak/Şırnak, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.53534,
+                  "lng" : 42.4721549
+               },
+               "southwest" : {
+                  "lat" : 37.50877699999999,
+                  "lng" : 42.440616
+               }
+            },
+            "location" : {
+               "lat" : 37.516389,
+               "lng" : 42.461111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.53534,
+                  "lng" : 42.4721549
+               },
+               "southwest" : {
+                  "lat" : 37.50877699999999,
+                  "lng" : 42.440616
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

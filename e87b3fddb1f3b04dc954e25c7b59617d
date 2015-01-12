@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A25",
+               "short_name" : "A25",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bergedorf",
+               "short_name" : "Bergedorf",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A25, Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5055499,
+                  "lng" : 10.3301912
+               },
+               "southwest" : {
+                  "lat" : 53.4566098,
+                  "lng" : 10.0810872
+               }
+            },
+            "location" : {
+               "lat" : 53.4758465,
+               "lng" : 10.2081279
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5055499,
+                  "lng" : 10.3301912
+               },
+               "southwest" : {
+                  "lat" : 53.4566098,
+                  "lng" : 10.0810872
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

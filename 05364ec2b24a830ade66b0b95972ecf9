@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gallipoli",
+               "short_name" : "Gallipoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gallipoli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.425548,
+                  "lng" : 26.6999371
+               },
+               "southwest" : {
+                  "lat" : 40.403571,
+                  "lng" : 26.6445202
+               }
+            },
+            "location" : {
+               "lat" : 40.417447,
+               "lng" : 26.677435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.425548,
+                  "lng" : 26.6999371
+               },
+               "southwest" : {
+                  "lat" : 40.403571,
+                  "lng" : 26.6445202
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

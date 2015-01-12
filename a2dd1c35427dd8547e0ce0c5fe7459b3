@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A8",
+               "short_name" : "A8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wels",
+               "short_name" : "Wels",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wels",
+               "short_name" : "Wels",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oberösterreich",
+               "short_name" : "Oberösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A8, Wels, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.409653,
+                  "lng" : 14.0384659
+               },
+               "southwest" : {
+                  "lat" : 48.06254879999999,
+                  "lng" : 13.4047968
+               }
+            },
+            "location" : {
+               "lat" : 48.1873102,
+               "lng" : 13.6825124
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.409653,
+                  "lng" : 14.0384659
+               },
+               "southwest" : {
+                  "lat" : 48.06254879999999,
+                  "lng" : 13.4047968
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

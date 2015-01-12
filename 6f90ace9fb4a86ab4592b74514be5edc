@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deventer",
+               "short_name" : "Deventer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deventer",
+               "short_name" : "Deventer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Deventer, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2801974,
+                  "lng" : 6.2758651
+               },
+               "southwest" : {
+                  "lat" : 52.21765079999999,
+                  "lng" : 6.1210515
+               }
+            },
+            "location" : {
+               "lat" : 52.2660751,
+               "lng" : 6.1552165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2801974,
+                  "lng" : 6.2758651
+               },
+               "southwest" : {
+                  "lat" : 52.21765079999999,
+                  "lng" : 6.1210515
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

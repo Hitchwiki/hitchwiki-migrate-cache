@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A10",
+               "short_name" : "A10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A10, Amsterdam, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4251343,
+                  "lng" : 4.974279
+               },
+               "southwest" : {
+                  "lat" : 52.3283286,
+                  "lng" : 4.8408494
+               }
+            },
+            "location" : {
+               "lat" : 52.4083105,
+               "lng" : 4.935539299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4251343,
+                  "lng" : 4.974279
+               },
+               "southwest" : {
+                  "lat" : 52.3283286,
+                  "lng" : 4.8408494
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

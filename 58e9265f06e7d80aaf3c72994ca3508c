@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phillip Island",
+               "short_name" : "Phillip Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phillip Island, Victoria, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.4470679,
+                  "lng" : 145.3641888
+               },
+               "southwest" : {
+                  "lat" : -38.5672296,
+                  "lng" : 145.116163
+               }
+            },
+            "location" : {
+               "lat" : -38.4898703,
+               "lng" : 145.2038278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.4470679,
+                  "lng" : 145.3641888
+               },
+               "southwest" : {
+                  "lat" : -38.5672296,
+                  "lng" : 145.116163
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

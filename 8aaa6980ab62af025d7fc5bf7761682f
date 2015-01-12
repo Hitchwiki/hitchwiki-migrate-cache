@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A117",
+               "short_name" : "A117",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A117, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4019864,
+                  "lng" : 13.5651524
+               },
+               "southwest" : {
+                  "lat" : 52.3612668,
+                  "lng" : 13.5472492
+               }
+            },
+            "location" : {
+               "lat" : 52.3812675,
+               "lng" : 13.5626763
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4019864,
+                  "lng" : 13.5651524
+               },
+               "southwest" : {
+                  "lat" : 52.3612668,
+                  "lng" : 13.5472492
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

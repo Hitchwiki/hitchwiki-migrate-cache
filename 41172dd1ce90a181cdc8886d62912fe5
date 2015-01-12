@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pavlikeni",
+               "short_name" : "Pavlikeni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pavlikeni",
+               "short_name" : "Pavlikeni",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tarnovo Province",
+               "short_name" : "Tarnovo Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pavlikeni, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2555231,
+                  "lng" : 25.3243998
+               },
+               "southwest" : {
+                  "lat" : 43.2255248,
+                  "lng" : 25.2890146
+               }
+            },
+            "location" : {
+               "lat" : 43.2387332,
+               "lng" : 25.3065925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2555231,
+                  "lng" : 25.3243998
+               },
+               "southwest" : {
+                  "lat" : 43.2255248,
+                  "lng" : 25.2890146
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

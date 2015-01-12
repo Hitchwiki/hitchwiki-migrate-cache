@@ -1,0 +1,380 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "bbox": {
+        "east": 153.638727008,
+        "south": -28.675540985,
+        "north": -28.614709507,
+        "west": 153.56696112
+      },
+      "asciiName": "Byron Bay",
+      "countryId": "2077456",
+      "fcl": "P",
+      "score": 28.2884521484375,
+      "adminId2": "2172879",
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-28.64201",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "11350",
+      "adminCode1": "02",
+      "lng": "153.61194",
+      "geonameId": 2172880,
+      "toponymName": "Byron Bay",
+      "population": 6764,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "QYN",
+          "lang": "iata"
+        },
+        {
+          "name": "바이런베이",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Byron_Bay%2C_New_South_Wales",
+          "lang": "link"
+        },
+        {
+          "name": "Байрон-Бей",
+          "lang": "ru"
+        },
+        {
+          "name": "Байрон Бэй",
+          "lang": "sah"
+        },
+        {
+          "name": "Байрон-Бей",
+          "lang": "uk"
+        },
+        {
+          "name": "BAY",
+          "lang": "unlc"
+        },
+        {
+          "name": "拜倫灣",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Byron Shire",
+      "name": "Byron Bay",
+      "fclName": "city, village,...",
+      "countryName": "Australia",
+      "fcodeName": "populated place",
+      "adminName1": "New South Wales"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Cambridge_Bay",
+        "dstOffset": -6
+      },
+      "asciiName": "Byron Bay Airport",
+      "countryId": "6251999",
+      "fcl": "S",
+      "score": 18.60239028930664,
+      "countryCode": "CA",
+      "adminId1": "6091732",
+      "lat": "68.75623",
+      "fcode": "AIRP",
+      "continentCode": "NA",
+      "elevation": 92,
+      "adminCode1": "14",
+      "lng": "-109.08875",
+      "geonameId": 6296295,
+      "toponymName": "Byron Bay Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "YUK",
+          "lang": "iata"
+        },
+        {
+          "name": "CYUK",
+          "lang": "icao"
+        }
+      ],
+      "adminName2": "",
+      "name": "Byron Bay Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "airport",
+      "adminName1": "Nunavut"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "166.52292",
+      "geonameId": 2178835,
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Pacific/Guadalcanal",
+        "dstOffset": 11
+      },
+      "toponymName": "Byron Bay",
+      "asciiName": "Byron Bay",
+      "countryId": "2103350",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 14.368341445922852,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "SB",
+      "name": "Byron Bay",
+      "fclName": "stream, lake, ...",
+      "countryName": "Solomon Islands",
+      "fcodeName": "bay",
+      "adminName1": "",
+      "lat": "-11.26693",
+      "fcode": "BAY",
+      "continentCode": "OC"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "asciiName": "Byron Bay High School",
+      "countryId": "2077456",
+      "fcl": "S",
+      "score": 13.914974212646484,
+      "adminId2": "2172879",
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-28.6652",
+      "fcode": "SCH",
+      "continentCode": "OC",
+      "adminCode2": "11350",
+      "adminCode1": "02",
+      "lng": "153.6012",
+      "geonameId": 8172804,
+      "toponymName": "Byron Bay High School",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Byron Bay High School",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Byron_Bay_High_School",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Byron Shire",
+      "name": "Byron Bay High School",
+      "fclName": "spot, building, farm",
+      "countryName": "Australia",
+      "fcodeName": "school",
+      "adminName1": "New South Wales"
+    },
+    {
+      "adminCode1": "03",
+      "lng": "151.11667",
+      "geonameId": 2133773,
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Pacific/Port_Moresby",
+        "dstOffset": 10
+      },
+      "toponymName": "Byron Island",
+      "asciiName": "Byron Island",
+      "countryId": "2088628",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 12.072651863098145,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PG",
+      "name": "Byron Island",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Papua New Guinea",
+      "fcodeName": "island",
+      "adminId1": "2132895",
+      "adminName1": "Milne Bay",
+      "lat": "-10.55",
+      "fcode": "ISL",
+      "continentCode": "OC"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "166.04276",
+      "geonameId": 2178836,
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Pacific/Guadalcanal",
+        "dstOffset": 11
+      },
+      "toponymName": "Byron Bay",
+      "asciiName": "Byron Bay",
+      "countryId": "2103350",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 5.667111873626709,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "SB",
+      "name": "Byron Bay",
+      "fclName": "stream, lake, ...",
+      "countryName": "Solomon Islands",
+      "fcodeName": "bay",
+      "adminName1": "",
+      "lat": "-10.6531",
+      "fcode": "BAY",
+      "continentCode": "OC"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "asciiName": "Byron Bay Public School",
+      "countryId": "2077456",
+      "fcl": "S",
+      "score": 3.9757070541381836,
+      "adminId2": "2172879",
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-28.6485",
+      "fcode": "SCH",
+      "continentCode": "OC",
+      "adminCode2": "11350",
+      "adminCode1": "02",
+      "lng": "153.61791",
+      "geonameId": 8172805,
+      "toponymName": "Byron Bay Public School",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Byron Bay Public School",
+        "lang": "en"
+      }],
+      "adminName2": "Byron Shire",
+      "name": "Byron Bay Public School",
+      "fclName": "spot, building, farm",
+      "countryName": "Australia",
+      "fcodeName": "school",
+      "adminName1": "New South Wales"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "asciiName": "Beachcomber Byron Bay",
+      "countryId": "2077456",
+      "fcl": "S",
+      "score": 3.9757070541381836,
+      "adminId2": "2172879",
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-28.6426",
+      "fcode": "HTL",
+      "continentCode": "OC",
+      "adminCode2": "11350",
+      "adminCode1": "02",
+      "lng": "153.6074",
+      "geonameId": 6500331,
+      "toponymName": "Beachcomber Byron Bay",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Byron Shire",
+      "name": "Beachcomber Byron Bay",
+      "fclName": "spot, building, farm",
+      "countryName": "Australia",
+      "fcodeName": "hotel",
+      "adminName1": "New South Wales"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "asciiName": "Byron Bay",
+      "countryId": "2077456",
+      "fcl": "H",
+      "score": 3.592085361480713,
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-28.6318",
+      "fcode": "BAY",
+      "continentCode": "OC",
+      "adminCode1": "02",
+      "lng": "153.61791",
+      "geonameId": 2172881,
+      "toponymName": "Byron Bay",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Byron Bay",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Byron Bay",
+      "fclName": "stream, lake, ...",
+      "countryName": "Australia",
+      "fcodeName": "bay",
+      "adminName1": "New South Wales"
+    },
+    {
+      "adminCode1": "14",
+      "lng": "-108.47523",
+      "geonameId": 5912901,
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Cambridge_Bay",
+        "dstOffset": -6
+      },
+      "toponymName": "Byron Bay",
+      "asciiName": "Byron Bay",
+      "countryId": "6251999",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 3.238349676132202,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Byron Bay",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "bay",
+      "adminId1": "6091732",
+      "adminName1": "Nunavut",
+      "lat": "68.93184",
+      "fcode": "BAY",
+      "continentCode": "NA"
+    }
+  ]
+}

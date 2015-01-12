@@ -1,0 +1,122 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schiphol Amsterdam Airport",
+               "short_name" : "AMS",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "202",
+               "short_name" : "202",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Evert van de Beekstraat",
+               "short_name" : "Evert van de Beekstraat",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schiphol",
+               "short_name" : "Schiphol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haarlemmermeer",
+               "short_name" : "Haarlemmermeer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1118 CP",
+               "short_name" : "1118 CP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Schiphol Amsterdam Airport, Evert van de Beekstraat 202, 1118 CP Schiphol, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3105386,
+               "lng" : 4.7682744
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3118875802915,
+                  "lng" : 4.769623380291502
+               },
+               "southwest" : {
+                  "lat" : 52.3091896197085,
+                  "lng" : 4.766925419708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam Airport Schiphol",
+               "short_name" : "Amsterdam Airport Schiphol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haarlemmermeer",
+               "short_name" : "Haarlemmermeer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam Airport Schiphol, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3679222,
+                  "lng" : 4.8084924
+               },
+               "southwest" : {
+                  "lat" : 52.283172,
+                  "lng" : 4.7060751
+               }
+            },
+            "location" : {
+               "lat" : 52.3076865,
+               "lng" : 4.767424099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3679222,
+                  "lng" : 4.8084924
+               },
+               "southwest" : {
+                  "lat" : 52.283172,
+                  "lng" : 4.7060751
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

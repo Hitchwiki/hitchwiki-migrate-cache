@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A39",
+               "short_name" : "A39",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A39, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3982071,
+                  "lng" : 10.4042859
+               },
+               "southwest" : {
+                  "lat" : 53.2767008,
+                  "lng" : 9.9934423
+               }
+            },
+            "location" : {
+               "lat" : 53.33891130000001,
+               "lng" : 10.1989643
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3982071,
+                  "lng" : 10.4042859
+               },
+               "southwest" : {
+                  "lat" : 53.2767008,
+                  "lng" : 9.9934423
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Concepcion",
+               "short_name" : "Concepcion",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Concepción",
+               "short_name" : "Concepción",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Concepción Province",
+               "short_name" : "Concepción Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bio-Bio",
+               "short_name" : "Bio-Bio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Concepción, Concepción, Bío Bío Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.7671799,
+                  "lng" : -72.8503334
+               },
+               "southwest" : {
+                  "lat" : -36.9271161,
+                  "lng" : -73.0965193
+               }
+            },
+            "location" : {
+               "lat" : -36.818938,
+               "lng" : -73.050319
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.7671799,
+                  "lng" : -72.8503334
+               },
+               "southwest" : {
+                  "lat" : -36.9271161,
+                  "lng" : -73.0965193
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

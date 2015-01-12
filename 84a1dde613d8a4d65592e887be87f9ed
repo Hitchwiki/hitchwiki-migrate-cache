@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antarctica",
+               "short_name" : "Antarctica",
+               "types" : [ "continent", "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Antarctica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -59.99999999999999,
+                  "lng" : 180
+               },
+               "southwest" : {
+                  "lat" : -90,
+                  "lng" : -180
+               }
+            },
+            "location" : {
+               "lat" : -82.86275189999999,
+               "lng" : -135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -59.99999999999999,
+                  "lng" : 180
+               },
+               "southwest" : {
+                  "lat" : -90,
+                  "lng" : -180
+               }
+            }
+         },
+         "types" : [ "continent", "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

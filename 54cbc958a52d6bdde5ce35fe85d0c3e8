@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luoping",
+               "short_name" : "Luoping",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Qujing",
+               "short_name" : "Qujing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yunnan",
+               "short_name" : "Yunnan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luoping, Qujing, Yunnan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.4103483,
+                  "lng" : 104.7137962
+               },
+               "southwest" : {
+                  "lat" : 24.5244744,
+                  "lng" : 103.9715398
+               }
+            },
+            "location" : {
+               "lat" : 24.884626,
+               "lng" : 104.308675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.4103483,
+                  "lng" : 104.7137962
+               },
+               "southwest" : {
+                  "lat" : 24.5244744,
+                  "lng" : 103.9715398
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

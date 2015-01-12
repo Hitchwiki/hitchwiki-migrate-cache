@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kehl",
+               "short_name" : "Kehl",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ortenaukreis",
+               "short_name" : "Ortenaukreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kehl, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6410531,
+                  "lng" : 7.9560778
+               },
+               "southwest" : {
+                  "lat" : 48.4862516,
+                  "lng" : 7.791965500000001
+               }
+            },
+            "location" : {
+               "lat" : 48.5788725,
+               "lng" : 7.8160821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6410531,
+                  "lng" : 7.9560778
+               },
+               "southwest" : {
+                  "lat" : 48.4862516,
+                  "lng" : 7.791965500000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

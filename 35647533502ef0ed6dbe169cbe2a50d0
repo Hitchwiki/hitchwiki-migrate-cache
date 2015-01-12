@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhutan",
+               "short_name" : "BT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhutan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.360825,
+                  "lng" : 92.12523209999999
+               },
+               "southwest" : {
+                  "lat" : 26.702016,
+                  "lng" : 88.74647350000001
+               }
+            },
+            "location" : {
+               "lat" : 27.514162,
+               "lng" : 90.433601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.360825,
+                  "lng" : 92.12523209999999
+               },
+               "southwest" : {
+                  "lat" : 26.702016,
+                  "lng" : 88.74647350000001
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

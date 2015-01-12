@@ -1,0 +1,833 @@
+{
+  "totalResultsCount": 51,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Algiers",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": 3.270352202732777,
+        "south": 36.569950645694114,
+        "north": 36.93505290950515,
+        "west": 2.8135844885514025
+      },
+      "asciiName": "Algiers",
+      "countryId": "2589581",
+      "fcl": "P",
+      "score": 92.94243621826172,
+      "countryCode": "DZ",
+      "adminId1": "2507475",
+      "lat": "36.7525",
+      "fcode": "PPLC",
+      "continentCode": "AF",
+      "adminCode1": "01",
+      "lng": "3.04197",
+      "geonameId": 2507480,
+      "toponymName": "Algiers",
+      "population": 1977663,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "አልጀርስ",
+          "lang": "am"
+        },
+        {
+          "name": "Alcher",
+          "lang": "an"
+        },
+        {
+          "name": "الجزائر",
+          "lang": "ar"
+        },
+        {
+          "name": "ܓܙܐܐܪ",
+          "lang": "arc"
+        },
+        {
+          "name": "Əlcəzair",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Алжыр",
+          "lang": "be"
+        },
+        {
+          "name": "Алжир",
+          "lang": "bg"
+        },
+        {
+          "name": "আলজিয়ার্স",
+          "lang": "bn"
+        },
+        {
+          "name": "ཨཱལ་ཇི་ཡར་སི།",
+          "lang": "bo"
+        },
+        {
+          "name": "Aljer",
+          "lang": "br"
+        },
+        {
+          "name": "Alžir",
+          "lang": "bs"
+        },
+        {
+          "name": "Alger",
+          "lang": "ca"
+        },
+        {
+          "name": "Алжир",
+          "lang": "ce"
+        },
+        {
+          "name": "ئەلجەزیرە",
+          "lang": "ckb"
+        },
+        {
+          "name": "Alžír",
+          "lang": "cs"
+        },
+        {
+          "name": "Алжир",
+          "lang": "cv"
+        },
+        {
+          "name": "Alger",
+          "lang": "cy"
+        },
+        {
+          "name": "Algier",
+          "lang": "da"
+        },
+        {
+          "name": "Algier",
+          "lang": "de"
+        },
+        {
+          "name": "Cezayir",
+          "lang": "diq"
+        },
+        {
+          "name": "Αλγέρι",
+          "lang": "el"
+        },
+        {
+          "name": "Algiers",
+          "lang": "en"
+        },
+        {
+          "name": "Alĝero",
+          "lang": "eo"
+        },
+        {
+          "name": "Argel",
+          "lang": "es"
+        },
+        {
+          "name": "Alžiir",
+          "lang": "et"
+        },
+        {
+          "name": "Aljer",
+          "lang": "eu"
+        },
+        {
+          "name": "Argel",
+          "lang": "ext"
+        },
+        {
+          "name": "الجزیره",
+          "lang": "fa"
+        },
+        {
+          "name": "Alger",
+          "lang": "fi"
+        },
+        {
+          "name": "Alger",
+          "lang": "fo"
+        },
+        {
+          "name": "Alger",
+          "lang": "fr"
+        },
+        {
+          "name": "Alg·èr",
+          "lang": "frp"
+        },
+        {
+          "name": "Cathair na hAilgéire",
+          "lang": "ga"
+        },
+        {
+          "name": "Alxer",
+          "lang": "gl"
+        },
+        {
+          "name": "Alžir",
+          "lang": "hbs"
+        },
+        {
+          "name": "אלגיר",
+          "lang": "he"
+        },
+        {
+          "name": "अल्जीयर्स",
+          "lang": "hi"
+        },
+        {
+          "name": "Alžir",
+          "lang": "hr"
+        },
+        {
+          "name": "Alžěr",
+          "lang": "hsb"
+        },
+        {
+          "name": "Alje",
+          "lang": "ht"
+        },
+        {
+          "name": "Algír",
+          "lang": "hu"
+        },
+        {
+          "name": "Ալժիր",
+          "lang": "hy"
+        },
+        {
+          "name": "ALG",
+          "lang": "iata"
+        },
+        {
+          "name": "Aljir",
+          "lang": "id"
+        },
+        {
+          "name": "Alger",
+          "lang": "ie"
+        },
+        {
+          "name": "Aljer",
+          "lang": "io"
+        },
+        {
+          "name": "Algeirsborg",
+          "lang": "is"
+        },
+        {
+          "name": "Algeri",
+          "lang": "it"
+        },
+        {
+          "name": "アルジェ",
+          "lang": "ja"
+        },
+        {
+          "name": "Aljir",
+          "lang": "jv"
+        },
+        {
+          "name": "ალჟირი",
+          "lang": "ka"
+        },
+        {
+          "name": "Dzayer",
+          "lang": "kab"
+        },
+        {
+          "name": "Алжир",
+          "lang": "kk"
+        },
+        {
+          "name": "알제",
+          "lang": "ko"
+        },
+        {
+          "name": "Cezayir",
+          "lang": "ku"
+        },
+        {
+          "name": "Алжир шаары",
+          "lang": "ky"
+        },
+        {
+          "name": "Algeria",
+          "lang": "la"
+        },
+        {
+          "name": "Arjel",
+          "lang": "lad"
+        },
+        {
+          "name": "Alger",
+          "lang": "lb"
+        },
+        {
+          "name": "Algè",
+          "lang": "lij"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Algiers",
+          "lang": "link"
+        },
+        {
+          "name": "Alje",
+          "lang": "ln"
+        },
+        {
+          "name": "Alžyras",
+          "lang": "lt"
+        },
+        {
+          "name": "Alžīra",
+          "lang": "lv"
+        },
+        {
+          "name": "Алжир",
+          "lang": "mdf"
+        },
+        {
+          "name": "Алжир",
+          "lang": "mk"
+        },
+        {
+          "name": "അൾജിയേഴ്സ്",
+          "lang": "ml"
+        },
+        {
+          "name": "Алжир хот",
+          "lang": "mn"
+        },
+        {
+          "name": "अल्जीयर्स",
+          "lang": "mr"
+        },
+        {
+          "name": "Алжир",
+          "lang": "mrj"
+        },
+        {
+          "name": "Argel",
+          "lang": "nah"
+        },
+        {
+          "name": "Algiers",
+          "lang": "nl"
+        },
+        {
+          "name": "Alger",
+          "lang": "nn"
+        },
+        {
+          "name": "Alger",
+          "lang": "no"
+        },
+        {
+          "name": "Argièr",
+          "lang": "oc"
+        },
+        {
+          "name": "Алжир",
+          "lang": "os"
+        },
+        {
+          "name": "ਅਲ-ਜਜ਼ਾਇਰ",
+          "lang": "pa"
+        },
+        {
+          "name": "Algier",
+          "lang": "pl"
+        },
+        {
+          "name": "الجیرز",
+          "lang": "pnb"
+        },
+        {
+          "name": "الجزيره",
+          "lang": "ps"
+        },
+        {
+          "name": "Argel",
+          "lang": "pt"
+        },
+        {
+          "name": "Alger",
+          "lang": "ro"
+        },
+        {
+          "name": "Алжир",
+          "lang": "ru"
+        },
+        {
+          "name": "Alžīrs",
+          "lang": "sgs"
+        },
+        {
+          "name": "Alžír",
+          "lang": "sk"
+        },
+        {
+          "name": "Alžir",
+          "lang": "sl"
+        },
+        {
+          "name": "Алжир",
+          "lang": "sr"
+        },
+        {
+          "name": "Aljir",
+          "lang": "su"
+        },
+        {
+          "name": "Alger",
+          "lang": "sv"
+        },
+        {
+          "name": "Algiers",
+          "lang": "sw"
+        },
+        {
+          "name": "அல்ஜியர்ஸ்",
+          "lang": "ta"
+        },
+        {
+          "name": "Алҷазоир",
+          "lang": "tg"
+        },
+        {
+          "name": "แอลเจียร์",
+          "lang": "th"
+        },
+        {
+          "name": "Arhel",
+          "lang": "tl"
+        },
+        {
+          "name": "Cezayir",
+          "lang": "tr"
+        },
+        {
+          "name": "Алжир",
+          "lang": "udm"
+        },
+        {
+          "name": "ئالجىر",
+          "lang": "ug"
+        },
+        {
+          "name": "Алжир",
+          "lang": "uk"
+        },
+        {
+          "name": "ALG",
+          "lang": "unlc"
+        },
+        {
+          "name": "الجزائر شہر",
+          "lang": "ur"
+        },
+        {
+          "name": "Alžir",
+          "lang": "vep"
+        },
+        {
+          "name": "Cäsair",
+          "lang": "vo"
+        },
+        {
+          "name": "Alse",
+          "lang": "wo"
+        },
+        {
+          "name": "אלזשירס",
+          "lang": "yi"
+        },
+        {
+          "name": "阿爾及爾",
+          "lang": "yue"
+        },
+        {
+          "name": "阿爾及爾",
+          "lang": "zh"
+        },
+        {
+          "name": "阿爾及爾",
+          "lang": "zh-TW"
+        }
+      ],
+      "adminName2": "",
+      "name": "Algiers",
+      "fclName": "city, village,...",
+      "countryName": "Algeria",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Alger"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Algiers",
+        "dstOffset": 1
+      },
+      "asciiName": "Algiers Houari Boumediene Airport",
+      "countryId": "2589581",
+      "fcl": "S",
+      "score": 28.171680450439453,
+      "countryCode": "DZ",
+      "adminId1": "2502638",
+      "lat": "36.6985",
+      "fcode": "AIRP",
+      "continentCode": "AF",
+      "elevation": 24,
+      "adminCode1": "40",
+      "lng": "3.20672",
+      "geonameId": 6296363,
+      "toponymName": "Algiers Houari Boumediene Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "مطار هواري بومدين الدولي",
+          "lang": "ar"
+        },
+        {
+          "name": "Algiers Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aeropuerto Internacional Houari Boumedienne",
+          "lang": "es"
+        },
+        {
+          "name": "Aéroport d'Alger Houari Boumediene",
+          "lang": "fr"
+        },
+        {
+          "name": "ALG",
+          "lang": "iata"
+        },
+        {
+          "name": "DAAG",
+          "lang": "icao"
+        },
+        {
+          "name": "Amafag n Dzayer",
+          "lang": "kab"
+        },
+        {
+          "name": "우아리 부메디엔 공항",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Houari_Boumediene_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "阿尔及尔胡阿里·布迈丁机场",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Algiers Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Algeria",
+      "fcodeName": "airport",
+      "adminName1": "Boumerdes"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Algiers",
+        "dstOffset": 1
+      },
+      "asciiName": "Algiers Port",
+      "countryId": "2589581",
+      "fcl": "L",
+      "score": 20.12262725830078,
+      "countryCode": "DZ",
+      "adminId1": "2507475",
+      "lat": "36.78113",
+      "fcode": "PRT",
+      "continentCode": "AF",
+      "adminCode1": "01",
+      "lng": "3.06255",
+      "geonameId": 9847471,
+      "toponymName": "Algiers Port",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Algiers Ferry Port",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Algiers Ferry Port",
+      "fclName": "parks,area, ...",
+      "countryName": "Algeria",
+      "fcodeName": "port",
+      "adminName1": "Alger"
+    },
+    {
+      "lng": "1.5",
+      "geonameId": 2522665,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid",
+        "dstOffset": 2
+      },
+      "toponymName": "Algerian Basin",
+      "asciiName": "Algerian Basin",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 18.58848762512207,
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Algerian Basin",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "basin",
+      "adminName1": "",
+      "lat": "37.5",
+      "fcode": "BSNU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Johannesburg",
+        "dstOffset": 2
+      },
+      "asciiName": "Algiers Crown Reserve",
+      "countryId": "953987",
+      "fcl": "L",
+      "score": 18.369361877441406,
+      "cc2": "ZA",
+      "countryCode": "ZA",
+      "adminId1": "1085598",
+      "lat": "-26.61667",
+      "fcode": "RES",
+      "continentCode": "AF",
+      "adminCode1": "10",
+      "lng": "24.03333",
+      "geonameId": 1023341,
+      "toponymName": "Algiers Crown Reserve",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Algiers Crown Reserve",
+      "fclName": "parks,area, ...",
+      "countryName": "South Africa",
+      "fcodeName": "reserve",
+      "adminName1": "North-West"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -90.03635774511888,
+        "south": 29.935932551248573,
+        "north": 29.95391984875143,
+        "west": -90.05711805488112
+      },
+      "asciiName": "Algiers",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 13.14404582977295,
+      "adminId2": "4336191",
+      "countryCode": "US",
+      "adminId1": "4331987",
+      "lat": "29.94493",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 1,
+      "adminCode2": "071",
+      "adminCode1": "LA",
+      "lng": "-90.04674",
+      "geonameId": 4314556,
+      "toponymName": "Algiers",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Algiers%2C_New_Orleans",
+          "lang": "link"
+        },
+        {
+          "name": "UAY",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Orleans Parish",
+      "name": "Algiers",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Louisiana"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago",
+        "dstOffset": -5
+      },
+      "asciiName": "Algiers Point",
+      "countryId": "6252001",
+      "fcl": "T",
+      "score": 13.14404582977295,
+      "adminId2": "4336191",
+      "countryCode": "US",
+      "adminId1": "4331987",
+      "lat": "29.95493",
+      "fcode": "CAPE",
+      "continentCode": "NA",
+      "elevation": 3,
+      "adminCode2": "071",
+      "adminCode1": "LA",
+      "lng": "-90.05563",
+      "geonameId": 4314561,
+      "toponymName": "Algiers Point",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Algiers_Point",
+        "lang": "link"
+      }],
+      "adminName2": "Orleans Parish",
+      "name": "Algiers Point",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "United States",
+      "fcodeName": "cape",
+      "adminName1": "Louisiana"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "23.99739",
+      "geonameId": 1023343,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Johannesburg",
+        "dstOffset": 2
+      },
+      "toponymName": "Algiers",
+      "asciiName": "Algiers",
+      "countryId": "953987",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 13.14404582977295,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "ZA",
+      "name": "Algiers",
+      "fclName": "parks,area, ...",
+      "countryName": "South Africa",
+      "fcodeName": "locality",
+      "adminId1": "1085598",
+      "adminName1": "North-West",
+      "lat": "-26.61607",
+      "fcode": "LCTY",
+      "continentCode": "AF"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -72.56374907691935,
+        "south": 42.814950170249716,
+        "north": 42.818547629750285,
+        "west": -72.56865352308066
+      },
+      "asciiName": "Algiers (historical)",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 11.5010404586792,
+      "adminId2": "5243051",
+      "countryCode": "US",
+      "adminId1": "5242283",
+      "lat": "42.81675",
+      "fcode": "PPLQ",
+      "continentCode": "NA",
+      "elevation": 155,
+      "adminCode2": "025",
+      "adminCode1": "VT",
+      "lng": "-72.5662",
+      "geonameId": 5233221,
+      "toponymName": "Algiers (historical)",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Algiers%2C_Vermont",
+        "lang": "link"
+      }],
+      "adminName2": "Windham County",
+      "name": "Algiers (historical)",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "abandoned populated place",
+      "adminName1": "Vermont"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Johannesburg",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 24.073525144598356,
+        "south": -26.627879648751428,
+        "north": -26.609892351248572,
+        "west": 24.05340685540164
+      },
+      "asciiName": "Algiers",
+      "countryId": "953987",
+      "fcl": "P",
+      "score": 9.858034133911133,
+      "adminId2": "8347348",
+      "adminId3": "8347464",
+      "countryCode": "ZA",
+      "adminId1": "1085598",
+      "lat": "-26.61889",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode2": "DC39",
+      "adminCode3": "NW397",
+      "adminCode1": "10",
+      "lng": "24.06347",
+      "geonameId": 1023342,
+      "toponymName": "Algiers",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Kagisano/Molopo",
+      "adminName2": "Dr Ruth Segomotsi Mompati District Municipality",
+      "name": "Algiers",
+      "fclName": "city, village,...",
+      "countryName": "South Africa",
+      "fcodeName": "populated place",
+      "adminName1": "North-West"
+    }
+  ]
+}

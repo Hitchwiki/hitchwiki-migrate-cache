@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laayoune",
+               "short_name" : "Laayoune",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Laayoune",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1669433,
+                  "lng" : -13.0969906
+               },
+               "southwest" : {
+                  "lat" : 27.0811371,
+                  "lng" : -13.2541466
+               }
+            },
+            "location" : {
+               "lat" : 27.1252867,
+               "lng" : -13.1625005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1669433,
+                  "lng" : -13.0969906
+               },
+               "southwest" : {
+                  "lat" : 27.0811371,
+                  "lng" : -13.2541466
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

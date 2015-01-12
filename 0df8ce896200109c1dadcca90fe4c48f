@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 66.56631829999999,
+                  "lng" : -13.4958154
+               },
+               "southwest" : {
+                  "lat" : 63.29623419999999,
+                  "lng" : -24.546524
+               }
+            },
+            "location" : {
+               "lat" : 64.96305099999999,
+               "lng" : -19.020835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.56631829999999,
+                  "lng" : -13.4958154
+               },
+               "southwest" : {
+                  "lat" : 63.29623419999999,
+                  "lng" : -24.546524
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

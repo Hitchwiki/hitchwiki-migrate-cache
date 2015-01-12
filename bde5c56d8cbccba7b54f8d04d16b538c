@@ -1,0 +1,220 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa 73",
+               "short_name" : "73",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa 73, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.397624,
+                  "lng" : -75.69972129999999
+               },
+               "southwest" : {
+                  "lat" : 45.1333274,
+                  "lng" : -75.72506589999999
+               }
+            },
+            "location" : {
+               "lat" : 45.2645634,
+               "lng" : -75.7095231
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.397624,
+                  "lng" : -75.69972129999999
+               },
+               "southwest" : {
+                  "lat" : 45.1333274,
+                  "lng" : -75.72506589999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 73",
+               "short_name" : "Autoroute 73",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint-Georges",
+               "short_name" : "Saint-Georges",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beauce-Sartigan",
+               "short_name" : "Beauce-Sartigan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G0M",
+               "short_name" : "G0M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 73, Saint-Georges, QC G0M, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.152105,
+               "lng" : -70.6629148
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1534539802915,
+                  "lng" : -70.66156581970849
+               },
+               "southwest" : {
+                  "lat" : 46.1507560197085,
+                  "lng" : -70.66426378029151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Highway 73",
+               "short_name" : "VT-73",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vermont 73, Vermont, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8565368,
+                  "lng" : -73.01462169999999
+               },
+               "southwest" : {
+                  "lat" : 43.7942773,
+                  "lng" : -73.36704499999999
+               }
+            },
+            "location" : {
+               "lat" : 43.8251418,
+               "lng" : -73.1908394
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8565368,
+                  "lng" : -73.01462169999999
+               },
+               "southwest" : {
+                  "lat" : 43.7942773,
+                  "lng" : -73.36704499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Highway 73",
+               "short_name" : "NY-73",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York 73, New York, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.279554,
+                  "lng" : -73.6863142
+               },
+               "southwest" : {
+                  "lat" : 44.1011827,
+                  "lng" : -73.98227199999999
+               }
+            },
+            "location" : {
+               "lat" : 44.1919893,
+               "lng" : -73.7866118
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.279554,
+                  "lng" : -73.6863142
+               },
+               "southwest" : {
+                  "lat" : 44.1011827,
+                  "lng" : -73.98227199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

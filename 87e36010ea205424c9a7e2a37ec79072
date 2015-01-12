@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5552234,
+                  "lng" : 19.4480523
+               },
+               "southwest" : {
+                  "lat" : 42.3922652,
+                  "lng" : 13.4896912
+               }
+            },
+            "location" : {
+               "lat" : 45.1,
+               "lng" : 15.2
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5552234,
+                  "lng" : 19.4480523
+               },
+               "southwest" : {
+                  "lat" : 42.3923464,
+                  "lng" : 13.4896912
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

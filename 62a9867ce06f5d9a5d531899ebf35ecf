@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nayarit",
+               "short_name" : "NAY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nayarit, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.0837584,
+                  "lng" : -103.7216057
+               },
+               "southwest" : {
+                  "lat" : 20.6027947,
+                  "lng" : -106.6879175
+               }
+            },
+            "location" : {
+               "lat" : 21.7513844,
+               "lng" : -104.8454619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.0837584,
+                  "lng" : -103.7216057
+               },
+               "southwest" : {
+                  "lat" : 20.6027947,
+                  "lng" : -105.7590168
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

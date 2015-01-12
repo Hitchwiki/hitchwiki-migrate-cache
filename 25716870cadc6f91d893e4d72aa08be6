@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A7",
+               "short_name" : "A7",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A7, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8224005,
+                  "lng" : 6.1892795
+               },
+               "southwest" : {
+                  "lat" : 49.64153659999999,
+                  "lng" : 6.0856264
+               }
+            },
+            "location" : {
+               "lat" : 49.7270696,
+               "lng" : 6.1091874
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8224005,
+                  "lng" : 6.1892795
+               },
+               "southwest" : {
+                  "lat" : 49.64153659999999,
+                  "lng" : 6.0856264
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

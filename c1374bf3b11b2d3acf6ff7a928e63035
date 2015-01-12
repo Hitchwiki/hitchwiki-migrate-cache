@@ -1,0 +1,316 @@
+{
+  "totalResultsCount": 8,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Catamarca",
+        "dstOffset": -3
+      },
+      "asciiName": "Esquel Airport",
+      "countryId": "3865483",
+      "fcl": "S",
+      "score": 36.870826721191406,
+      "adminId2": "3855298",
+      "countryCode": "AR",
+      "adminId1": "3861244",
+      "lat": "-42.90795",
+      "fcode": "AIRP",
+      "continentCode": "SA",
+      "elevation": 798,
+      "adminCode2": "3855298",
+      "adminCode1": "04",
+      "lng": "-71.13947",
+      "geonameId": 6300564,
+      "toponymName": "Esquel Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Esquel Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aeropuerto de Esquel",
+          "lang": "es"
+        },
+        {
+          "name": "Aéroport d'Esquel",
+          "lang": "fr"
+        },
+        {
+          "name": "EQS",
+          "lang": "iata"
+        },
+        {
+          "name": "SAVE",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Esquel_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Departamento de Futaleufú",
+      "name": "Esquel Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Argentina",
+      "fcodeName": "airport",
+      "adminName1": "Chubut"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Catamarca",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -71.29003788892973,
+        "south": -42.93303201209584,
+        "north": -42.88989998790415,
+        "west": -71.34890811107027
+      },
+      "asciiName": "Esquel",
+      "countryId": "3865483",
+      "fcl": "P",
+      "score": 36.49265670776367,
+      "adminId2": "3855298",
+      "countryCode": "AR",
+      "adminId1": "3861244",
+      "lat": "-42.91147",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode2": "3855298",
+      "adminCode1": "04",
+      "lng": "-71.31947",
+      "geonameId": 3855974,
+      "toponymName": "Esquel",
+      "population": 28486,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "אסקל",
+          "lang": "he"
+        },
+        {
+          "name": "EQS",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Esquel",
+          "lang": "link"
+        },
+        {
+          "name": "Eskelis",
+          "lang": "lt"
+        },
+        {
+          "name": "Эскель",
+          "lang": "ru"
+        },
+        {
+          "name": "EQS",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Departamento de Futaleufú",
+      "name": "Esquel",
+      "fclName": "city, village,...",
+      "countryName": "Argentina",
+      "fcodeName": "populated place",
+      "adminName1": "Chubut"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-71.05263",
+      "geonameId": 3855971,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Catamarca",
+        "dstOffset": -3
+      },
+      "toponymName": "Laguna Esquel",
+      "asciiName": "Laguna Esquel",
+      "countryId": "3865483",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 31.931074142456055,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AR",
+      "name": "Laguna Esquel",
+      "fclName": "stream, lake, ...",
+      "countryName": "Argentina",
+      "fcodeName": "lake",
+      "adminId1": "3861244",
+      "adminName1": "Chubut",
+      "lat": "-42.86784",
+      "fcode": "LK",
+      "continentCode": "SA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Mexico_City",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -92.25934374916866,
+        "south": 16.134660635124856,
+        "north": 16.13645936487514,
+        "west": -92.26121625083132
+      },
+      "asciiName": "Laguna Esquel",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 14.574474334716797,
+      "adminId2": "8581787",
+      "countryCode": "MX",
+      "adminId1": "3531011",
+      "lat": "16.13556",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode2": "104",
+      "adminCode1": "05",
+      "lng": "-92.26028",
+      "geonameId": 8890296,
+      "toponymName": "Laguna Esquel",
+      "population": 51,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Tzimol",
+      "name": "Laguna Esquel",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Chiapas"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-71.25838",
+      "geonameId": 3855973,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Catamarca",
+        "dstOffset": -3
+      },
+      "toponymName": "Cordón de Esquel",
+      "asciiName": "Cordon de Esquel",
+      "countryId": "3865483",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 13.035805702209473,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AR",
+      "name": "Cordón de Esquel",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Argentina",
+      "fcodeName": "mountains",
+      "adminId1": "3861244",
+      "adminName1": "Chubut",
+      "lat": "-42.73583",
+      "fcode": "MTS",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-71.45452",
+      "geonameId": 3855970,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Catamarca",
+        "dstOffset": -3
+      },
+      "toponymName": "Río Esquel",
+      "asciiName": "Rio Esquel",
+      "countryId": "3865483",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 4.65564489364624,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AR",
+      "name": "Río Esquel",
+      "fclName": "stream, lake, ...",
+      "countryName": "Argentina",
+      "fcodeName": "stream",
+      "adminId1": "3861244",
+      "adminName1": "Chubut",
+      "lat": "-43.01922",
+      "fcode": "STM",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-71.1",
+      "geonameId": 3855972,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Catamarca",
+        "dstOffset": -3
+      },
+      "toponymName": "Estancia Esquel",
+      "asciiName": "Estancia Esquel",
+      "countryId": "3865483",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 4.65564489364624,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AR",
+      "name": "Estancia Esquel",
+      "fclName": "spot, building, farm",
+      "countryName": "Argentina",
+      "fcodeName": "ranch(es)",
+      "adminId1": "3861244",
+      "adminName1": "Chubut",
+      "lat": "-42.81667",
+      "fcode": "RNCH",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-71.3216",
+      "geonameId": 6957360,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Catamarca",
+        "dstOffset": -3
+      },
+      "toponymName": "plaza esquel hosteria spa",
+      "asciiName": "plaza esquel hosteria spa",
+      "countryId": "3865483",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 3.724515914916992,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AR",
+      "name": "plaza esquel hosteria spa",
+      "fclName": "spot, building, farm",
+      "countryName": "Argentina",
+      "fcodeName": "hotel",
+      "adminId1": "3861244",
+      "adminName1": "Chubut",
+      "lat": "-42.91802",
+      "fcode": "HTL",
+      "continentCode": "SA"
+    }
+  ]
+}

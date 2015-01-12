@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A281",
+               "short_name" : "A281",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bremen",
+               "short_name" : "Bremen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bremen",
+               "short_name" : "HB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A281, Bremen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1453689,
+                  "lng" : 8.7946188
+               },
+               "southwest" : {
+                  "lat" : 53.0554199,
+                  "lng" : 8.689487399999999
+               }
+            },
+            "location" : {
+               "lat" : 53.081746,
+               "lng" : 8.724467599999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1453689,
+                  "lng" : 8.7946188
+               },
+               "southwest" : {
+                  "lat" : 53.0554199,
+                  "lng" : 8.689487399999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

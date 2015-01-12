@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A22",
+               "short_name" : "A22",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A22, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2376853,
+                  "lng" : -7.419191199999999
+               },
+               "southwest" : {
+                  "lat" : 37.0881357,
+                  "lng" : -8.7443423
+               }
+            },
+            "location" : {
+               "lat" : 37.1365809,
+               "lng" : -8.1103094
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2376853,
+                  "lng" : -7.419191199999999
+               },
+               "southwest" : {
+                  "lat" : 37.0881357,
+                  "lng" : -8.7443423
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

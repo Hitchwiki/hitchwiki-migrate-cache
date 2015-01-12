@@ -1,0 +1,343 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aberdeen City",
+               "short_name" : "Aberdeen City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen, Aberdeen City, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.19565069999999,
+                  "lng" : -2.0461811
+               },
+               "southwest" : {
+                  "lat" : 57.1041518,
+                  "lng" : -2.2058926
+               }
+            },
+            "location" : {
+               "lat" : 57.149717,
+               "lng" : -2.094278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.19565069999999,
+                  "lng" : -2.0461811
+               },
+               "southwest" : {
+                  "lat" : 57.1041518,
+                  "lng" : -2.2058926
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grays Harbor County",
+               "short_name" : "Grays Harbor County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.02059,
+                  "lng" : -123.680727
+               },
+               "southwest" : {
+                  "lat" : 46.94354000000001,
+                  "lng" : -123.86052
+               }
+            },
+            "location" : {
+               "lat" : 46.9753708,
+               "lng" : -123.8157218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.00207289999999,
+                  "lng" : -123.7781611
+               },
+               "southwest" : {
+                  "lat" : 46.94354000000001,
+                  "lng" : -123.86052
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brown County",
+               "short_name" : "Brown County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57401",
+               "short_name" : "57401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen, SD 57401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.495622,
+                  "lng" : -98.39220189999999
+               },
+               "southwest" : {
+                  "lat" : 45.430076,
+                  "lng" : -98.5264821
+               }
+            },
+            "location" : {
+               "lat" : 45.4646985,
+               "lng" : -98.4864829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.495622,
+                  "lng" : -98.39220189999999
+               },
+               "southwest" : {
+                  "lat" : 45.430076,
+                  "lng" : -98.5264821
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "2, Halls Cross Roads",
+               "short_name" : "2, Halls Cross Roads",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Harford County",
+               "short_name" : "Harford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5473881,
+                  "lng" : -76.12807309999999
+               },
+               "southwest" : {
+                  "lat" : 39.4841889,
+                  "lng" : -76.2060939
+               }
+            },
+            "location" : {
+               "lat" : 39.5095556,
+               "lng" : -76.16411970000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5473881,
+                  "lng" : -76.12807309999999
+               },
+               "southwest" : {
+                  "lat" : 39.4841889,
+                  "lng" : -76.2060939
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "8, Sandhills",
+               "short_name" : "8, Sandhills",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Moore County",
+               "short_name" : "Moore County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.16684900000001,
+                  "lng" : -79.389252
+               },
+               "southwest" : {
+                  "lat" : 35.1125351,
+                  "lng" : -79.485086
+               }
+            },
+            "location" : {
+               "lat" : 35.131547,
+               "lng" : -79.42947889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.16684900000001,
+                  "lng" : -79.389252
+               },
+               "southwest" : {
+                  "lat" : 35.1125351,
+                  "lng" : -79.485086
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39730",
+               "short_name" : "39730",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen, MS 39730, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8599559,
+                  "lng" : -88.49161909999999
+               },
+               "southwest" : {
+                  "lat" : 33.796962,
+                  "lng" : -88.599537
+               }
+            },
+            "location" : {
+               "lat" : 33.8251139,
+               "lng" : -88.5436553
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8599559,
+                  "lng" : -88.49161909999999
+               },
+               "southwest" : {
+                  "lat" : 33.796962,
+                  "lng" : -88.599537
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

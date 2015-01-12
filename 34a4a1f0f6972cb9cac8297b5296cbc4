@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zabrze",
+               "short_name" : "Zabrze",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zabrze",
+               "short_name" : "Zabrze",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Zabrze",
+               "short_name" : "Zabrze",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Silesian Voivodeship",
+               "short_name" : "Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zabrze, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.38415570000001,
+                  "lng" : 18.8623359
+               },
+               "southwest" : {
+                  "lat" : 50.245725,
+                  "lng" : 18.7309648
+               }
+            },
+            "location" : {
+               "lat" : 50.3249278,
+               "lng" : 18.7857186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.38415570000001,
+                  "lng" : 18.8623359
+               },
+               "southwest" : {
+                  "lat" : 50.245725,
+                  "lng" : 18.7309648
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

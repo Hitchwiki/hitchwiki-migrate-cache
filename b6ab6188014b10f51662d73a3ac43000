@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sorel",
+               "short_name" : "Sorel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Le Bas-Richelieu",
+               "short_name" : "Le Bas-Richelieu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sorel, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0515486,
+                  "lng" : -73.012055
+               },
+               "southwest" : {
+                  "lat" : 45.955346,
+                  "lng" : -73.18107999999999
+               }
+            },
+            "location" : {
+               "lat" : 46.042825,
+               "lng" : -73.112302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0515486,
+                  "lng" : -73.012055
+               },
+               "southwest" : {
+                  "lat" : 45.955346,
+                  "lng" : -73.18107999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.318693,
+                  "lng" : 42.376309
+               },
+               "southwest" : {
+                  "lat" : 32.311136,
+                  "lng" : 35.7165956
+               }
+            },
+            "location" : {
+               "lat" : 34.80207499999999,
+               "lng" : 38.996815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.318693,
+                  "lng" : 42.376309
+               },
+               "southwest" : {
+                  "lat" : 32.311136,
+                  "lng" : 35.7165956
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

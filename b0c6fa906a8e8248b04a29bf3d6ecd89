@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S17",
+               "short_name" : "S17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S17, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9346129,
+                  "lng" : 22.8526911
+               },
+               "southwest" : {
+                  "lat" : 51.1441551,
+                  "lng" : 21.5788268
+               }
+            },
+            "location" : {
+               "lat" : 51.4303415,
+               "lng" : 22.1495569
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9346129,
+                  "lng" : 22.8526911
+               },
+               "southwest" : {
+                  "lat" : 51.1441551,
+                  "lng" : 21.5788268
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S17",
+               "short_name" : "S17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "otwocki",
+               "short_name" : "otwocki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05-462",
+               "short_name" : "05-462",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S17, 05-462, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2013209,
+                  "lng" : 21.2747176
+               },
+               "southwest" : {
+                  "lat" : 52.1954945,
+                  "lng" : 21.2692872
+               }
+            },
+            "location" : {
+               "lat" : 52.1984556,
+               "lng" : 21.2719558
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2013209,
+                  "lng" : 21.2747176
+               },
+               "southwest" : {
+                  "lat" : 52.1954945,
+                  "lng" : 21.2692872
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S17",
+               "short_name" : "S17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marki",
+               "short_name" : "Marki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marki",
+               "short_name" : "Marki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "wołomiński",
+               "short_name" : "wołomiński",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05-260",
+               "short_name" : "05-260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S17, 05-260 Marki, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3074028,
+                  "lng" : 21.1004984
+               },
+               "southwest" : {
+                  "lat" : 52.30738969999999,
+                  "lng" : 21.0988891
+               }
+            },
+            "location" : {
+               "lat" : 52.3073963,
+               "lng" : 21.0996938
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.30874523029149,
+                  "lng" : 21.1010427302915
+               },
+               "southwest" : {
+                  "lat" : 52.30604726970849,
+                  "lng" : 21.0983447697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

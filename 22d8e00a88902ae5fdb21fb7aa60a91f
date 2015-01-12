@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A24",
+               "short_name" : "A24",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A24, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.569397,
+                  "lng" : 13.0247291
+               },
+               "southwest" : {
+                  "lat" : 52.7108814,
+                  "lng" : 10.0702652
+               }
+            },
+            "location" : {
+               "lat" : 53.37034120000001,
+               "lng" : 11.6524514
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.569397,
+                  "lng" : 13.0247291
+               },
+               "southwest" : {
+                  "lat" : 52.7108814,
+                  "lng" : 10.0702652
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

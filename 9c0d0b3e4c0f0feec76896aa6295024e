@@ -1,0 +1,144 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phuket",
+               "short_name" : "Phuket",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Phuket District",
+               "short_name" : "Mueang Phuket District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Phuket",
+               "short_name" : "จ.ภูเก็ต",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phuket, Mueang Phuket District, Phuket, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.905547999999999,
+                  "lng" : 98.41363469999999
+               },
+               "southwest" : {
+                  "lat" : 7.8611738,
+                  "lng" : 98.37019240000001
+               }
+            },
+            "location" : {
+               "lat" : 7.8804479,
+               "lng" : 98.39225039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.905547999999999,
+                  "lng" : 98.41363469999999
+               },
+               "southwest" : {
+                  "lat" : 7.8611738,
+                  "lng" : 98.37019240000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phuket",
+               "short_name" : "จ.ภูเก็ต",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phuket, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.1999143,
+                  "lng" : 98.4618483
+               },
+               "southwest" : {
+                  "lat" : 7.462156399999999,
+                  "lng" : 98.2580093
+               }
+            },
+            "location" : {
+               "lat" : 7.9519331,
+               "lng" : 98.33808839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.1999143,
+                  "lng" : 98.4618483
+               },
+               "southwest" : {
+                  "lat" : 7.733149399999999,
+                  "lng" : 98.2580093
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phuket Island",
+               "short_name" : "Phuket Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phuket Island, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.2002858,
+                  "lng" : 98.445331
+               },
+               "southwest" : {
+                  "lat" : 7.757746,
+                  "lng" : 98.2580093
+               }
+            },
+            "location" : {
+               "lat" : 7.9843109,
+               "lng" : 98.3307468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.2002858,
+                  "lng" : 98.445331
+               },
+               "southwest" : {
+                  "lat" : 7.757746,
+                  "lng" : 98.2580093
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

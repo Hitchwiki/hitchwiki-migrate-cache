@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connemara",
+               "short_name" : "Connemara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gweru",
+               "short_name" : "Gweru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midlands",
+               "short_name" : "Midlands",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zimbabwe",
+               "short_name" : "ZW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Connemara, Zimbabwe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.1703022,
+                  "lng" : 29.8197269
+               },
+               "southwest" : {
+                  "lat" : -19.2013496,
+                  "lng" : 29.8033762
+               }
+            },
+            "location" : {
+               "lat" : -19.1877102,
+               "lng" : 29.8091854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.1703022,
+                  "lng" : 29.8197269
+               },
+               "southwest" : {
+                  "lat" : -19.2013496,
+                  "lng" : 29.8033762
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connemara",
+               "short_name" : "Connemara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Willow Creek No. 26",
+               "short_name" : "Willow Creek No. 26",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 3",
+               "short_name" : "Division No. 3",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T0L",
+               "short_name" : "T0L",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Connemara, AB T0L, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.397447,
+               "lng" : -113.824939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3987959802915,
+                  "lng" : -113.8235900197085
+               },
+               "southwest" : {
+                  "lat" : 50.3960980197085,
+                  "lng" : -113.8262879802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Connemara National Park",
+               "short_name" : "Connemara National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Letterfrack",
+               "short_name" : "Letterfrack",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galway",
+               "short_name" : "Galway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galway",
+               "short_name" : "Galway",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Connemara National Park, Letterfrack, Co. Galway, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5593033,
+                  "lng" : -9.827593
+               },
+               "southwest" : {
+                  "lat" : 53.5035403,
+                  "lng" : -9.9596734
+               }
+            },
+            "location" : {
+               "lat" : 53.5383782,
+               "lng" : -9.8875419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5593033,
+                  "lng" : -9.827593
+               },
+               "southwest" : {
+                  "lat" : 53.5035403,
+                  "lng" : -9.9596734
+               }
+            }
+         },
+         "types" : [ "natural_feature", "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

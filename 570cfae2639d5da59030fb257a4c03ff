@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antalya",
+               "short_name" : "Antalya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antalya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.975586,
+                  "lng" : 30.8552512
+               },
+               "southwest" : {
+                  "lat" : 36.820289,
+                  "lng" : 30.5809589
+               }
+            },
+            "location" : {
+               "lat" : 36.88414,
+               "lng" : 30.70563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.975586,
+                  "lng" : 30.8552512
+               },
+               "southwest" : {
+                  "lat" : 36.820289,
+                  "lng" : 30.5809589
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

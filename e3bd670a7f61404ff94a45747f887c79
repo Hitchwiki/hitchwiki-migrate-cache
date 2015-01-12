@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A65",
+               "short_name" : "A65",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noord-Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A65, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.66694270000001,
+                  "lng" : 5.3036356
+               },
+               "southwest" : {
+                  "lat" : 51.5360378,
+                  "lng" : 5.100651399999999
+               }
+            },
+            "location" : {
+               "lat" : 51.57616179999999,
+               "lng" : 5.146007399999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.66694270000001,
+                  "lng" : 5.3036356
+               },
+               "southwest" : {
+                  "lat" : 51.5360378,
+                  "lng" : 5.100651399999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

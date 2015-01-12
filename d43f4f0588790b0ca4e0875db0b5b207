@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panama",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.6477792,
+                  "lng" : -77.15848799999999
+               },
+               "southwest" : {
+                  "lat" : 7.203556400000001,
+                  "lng" : -83.05224109999999
+               }
+            },
+            "location" : {
+               "lat" : 8.537981,
+               "lng" : -80.782127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.647482199999999,
+                  "lng" : -77.15848799999999
+               },
+               "southwest" : {
+                  "lat" : 7.203556400000001,
+                  "lng" : -83.05224109999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

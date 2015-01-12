@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "De Bilt",
+               "short_name" : "De Bilt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "De Bilt",
+               "short_name" : "De Bilt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "De Bilt, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1164129,
+                  "lng" : 5.2221537
+               },
+               "southwest" : {
+                  "lat" : 52.08488999999999,
+                  "lng" : 5.1563814
+               }
+            },
+            "location" : {
+               "lat" : 52.1092717,
+               "lng" : 5.1809676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1164129,
+                  "lng" : 5.2221537
+               },
+               "southwest" : {
+                  "lat" : 52.08488999999999,
+                  "lng" : 5.1563814
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

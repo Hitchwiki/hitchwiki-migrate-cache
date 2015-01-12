@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gera",
+               "short_name" : "G",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thuringia",
+               "short_name" : "Technische Hochschule",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gera, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9766184,
+                  "lng" : 12.1695209
+               },
+               "southwest" : {
+                  "lat" : 50.79861760000001,
+                  "lng" : 11.9980384
+               }
+            },
+            "location" : {
+               "lat" : 50.8850706,
+               "lng" : 12.0807203
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9766184,
+                  "lng" : 12.1695209
+               },
+               "southwest" : {
+                  "lat" : 50.79861760000001,
+                  "lng" : 11.9980384
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

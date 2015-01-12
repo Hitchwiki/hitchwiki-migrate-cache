@@ -1,0 +1,260 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Channel Islands",
+               "short_name" : "Channel Islands",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Channel Islands",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.416667,
+               "lng" : -2.333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4239253,
+                  "lng" : -2.3173256
+               },
+               "southwest" : {
+                  "lat" : 49.40940759999999,
+                  "lng" : -2.3493404
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Channel Islands National Park",
+               "short_name" : "Channel Islands National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1901",
+               "short_name" : "1901",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spinnaker Drive",
+               "short_name" : "Spinnaker Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ventura",
+               "short_name" : "Ventura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93001",
+               "short_name" : "93001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Channel Islands National Park, 1901 Spinnaker Drive, Ventura, CA 93001, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2492237,
+                  "lng" : -119.0076185
+               },
+               "southwest" : {
+                  "lat" : 33.4480881,
+                  "lng" : -120.4729967
+               }
+            },
+            "location" : {
+               "lat" : 33.9986014,
+               "lng" : -119.8583772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0944827,
+                  "lng" : -119.3374624
+               },
+               "southwest" : {
+                  "lat" : 33.8774933,
+                  "lng" : -120.4729967
+               }
+            }
+         },
+         "types" : [ "natural_feature", "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Channel Islands",
+               "short_name" : "Channel Islands",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Channel Islands, California, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8167047,
+               "lng" : -118.4509099
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.81805368029149,
+                  "lng" : -118.4495609197085
+               },
+               "southwest" : {
+                  "lat" : 32.81535571970849,
+                  "lng" : -118.4522588802915
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Channel Islands",
+               "short_name" : "Channel Islands",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Oxnard",
+               "short_name" : "Oxnard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Channel Islands, Oxnard, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.190504,
+                  "lng" : -119.2212332
+               },
+               "southwest" : {
+                  "lat" : 34.175704,
+                  "lng" : -119.2385419
+               }
+            },
+            "location" : {
+               "lat" : 34.1819189,
+               "lng" : -119.2291726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.190504,
+                  "lng" : -119.2212332
+               },
+               "southwest" : {
+                  "lat" : 34.175704,
+                  "lng" : -119.2385419
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Robert J. Lagomarsino Visitor Center at Channel Islands National Park",
+               "short_name" : "The Robert J. Lagomarsino Visitor Center at Channel Islands National Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Channel Islands National Park",
+               "short_name" : "Channel Islands National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ventura",
+               "short_name" : "Ventura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93001",
+               "short_name" : "93001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Robert J. Lagomarsino Visitor Center at Channel Islands National Park, Channel Islands National Park, Ventura, CA 93001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.248458,
+               "lng" : -119.2665387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2498069802915,
+                  "lng" : -119.2651897197085
+               },
+               "southwest" : {
+                  "lat" : 34.2471090197085,
+                  "lng" : -119.2678876802915
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

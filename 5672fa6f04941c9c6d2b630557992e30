@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marneuli",
+               "short_name" : "Marneuli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kvemo Kartli",
+               "short_name" : "Kvemo Kartli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marneuli, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5118617,
+                  "lng" : 44.8413848
+               },
+               "southwest" : {
+                  "lat" : 41.446651,
+                  "lng" : 44.7535479
+               }
+            },
+            "location" : {
+               "lat" : 41.463611,
+               "lng" : 44.810833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5118617,
+                  "lng" : 44.8413848
+               },
+               "southwest" : {
+                  "lat" : 41.446651,
+                  "lng" : 44.7535479
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

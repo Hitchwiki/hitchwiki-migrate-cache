@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albi",
+               "short_name" : "Albi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarn",
+               "short_name" : "81",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albi, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.969493,
+                  "lng" : 2.2118179
+               },
+               "southwest" : {
+                  "lat" : 43.888488,
+                  "lng" : 2.0527828
+               }
+            },
+            "location" : {
+               "lat" : 43.9250853,
+               "lng" : 2.1486413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.969493,
+                  "lng" : 2.2118179
+               },
+               "southwest" : {
+                  "lat" : 43.888488,
+                  "lng" : 2.0527828
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

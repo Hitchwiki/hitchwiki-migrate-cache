@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A535",
+               "short_name" : "A535",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A535, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.350355,
+                  "lng" : 7.0939111
+               },
+               "southwest" : {
+                  "lat" : 51.2370992,
+                  "lng" : 7.0421895
+               }
+            },
+            "location" : {
+               "lat" : 51.2945335,
+               "lng" : 7.0686212
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.350355,
+                  "lng" : 7.0939111
+               },
+               "southwest" : {
+                  "lat" : 51.2370992,
+                  "lng" : 7.0421895
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

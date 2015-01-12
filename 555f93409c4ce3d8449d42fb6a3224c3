@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A42",
+               "short_name" : "A42",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A42, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5626168,
+                  "lng" : 7.3589806
+               },
+               "southwest" : {
+                  "lat" : 51.4778615,
+                  "lng" : 6.5829375
+               }
+            },
+            "location" : {
+               "lat" : 51.5071662,
+               "lng" : 6.967723299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5626168,
+                  "lng" : 7.3589806
+               },
+               "southwest" : {
+                  "lat" : 51.4778615,
+                  "lng" : 6.5829375
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

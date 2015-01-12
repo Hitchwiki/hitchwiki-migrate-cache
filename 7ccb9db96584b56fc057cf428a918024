@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A480",
+               "short_name" : "A480",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gießen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A480, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6352235,
+                  "lng" : 8.833991899999999
+               },
+               "southwest" : {
+                  "lat" : 50.5754628,
+                  "lng" : 8.479025
+               }
+            },
+            "location" : {
+               "lat" : 50.60736130000001,
+               "lng" : 8.6550072
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6352235,
+                  "lng" : 8.833991899999999
+               },
+               "southwest" : {
+                  "lat" : 50.5754628,
+                  "lng" : 8.479025
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

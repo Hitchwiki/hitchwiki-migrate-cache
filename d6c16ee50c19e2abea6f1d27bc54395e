@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A35",
+               "short_name" : "A35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A35, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.34864289999999,
+                  "lng" : 6.8895943
+               },
+               "southwest" : {
+                  "lat" : 52.2002755,
+                  "lng" : 6.5894339
+               }
+            },
+            "location" : {
+               "lat" : 52.2754525,
+               "lng" : 6.7487102
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.34864289999999,
+                  "lng" : 6.8895943
+               },
+               "southwest" : {
+                  "lat" : 52.2002755,
+                  "lng" : 6.5894339
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

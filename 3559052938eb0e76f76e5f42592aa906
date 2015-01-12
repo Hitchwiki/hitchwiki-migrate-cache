@@ -1,0 +1,184 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.613722170638757,
+        "south": 51.41507227484839,
+        "north": 51.47265972515161,
+        "west": 7.521269829361244
+      },
+      "asciiName": "Schwerte",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 47.4155387878418,
+      "countryCode": "DE",
+      "adminId1": "2861876",
+      "lat": "51.44387",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "07",
+      "lng": "7.5675",
+      "geonameId": 2834265,
+      "toponymName": "Schwerte",
+      "population": 50399,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "شورته",
+          "lang": "fa"
+        },
+        {
+          "name": "ZPX",
+          "lang": "iata"
+        },
+        {
+          "name": "Шверте",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Schwerte",
+          "lang": "link"
+        },
+        {
+          "name": "Švertė",
+          "lang": "lt"
+        },
+        {
+          "name": "Schweierte",
+          "lang": "nds"
+        },
+        {
+          "name": "Шверте",
+          "lang": "ru"
+        },
+        {
+          "name": "Шверте",
+          "lang": "sr"
+        },
+        {
+          "name": "SCE",
+          "lang": "unlc"
+        },
+        {
+          "name": "施韦特",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Schwerte",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Schwerte",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 21.900297164916992,
+      "adminId2": "2955470",
+      "adminId3": "2820086",
+      "countryCode": "DE",
+      "adminId4": "6557707",
+      "adminId1": "2861876",
+      "lat": "51.4418",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "059",
+      "adminCode3": "05978",
+      "adminCode1": "07",
+      "lng": "7.56832",
+      "geonameId": 6557707,
+      "toponymName": "Schwerte",
+      "adminCode4": "05978028",
+      "population": 46376,
+      "adminName5": "",
+      "adminName4": "Schwerte",
+      "adminName3": "Kreis Unna",
+      "adminName2": "Regierungsbezirk Arnsberg",
+      "name": "Schwerte",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "North Rhine-Westphalia"
+    },
+    {
+      "adminCode1": "07",
+      "lng": "7.58333",
+      "geonameId": 2834263,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "toponymName": "Bahnhof Schwerte Ost",
+      "asciiName": "Bahnhof Schwerte Ost",
+      "countryId": "2921044",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 3.871462345123291,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "DE",
+      "name": "Bahnhof Schwerte Ost",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "railroad station",
+      "adminId1": "2861876",
+      "adminName1": "North Rhine-Westphalia",
+      "lat": "51.45",
+      "fcode": "RSTN",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Fernmeldeturm Schwerte",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 3.871462345123291,
+      "cc2": "DE",
+      "countryCode": "DE",
+      "adminId1": "2861876",
+      "lat": "51.46203",
+      "fcode": "TOWR",
+      "continentCode": "EU",
+      "adminCode1": "07",
+      "lng": "7.54346",
+      "geonameId": 7281698,
+      "toponymName": "Fernmeldeturm Schwerte",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Schwerter Spargel",
+        "lang": "de"
+      }],
+      "adminName2": "",
+      "name": "Fernmeldeturm Schwerte",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "tower",
+      "adminName1": "North Rhine-Westphalia"
+    }
+  ]
+}

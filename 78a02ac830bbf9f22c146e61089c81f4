@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A252",
+               "short_name" : "A252",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hamburg-Mitte",
+               "short_name" : "Hamburg-Mitte",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21109",
+               "short_name" : "21109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A252, 21109 Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5175943,
+                  "lng" : 10.0237727
+               },
+               "southwest" : {
+                  "lat" : 53.5169226,
+                  "lng" : 10.0120589
+               }
+            },
+            "location" : {
+               "lat" : 53.5174902,
+               "lng" : 10.0179615
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5186074302915,
+                  "lng" : 10.0237727
+               },
+               "southwest" : {
+                  "lat" : 53.5159094697085,
+                  "lng" : 10.0120589
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

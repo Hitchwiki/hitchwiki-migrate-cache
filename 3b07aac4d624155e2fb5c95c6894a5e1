@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madagascar",
+               "short_name" : "MG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madagascar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -11.9519639,
+                  "lng" : 50.48377989999999
+               },
+               "southwest" : {
+                  "lat" : -25.6065717,
+                  "lng" : 43.1851395
+               }
+            },
+            "location" : {
+               "lat" : -18.766947,
+               "lng" : 46.869107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.9519639,
+                  "lng" : 50.48377989999999
+               },
+               "southwest" : {
+                  "lat" : -25.6065717,
+                  "lng" : 43.1851395
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horten",
+               "short_name" : "Horten",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horten",
+               "short_name" : "Horten",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vestfold",
+               "short_name" : "Vestfold",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horten, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.4533343,
+                  "lng" : 10.4972066
+               },
+               "southwest" : {
+                  "lat" : 59.3899872,
+                  "lng" : 10.4257811
+               }
+            },
+            "location" : {
+               "lat" : 59.417084,
+               "lng" : 10.4832128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.4533343,
+                  "lng" : 10.4972066
+               },
+               "southwest" : {
+                  "lat" : 59.3899872,
+                  "lng" : 10.4257811
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A1, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.23528469999999,
+                  "lng" : 19.6602809
+               },
+               "southwest" : {
+                  "lat" : 49.9362435,
+                  "lng" : 18.4068466
+               }
+            },
+            "location" : {
+               "lat" : 52.14205339999999,
+               "lng" : 19.4827521
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.23528469999999,
+                  "lng" : 19.6602809
+               },
+               "southwest" : {
+                  "lat" : 49.9362435,
+                  "lng" : 18.4068466
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "częstochowski",
+               "short_name" : "częstochowski",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "śląskie",
+               "short_name" : "śląskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A1, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8877076,
+                  "lng" : 19.1749008
+               },
+               "southwest" : {
+                  "lat" : 50.8841206,
+                  "lng" : 19.1675051
+               }
+            },
+            "location" : {
+               "lat" : 50.88560039999999,
+               "lng" : 19.170692
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8877076,
+                  "lng" : 19.1749008
+               },
+               "southwest" : {
+                  "lat" : 50.8841206,
+                  "lng" : 19.1675051
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wyczerpy - Aniołów",
+               "short_name" : "Wyczerpy - Aniołów",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Częstochowa",
+               "short_name" : "Częstochowa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Częstochowa",
+               "short_name" : "Częstochowa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Częstochowa",
+               "short_name" : "Częstochowa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "śląskie",
+               "short_name" : "śląskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A1, Częstochowa, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.87976219999999,
+                  "lng" : 19.1641903
+               },
+               "southwest" : {
+                  "lat" : 50.8757443,
+                  "lng" : 19.1609754
+               }
+            },
+            "location" : {
+               "lat" : 50.8771509,
+               "lng" : 19.1620982
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.87976219999999,
+                  "lng" : 19.1641903
+               },
+               "southwest" : {
+                  "lat" : 50.8757443,
+                  "lng" : 19.1609754
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Węgrzce",
+               "short_name" : "Węgrzce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Zielonki",
+               "short_name" : "Gmina Zielonki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "krakowski",
+               "short_name" : "krakowski",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Województwo małopolskie",
+               "short_name" : "Województwo małopolskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32-086",
+               "short_name" : "32-086",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A1, 32-086 Węgrzce, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1211987,
+                  "lng" : 19.9736503
+               },
+               "southwest" : {
+                  "lat" : 50.1198829,
+                  "lng" : 19.9671735
+               }
+            },
+            "location" : {
+               "lat" : 50.1204261,
+               "lng" : 19.9705862
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1218897802915,
+                  "lng" : 19.9736503
+               },
+               "southwest" : {
+                  "lat" : 50.1191918197085,
+                  "lng" : 19.9671735
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chemnitz",
+               "short_name" : "Chemnitz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chemnitz",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chemnitz, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9038177,
+                  "lng" : 13.0543362
+               },
+               "southwest" : {
+                  "lat" : 50.7414127,
+                  "lng" : 12.727616
+               }
+            },
+            "location" : {
+               "lat" : 50.827845,
+               "lng" : 12.9213697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9038177,
+                  "lng" : 13.0543362
+               },
+               "southwest" : {
+                  "lat" : 50.7414127,
+                  "lng" : 12.727616
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

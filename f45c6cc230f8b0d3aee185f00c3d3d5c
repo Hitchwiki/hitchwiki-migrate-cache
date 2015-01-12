@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A143",
+               "short_name" : "A143",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sachsen-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A143, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4854594,
+                  "lng" : 11.8648622
+               },
+               "southwest" : {
+                  "lat" : 51.40580869999999,
+                  "lng" : 11.8390179
+               }
+            },
+            "location" : {
+               "lat" : 51.4463978,
+               "lng" : 11.8637838
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4854594,
+                  "lng" : 11.8648622
+               },
+               "southwest" : {
+                  "lat" : 51.40580869999999,
+                  "lng" : 11.8390179
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

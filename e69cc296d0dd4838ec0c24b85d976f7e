@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A104",
+               "short_name" : "A104",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University of Regensburg",
+               "short_name" : "University of Regensburg",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Regensburg",
+               "short_name" : "R",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberpfalz",
+               "short_name" : "Oberpfalz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93053",
+               "short_name" : "93053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Regensburg, A104, 93053 Regensburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0034001,
+                  "lng" : 12.0970182
+               },
+               "southwest" : {
+                  "lat" : 49.0032994,
+                  "lng" : 12.096903
+               }
+            },
+            "location" : {
+               "lat" : 49.0033354,
+               "lng" : 12.0969628
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0046987302915,
+                  "lng" : 12.0983095802915
+               },
+               "southwest" : {
+                  "lat" : 49.0020007697085,
+                  "lng" : 12.0956116197085
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

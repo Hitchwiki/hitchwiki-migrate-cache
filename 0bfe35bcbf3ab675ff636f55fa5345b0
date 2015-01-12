@@ -1,0 +1,87 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode3": "334",
+      "adminCode2": "33",
+      "countryName": "France",
+      "adminCode1": "97",
+      "score": 13.651763916015625,
+      "lng": "-1.19415",
+      "adminCode4": "33214",
+      "adminName2": "Gironde",
+      "fcodeName": "populated place",
+      "adminName3": "Arrondissement de Lesparre-Médoc",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris"
+      },
+      "adminName4": "Lacanau",
+      "adminName5": "",
+      "bbox": {
+        "south": 44.992359351248574,
+        "east": -1.1814287617054933,
+        "north": 45.01034664875143,
+        "west": -1.2068712382945068
+      },
+      "name": "Lacanau-Océan",
+      "fcode": "PPL",
+      "geonameId": 3010623,
+      "asciiName": "Lacanau-Ocean",
+      "lat": "45.00135",
+      "population": 0,
+      "adminName1": "Aquitaine",
+      "adminId1": "3037350",
+      "countryId": "3017382",
+      "fclName": "city, village,...",
+      "countryCode": "FR",
+      "adminId4": "6454004",
+      "adminId3": "3000071",
+      "adminId2": "3015948",
+      "toponymName": "Lacanau-Océan",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "334",
+      "alternateNames": [{
+        "name": "33680",
+        "lang": "post"
+      }],
+      "adminCode2": "33",
+      "countryName": "France",
+      "adminCode1": "97",
+      "score": 3.9989161491394043,
+      "lng": "-1.19595",
+      "adminCode4": "33214",
+      "adminName2": "Gironde",
+      "fcodeName": "post office",
+      "adminName3": "Arrondissement de Lesparre-Médoc",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris"
+      },
+      "adminName4": "Lacanau",
+      "adminName5": "",
+      "name": "Bureau de Poste de Lacanau Ocean",
+      "fcode": "PO",
+      "geonameId": 8291872,
+      "asciiName": "Bureau de Poste de Lacanau Ocean",
+      "lat": "45.00171",
+      "population": 0,
+      "adminName1": "Aquitaine",
+      "adminId1": "3037350",
+      "countryId": "3017382",
+      "fclName": "spot, building, farm",
+      "countryCode": "FR",
+      "adminId4": "6454004",
+      "adminId3": "3000071",
+      "adminId2": "3015948",
+      "toponymName": "Bureau de Poste de Lacanau Ocean",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

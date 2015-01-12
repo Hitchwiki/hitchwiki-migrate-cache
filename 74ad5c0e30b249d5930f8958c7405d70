@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S14",
+               "short_name" : "S14",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "pabianicki",
+               "short_name" : "pabianicki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "województwo łódzkie",
+               "short_name" : "województwo łódzkie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S14, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6967177,
+                  "lng" : 19.3417608
+               },
+               "southwest" : {
+                  "lat" : 51.6023159,
+                  "lng" : 19.270632
+               }
+            },
+            "location" : {
+               "lat" : 51.6564825,
+               "lng" : 19.2738168
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6967177,
+                  "lng" : 19.3417608
+               },
+               "southwest" : {
+                  "lat" : 51.6023159,
+                  "lng" : 19.270632
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

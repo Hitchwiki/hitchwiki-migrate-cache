@@ -1,0 +1,430 @@
+{
+  "totalResultsCount": 43,
+  "geonames": [
+    {
+      "adminCode1": "00",
+      "lng": "174.01667",
+      "geonameId": 2184633,
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "toponymName": "Picton",
+      "asciiName": "Picton",
+      "countryId": "2186224",
+      "fcl": "A",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 29.7645206451416,
+      "adminName3": "",
+      "cc2": "NZ",
+      "adminName2": "",
+      "countryCode": "NZ",
+      "name": "Picton",
+      "fclName": "country, state, region,...",
+      "countryName": "New Zealand",
+      "fcodeName": "administrative division",
+      "adminName1": "",
+      "lat": "-41.3",
+      "fcode": "ADMD",
+      "continentCode": "OC"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "asciiName": "Picton Aerodrome",
+      "countryId": "2186224",
+      "fcl": "S",
+      "score": 26.622196197509766,
+      "adminId2": "7910052",
+      "countryCode": "NZ",
+      "adminId1": "2187304",
+      "lat": "-41.3461",
+      "fcode": "AIRP",
+      "continentCode": "OC",
+      "adminCode2": "053",
+      "adminCode1": "F4",
+      "lng": "173.95599",
+      "geonameId": 7730730,
+      "toponymName": "Picton Aerodrome",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "PCN",
+          "lang": "iata"
+        },
+        {
+          "name": "NZPN",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Picton_Aerodrome",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Marlborough District",
+      "name": "Picton Aerodrome",
+      "fclName": "spot, building, farm",
+      "countryName": "New Zealand",
+      "fcodeName": "airport",
+      "adminName1": "Marlborough"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": 174.018646249992,
+        "south": -41.294628783019746,
+        "north": -41.281909842980255,
+        "west": 174.001720892008
+      },
+      "asciiName": "Picton",
+      "countryId": "2186224",
+      "fcl": "P",
+      "score": 26.043954849243164,
+      "adminId2": "7910052",
+      "countryCode": "NZ",
+      "adminId1": "2187304",
+      "lat": "-41.28827",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "053",
+      "adminCode1": "F4",
+      "lng": "174.01018",
+      "geonameId": 6243776,
+      "toponymName": "Picton",
+      "population": 3000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Picton",
+          "lang": "en"
+        },
+        {
+          "name": "PCN",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Picton%2C_New_Zealand",
+          "lang": "link"
+        },
+        {
+          "name": "Пиктон",
+          "lang": "ru"
+        },
+        {
+          "name": "PCN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Marlborough District",
+      "name": "Picton",
+      "fclName": "city, village,...",
+      "countryName": "New Zealand",
+      "fcodeName": "populated place",
+      "adminName1": "Marlborough"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "bbox": {
+        "east": 150.640060992,
+        "south": -34.2182979945,
+        "north": -34.1327939915,
+        "west": 150.532043264
+      },
+      "asciiName": "Picton",
+      "countryId": "2077456",
+      "fcl": "P",
+      "score": 26.043954849243164,
+      "adminId2": "7839790",
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-34.16995",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "18400",
+      "adminCode1": "02",
+      "lng": "150.61168",
+      "geonameId": 2153259,
+      "toponymName": "Picton",
+      "population": 4284,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Picton%2C_New_South_Wales",
+          "lang": "link"
+        },
+        {
+          "name": "Гол Гол",
+          "lang": "ru"
+        },
+        {
+          "name": "PIC",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Wollondilly",
+      "name": "Picton",
+      "fclName": "city, village,...",
+      "countryName": "Australia",
+      "fcodeName": "populated place",
+      "adminName1": "New South Wales"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -77.12192374219042,
+        "south": 43.99233165270855,
+        "north": 44.007909109291454,
+        "west": -77.14358184380957
+      },
+      "asciiName": "Picton",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 23.294422149658203,
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.00012",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "08",
+      "lng": "-77.13275",
+      "geonameId": 6104215,
+      "toponymName": "Picton",
+      "population": 3983,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Picton%2C_Ontario",
+          "lang": "link"
+        },
+        {
+          "name": "PIC",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Picton",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Hobart",
+        "dstOffset": 10
+      },
+      "asciiName": "Lake Picton",
+      "countryId": "2077456",
+      "fcl": "H",
+      "score": 22.32339096069336,
+      "countryCode": "AU",
+      "adminId1": "2147291",
+      "lat": "-43.16016",
+      "fcode": "LK",
+      "continentCode": "OC",
+      "adminCode1": "06",
+      "lng": "146.64117",
+      "geonameId": 8211623,
+      "toponymName": "Lake Picton",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Lake Picton",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Lake Picton",
+      "fclName": "stream, lake, ...",
+      "countryName": "Australia",
+      "fcodeName": "lake",
+      "adminName1": "Tasmania"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Sydney",
+        "dstOffset": 10
+      },
+      "asciiName": "Picton Lakes",
+      "countryId": "2077456",
+      "fcl": "H",
+      "score": 18.602825164794922,
+      "countryCode": "AU",
+      "adminId1": "2155400",
+      "lat": "-34.2152",
+      "fcode": "LK",
+      "continentCode": "OC",
+      "adminCode1": "02",
+      "lng": "150.53461",
+      "geonameId": 2153258,
+      "toponymName": "Picton Lakes",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Picton Lakes",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Picton Lakes",
+      "fclName": "stream, lake, ...",
+      "countryName": "Australia",
+      "fcodeName": "lake",
+      "adminName1": "New South Wales"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Australia/Perth",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 115.703141408,
+        "south": -33.4087764375,
+        "north": -33.349256942500006,
+        "west": 115.661293984
+      },
+      "asciiName": "Picton Junction",
+      "countryId": "2077456",
+      "fcl": "P",
+      "score": 16.30270004272461,
+      "cc2": "AU",
+      "adminId2": "7839476",
+      "countryCode": "AU",
+      "adminId1": "2058645",
+      "lat": "-33.35",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "51190",
+      "adminCode1": "08",
+      "lng": "115.7",
+      "geonameId": 2063428,
+      "toponymName": "Picton Junction",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "PCN",
+        "lang": "unlc"
+      }],
+      "adminName2": "Bunbury",
+      "name": "Picton Junction",
+      "fclName": "city, village,...",
+      "countryName": "Australia",
+      "fcodeName": "populated place",
+      "adminName1": "Western Australia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Australia/Perth",
+        "dstOffset": 8
+      },
+      "asciiName": "Picton Port",
+      "countryId": "2186224",
+      "fcl": "L",
+      "score": 16.30270004272461,
+      "adminId2": "7910052",
+      "countryCode": "NZ",
+      "adminId1": "2187304",
+      "lat": "-41.28551",
+      "fcode": "PRT",
+      "continentCode": "OC",
+      "adminCode2": "053",
+      "adminCode1": "F4",
+      "lng": "174.00423",
+      "geonameId": 9828484,
+      "toponymName": "Picton Port",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Picton Harbour",
+        "lang": "en"
+      }],
+      "adminName2": "Marlborough District",
+      "name": "Picton Harbour",
+      "fclName": "parks,area, ...",
+      "countryName": "New Zealand",
+      "fcodeName": "port",
+      "adminName1": "Marlborough"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -1.3345279986608027,
+        "south": 54.441006351248575,
+        "north": 54.45899364875143,
+        "west": -1.3654720013391974
+      },
+      "asciiName": "Picton",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 14.8822603225708,
+      "adminId2": "2641209",
+      "adminId3": "7290607",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "54.45",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "J7",
+      "adminCode3": "36UC",
+      "adminCode1": "ENG",
+      "lng": "-1.35",
+      "geonameId": 2640306,
+      "toponymName": "Picton",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Hambleton District",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Picton%2C_North_Yorkshire",
+        "lang": "link"
+      }],
+      "adminName2": "North Yorkshire",
+      "name": "Picton",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "England"
+    }
+  ]
+}

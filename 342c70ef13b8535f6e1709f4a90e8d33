@@ -1,0 +1,218 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode2": "787",
+      "alternateNames": [
+        {
+          "name": "Hanstholm",
+          "lang": "da"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "de"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "en"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "fo"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Hanstholm",
+          "lang": "link"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "nl"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "no"
+        },
+        {
+          "name": "Gmina Hanstholm",
+          "lang": "pl"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "pt"
+        },
+        {
+          "name": "Hanstholm",
+          "lang": "sv"
+        },
+        {
+          "name": "HAN",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Denmark",
+      "adminCode1": "19",
+      "score": 61.214115142822266,
+      "lng": "8.61667",
+      "adminName2": "Thisted Kommune",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 57.11030722998026,
+        "east": 8.628381949423693,
+        "north": 57.12302617001975,
+        "west": 8.604951450576307
+      },
+      "name": "Hanstholm",
+      "fcode": "PPL",
+      "geonameId": 2620786,
+      "asciiName": "Hanstholm",
+      "lat": "57.11667",
+      "population": 2418,
+      "adminName1": "North Denmark",
+      "adminId1": "6418540",
+      "countryId": "2623032",
+      "fclName": "city, village,...",
+      "countryCode": "DK",
+      "adminId2": "2611753",
+      "toponymName": "Hanstholm",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminId1": "6418540",
+      "countryId": "2623032",
+      "adminCode1": "19",
+      "countryName": "Denmark",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 15.303528785705566,
+      "countryCode": "DK",
+      "lng": "8.67304",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "upland",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "toponymName": "Hanstholm",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "EU",
+      "name": "Hanstholm",
+      "fcode": "UPLD",
+      "asciiName": "Hanstholm",
+      "geonameId": 2620785,
+      "lat": "57.10159",
+      "adminName1": "North Denmark",
+      "population": 0
+    },
+    {
+      "countryName": "Denmark",
+      "adminCode1": "19",
+      "cc2": "DK",
+      "score": 10.693665504455566,
+      "lng": "8.6",
+      "adminName2": "",
+      "fcodeName": "harbor(s)",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hanstholm Havn",
+      "fcode": "HBR",
+      "geonameId": 2620784,
+      "asciiName": "Hanstholm Havn",
+      "lat": "57.11667",
+      "population": 0,
+      "adminName1": "North Denmark",
+      "countryId": "2623032",
+      "adminId1": "6418540",
+      "fclName": "stream, lake, ...",
+      "countryCode": "DK",
+      "toponymName": "Hanstholm Havn",
+      "fcl": "H",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "787",
+      "countryName": "Denmark",
+      "adminCode1": "19",
+      "score": 5.346832752227783,
+      "lng": "8.6043",
+      "adminName2": "Thisted Kommune",
+      "fcodeName": "hotel",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hotel Hanstholm",
+      "fcode": "HTL",
+      "geonameId": 6532658,
+      "asciiName": "HOTEL HANSTHOLM",
+      "lat": "57.1158",
+      "population": 0,
+      "adminName1": "North Denmark",
+      "countryId": "2623032",
+      "adminId1": "6418540",
+      "fclName": "spot, building, farm",
+      "countryCode": "DK",
+      "adminId2": "2611753",
+      "toponymName": "Hotel Hanstholm",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "787",
+      "countryName": "Denmark",
+      "adminCode1": "19",
+      "score": 4.782352924346924,
+      "lng": "8.78333",
+      "adminName2": "Thisted Kommune",
+      "fcodeName": "airfield",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hanstholm",
+      "fcode": "AIRF",
+      "geonameId": 2620787,
+      "asciiName": "Hanstholm",
+      "lat": "57.08333",
+      "population": 0,
+      "adminName1": "North Denmark",
+      "countryId": "2623032",
+      "adminId1": "6418540",
+      "fclName": "spot, building, farm",
+      "countryCode": "DK",
+      "adminId2": "2611753",
+      "toponymName": "Hanstholm",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

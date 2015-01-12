@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.2767521,
+                  "lng" : -74.13222309999999
+               },
+               "southwest" : {
+                  "lat" : 19.8258994,
+                  "lng" : -85.07124709999999
+               }
+            },
+            "location" : {
+               "lat" : 21.521757,
+               "lng" : -77.781167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.2767521,
+                  "lng" : -74.13222309999999
+               },
+               "southwest" : {
+                  "lat" : 19.8258994,
+                  "lng" : -85.07124709999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

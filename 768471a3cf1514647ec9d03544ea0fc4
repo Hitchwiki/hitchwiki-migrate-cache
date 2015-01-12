@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.1854762,
+                  "lng" : 31.1682684
+               },
+               "southwest" : {
+                  "lat" : 57.95974380000001,
+                  "lng" : 4.5000962
+               }
+            },
+            "location" : {
+               "lat" : 60.47202399999999,
+               "lng" : 8.468945999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.1854762,
+                  "lng" : 31.1497892
+               },
+               "southwest" : {
+                  "lat" : 57.9711417,
+                  "lng" : 4.6266848
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

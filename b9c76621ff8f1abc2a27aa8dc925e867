@@ -1,0 +1,188 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Göreme",
+          "lang": "de"
+        },
+        {
+          "name": "Göreme",
+          "lang": "en"
+        },
+        {
+          "name": "Göreme",
+          "lang": "es"
+        },
+        {
+          "name": "Parc national de Göreme et sites rupestres de Cappadoce",
+          "lang": "fr"
+        },
+        {
+          "name": "Göreme",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/G%C3%B6reme",
+          "lang": "link"
+        },
+        {
+          "name": "Göreme",
+          "lang": "pl"
+        },
+        {
+          "name": "Гореме",
+          "lang": "ru"
+        },
+        {
+          "name": "Göreme",
+          "lang": "sv"
+        },
+        {
+          "name": "Göreme Tarihi Milli Parkı",
+          "lang": "tr"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "50",
+      "score": 72.16647338867188,
+      "lng": "34.83529",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.63364979501302,
+        "east": 34.84816385873866,
+        "north": 38.65376020498697,
+        "west": 34.82241214126134
+      },
+      "name": "Göreme",
+      "fcode": "PPL",
+      "geonameId": 313947,
+      "asciiName": "Goereme",
+      "lat": "38.6437",
+      "population": 6350,
+      "adminName1": "Nevşehir",
+      "countryId": "298795",
+      "adminId1": "303830",
+      "fclName": "city, village,...",
+      "countryCode": "TR",
+      "toponymName": "Göreme",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "Göreme National Park",
+        "lang": "en"
+      }],
+      "countryName": "Turkey",
+      "adminCode1": "50",
+      "score": 26.39081382751465,
+      "lng": "34.81374",
+      "adminName2": "",
+      "fcodeName": "park",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Göreme National Park",
+      "fcode": "PRK",
+      "geonameId": 317641,
+      "asciiName": "Goreme Tarihi Milli Parki",
+      "lat": "38.67642",
+      "population": 0,
+      "adminName1": "Nevşehir",
+      "countryId": "298795",
+      "adminId1": "303830",
+      "fclName": "parks,area, ...",
+      "countryCode": "TR",
+      "toponymName": "Göreme Tarihi Milli Parkı",
+      "fcl": "L",
+      "continentCode": "AS"
+    },
+    {
+      "countryName": "Turkey",
+      "adminCode1": "33",
+      "cc2": "TR",
+      "score": 13.025917053222656,
+      "lng": "30.64972",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.10711745124857,
+        "east": 30.66115483514054,
+        "north": 38.125104748751426,
+        "west": 30.63828956485946
+      },
+      "name": "Ortayazı",
+      "fcode": "PPL",
+      "geonameId": 303240,
+      "asciiName": "Ortayazi",
+      "lat": "38.11611",
+      "population": 0,
+      "adminName1": "Isparta",
+      "countryId": "298795",
+      "adminId1": "311071",
+      "fclName": "city, village,...",
+      "countryCode": "TR",
+      "toponymName": "Ortayazı",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode3": "564",
+      "adminCode2": "171",
+      "countryName": "Finland",
+      "adminCode1": "17",
+      "score": 2.9001235961914062,
+      "lng": "25.53527",
+      "adminName2": "Oulu",
+      "fcodeName": "restaurant",
+      "adminName3": "Oulu",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Helsinki"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Pizzeria Göreme",
+      "fcode": "REST",
+      "geonameId": 6615490,
+      "asciiName": "Pizzeria Goereme",
+      "lat": "65.00886",
+      "population": 0,
+      "adminName1": "Northern Ostrobothnia",
+      "countryId": "660013",
+      "adminId1": "830667",
+      "fclName": "spot, building, farm",
+      "countryCode": "FI",
+      "adminId3": "643493",
+      "adminId2": "9610672",
+      "toponymName": "Pizzeria Göreme",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

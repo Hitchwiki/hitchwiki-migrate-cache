@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ostroda",
+               "short_name" : "Ostroda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Ostróda",
+               "short_name" : "Gmina Ostróda",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ostróda County",
+               "short_name" : "Ostróda County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Warmian-Masurian Voivodeship",
+               "short_name" : "Warmian-Masurian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ostroda, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.72461,
+                  "lng" : 20.0001497
+               },
+               "southwest" : {
+                  "lat" : 53.68094989999999,
+                  "lng" : 19.9058201
+               }
+            },
+            "location" : {
+               "lat" : 53.69630069999999,
+               "lng" : 19.9647952
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.72461,
+                  "lng" : 20.0001497
+               },
+               "southwest" : {
+                  "lat" : 53.68094989999999,
+                  "lng" : 19.9058201
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

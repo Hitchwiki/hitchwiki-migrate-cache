@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "De Lutte",
+               "short_name" : "De Lutte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Losser",
+               "short_name" : "Losser",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7587",
+               "short_name" : "7587",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7587 De Lutte, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3492067,
+                  "lng" : 7.057151999999999
+               },
+               "southwest" : {
+                  "lat" : 52.27920150000001,
+                  "lng" : 6.9344986
+               }
+            },
+            "location" : {
+               "lat" : 52.3149047,
+               "lng" : 6.9874149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3492067,
+                  "lng" : 7.057151999999999
+               },
+               "southwest" : {
+                  "lat" : 52.27920150000001,
+                  "lng" : 6.9344986
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lütte",
+               "short_name" : "Lütte",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lütte, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2396405,
+                  "lng" : 12.6579259
+               },
+               "southwest" : {
+                  "lat" : 52.1798837,
+                  "lng" : 12.5403644
+               }
+            },
+            "location" : {
+               "lat" : 52.1943607,
+               "lng" : 12.600516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2396405,
+                  "lng" : 12.6579259
+               },
+               "southwest" : {
+                  "lat" : 52.1798837,
+                  "lng" : 12.5403644
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Galgenberg",
+               "short_name" : "Galgenberg",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Hoher Fläming-Belziger Landschaftswiesen",
+               "short_name" : "Hoher Fläming-Belziger Landschaftswiesen",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Lütte",
+               "short_name" : "Lütte",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bad Belzig",
+               "short_name" : "Bad Belzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brandenburg",
+               "short_name" : "BB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14806",
+               "short_name" : "14806",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Galgenberg, Hoher Fläming-Belziger Landschaftswiesen, 14806 Bad Belzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2075,
+               "lng" : 12.5933333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2088489802915,
+                  "lng" : 12.5946822802915
+               },
+               "southwest" : {
+                  "lat" : 52.2061510197085,
+                  "lng" : 12.5919843197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

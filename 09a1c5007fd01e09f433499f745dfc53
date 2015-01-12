@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Accra",
+               "short_name" : "Accra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Accra Metropolis",
+               "short_name" : "Accra Metropolis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greater Accra",
+               "short_name" : "Greater Accra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ghana",
+               "short_name" : "GH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Accra, Ghana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.668430499999999,
+                  "lng" : -0.060339
+               },
+               "southwest" : {
+                  "lat" : 5.5139869,
+                  "lng" : -0.2991199
+               }
+            },
+            "location" : {
+               "lat" : 5.55,
+               "lng" : -0.2
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.668430499999999,
+                  "lng" : -0.060339
+               },
+               "southwest" : {
+                  "lat" : 5.5139869,
+                  "lng" : -0.2991199
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

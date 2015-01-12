@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dol-de-Bretagne",
+               "short_name" : "Dol-de-Bretagne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ille-et-Vilaine",
+               "short_name" : "35",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35120",
+               "short_name" : "35120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "35120 Dol-de-Bretagne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.558477,
+                  "lng" : -1.7072831
+               },
+               "southwest" : {
+                  "lat" : 48.5091729,
+                  "lng" : -1.786121
+               }
+            },
+            "location" : {
+               "lat" : 48.54969,
+               "lng" : -1.753965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.558477,
+                  "lng" : -1.7072831
+               },
+               "southwest" : {
+                  "lat" : 48.5091729,
+                  "lng" : -1.786121
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

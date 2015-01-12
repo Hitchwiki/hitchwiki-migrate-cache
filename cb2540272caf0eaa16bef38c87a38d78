@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mosonmagyaróvár",
+               "short_name" : "Mosonmagyaróvár",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mosonmagyaróvári",
+               "short_name" : "Mosonmagyaróvári",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gyõr-Moson-Sopron",
+               "short_name" : "Gyõr-Moson-Sopron",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mosonmagyaróvár, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.94246700000001,
+                  "lng" : 17.3775699
+               },
+               "southwest" : {
+                  "lat" : 47.796268,
+                  "lng" : 17.2013589
+               }
+            },
+            "location" : {
+               "lat" : 47.8681469,
+               "lng" : 17.2689169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.94246700000001,
+                  "lng" : 17.3775699
+               },
+               "southwest" : {
+                  "lat" : 47.796268,
+                  "lng" : 17.2013589
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

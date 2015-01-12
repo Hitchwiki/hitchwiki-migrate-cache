@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maldonado",
+               "short_name" : "Maldonado",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maldonado, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.91334880000001,
+                  "lng" : -54.4719539
+               },
+               "southwest" : {
+                  "lat" : -34.9733882,
+                  "lng" : -55.48498189999999
+               }
+            },
+            "location" : {
+               "lat" : -34.6277617,
+               "lng" : -54.9611836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.91334880000001,
+                  "lng" : -54.4719539
+               },
+               "southwest" : {
+                  "lat" : -34.9733882,
+                  "lng" : -55.48498189999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maldonado",
+               "short_name" : "Maldonado",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maldonado",
+               "short_name" : "Maldonado",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maldonado, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.87904839999999,
+                  "lng" : -54.9212657
+               },
+               "southwest" : {
+                  "lat" : -34.9319286,
+                  "lng" : -55.0060987
+               }
+            },
+            "location" : {
+               "lat" : -34.9,
+               "lng" : -54.95
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.87904839999999,
+                  "lng" : -54.9212657
+               },
+               "southwest" : {
+                  "lat" : -34.9319286,
+                  "lng" : -55.0060987
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maldonado",
+               "short_name" : "Maldonado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ciudadela",
+               "short_name" : "Ciudadela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tres de Febrero Partido",
+               "short_name" : "3 de Febrero",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maldonado, Ciudadela, Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.6361465,
+                  "lng" : -58.5412331
+               },
+               "southwest" : {
+                  "lat" : -34.6397285,
+                  "lng" : -58.5450211
+               }
+            },
+            "location" : {
+               "lat" : -34.6379471,
+               "lng" : -58.54313659999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.6361465,
+                  "lng" : -58.5412331
+               },
+               "southwest" : {
+                  "lat" : -34.6397285,
+                  "lng" : -58.5450211
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maldonado",
+               "short_name" : "Maldonado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Benito",
+               "short_name" : "San Benito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cameron County",
+               "short_name" : "Cameron County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78586",
+               "short_name" : "78586",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maldonado, San Benito, TX 78586, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.14464,
+                  "lng" : -97.6004403
+               },
+               "southwest" : {
+                  "lat" : 26.143666,
+                  "lng" : -97.60173999999999
+               }
+            },
+            "location" : {
+               "lat" : 26.14464,
+               "lng" : -97.60173999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1455019802915,
+                  "lng" : -97.59974116970848
+               },
+               "southwest" : {
+                  "lat" : 26.1428040197085,
+                  "lng" : -97.6024391302915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manzanillo",
+               "short_name" : "Manzanillo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manzanillo",
+               "short_name" : "Manzanillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Granma",
+               "short_name" : "Granma",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cuba",
+               "short_name" : "CU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manzanillo, Cuba",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.3566514,
+                  "lng" : -77.095489
+               },
+               "southwest" : {
+                  "lat" : 20.3133313,
+                  "lng" : -77.1568934
+               }
+            },
+            "location" : {
+               "lat" : 20.339722,
+               "lng" : -77.10861100000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.3566514,
+                  "lng" : -77.095489
+               },
+               "southwest" : {
+                  "lat" : 20.3133313,
+                  "lng" : -77.1568934
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

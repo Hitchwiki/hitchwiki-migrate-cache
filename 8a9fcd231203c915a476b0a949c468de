@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trinidad",
+               "short_name" : "Trinidad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cercado",
+               "short_name" : "Cercado",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Beni Department",
+               "short_name" : "Beni Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bolivia",
+               "short_name" : "BO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trinidad, Bolivia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -14.8063714,
+                  "lng" : -64.869547
+               },
+               "southwest" : {
+                  "lat" : -14.8535973,
+                  "lng" : -64.93431819999999
+               }
+            },
+            "location" : {
+               "lat" : -14.829167,
+               "lng" : -64.90138899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.8063714,
+                  "lng" : -64.869547
+               },
+               "southwest" : {
+                  "lat" : -14.8535973,
+                  "lng" : -64.93431819999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

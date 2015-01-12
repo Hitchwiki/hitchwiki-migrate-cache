@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sardinia",
+               "short_name" : "Sardinia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sardinia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.313195,
+                  "lng" : 9.827037599999999
+               },
+               "southwest" : {
+                  "lat" : 38.8592115,
+                  "lng" : 8.1308048
+               }
+            },
+            "location" : {
+               "lat" : 40.1208752,
+               "lng" : 9.012892599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.313195,
+                  "lng" : 9.827037599999999
+               },
+               "southwest" : {
+                  "lat" : 38.8592301,
+                  "lng" : 8.1308048
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

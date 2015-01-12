@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagrationovsk",
+               "short_name" : "Bagrationovsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagrationovsky District",
+               "short_name" : "Bagrationovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningrad Oblast",
+               "short_name" : "Kaliningrad Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238420",
+               "short_name" : "238420",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bagrationovsk, Kaliningrad Oblast, Russia, 238420",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.40598499999999,
+                  "lng" : 20.6727038
+               },
+               "southwest" : {
+                  "lat" : 54.373884,
+                  "lng" : 20.6151421
+               }
+            },
+            "location" : {
+               "lat" : 54.384104,
+               "lng" : 20.6466037
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.40598499999999,
+                  "lng" : 20.6727038
+               },
+               "southwest" : {
+                  "lat" : 54.373884,
+                  "lng" : 20.6151421
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

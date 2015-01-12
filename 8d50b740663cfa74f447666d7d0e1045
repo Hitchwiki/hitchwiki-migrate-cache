@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A89",
+               "short_name" : "A89",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A89, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.9751719,
+                  "lng" : 4.7004643
+               },
+               "southwest" : {
+                  "lat" : 44.8720978,
+                  "lng" : -0.288116
+               }
+            },
+            "location" : {
+               "lat" : 45.4797035,
+               "lng" : 2.1545016
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.9751719,
+                  "lng" : 4.7004643
+               },
+               "southwest" : {
+                  "lat" : 44.8720978,
+                  "lng" : -0.288116
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

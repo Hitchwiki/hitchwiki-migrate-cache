@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cholpon Ata",
+               "short_name" : "Cholpon Ata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Issyk-Kul",
+               "short_name" : "Issyk-Kul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ysyk Kol Province",
+               "short_name" : "Ysyk Kol Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cholpon Ata, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6674797,
+                  "lng" : 77.11501109999999
+               },
+               "southwest" : {
+                  "lat" : 42.6251165,
+                  "lng" : 77.0524406
+               }
+            },
+            "location" : {
+               "lat" : 42.65,
+               "lng" : 77.083333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6674797,
+                  "lng" : 77.11501109999999
+               },
+               "southwest" : {
+                  "lat" : 42.6251165,
+                  "lng" : 77.0524406
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A253",
+               "short_name" : "A253",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "Hamburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamburg",
+               "short_name" : "HH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A253, Hamburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4807591,
+                  "lng" : 9.9986374
+               },
+               "southwest" : {
+                  "lat" : 53.4509208,
+                  "lng" : 9.9804443
+               }
+            },
+            "location" : {
+               "lat" : 53.4676458,
+               "lng" : 9.995717899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4807591,
+                  "lng" : 9.9986374
+               },
+               "southwest" : {
+                  "lat" : 53.4509208,
+                  "lng" : 9.9804443
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

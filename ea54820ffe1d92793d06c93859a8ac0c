@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "Tarragona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "T",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Plaça del Rei, 5, 43003 Tarragona, Spain",
+               "short_name" : "Plaça del Rei, 5, 43003 Tarragona, Spain",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5, Plaça del Rei, 5, 43003 Tarragona, Spain Tarragona, Tarragona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1167913,
+                  "lng" : 1.258843
+               },
+               "southwest" : {
+                  "lat" : 41.1164651,
+                  "lng" : 1.2582687
+               }
+            },
+            "location" : {
+               "lat" : 41.1166537,
+               "lng" : 1.2586063
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1179771802915,
+                  "lng" : 1.259904830291502
+               },
+               "southwest" : {
+                  "lat" : 41.1152792197085,
+                  "lng" : 1.257206869708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

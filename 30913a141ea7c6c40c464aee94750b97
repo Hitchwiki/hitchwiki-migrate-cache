@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Masovian Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4818919,
+                  "lng" : 23.1283212
+               },
+               "southwest" : {
+                  "lat" : 51.0132082,
+                  "lng" : 19.2592569
+               }
+            },
+            "location" : {
+               "lat" : 51.8927182,
+               "lng" : 21.0021679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4818919,
+                  "lng" : 23.1283212
+               },
+               "southwest" : {
+                  "lat" : 51.0132082,
+                  "lng" : 19.2592569
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

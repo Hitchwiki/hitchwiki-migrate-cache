@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Raphaël",
+               "short_name" : "Saint-Raphaël",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Var",
+               "short_name" : "83",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Raphaël, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5100099,
+                  "lng" : 6.933462
+               },
+               "southwest" : {
+                  "lat" : 43.4064869,
+                  "lng" : 6.763371999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.42519,
+               "lng" : 6.76837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5100099,
+                  "lng" : 6.933462
+               },
+               "southwest" : {
+                  "lat" : 43.4064869,
+                  "lng" : 6.763371999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

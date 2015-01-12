@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autovía Ávila-Salamanca",
+               "short_name" : "A-50",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castilla y León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-50, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9448918,
+                  "lng" : -4.7226553
+               },
+               "southwest" : {
+                  "lat" : 40.6697859,
+                  "lng" : -5.635759999999999
+               }
+            },
+            "location" : {
+               "lat" : 40.8724286,
+               "lng" : -5.128055799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9448918,
+                  "lng" : -4.7226553
+               },
+               "southwest" : {
+                  "lat" : 40.6697859,
+                  "lng" : -5.635759999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

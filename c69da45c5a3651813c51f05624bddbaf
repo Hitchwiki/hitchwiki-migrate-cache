@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkestan",
+               "short_name" : "Turkestan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkestan",
+               "short_name" : "Turkestan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Kazakhstan",
+               "short_name" : "South Kazakhstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkestan, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3433448,
+                  "lng" : 68.3469772
+               },
+               "southwest" : {
+                  "lat" : 43.2640188,
+                  "lng" : 68.1742
+               }
+            },
+            "location" : {
+               "lat" : 43.283333,
+               "lng" : 68.266667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3433448,
+                  "lng" : 68.3469772
+               },
+               "southwest" : {
+                  "lat" : 43.2640188,
+                  "lng" : 68.1742
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

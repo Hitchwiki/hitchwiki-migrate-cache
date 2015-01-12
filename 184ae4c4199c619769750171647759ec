@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S6",
+               "short_name" : "S6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S6, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.71030529999999,
+                  "lng" : 16.1139489
+               },
+               "southwest" : {
+                  "lat" : 47.3333158,
+                  "lng" : 15.0163703
+               }
+            },
+            "location" : {
+               "lat" : 47.5371056,
+               "lng" : 15.5611184
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.71030529999999,
+                  "lng" : 16.1139489
+               },
+               "southwest" : {
+                  "lat" : 47.3333158,
+                  "lng" : 15.0163703
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

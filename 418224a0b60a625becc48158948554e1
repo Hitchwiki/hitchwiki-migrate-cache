@@ -1,0 +1,914 @@
+{
+  "totalResultsCount": 3165,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "bbox": {
+        "east": 127.50822333643322,
+        "south": 37.14840018233376,
+        "north": 37.983599817666246,
+        "west": 126.44857666356677
+      },
+      "asciiName": "Seoul",
+      "countryId": "1835841",
+      "fcl": "P",
+      "score": 158.049072265625,
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.566",
+      "fcode": "PPLC",
+      "continentCode": "AS",
+      "adminCode1": "11",
+      "lng": "126.9784",
+      "geonameId": 1835848,
+      "toponymName": "Seoul",
+      "population": 10349312,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Seoel",
+          "lang": "af"
+        },
+        {
+          "name": "ሶል",
+          "lang": "am"
+        },
+        {
+          "name": "Seúl",
+          "lang": "an"
+        },
+        {
+          "name": "سيول",
+          "lang": "ar"
+        },
+        {
+          "name": "سيول",
+          "lang": "arz"
+        },
+        {
+          "name": "Seúl",
+          "lang": "ast"
+        },
+        {
+          "name": "Горад Сеул",
+          "lang": "be"
+        },
+        {
+          "name": "Сеул",
+          "lang": "bg"
+        },
+        {
+          "name": "सियोल",
+          "lang": "bh"
+        },
+        {
+          "name": "Soul",
+          "lang": "bjn"
+        },
+        {
+          "name": "সিউল",
+          "lang": "bn"
+        },
+        {
+          "name": "སེ་ཨུལ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Seul",
+          "lang": "bs"
+        },
+        {
+          "name": "Seül",
+          "lang": "ca"
+        },
+        {
+          "name": "سێئول",
+          "lang": "ckb"
+        },
+        {
+          "name": "Soul",
+          "lang": "cs"
+        },
+        {
+          "name": "Seul",
+          "lang": "csb"
+        },
+        {
+          "name": "Сеул",
+          "lang": "cv"
+        },
+        {
+          "name": "Seoul",
+          "lang": "da"
+        },
+        {
+          "name": "Seoul",
+          "lang": "de"
+        },
+        {
+          "name": "Soul",
+          "lang": "dsb"
+        },
+        {
+          "name": "Σεούλ",
+          "lang": "el"
+        },
+        {
+          "name": "Seoul",
+          "lang": "en"
+        },
+        {
+          "name": "Seulo",
+          "lang": "eo"
+        },
+        {
+          "name": "Seúl",
+          "lang": "es"
+        },
+        {
+          "name": "Sŏul",
+          "lang": "et"
+        },
+        {
+          "name": "Seul",
+          "lang": "eu"
+        },
+        {
+          "name": "Seúl",
+          "lang": "ext"
+        },
+        {
+          "name": "سئول",
+          "lang": "fa"
+        },
+        {
+          "name": "Soul",
+          "lang": "fi"
+        },
+        {
+          "name": "Séoul",
+          "lang": "fr"
+        },
+        {
+          "name": "Seoul",
+          "lang": "ga"
+        },
+        {
+          "name": "Seúl",
+          "lang": "gl"
+        },
+        {
+          "name": "Seoul",
+          "lang": "hbs"
+        },
+        {
+          "name": "סאול",
+          "lang": "he"
+        },
+        {
+          "name": "सियोल",
+          "lang": "hi"
+        },
+        {
+          "name": "Seul",
+          "lang": "hr"
+        },
+        {
+          "name": "Seoul",
+          "lang": "ht"
+        },
+        {
+          "name": "Szöul",
+          "lang": "hu"
+        },
+        {
+          "name": "Սեուլ",
+          "lang": "hy"
+        },
+        {
+          "name": "Seoul",
+          "lang": "ia"
+        },
+        {
+          "name": "SEL",
+          "lang": "iata"
+        },
+        {
+          "name": "Seoul",
+          "lang": "id"
+        },
+        {
+          "name": "Seoul",
+          "lang": "io"
+        },
+        {
+          "name": "Seúl",
+          "lang": "is"
+        },
+        {
+          "name": "Seul",
+          "lang": "it"
+        },
+        {
+          "name": "ソウル特別市",
+          "lang": "ja"
+        },
+        {
+          "name": "სეული",
+          "lang": "ka"
+        },
+        {
+          "name": "Сеул",
+          "lang": "kk"
+        },
+        {
+          "name": "សេអ៊ូល",
+          "lang": "km"
+        },
+        {
+          "name": "ಸೌಲ್",
+          "lang": "kn"
+        },
+        {
+          "name": "서울특별시",
+          "lang": "ko"
+        },
+        {
+          "name": "Sêûl",
+          "lang": "ku"
+        },
+        {
+          "name": "Сеул",
+          "lang": "ky"
+        },
+        {
+          "name": "Seulum",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Seoul",
+          "lang": "link"
+        },
+        {
+          "name": "Seulas",
+          "lang": "lt"
+        },
+        {
+          "name": "Seula",
+          "lang": "lv"
+        },
+        {
+          "name": "Сеул",
+          "lang": "mhr"
+        },
+        {
+          "name": "Сеул",
+          "lang": "mk"
+        },
+        {
+          "name": "സോൾ",
+          "lang": "ml"
+        },
+        {
+          "name": "Сөүл",
+          "lang": "mn"
+        },
+        {
+          "name": "सोल",
+          "lang": "mr"
+        },
+        {
+          "name": "Seoul",
+          "lang": "ms"
+        },
+        {
+          "name": "ဆိုးလ်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Seoel",
+          "lang": "nl"
+        },
+        {
+          "name": "Seoul",
+          "lang": "nn"
+        },
+        {
+          "name": "Seoul",
+          "lang": "no"
+        },
+        {
+          "name": "Seol",
+          "lang": "oc"
+        },
+        {
+          "name": "Сеул",
+          "lang": "os"
+        },
+        {
+          "name": "Seul",
+          "lang": "pl"
+        },
+        {
+          "name": "سیول",
+          "lang": "pnb"
+        },
+        {
+          "name": "Seul",
+          "lang": "pt"
+        },
+        {
+          "name": "Siul",
+          "lang": "qu"
+        },
+        {
+          "name": "Seoul",
+          "lang": "rm"
+        },
+        {
+          "name": "Seul",
+          "lang": "ro"
+        },
+        {
+          "name": "Сеул",
+          "lang": "ru"
+        },
+        {
+          "name": "Соул",
+          "lang": "rue"
+        },
+        {
+          "name": "Сеул",
+          "lang": "sah"
+        },
+        {
+          "name": "Seoul",
+          "lang": "scn"
+        },
+        {
+          "name": "Soul",
+          "lang": "sk"
+        },
+        {
+          "name": "Seul",
+          "lang": "sl"
+        },
+        {
+          "name": "Seoul",
+          "lang": "sq"
+        },
+        {
+          "name": "Сеул",
+          "lang": "sr"
+        },
+        {
+          "name": "Söul",
+          "lang": "sv"
+        },
+        {
+          "name": "Seoul",
+          "lang": "sw"
+        },
+        {
+          "name": "சியோல்",
+          "lang": "ta"
+        },
+        {
+          "name": "Сеул",
+          "lang": "tg"
+        },
+        {
+          "name": "โซล",
+          "lang": "th"
+        },
+        {
+          "name": "Sol",
+          "lang": "tpi"
+        },
+        {
+          "name": "Seul",
+          "lang": "tr"
+        },
+        {
+          "name": "سېئول",
+          "lang": "ug"
+        },
+        {
+          "name": "Сеул",
+          "lang": "uk"
+        },
+        {
+          "name": "SEL",
+          "lang": "unlc"
+        },
+        {
+          "name": "سیول",
+          "lang": "ur"
+        },
+        {
+          "name": "Seoul",
+          "lang": "vi"
+        },
+        {
+          "name": "Söul",
+          "lang": "vo"
+        },
+        {
+          "name": "סעאל",
+          "lang": "yi"
+        },
+        {
+          "name": "首尔特别市",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Seoul",
+      "fclName": "city, village,...",
+      "countryName": "South Korea",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "bbox": {
+        "east": 127.16943359375,
+        "south": 37.43932342529297,
+        "north": 37.69860076904297,
+        "west": 126.82720947265625
+      },
+      "asciiName": "Seoul",
+      "countryId": "1835841",
+      "fcl": "A",
+      "score": 32.576385498046875,
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.58333",
+      "fcode": "ADM1",
+      "continentCode": "AS",
+      "adminCode1": "11",
+      "lng": "127",
+      "geonameId": 1835847,
+      "toponymName": "Seoul",
+      "population": 10349312,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Seoul",
+          "lang": "en"
+        },
+        {
+          "name": "Seul",
+          "lang": "it"
+        },
+        {
+          "name": "ソウル特別市",
+          "lang": "ja"
+        },
+        {
+          "name": "서울특별시",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Seoul",
+          "lang": "link"
+        },
+        {
+          "name": "首尔特别市",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Seoul",
+      "fclName": "country, state, region,...",
+      "countryName": "South Korea",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Seoul Station",
+      "countryId": "1835841",
+      "fcl": "S",
+      "score": 22.58765983581543,
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.55502",
+      "fcode": "RSTN",
+      "continentCode": "AS",
+      "adminCode1": "11",
+      "lng": "126.97066",
+      "geonameId": 1897353,
+      "toponymName": "Seoul Station",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Seoul Stesen",
+          "lang": "bi"
+        },
+        {
+          "name": "Seoul Station",
+          "lang": "en"
+        },
+        {
+          "name": "Gare de Séoul",
+          "lang": "fr"
+        },
+        {
+          "name": "Seoul Staciono",
+          "lang": "io"
+        },
+        {
+          "name": "Stazione di Seul",
+          "lang": "it"
+        },
+        {
+          "name": "ソウル駅",
+          "lang": "ja"
+        },
+        {
+          "name": "서울역",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Seoul_Station",
+          "lang": "link"
+        },
+        {
+          "name": "Seoul stasjon",
+          "lang": "no"
+        },
+        {
+          "name": "Seul",
+          "lang": "pl"
+        },
+        {
+          "name": "Stasion Seoul",
+          "lang": "su"
+        },
+        {
+          "name": "สถานีรถไฟโซล",
+          "lang": "th"
+        },
+        {
+          "name": "首爾站",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Seoul Station",
+      "fclName": "spot, building, farm",
+      "countryName": "South Korea",
+      "fcodeName": "railroad station",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Seoul Air Base",
+      "countryId": "1835841",
+      "fcl": "S",
+      "score": 22.131296157836914,
+      "adminId2": "1836091",
+      "countryCode": "KR",
+      "adminId1": "1841610",
+      "lat": "37.44694",
+      "fcode": "AIRP",
+      "continentCode": "AS",
+      "elevation": 28,
+      "adminCode2": "31020",
+      "adminCode1": "13",
+      "lng": "127.11317",
+      "geonameId": 6300435,
+      "toponymName": "Seoul Air Base",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Seoul Air Base",
+          "lang": "en"
+        },
+        {
+          "name": "SSN",
+          "lang": "iata"
+        },
+        {
+          "name": "RKSM",
+          "lang": "icao"
+        },
+        {
+          "name": "서울공항",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Seoul_Air_Base",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Seongnam-si",
+      "name": "Seoul Air Base",
+      "fclName": "spot, building, farm",
+      "countryName": "South Korea",
+      "fcodeName": "airport",
+      "adminName1": "Gyeonggi-do"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Seoul Forest",
+      "countryId": "1835841",
+      "fcl": "L",
+      "score": 20.32889175415039,
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.5443",
+      "fcode": "PRK",
+      "continentCode": "AS",
+      "adminCode1": "11",
+      "lng": "127.0415",
+      "geonameId": 6800482,
+      "toponymName": "Seoul Forest",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Seoul Forest",
+          "lang": "en"
+        },
+        {
+          "name": "서울숲",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Seoul_Forest",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Seoul Forest",
+      "fclName": "parks,area, ...",
+      "countryName": "South Korea",
+      "fcodeName": "park",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Gangdong-gu",
+      "countryId": "1835841",
+      "fcl": "A",
+      "score": 18.070127487182617,
+      "adminId2": "1836279",
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.55274",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "11250",
+      "adminCode1": "11",
+      "lng": "127.14546",
+      "geonameId": 1836279,
+      "toponymName": "Gangdong-gu",
+      "population": 465958,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Gangdong-gu",
+          "lang": "en"
+        },
+        {
+          "name": "강동구",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Gangdong-gu",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Gangdong-gu",
+      "name": "Gangdong-gu",
+      "fclName": "country, state, region,...",
+      "countryName": "South Korea",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Gangbuk-gu",
+      "countryId": "1835841",
+      "fcl": "A",
+      "score": 18.070127487182617,
+      "adminId2": "1836339",
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.6349",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "11090",
+      "adminCode1": "11",
+      "lng": "127.02015",
+      "geonameId": 1836339,
+      "toponymName": "Gangbuk-gu",
+      "population": 324413,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Gangbuk-gu",
+          "lang": "en"
+        },
+        {
+          "name": "강북구",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Gangbuk-gu",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Gangbuk-gu",
+      "name": "Gangbuk-gu",
+      "fclName": "country, state, region,...",
+      "countryName": "South Korea",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Mapo-gu",
+      "countryId": "1835841",
+      "fcl": "A",
+      "score": 18.070127487182617,
+      "adminId2": "1841277",
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.55438",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "11140",
+      "adminCode1": "11",
+      "lng": "126.90926",
+      "geonameId": 1841277,
+      "toponymName": "Mapo-gu",
+      "population": 369432,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Mapo-gu",
+          "lang": "en"
+        },
+        {
+          "name": "마포구",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Mapo-gu",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Mapo-gu",
+      "name": "Mapo-gu",
+      "fclName": "country, state, region,...",
+      "countryName": "South Korea",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Gwanak-gu",
+      "countryId": "1835841",
+      "fcl": "A",
+      "score": 18.070127487182617,
+      "adminId2": "1841893",
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.47876",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "11210",
+      "adminCode1": "11",
+      "lng": "126.95235",
+      "geonameId": 1841893,
+      "toponymName": "Gwanak-gu",
+      "population": 520849,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Gwanak-gu",
+          "lang": "en"
+        },
+        {
+          "name": "관악구",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Gwanak-gu",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Gwanak-gu",
+      "name": "Gwanak-gu",
+      "fclName": "country, state, region,...",
+      "countryName": "South Korea",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Seoul"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Asia/Seoul",
+        "dstOffset": 9
+      },
+      "asciiName": "Guro-gu",
+      "countryId": "1835841",
+      "fcl": "A",
+      "score": 18.070127487182617,
+      "adminId2": "1841986",
+      "countryCode": "KR",
+      "adminId1": "1835847",
+      "lat": "37.49447",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "11170",
+      "adminCode1": "11",
+      "lng": "126.8502",
+      "geonameId": 1841986,
+      "toponymName": "Guro-gu",
+      "population": 417339,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Guro-gu",
+          "lang": "en"
+        },
+        {
+          "name": "구로구",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Guro-gu",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Guro-gu",
+      "name": "Guro-gu",
+      "fclName": "country, state, region,...",
+      "countryName": "South Korea",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Seoul"
+    }
+  ]
+}

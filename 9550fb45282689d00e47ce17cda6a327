@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Okanagan",
+               "short_name" : "North Okanagan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Okanagan, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.93421,
+                  "lng" : -118.162373
+               },
+               "southwest" : {
+                  "lat" : 49.812023,
+                  "lng" : -119.7638899
+               }
+            },
+            "location" : {
+               "lat" : 50.33989769999999,
+               "lng" : -118.7840936
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.93421,
+                  "lng" : -118.162373
+               },
+               "southwest" : {
+                  "lat" : 49.812023,
+                  "lng" : -119.7638899
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okanagan 1",
+               "short_name" : "Okanagan 1",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "North Okanagan",
+               "short_name" : "North Okanagan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okanagan 1, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.416234,
+                  "lng" : -119.2775551
+               },
+               "southwest" : {
+                  "lat" : 50.2098129,
+                  "lng" : -119.4609789
+               }
+            },
+            "location" : {
+               "lat" : 50.3028308,
+               "lng" : -119.3730854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.416234,
+                  "lng" : -119.2775551
+               },
+               "southwest" : {
+                  "lat" : 50.2098129,
+                  "lng" : -119.4609789
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

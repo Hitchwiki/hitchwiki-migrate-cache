@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Republic of Karelia",
+               "short_name" : "Republic of Karelia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Republic of Karelia, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 66.67326389999999,
+                  "lng" : 37.9320522
+               },
+               "southwest" : {
+                  "lat" : 60.68576710000001,
+                  "lng" : 29.3102922
+               }
+            },
+            "location" : {
+               "lat" : 63.15587019999999,
+               "lng" : 32.9905552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.67326389999999,
+                  "lng" : 37.9320522
+               },
+               "southwest" : {
+                  "lat" : 60.68576710000001,
+                  "lng" : 29.3102922
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olympia",
+               "short_name" : "Olympia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thurston County",
+               "short_name" : "Thurston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Olympia, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.078086,
+                  "lng" : -122.8231391
+               },
+               "southwest" : {
+                  "lat" : 47.0005809,
+                  "lng" : -122.9645982
+               }
+            },
+            "location" : {
+               "lat" : 47.0378741,
+               "lng" : -122.9006951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.078086,
+                  "lng" : -122.8231391
+               },
+               "southwest" : {
+                  "lat" : 47.0005809,
+                  "lng" : -122.9645982
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olympia",
+               "short_name" : "Olympia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath County",
+               "short_name" : "Bath County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40358",
+               "short_name" : "40358",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Olympia, KY 40358, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0981359,
+               "lng" : -83.6957484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.09948488029149,
+                  "lng" : -83.69439941970849
+               },
+               "southwest" : {
+                  "lat" : 38.09678691970849,
+                  "lng" : -83.6970973802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

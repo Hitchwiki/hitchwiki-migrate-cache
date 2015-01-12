@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pulawy",
+               "short_name" : "Pulawy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Puławy",
+               "short_name" : "Gmina Puławy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Puławy County",
+               "short_name" : "Puławy County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lublin Voivodeship",
+               "short_name" : "Lublin Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pulawy, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4799607,
+                  "lng" : 22.0296874
+               },
+               "southwest" : {
+                  "lat" : 51.37108010000001,
+                  "lng" : 21.919648
+               }
+            },
+            "location" : {
+               "lat" : 51.4164431,
+               "lng" : 21.969309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4799607,
+                  "lng" : 22.0296874
+               },
+               "southwest" : {
+                  "lat" : 51.37108010000001,
+                  "lng" : 21.919648
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

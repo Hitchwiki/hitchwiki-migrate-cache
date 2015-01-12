@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R55",
+               "short_name" : "R55",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zlin Region",
+               "short_name" : "Zlin Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R55, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3323937,
+                  "lng" : 17.5528179
+               },
+               "southwest" : {
+                  "lat" : 49.2032155,
+                  "lng" : 17.4773948
+               }
+            },
+            "location" : {
+               "lat" : 49.265762,
+               "lng" : 17.5075251
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3323937,
+                  "lng" : 17.5528179
+               },
+               "southwest" : {
+                  "lat" : 49.2032155,
+                  "lng" : 17.4773948
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

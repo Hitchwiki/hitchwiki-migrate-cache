@@ -1,0 +1,179 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 30",
+               "short_name" : "Autoroute 30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 30, Québec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0310867,
+                  "lng" : -73.1005292
+               },
+               "southwest" : {
+                  "lat" : 45.2902056,
+                  "lng" : -74.0596858
+               }
+            },
+            "location" : {
+               "lat" : 45.6736269,
+               "lng" : -73.3874098
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0310867,
+                  "lng" : -73.1005292
+               },
+               "southwest" : {
+                  "lat" : 45.2902056,
+                  "lng" : -74.0596858
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 30",
+               "short_name" : "Autoroute 30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bécancour",
+               "short_name" : "Bécancour",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bécancour Regional County Municipality",
+               "short_name" : "Bécancour Regional County Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G0X",
+               "short_name" : "G0X",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 30, Bécancour, QC G0X, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3827981,
+                  "lng" : -72.33467259999999
+               },
+               "southwest" : {
+                  "lat" : 46.2837754,
+                  "lng" : -72.5351605
+               }
+            },
+            "location" : {
+               "lat" : 46.3417694,
+               "lng" : -72.44325289999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3827981,
+                  "lng" : -72.33467259999999
+               },
+               "southwest" : {
+                  "lat" : 46.2837754,
+                  "lng" : -72.5351605
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 30",
+               "short_name" : "Autoroute 30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sainte-Julie",
+               "short_name" : "Sainte-Julie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lajemmerais",
+               "short_name" : "Lajemmerais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "J3E 1Y2",
+               "short_name" : "J3E 1Y2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 30, Sainte-Julie, QC J3E 1Y2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5999116,
+                  "lng" : -73.37013449999999
+               },
+               "southwest" : {
+                  "lat" : 45.579818,
+                  "lng" : -73.37261389999999
+               }
+            },
+            "location" : {
+               "lat" : 45.5898461,
+               "lng" : -73.37013449999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5999116,
+                  "lng" : -73.37002521970848
+               },
+               "southwest" : {
+                  "lat" : 45.579818,
+                  "lng" : -73.37272318029149
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

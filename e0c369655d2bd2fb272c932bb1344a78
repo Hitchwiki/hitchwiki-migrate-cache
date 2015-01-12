@@ -1,0 +1,165 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 10",
+               "short_name" : "Autoroute 10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 10, Québec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4972562,
+                  "lng" : -71.95867079999999
+               },
+               "southwest" : {
+                  "lat" : 45.2853424,
+                  "lng" : -73.55881839999999
+               }
+            },
+            "location" : {
+               "lat" : 45.3450459,
+               "lng" : -72.77882819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4972562,
+                  "lng" : -71.95867079999999
+               },
+               "southwest" : {
+                  "lat" : 45.2853424,
+                  "lng" : -73.55881839999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 10",
+               "short_name" : "Autoroute 10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montréal",
+               "short_name" : "Montréal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Montréal",
+               "short_name" : "Communauté-Urbaine-de-Montréal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3C",
+               "short_name" : "H3C",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 10, Montréal, QC H3C, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.50438219999999,
+                  "lng" : -73.5587101
+               },
+               "southwest" : {
+                  "lat" : 45.4970349,
+                  "lng" : -73.56395069999999
+               }
+            },
+            "location" : {
+               "lat" : 45.4980058,
+               "lng" : -73.5609506
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.50438219999999,
+                  "lng" : -73.5587101
+               },
+               "southwest" : {
+                  "lat" : 45.4970349,
+                  "lng" : -73.56395069999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lanark 10",
+               "short_name" : "10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lanark 10, Ontario, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1078425,
+                  "lng" : -75.9715489
+               },
+               "southwest" : {
+                  "lat" : 45.047206,
+                  "lng" : -76.06385539999999
+               }
+            },
+            "location" : {
+               "lat" : 45.07501509999999,
+               "lng" : -76.01881729999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1078425,
+                  "lng" : -75.9715489
+               },
+               "southwest" : {
+                  "lat" : 45.047206,
+                  "lng" : -76.06385539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

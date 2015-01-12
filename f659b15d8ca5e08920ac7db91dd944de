@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaune",
+               "short_name" : "Beaune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Côte-d'Or",
+               "short_name" : "21",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burgundy",
+               "short_name" : "Burgundy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaune, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0589021,
+                  "lng" : 4.89736
+               },
+               "southwest" : {
+                  "lat" : 46.9955299,
+                  "lng" : 4.786901
+               }
+            },
+            "location" : {
+               "lat" : 47.02603000000001,
+               "lng" : 4.840004
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0589021,
+                  "lng" : 4.89736
+               },
+               "southwest" : {
+                  "lat" : 46.9955299,
+                  "lng" : 4.786901
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

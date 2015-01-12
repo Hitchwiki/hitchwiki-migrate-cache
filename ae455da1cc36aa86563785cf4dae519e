@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-51",
+               "short_name" : "A-51",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ávila",
+               "short_name" : "Ávila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ávila",
+               "short_name" : "Ávila",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla y León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-51, Ávila, Ávila, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6778288,
+                  "lng" : -4.6374132
+               },
+               "southwest" : {
+                  "lat" : 40.6454804,
+                  "lng" : -4.73053
+               }
+            },
+            "location" : {
+               "lat" : 40.671622,
+               "lng" : -4.676520399999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6778288,
+                  "lng" : -4.6374132
+               },
+               "southwest" : {
+                  "lat" : 40.6454804,
+                  "lng" : -4.73053
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

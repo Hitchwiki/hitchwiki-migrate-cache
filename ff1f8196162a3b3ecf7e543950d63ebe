@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samtredia",
+               "short_name" : "Samtredia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imereti",
+               "short_name" : "Imereti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samtredia, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2017614,
+                  "lng" : 42.388773
+               },
+               "southwest" : {
+                  "lat" : 42.118796,
+                  "lng" : 42.2929002
+               }
+            },
+            "location" : {
+               "lat" : 42.15,
+               "lng" : 42.333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2017614,
+                  "lng" : 42.388773
+               },
+               "southwest" : {
+                  "lat" : 42.118796,
+                  "lng" : 42.2929002
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuva",
+               "short_name" : "Tuva",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuva, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.727431,
+                  "lng" : 99.269666
+               },
+               "southwest" : {
+                  "lat" : 49.7417159,
+                  "lng" : 88.7985341
+               }
+            },
+            "location" : {
+               "lat" : 51.8872669,
+               "lng" : 95.62601719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.727431,
+                  "lng" : 99.269666
+               },
+               "southwest" : {
+                  "lat" : 49.7417159,
+                  "lng" : 88.7985341
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

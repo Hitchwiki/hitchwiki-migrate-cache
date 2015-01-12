@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A9",
+               "short_name" : "A9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A9, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0630987,
+                  "lng" : 15.6479306
+               },
+               "southwest" : {
+                  "lat" : 46.6907851,
+                  "lng" : 14.0378071
+               }
+            },
+            "location" : {
+               "lat" : 47.39478450000001,
+               "lng" : 14.8405141
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0630987,
+                  "lng" : 15.6479306
+               },
+               "southwest" : {
+                  "lat" : 46.6907851,
+                  "lng" : 14.0378071
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

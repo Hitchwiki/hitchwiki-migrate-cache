@@ -1,0 +1,688 @@
+{
+  "totalResultsCount": 5353,
+  "geonames": [
+    {
+      "adminCode2": "001",
+      "alternateNames": [
+        {
+          "name": "Washington",
+          "lang": "da"
+        },
+        {
+          "name": "Washington",
+          "lang": "de"
+        },
+        {
+          "name": "Ουάσιγκτον",
+          "lang": "el"
+        },
+        {
+          "name": "Washington",
+          "lang": "en"
+        },
+        {
+          "name": "Washington",
+          "lang": "es"
+        },
+        {
+          "name": "Washington",
+          "lang": "fi"
+        },
+        {
+          "name": "Washington",
+          "lang": "fr"
+        },
+        {
+          "name": "WAS",
+          "lang": "iata"
+        },
+        {
+          "name": "Washington",
+          "lang": "it"
+        },
+        {
+          "name": "워싱턴 D.C.",
+          "lang": "ko"
+        },
+        {
+          "name": "Vasingtonia",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Washington%2C_D.C.",
+          "lang": "link"
+        },
+        {
+          "name": "Waszyngton",
+          "lang": "pl"
+        },
+        {
+          "name": "20001",
+          "lang": "post"
+        },
+        {
+          "name": "Washington",
+          "lang": "pt"
+        },
+        {
+          "name": "Вашингтон",
+          "lang": "ru"
+        },
+        {
+          "name": "Washington",
+          "lang": "sv"
+        },
+        {
+          "name": "WAS",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 49.37324142456055,
+      "lng": "-77.03637",
+      "adminName2": "US.DC.001",
+      "fcodeName": "capital of a political entity",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.79445924830254,
+        "east": -76.90685791229592,
+        "north": 38.99576435169747,
+        "west": -77.16587368770408
+      },
+      "name": "Washington",
+      "fcode": "PPLC",
+      "geonameId": 4140963,
+      "asciiName": "Washington, D.C.",
+      "lat": "38.89511",
+      "population": 601723,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "city, village,...",
+      "elevation": 7,
+      "countryCode": "US",
+      "toponymName": "Washington, D.C.",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "D.C.",
+          "lang": "abbr"
+        },
+        {
+          "name": "Washington, D.C.",
+          "lang": "en"
+        },
+        {
+          "name": "Washington D.C.",
+          "lang": "es"
+        },
+        {
+          "name": "ワシントン・コロンビア特別区",
+          "lang": "ja"
+        },
+        {
+          "name": "컬럼비아 특별구",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "lang": "link"
+        },
+        {
+          "name": "Округ Колумбия",
+          "lang": "ru"
+        }
+      ],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 31.562931060791016,
+      "lng": "-77.00025",
+      "adminName2": "",
+      "fcodeName": "first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.791644999999995,
+        "east": -76.909393,
+        "north": 38.995548,
+        "west": -77.119759
+      },
+      "name": "Washington, D.C.",
+      "fcode": "ADM1",
+      "geonameId": 4138106,
+      "asciiName": "District of Columbia",
+      "lat": "38.91706",
+      "population": 552433,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "country, state, region,...",
+      "elevation": 27,
+      "countryCode": "US",
+      "toponymName": "District of Columbia",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Kingman_Lake",
+        "lang": "link"
+      }],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 21.37656593322754,
+      "lng": "-76.96409",
+      "adminName2": "US.DC.001",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Kingman Lake",
+      "fcode": "LK",
+      "geonameId": 4139313,
+      "asciiName": "Kingman Lake",
+      "lat": "38.9014",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "stream, lake, ...",
+      "elevation": 2,
+      "countryCode": "US",
+      "toponymName": "Kingman Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Washington_Highlands%2C_Washington%2C_D.C.",
+        "lang": "link"
+      }],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 18.87661361694336,
+      "lng": "-76.9947",
+      "adminName2": "US.DC.001",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.82306375124857,
+        "east": -76.98315093108026,
+        "north": 38.841051048751424,
+        "west": -77.00624446891975
+      },
+      "name": "Washington Highlands",
+      "fcode": "PPL",
+      "geonameId": 4140998,
+      "asciiName": "Washington Highlands",
+      "lat": "38.83206",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "city, village,...",
+      "elevation": 53,
+      "countryCode": "US",
+      "toponymName": "Washington Highlands",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [
+        {
+          "name": "نصب واشنطن",
+          "lang": "ar"
+        },
+        {
+          "name": "Monumento ki Washington",
+          "lang": "bcl"
+        },
+        {
+          "name": "Манумент Вашынгтона",
+          "lang": "be"
+        },
+        {
+          "name": "Вашингтонски монумент",
+          "lang": "bg"
+        },
+        {
+          "name": "Monument a Washington",
+          "lang": "ca"
+        },
+        {
+          "name": "Washingtonův monument",
+          "lang": "cs"
+        },
+        {
+          "name": "Washington-monumentet",
+          "lang": "da"
+        },
+        {
+          "name": "Washington Monument",
+          "lang": "de"
+        },
+        {
+          "name": "Μνημείο του Ουάσινγκτον",
+          "lang": "el"
+        },
+        {
+          "name": "Washington Monument",
+          "lang": "en"
+        },
+        {
+          "name": "Vaŝingtona Monumento",
+          "lang": "eo"
+        },
+        {
+          "name": "Monumento a Washington",
+          "lang": "es"
+        },
+        {
+          "name": "Washingtoni monument",
+          "lang": "et"
+        },
+        {
+          "name": "Washington monumentua",
+          "lang": "eu"
+        },
+        {
+          "name": "یادبود واشنگتن",
+          "lang": "fa"
+        },
+        {
+          "name": "Washington-monumentti",
+          "lang": "fi"
+        },
+        {
+          "name": "Washington Monument",
+          "lang": "fr"
+        },
+        {
+          "name": "Washington Monumint",
+          "lang": "fy"
+        },
+        {
+          "name": "אנדרטת וושינגטון",
+          "lang": "he"
+        },
+        {
+          "name": "Washington-emlékmű",
+          "lang": "hu"
+        },
+        {
+          "name": "Monumen Washington",
+          "lang": "id"
+        },
+        {
+          "name": "Monumento a Washington",
+          "lang": "it"
+        },
+        {
+          "name": "ワシントン記念塔",
+          "lang": "ja"
+        },
+        {
+          "name": "워싱턴 기념탑",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Washington_Monument",
+          "lang": "link"
+        },
+        {
+          "name": "Vašingtono paminklas",
+          "lang": "lt"
+        },
+        {
+          "name": "Vašingtona monuments",
+          "lang": "lv"
+        },
+        {
+          "name": "Monumen Washington",
+          "lang": "ms"
+        },
+        {
+          "name": "Washington Monument",
+          "lang": "nl"
+        },
+        {
+          "name": "Washingtonmonumentet",
+          "lang": "no"
+        },
+        {
+          "name": "Pomnik Waszyngtona",
+          "lang": "pl"
+        },
+        {
+          "name": "واشنگٹن مونومنٹ",
+          "lang": "pnb"
+        },
+        {
+          "name": "د واشنگټن څلی",
+          "lang": "ps"
+        },
+        {
+          "name": "Monumento a Washington",
+          "lang": "pt"
+        },
+        {
+          "name": "Monumentul lui Washington",
+          "lang": "ro"
+        },
+        {
+          "name": "Монумент Вашингтона",
+          "lang": "ru"
+        },
+        {
+          "name": "Washingtonmonumentet",
+          "lang": "sv"
+        },
+        {
+          "name": "வாசிங்டன் நினைவுச் சின்னம்",
+          "lang": "ta"
+        },
+        {
+          "name": "อนุสาวรีย์วอชิงตัน",
+          "lang": "th"
+        },
+        {
+          "name": "Washington Anıtı",
+          "lang": "tr"
+        },
+        {
+          "name": "Монумент Вашингтона",
+          "lang": "uk"
+        },
+        {
+          "name": "واشنگٹن مونیومنٹ",
+          "lang": "ur"
+        },
+        {
+          "name": "Tượng đài Washington",
+          "lang": "vi"
+        },
+        {
+          "name": "華盛頓紀念碑",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 17.25571060180664,
+      "lng": "-77.03525",
+      "adminName2": "US.DC.001",
+      "fcodeName": "monument",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Washington Monument",
+      "fcode": "MNMT",
+      "geonameId": 4141033,
+      "asciiName": "Washington Monument",
+      "lat": "38.88956",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "spot, building, farm",
+      "elevation": 10,
+      "countryCode": "US",
+      "toponymName": "Washington Monument",
+      "fcl": "S",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Southwest%2C_Washington%2C_D.C.",
+          "lang": "link"
+        },
+        {
+          "name": "Sudoeste de Washington",
+          "lang": "pt"
+        }
+      ],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 17.246070861816406,
+      "lng": "-77.01637",
+      "adminName2": "US.DC.001",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.87222955124857,
+        "east": -77.00481044309963,
+        "north": 38.89021684875143,
+        "west": -77.02791995690036
+      },
+      "name": "Southwest",
+      "fcode": "PPL",
+      "geonameId": 4140551,
+      "asciiName": "Southwest",
+      "lat": "38.88122",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "city, village,...",
+      "elevation": 4,
+      "countryCode": "US",
+      "toponymName": "Southwest",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Bellevue_%28Washington%2C_D.C.%29",
+        "lang": "link"
+      }],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 16.596261978149414,
+      "lng": "-77.0197",
+      "adminName2": "US.DC.001",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.817786051248575,
+        "east": -77.00815248738786,
+        "north": 38.83577334875143,
+        "west": -77.03124431261213
+      },
+      "name": "Bellevue",
+      "fcode": "PPL",
+      "geonameId": 4137715,
+      "asciiName": "Bellevue",
+      "lat": "38.82678",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "city, village,...",
+      "elevation": 12,
+      "countryCode": "US",
+      "toponymName": "Bellevue",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Benning_%28Washington%2C_D.C.%29",
+        "lang": "link"
+      }],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 16.596261978149414,
+      "lng": "-76.94886",
+      "adminName2": "US.DC.001",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.88611835124857,
+        "east": -76.9373063830387,
+        "north": 38.904105648751425,
+        "west": -76.96042041696128
+      },
+      "name": "Benning",
+      "fcode": "PPL",
+      "geonameId": 4137724,
+      "asciiName": "Benning",
+      "lat": "38.89511",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "city, village,...",
+      "elevation": 14,
+      "countryCode": "US",
+      "toponymName": "Benning",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Bloomingdale_%28Washington%2C_D.C.%29",
+        "lang": "link"
+      }],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 16.596261978149414,
+      "lng": "-77.01137",
+      "adminName2": "US.DC.001",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.907784551248575,
+        "east": -76.99980465427414,
+        "north": 38.92577184875143,
+        "west": -77.02292574572586
+      },
+      "name": "Bloomingdale",
+      "fcode": "PPL",
+      "geonameId": 4137775,
+      "asciiName": "Bloomingdale",
+      "lat": "38.91678",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "city, village,...",
+      "elevation": 30,
+      "countryCode": "US",
+      "toponymName": "Bloomingdale",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "001",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Brightwood_%28Washington%2C_D.C.%29",
+        "lang": "link"
+      }],
+      "countryName": "United States",
+      "adminCode1": "DC",
+      "score": 16.596261978149414,
+      "lng": "-77.02748",
+      "adminName2": "US.DC.001",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.95222815124857,
+        "east": -77.01590900383549,
+        "north": 38.970215448751425,
+        "west": -77.03904459616452
+      },
+      "name": "Brightwood",
+      "fcode": "PPL",
+      "geonameId": 4137810,
+      "asciiName": "Brightwood",
+      "lat": "38.96122",
+      "population": 0,
+      "adminName1": "Washington, D.C.",
+      "adminId1": "4138106",
+      "countryId": "6252001",
+      "fclName": "city, village,...",
+      "elevation": 89,
+      "countryCode": "US",
+      "toponymName": "Brightwood",
+      "fcl": "P",
+      "continentCode": "NA"
+    }
+  ]
+}

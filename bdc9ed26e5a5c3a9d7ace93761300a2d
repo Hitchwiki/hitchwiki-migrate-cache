@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rostock",
+               "short_name" : "Rostock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mecklenburg-Vorpommern",
+               "short_name" : "MV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rostock, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2445585,
+                  "lng" : 12.2956017
+               },
+               "southwest" : {
+                  "lat" : 54.0505436,
+                  "lng" : 11.9983048
+               }
+            },
+            "location" : {
+               "lat" : 54.0924406,
+               "lng" : 12.0991466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2445585,
+                  "lng" : 12.2956017
+               },
+               "southwest" : {
+                  "lat" : 54.0505436,
+                  "lng" : 11.9983048
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

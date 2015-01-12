@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kharkiv",
+               "short_name" : "Kharkiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kharkivs'ka city council",
+               "short_name" : "Kharkivs'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kharkiv, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1049601,
+                  "lng" : 36.4553942
+               },
+               "southwest" : {
+                  "lat" : 49.8783482,
+                  "lng" : 36.105559
+               }
+            },
+            "location" : {
+               "lat" : 49.9935,
+               "lng" : 36.230383
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1049601,
+                  "lng" : 36.4553942
+               },
+               "southwest" : {
+                  "lat" : 49.8783482,
+                  "lng" : 36.105559
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

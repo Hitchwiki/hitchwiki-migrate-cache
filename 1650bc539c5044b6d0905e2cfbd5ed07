@@ -1,0 +1,783 @@
+{
+  "totalResultsCount": 1100,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -70.748802,
+        "south": 42.22788,
+        "north": 42.40082,
+        "west": -71.191155
+      },
+      "asciiName": "Boston",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 85.55327606201172,
+      "adminId2": "4952349",
+      "countryCode": "US",
+      "adminId1": "6254926",
+      "lat": "42.35843",
+      "fcode": "PPLA",
+      "continentCode": "NA",
+      "elevation": 14,
+      "adminCode2": "025",
+      "adminCode1": "MA",
+      "lng": "-71.05977",
+      "geonameId": 4930956,
+      "toponymName": "Boston",
+      "population": 617594,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بوسطن",
+          "lang": "ar"
+        },
+        {
+          "name": "ܒܘܣܛܘܢ",
+          "lang": "arc"
+        },
+        {
+          "name": "Бостон",
+          "lang": "ba"
+        },
+        {
+          "name": "Горад Бостан",
+          "lang": "be"
+        },
+        {
+          "name": "Бостън",
+          "lang": "bg"
+        },
+        {
+          "name": "বস্টন",
+          "lang": "bn"
+        },
+        {
+          "name": "བོ་སེ་ཊོན།",
+          "lang": "bo"
+        },
+        {
+          "name": "Boston",
+          "lang": "ca"
+        },
+        {
+          "name": "Бостон",
+          "lang": "ce"
+        },
+        {
+          "name": "بۆستن",
+          "lang": "ckb"
+        },
+        {
+          "name": "Boston",
+          "lang": "cs"
+        },
+        {
+          "name": "Boston",
+          "lang": "da"
+        },
+        {
+          "name": "Boston",
+          "lang": "de"
+        },
+        {
+          "name": "Βοστώνη",
+          "lang": "el"
+        },
+        {
+          "name": "Boston",
+          "lang": "en"
+        },
+        {
+          "name": "Bostono",
+          "lang": "eo"
+        },
+        {
+          "name": "Boston",
+          "lang": "es"
+        },
+        {
+          "name": "Boston",
+          "lang": "et"
+        },
+        {
+          "name": "Boston",
+          "lang": "eu"
+        },
+        {
+          "name": "بوستون، ماساچوست",
+          "lang": "fa"
+        },
+        {
+          "name": "Boston",
+          "lang": "fi"
+        },
+        {
+          "name": "Boston",
+          "lang": "fr"
+        },
+        {
+          "name": "Bostún",
+          "lang": "ga"
+        },
+        {
+          "name": "波士頓",
+          "lang": "gan"
+        },
+        {
+          "name": "Boston",
+          "lang": "gl"
+        },
+        {
+          "name": "Pokekona",
+          "lang": "haw"
+        },
+        {
+          "name": "בוסטון",
+          "lang": "he"
+        },
+        {
+          "name": "बोस्टन",
+          "lang": "hi"
+        },
+        {
+          "name": "Boston",
+          "lang": "hu"
+        },
+        {
+          "name": "Բոստոն",
+          "lang": "hy"
+        },
+        {
+          "name": "BOS",
+          "lang": "iata"
+        },
+        {
+          "name": "Boston",
+          "lang": "id"
+        },
+        {
+          "name": "Boston",
+          "lang": "io"
+        },
+        {
+          "name": "Boston",
+          "lang": "is"
+        },
+        {
+          "name": "Boston",
+          "lang": "it"
+        },
+        {
+          "name": "ボストン",
+          "lang": "ja"
+        },
+        {
+          "name": "ბოსტონი",
+          "lang": "ka"
+        },
+        {
+          "name": "Бостон",
+          "lang": "kk"
+        },
+        {
+          "name": "ಬಾಸ್ಟನ್",
+          "lang": "kn"
+        },
+        {
+          "name": "보스턴",
+          "lang": "ko"
+        },
+        {
+          "name": "Bostonia",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Boston",
+          "lang": "link"
+        },
+        {
+          "name": "Bostonas",
+          "lang": "lt"
+        },
+        {
+          "name": "Bostona",
+          "lang": "lv"
+        },
+        {
+          "name": "Бостон",
+          "lang": "mk"
+        },
+        {
+          "name": "ബോസ്റ്റൺ",
+          "lang": "ml"
+        },
+        {
+          "name": "बॉस्टन",
+          "lang": "mr"
+        },
+        {
+          "name": "Бостон",
+          "lang": "mrj"
+        },
+        {
+          "name": "ဘော့စတွန်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "बस्तन",
+          "lang": "new"
+        },
+        {
+          "name": "Boston",
+          "lang": "nl"
+        },
+        {
+          "name": "Boston",
+          "lang": "no"
+        },
+        {
+          "name": "Boston",
+          "lang": "oc"
+        },
+        {
+          "name": "Бостон",
+          "lang": "os"
+        },
+        {
+          "name": "ਬੋਸਟਨ",
+          "lang": "pa"
+        },
+        {
+          "name": "Boston",
+          "lang": "pl"
+        },
+        {
+          "name": "بوسٹن",
+          "lang": "pnb"
+        },
+        {
+          "name": "Βοστώνη",
+          "lang": "pnt"
+        },
+        {
+          "name": "02283",
+          "lang": "post"
+        },
+        {
+          "name": "Boston",
+          "lang": "pt"
+        },
+        {
+          "name": "Бостон",
+          "lang": "ro"
+        },
+        {
+          "name": "Бостон",
+          "lang": "ru"
+        },
+        {
+          "name": "Бостон",
+          "lang": "sah"
+        },
+        {
+          "name": "Bostons",
+          "lang": "sgs"
+        },
+        {
+          "name": "Boston",
+          "lang": "sk"
+        },
+        {
+          "name": "Boston",
+          "lang": "sl"
+        },
+        {
+          "name": "Boston",
+          "lang": "sq"
+        },
+        {
+          "name": "Бостон",
+          "lang": "sr"
+        },
+        {
+          "name": "Boston",
+          "lang": "sv"
+        },
+        {
+          "name": "பாஸ்டன்",
+          "lang": "ta"
+        },
+        {
+          "name": "బోస్టన్",
+          "lang": "te"
+        },
+        {
+          "name": "บอสตัน",
+          "lang": "th"
+        },
+        {
+          "name": "Boston",
+          "lang": "tr"
+        },
+        {
+          "name": "بوستون",
+          "lang": "ug"
+        },
+        {
+          "name": "Бостон",
+          "lang": "uk"
+        },
+        {
+          "name": "BOS",
+          "lang": "unlc"
+        },
+        {
+          "name": "بوسٹن",
+          "lang": "ur"
+        },
+        {
+          "name": "Boston",
+          "lang": "vi"
+        },
+        {
+          "name": "波士顿",
+          "lang": "wuu"
+        },
+        {
+          "name": "ბოსთონი",
+          "lang": "xmf"
+        },
+        {
+          "name": "באסטאן",
+          "lang": "yi"
+        },
+        {
+          "name": "波士頓",
+          "lang": "yue"
+        },
+        {
+          "name": "波士顿",
+          "lang": "zh"
+        },
+        {
+          "name": "波士顿",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Suffolk County",
+      "name": "Boston",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Massachusetts"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": 0.013594672814714263,
+        "south": 52.9521186324655,
+        "north": 53.00055091320941,
+        "west": -0.06688338240155917
+      },
+      "asciiName": "Boston",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 31.205663681030273,
+      "adminId2": "2644486",
+      "adminId3": "7290588",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "52.97633",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "H7",
+      "adminCode3": "32UB",
+      "adminCode1": "ENG",
+      "lng": "-0.02664",
+      "geonameId": 2655138,
+      "toponymName": "Boston",
+      "population": 35859,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Boston District",
+      "alternateNames": [
+        {
+          "name": "بوسطن",
+          "lang": "ar"
+        },
+        {
+          "name": "Boston",
+          "lang": "de"
+        },
+        {
+          "name": "Boston",
+          "lang": "en"
+        },
+        {
+          "name": "Boston",
+          "lang": "eo"
+        },
+        {
+          "name": "Boston",
+          "lang": "fr"
+        },
+        {
+          "name": "ボストン",
+          "lang": "ja"
+        },
+        {
+          "name": "보스턴",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Boston%2C_Lincolnshire",
+          "lang": "link"
+        },
+        {
+          "name": "Boston",
+          "lang": "nl"
+        },
+        {
+          "name": "Boston i England",
+          "lang": "nn"
+        },
+        {
+          "name": "Boston",
+          "lang": "no"
+        },
+        {
+          "name": "Boston",
+          "lang": "pl"
+        },
+        {
+          "name": "Бостон",
+          "lang": "ru"
+        },
+        {
+          "name": "Boston",
+          "lang": "sv"
+        },
+        {
+          "name": "BOS",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Lincolnshire",
+      "name": "Boston",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Manila",
+        "dstOffset": 8
+      },
+      "asciiName": "Boston",
+      "countryId": "1694008",
+      "fcl": "A",
+      "score": 23.361717224121094,
+      "adminId2": "1715342",
+      "adminId3": "1723863",
+      "countryCode": "PH",
+      "adminId1": "7521309",
+      "lat": "7.91601",
+      "fcode": "ADM3",
+      "continentCode": "AS",
+      "adminCode2": "26",
+      "adminCode3": "1723863",
+      "adminCode1": "11",
+      "lng": "126.27843",
+      "geonameId": 1723863,
+      "toponymName": "Boston",
+      "population": 11455,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Boston",
+      "alternateNames": [{
+        "name": "Boston",
+        "lang": "fil"
+      }],
+      "adminName2": "Davao Oriental",
+      "name": "Boston",
+      "fclName": "country, state, region,...",
+      "countryName": "Philippines",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Davao"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Manila",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 126.37058675330721,
+        "south": 7.864751629980488,
+        "north": 7.877470570019512,
+        "west": 126.35774664669279
+      },
+      "asciiName": "Boston",
+      "countryId": "1694008",
+      "fcl": "P",
+      "score": 22.564863204956055,
+      "adminId2": "1715342",
+      "countryCode": "PH",
+      "adminId1": "7521309",
+      "lat": "7.87111",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode2": "26",
+      "adminCode1": "11",
+      "lng": "126.36417",
+      "geonameId": 1723862,
+      "toponymName": "Boston",
+      "population": 2891,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Boston%2C_Davao_Oriental",
+        "lang": "link"
+      }],
+      "adminName2": "Davao Oriental",
+      "name": "Boston",
+      "fclName": "city, village,...",
+      "countryName": "Philippines",
+      "fcodeName": "populated place",
+      "adminName1": "Davao"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Jamaica",
+        "dstOffset": -5
+      },
+      "asciiName": "Boston Beach",
+      "countryId": "3489940",
+      "fcl": "T",
+      "score": 22.564863204956055,
+      "countryCode": "JM",
+      "adminId1": "3488997",
+      "lat": "18.1567",
+      "fcode": "BCH",
+      "continentCode": "NA",
+      "adminCode1": "07",
+      "lng": "-76.3531",
+      "geonameId": 3491271,
+      "toponymName": "Boston Beach",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Boston_Beach",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Boston Beach",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Jamaica",
+      "fcodeName": "beach",
+      "adminName1": "Portland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Paramaribo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -55.35762795684909,
+        "south": 5.707673051248901,
+        "north": 5.7256603487510995,
+        "west": -55.37570544315091
+      },
+      "asciiName": "Boston",
+      "countryId": "3382998",
+      "fcl": "P",
+      "score": 22.564863204956055,
+      "countryCode": "SR",
+      "adminId1": "3383337",
+      "lat": "5.71667",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode1": "15",
+      "lng": "-55.36667",
+      "geonameId": 3384518,
+      "toponymName": "Boston",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Boston%2C_Suriname",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Boston",
+      "fclName": "city, village,...",
+      "countryName": "Suriname",
+      "fcodeName": "populated place",
+      "adminName1": "Para"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -70.91657083467092,
+        "south": 42.23532207491053,
+        "north": 42.43154032508947,
+        "west": -71.18241896532908
+      },
+      "asciiName": "South Boston",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 22.564863204956055,
+      "adminId2": "4952349",
+      "countryCode": "US",
+      "adminId1": "6254926",
+      "lat": "42.33343",
+      "fcode": "PPLX",
+      "continentCode": "NA",
+      "elevation": 14,
+      "adminCode2": "025",
+      "adminCode1": "MA",
+      "lng": "-71.04949",
+      "geonameId": 4951305,
+      "toponymName": "South Boston",
+      "population": 571281,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/South_Boston",
+          "lang": "link"
+        },
+        {
+          "name": "SBC",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Suffolk County",
+      "name": "South Boston",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "section of populated place",
+      "adminName1": "Massachusetts"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Boston",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 20.182626724243164,
+      "adminId2": "6068167",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "47.3092",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "04",
+      "adminCode1": "10",
+      "lng": "-72.61427",
+      "geonameId": 6001429,
+      "toponymName": "Lac Boston",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Mauricie",
+      "name": "Lac Boston",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Boston",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 20.182626724243164,
+      "adminId2": "6068167",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "47.58472",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "04",
+      "adminCode1": "10",
+      "lng": "-73.59472",
+      "geonameId": 6001431,
+      "toponymName": "Lac Boston",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Mauricie",
+      "name": "Lac Boston",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "Boston-Cambridge-Quincy",
+      "countryId": "6252001",
+      "fcl": "L",
+      "score": 20.182626724243164,
+      "adminId2": "4952349",
+      "countryCode": "US",
+      "adminId1": "6254926",
+      "lat": "42.35347",
+      "fcode": "RGNE",
+      "continentCode": "NA",
+      "adminCode2": "025",
+      "adminCode1": "MA",
+      "lng": "-71.06094",
+      "geonameId": 6955111,
+      "toponymName": "Boston-Cambridge-Quincy",
+      "population": 4522858,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Suffolk County",
+      "name": "Boston-Cambridge-Quincy",
+      "fclName": "parks,area, ...",
+      "countryName": "United States",
+      "fcodeName": "economic region",
+      "adminName1": "Massachusetts"
+    }
+  ]
+}

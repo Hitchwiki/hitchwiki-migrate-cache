@@ -1,0 +1,337 @@
+{
+  "totalResultsCount": 27,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Tongatapu",
+        "dstOffset": 13
+      },
+      "bbox": {
+        "east": -66.51908111572266,
+        "south": -85.582763671875,
+        "north": 1.984193921089172,
+        "west": 131.0236358642578
+      },
+      "asciiName": "South Pacific Ocean",
+      "countryId": "4032283",
+      "fcl": "H",
+      "score": 119.15826416015625,
+      "cc2": "TO",
+      "countryCode": "TO",
+      "lat": "-45",
+      "fcode": "OCN",
+      "continentCode": "OC",
+      "lng": "-130",
+      "geonameId": 4030483,
+      "toponymName": "South Pacific Ocean",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/South_Pacific_Ocean",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "South Pacific Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "Tonga",
+      "fcodeName": "ocean",
+      "adminName1": ""
+    },
+    {
+      "lng": "-170",
+      "geonameId": 4030875,
+      "timezone": {
+        "gmtOffset": -9,
+        "timeZoneId": "America/Yakutat",
+        "dstOffset": -8
+      },
+      "bbox": {
+        "east": -77.00251007080078,
+        "south": 0,
+        "north": 58.2149543762207,
+        "west": 128.56179809570312
+      },
+      "toponymName": "North Pacific Ocean",
+      "asciiName": "North Pacific Ocean",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 109.17304229736328,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/North_Pacific_Ocean",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "North Pacific Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "30",
+      "fcode": "OCN"
+    },
+    {
+      "lng": "180",
+      "geonameId": 8411083,
+      "toponymName": "Pacific Ocean",
+      "asciiName": "Pacific Ocean",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 102.13565063476562,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Pacific Ocean",
+          "lang": "en"
+        },
+        {
+          "name": "Océano Pacífico",
+          "lang": "es"
+        },
+        {
+          "name": "Océan Pacifique",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Pacific_Ocean",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Pacific Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "0",
+      "fcode": "OCN"
+    },
+    {
+      "lng": "-132.1875",
+      "geonameId": 2363254,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Porto-Novo",
+        "dstOffset": 1
+      },
+      "toponymName": "Pacific Ocean",
+      "asciiName": "Pacific Ocean",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 93.57688903808594,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Océano Pacífico",
+          "lang": "es"
+        },
+        {
+          "name": "Océan Pacifique",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Pacific_Ocean",
+          "lang": "link"
+        },
+        {
+          "name": "太平洋",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Pacific Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "3.51342",
+      "fcode": "OCN"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "171.254",
+      "geonameId": 7670505,
+      "timezone": {
+        "gmtOffset": 12,
+        "timeZoneId": "Pacific/Majuro",
+        "dstOffset": 12
+      },
+      "toponymName": "North Pacific Ocean - Marshall Islands",
+      "asciiName": "North Pacific Ocean - Marshall Islands",
+      "countryId": "2080185",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 79.05509948730469,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "MH",
+      "name": "North Pacific Ocean - Marshall Islands",
+      "fclName": "stream, lake, ...",
+      "countryName": "Marshall Islands",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "7.113",
+      "fcode": "OCN",
+      "continentCode": "OC"
+    },
+    {
+      "lng": "172.986",
+      "geonameId": 7669370,
+      "timezone": {
+        "gmtOffset": 12,
+        "timeZoneId": "Pacific/Tarawa",
+        "dstOffset": 12
+      },
+      "toponymName": "Western Central Pacific Ocean - Kiribati",
+      "asciiName": "Western Central Pacific Ocean - Kiribati",
+      "countryId": "4030945",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 71.43125915527344,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "KI",
+      "name": "Western Central Pacific Ocean - Kiribati",
+      "fclName": "stream, lake, ...",
+      "countryName": "Kiribati",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "1.421",
+      "fcode": "OCN",
+      "continentCode": "OC"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "131.776",
+      "geonameId": 7670624,
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Pacific/Palau",
+        "dstOffset": 9
+      },
+      "toponymName": "North West Pacific Ocean - Helen Reef",
+      "asciiName": "North West Pacific Ocean - Helen Reef",
+      "countryId": "1559582",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 57.14501190185547,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PW",
+      "name": "North West Pacific Ocean - Helen Reef",
+      "fclName": "stream, lake, ...",
+      "countryName": "Palau",
+      "fcodeName": "ocean",
+      "adminId1": "1559776",
+      "adminName1": "Hatohobei",
+      "lat": "2.913",
+      "fcode": "OCN",
+      "continentCode": "OC"
+    },
+    {
+      "elevation": 0,
+      "adminCode1": "00",
+      "lng": "134.624",
+      "geonameId": 7670826,
+      "timezone": {
+        "gmtOffset": 9,
+        "timeZoneId": "Pacific/Palau",
+        "dstOffset": 9
+      },
+      "toponymName": "North West Pacific Ocean - E to S of Palau Islands",
+      "asciiName": "North West Pacific Ocean - E to S of Palau Islands",
+      "countryId": "1559582",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 57.14501190185547,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "PW",
+      "name": "North West Pacific Ocean - E to S of Palau Islands",
+      "fclName": "stream, lake, ...",
+      "countryName": "Palau",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "7.503",
+      "fcode": "OCN",
+      "continentCode": "OC"
+    },
+    {
+      "elevation": 0,
+      "adminCode1": "00",
+      "lng": "144.7335",
+      "geonameId": 7839117,
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Pacific/Guam",
+        "dstOffset": 10
+      },
+      "toponymName": "North West Pacific Ocean - to the East",
+      "asciiName": "North West Pacific Ocean - to the East",
+      "countryId": "4043988",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 57.14501190185547,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "GU",
+      "name": "North West Pacific Ocean - to the East",
+      "fclName": "stream, lake, ...",
+      "countryName": "Guam",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "13.481",
+      "fcode": "OCN",
+      "continentCode": "OC"
+    },
+    {
+      "elevation": 0,
+      "adminCode1": "00",
+      "lng": "145.7575",
+      "geonameId": 7733072,
+      "timezone": {
+        "gmtOffset": 10,
+        "timeZoneId": "Pacific/Saipan",
+        "dstOffset": 10
+      },
+      "toponymName": "North West Pacific Ocean - to the East",
+      "asciiName": "North West Pacific Ocean - to the East",
+      "countryId": "4041468",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 57.14501190185547,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "MP",
+      "name": "North West Pacific Ocean - to the East",
+      "fclName": "stream, lake, ...",
+      "countryName": "Northern Mariana Islands",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "15.214",
+      "fcode": "OCN",
+      "continentCode": "OC"
+    }
+  ]
+}

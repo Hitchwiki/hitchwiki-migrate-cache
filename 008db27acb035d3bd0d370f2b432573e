@@ -1,0 +1,514 @@
+{
+  "totalResultsCount": 246,
+  "geonames": [
+    {
+      "adminCode3": "33UE",
+      "alternateNames": [
+        {
+          "name": "Кингс Лин",
+          "lang": "bg"
+        },
+        {
+          "name": "King’s Lynn",
+          "lang": "de"
+        },
+        {
+          "name": "Kings Lynn",
+          "lang": "en"
+        },
+        {
+          "name": "King’s Lynn",
+          "lang": "fi"
+        },
+        {
+          "name": "KNF",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/King%27s_Lynn",
+          "lang": "link"
+        },
+        {
+          "name": "Kings Linas",
+          "lang": "lt"
+        },
+        {
+          "name": "King’s Lynn",
+          "lang": "nds"
+        },
+        {
+          "name": "Кингслинн",
+          "lang": "ru"
+        },
+        {
+          "name": "King’s Lynn",
+          "lang": "sk"
+        },
+        {
+          "name": "KLN",
+          "lang": "unlc"
+        }
+      ],
+      "adminCode2": "I9",
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "cc2": "GB",
+      "score": 30.181270599365234,
+      "lng": "0.39516",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.72792880134806,
+        "east": 0.43449894189754884,
+        "north": 52.77551871729874,
+        "west": 0.3558300375946392
+      },
+      "name": "Kings Lynn",
+      "fcode": "PPL",
+      "geonameId": 2645456,
+      "asciiName": "King's Lynn",
+      "lat": "52.75172",
+      "population": 34564,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "King's Lynn",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 12.47907829284668,
+      "lng": "0.48929",
+      "adminName2": "Norfolk",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.4364091738071,
+        "east": 0.82155325870913,
+        "north": 52.9898018331095,
+        "west": 0.153555259117257
+      },
+      "name": "King's Lynn and West Norfolk District",
+      "fcode": "ADM3",
+      "geonameId": 7290596,
+      "asciiName": "King's Lynn and West Norfolk District",
+      "lat": "52.71258",
+      "population": 0,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "country, state, region,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "King's Lynn and West Norfolk District",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/West_Lynn%2C_Norfolk",
+        "lang": "link"
+      }],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 11.72299861907959,
+      "lng": "0.38521",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.7416391312832,
+        "east": 0.400069729945175,
+        "north": 52.759626428786056,
+        "west": 0.37034652982045
+      },
+      "name": "West Lynn",
+      "fcode": "PPL",
+      "geonameId": 6947737,
+      "asciiName": "West Lynn",
+      "lat": "52.75063",
+      "population": 0,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "West Lynn",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Outwell",
+        "lang": "link"
+      }],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 9.140437126159668,
+      "lng": "0.23333",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.60310539010436,
+        "east": 0.24380410526001764,
+        "north": 52.61582433014385,
+        "west": 0.22285572877494833
+      },
+      "name": "Outwell",
+      "fcode": "PPL",
+      "geonameId": 2640781,
+      "asciiName": "Outwell",
+      "lat": "52.60946",
+      "population": 3320,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "Outwell",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Dersingham",
+          "lang": "link"
+        },
+        {
+          "name": "DSA",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 9.140437126159668,
+      "lng": "0.50339",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.837706000760846,
+        "east": 0.5162845926432044,
+        "north": 52.85328345734375,
+        "west": 0.4904880391843297
+      },
+      "name": "Dersingham",
+      "fcode": "PPL",
+      "geonameId": 2651324,
+      "asciiName": "Dersingham",
+      "lat": "52.84549",
+      "population": 4602,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "Dersingham",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Clenchwarton",
+        "lang": "link"
+      }],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 9.140437126159668,
+      "lng": "0.3579",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.75154483638121,
+        "east": 0.3653325300023417,
+        "north": 52.760538485132635,
+        "west": 0.35047061871171165
+      },
+      "name": "Clenchwarton",
+      "fcode": "PPL",
+      "geonameId": 2652876,
+      "asciiName": "Clenchwarton",
+      "lat": "52.75604",
+      "population": 2041,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "Clenchwarton",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Hunstanton",
+          "lang": "link"
+        },
+        {
+          "name": "HNT",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 9.140437126159668,
+      "lng": "0.5",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.94221127170855,
+        "east": 0.5129294274457096,
+        "north": 52.957788728291455,
+        "west": 0.4870705725542904
+      },
+      "name": "Hunstanton",
+      "fcode": "PPL",
+      "geonameId": 2646403,
+      "asciiName": "Hunstanton",
+      "lat": "52.95",
+      "population": 4605,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "Hunstanton",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Feltwell",
+          "lang": "link"
+        },
+        {
+          "name": "FEL",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 9.140437126159668,
+      "lng": "0.51945",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.47945235836289,
+        "east": 0.5298920395891787,
+        "north": 52.49217129840238,
+        "west": 0.5090026137311338
+      },
+      "name": "Feltwell",
+      "fcode": "PPL",
+      "geonameId": 2649568,
+      "asciiName": "Feltwell",
+      "lat": "52.48581",
+      "population": 2545,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "Feltwell",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Emneth",
+          "lang": "link"
+        },
+        {
+          "name": "EMT",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 9.140437126159668,
+      "lng": "0.20857",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.63794164513132,
+        "east": 0.21598021038134219,
+        "north": 52.646935293883075,
+        "west": 0.20115693561475184
+      },
+      "name": "Emneth",
+      "fcode": "PPL",
+      "geonameId": 2650007,
+      "asciiName": "Emneth",
+      "lat": "52.64244",
+      "population": 2257,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "Emneth",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "33UE",
+      "adminCode2": "I9",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Downham_Market",
+          "lang": "link"
+        },
+        {
+          "name": "DOW",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "United Kingdom",
+      "adminCode1": "ENG",
+      "score": 9.140437126159668,
+      "lng": "0.37899",
+      "adminName2": "Norfolk",
+      "fcodeName": "populated place",
+      "adminName3": "King's Lynn and West Norfolk District",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.592835944883326,
+        "east": 0.39554546214366415,
+        "north": 52.61294635485728,
+        "west": 0.36242534779285984
+      },
+      "name": "Downham Market",
+      "fcode": "PPL",
+      "geonameId": 2651030,
+      "asciiName": "Downham Market",
+      "lat": "52.60289",
+      "population": 6880,
+      "adminName1": "England",
+      "adminId1": "6269131",
+      "countryId": "2635167",
+      "fclName": "city, village,...",
+      "countryCode": "GB",
+      "adminId3": "7290596",
+      "adminId2": "2641455",
+      "toponymName": "Downham Market",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

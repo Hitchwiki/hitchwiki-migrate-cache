@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.671535,
+                  "lng" : 36.8945446
+               },
+               "southwest" : {
+                  "lat" : 22,
+                  "lng" : 24.6967748
+               }
+            },
+            "location" : {
+               "lat" : 26.820553,
+               "lng" : 30.802498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.671535,
+                  "lng" : 36.8945446
+               },
+               "southwest" : {
+                  "lat" : 22,
+                  "lng" : 24.6967748
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

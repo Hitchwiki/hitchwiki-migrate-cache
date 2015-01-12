@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A12",
+               "short_name" : "A12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "78",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A12, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8422935,
+                  "lng" : 2.104561
+               },
+               "southwest" : {
+                  "lat" : 48.7852878,
+                  "lng" : 2.0348804
+               }
+            },
+            "location" : {
+               "lat" : 48.8168538,
+               "lng" : 2.0639597
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8422935,
+                  "lng" : 2.104561
+               },
+               "southwest" : {
+                  "lat" : 48.7852878,
+                  "lng" : 2.0348804
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

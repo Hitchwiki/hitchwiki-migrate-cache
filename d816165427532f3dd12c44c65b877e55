@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bad Saulgau",
+               "short_name" : "Bad Saulgau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sigmaringen",
+               "short_name" : "SIG",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "TÜ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bad Saulgau, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0691692,
+                  "lng" : 9.6053452
+               },
+               "southwest" : {
+                  "lat" : 47.9572441,
+                  "lng" : 9.396983199999999
+               }
+            },
+            "location" : {
+               "lat" : 48.0147205,
+               "lng" : 9.5002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0691692,
+                  "lng" : 9.6053452
+               },
+               "southwest" : {
+                  "lat" : 47.9572441,
+                  "lng" : 9.396983199999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

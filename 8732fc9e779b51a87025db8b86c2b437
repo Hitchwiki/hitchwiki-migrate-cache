@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A26",
+               "short_name" : "A26",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A26, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.58141680000001,
+                  "lng" : 9.753836999999999
+               },
+               "southwest" : {
+                  "lat" : 53.4851281,
+                  "lng" : 9.504898499999999
+               }
+            },
+            "location" : {
+               "lat" : 53.5117102,
+               "lng" : 9.6229637
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58141680000001,
+                  "lng" : 9.753836999999999
+               },
+               "southwest" : {
+                  "lat" : 53.4851281,
+                  "lng" : 9.504898499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

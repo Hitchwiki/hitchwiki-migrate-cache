@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Sudan",
+               "short_name" : "SS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2363886,
+                  "lng" : 35.94899729999999
+               },
+               "southwest" : {
+                  "lat" : 3.4889804,
+                  "lng" : 23.4408492
+               }
+            },
+            "location" : {
+               "lat" : 6.876991899999999,
+               "lng" : 31.3069788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2363886,
+                  "lng" : 35.94899729999999
+               },
+               "southwest" : {
+                  "lat" : 3.4889804,
+                  "lng" : 23.4408492
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

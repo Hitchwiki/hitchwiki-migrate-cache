@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melanesia",
+               "short_name" : "Melanesia",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Melanesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.9377970000000001,
+                  "lng" : -177.8686523
+               },
+               "southwest" : {
+                  "lat" : -29.137506,
+                  "lng" : 106.370506
+               }
+            },
+            "location" : {
+               "lat" : -8.190185699999999,
+               "lng" : 152.8264684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.6702,
+                  "lng" : 168.0249023
+               },
+               "southwest" : {
+                  "lat" : -12.6832149,
+                  "lng" : 134.598577
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

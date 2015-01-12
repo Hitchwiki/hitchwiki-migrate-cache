@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavleborg County",
+               "short_name" : "Gavleborg County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gavleborg County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.37083,
+                  "lng" : 17.6414757
+               },
+               "southwest" : {
+                  "lat" : 60.201385,
+                  "lng" : 14.459403
+               }
+            },
+            "location" : {
+               "lat" : 61.30119930000001,
+               "lng" : 16.1534215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.37083,
+                  "lng" : 17.6414757
+               },
+               "southwest" : {
+                  "lat" : 60.201385,
+                  "lng" : 14.459403
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

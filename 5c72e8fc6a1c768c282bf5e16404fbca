@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tonga",
+               "short_name" : "TO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tonga",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.5663927,
+                  "lng" : -173.7024841
+               },
+               "southwest" : {
+                  "lat" : -21.473392,
+                  "lng" : -175.6796157
+               }
+            },
+            "location" : {
+               "lat" : -21.178986,
+               "lng" : -175.198242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.0101852,
+                  "lng" : -174.9005889
+               },
+               "southwest" : {
+                  "lat" : -21.473392,
+                  "lng" : -175.3564974
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

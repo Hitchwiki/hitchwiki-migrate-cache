@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuth",
+               "short_name" : "Nuth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nuth",
+               "short_name" : "Nuth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limburg",
+               "short_name" : "LI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6361",
+               "short_name" : "6361",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6361 Nuth, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9351464,
+                  "lng" : 5.9202705
+               },
+               "southwest" : {
+                  "lat" : 50.9015047,
+                  "lng" : 5.8356736
+               }
+            },
+            "location" : {
+               "lat" : 50.9114274,
+               "lng" : 5.8925961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9351464,
+                  "lng" : 5.9202705
+               },
+               "southwest" : {
+                  "lat" : 50.9015047,
+                  "lng" : 5.8356736
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

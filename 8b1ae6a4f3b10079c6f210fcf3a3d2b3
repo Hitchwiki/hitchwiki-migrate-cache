@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Bank",
+               "short_name" : "West Bank",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "West Bank",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5520999,
+                  "lng" : 35.5740521
+               },
+               "southwest" : {
+                  "lat" : 31.342602,
+                  "lng" : 34.880274
+               }
+            },
+            "location" : {
+               "lat" : 31.9465703,
+               "lng" : 35.3027226
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5520999,
+                  "lng" : 35.5740521
+               },
+               "southwest" : {
+                  "lat" : 31.342602,
+                  "lng" : 34.880274
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

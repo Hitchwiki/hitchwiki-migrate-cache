@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A70",
+               "short_name" : "A70",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A70, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0396414,
+                  "lng" : 11.6079662
+               },
+               "southwest" : {
+                  "lat" : 49.9173974,
+                  "lng" : 10.0792817
+               }
+            },
+            "location" : {
+               "lat" : 49.9247768,
+               "lng" : 10.8172983
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0396414,
+                  "lng" : 11.6079662
+               },
+               "southwest" : {
+                  "lat" : 49.9173974,
+                  "lng" : 10.0792817
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

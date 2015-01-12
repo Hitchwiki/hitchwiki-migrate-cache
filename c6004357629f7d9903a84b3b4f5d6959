@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuwait",
+               "short_name" : "KW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuwait",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1036993,
+                  "lng" : 48.4304579
+               },
+               "southwest" : {
+                  "lat" : 28.5244463,
+                  "lng" : 46.55304
+               }
+            },
+            "location" : {
+               "lat" : 29.31166,
+               "lng" : 47.481766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.103706,
+                  "lng" : 48.4304579
+               },
+               "southwest" : {
+                  "lat" : 28.5244463,
+                  "lng" : 46.55304
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

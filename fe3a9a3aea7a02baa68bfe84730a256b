@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A524",
+               "short_name" : "A524",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ratingen",
+               "short_name" : "Ratingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40885",
+               "short_name" : "40885",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A524, 40885 Ratingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3527383,
+                  "lng" : 6.850026700000001
+               },
+               "southwest" : {
+                  "lat" : 51.3466067,
+                  "lng" : 6.7881569
+               }
+            },
+            "location" : {
+               "lat" : 51.3499274,
+               "lng" : 6.8199601
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3527383,
+                  "lng" : 6.850026700000001
+               },
+               "southwest" : {
+                  "lat" : 51.3466067,
+                  "lng" : 6.7881569
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

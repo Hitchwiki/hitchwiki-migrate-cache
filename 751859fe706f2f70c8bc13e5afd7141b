@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A5, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4000222,
+                  "lng" : 4.848489799999999
+               },
+               "southwest" : {
+                  "lat" : 52.3093351,
+                  "lng" : 4.7321159
+               }
+            },
+            "location" : {
+               "lat" : 52.3690691,
+               "lng" : 4.7587158
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4000222,
+                  "lng" : 4.848489799999999
+               },
+               "southwest" : {
+                  "lat" : 52.3093351,
+                  "lng" : 4.7321159
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

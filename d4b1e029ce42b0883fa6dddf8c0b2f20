@@ -1,0 +1,268 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Money",
+               "short_name" : "Money",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tupelo",
+               "short_name" : "Tupelo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lee County",
+               "short_name" : "Lee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38801",
+               "short_name" : "38801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Money, Tupelo, MS 38801, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1743358,
+                  "lng" : -88.7212476
+               },
+               "southwest" : {
+                  "lat" : 34.1742318,
+                  "lng" : -88.7234871
+               }
+            },
+            "location" : {
+               "lat" : 34.1742914,
+               "lng" : -88.7220435
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1756327802915,
+                  "lng" : -88.72101836970849
+               },
+               "southwest" : {
+                  "lat" : 34.1729348197085,
+                  "lng" : -88.7237163302915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Money",
+               "short_name" : "Money",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saturna",
+               "short_name" : "Saturna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southern Gulf Islands",
+               "short_name" : "Southern Gulf Islands",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Capital",
+               "short_name" : "Capital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V0N 2Y0",
+               "short_name" : "V0N 2Y0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Money, Saturna, BC V0N 2Y0, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.79355109999999,
+                  "lng" : -123.172672
+               },
+               "southwest" : {
+                  "lat" : 48.792814,
+                  "lng" : -123.1763425
+               }
+            },
+            "location" : {
+               "lat" : 48.7935046,
+               "lng" : -123.175667
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.79453153029149,
+                  "lng" : -123.172672
+               },
+               "southwest" : {
+                  "lat" : 48.79183356970849,
+                  "lng" : -123.1763425
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Money",
+               "short_name" : "Money",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Republic of the Union of Myanmar",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Money, Republic of the Union of Myanmar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.8526741,
+                  "lng" : 98.2949907
+               },
+               "southwest" : {
+                  "lat" : 11.8045987,
+                  "lng" : 98.25312289999999
+               }
+            },
+            "location" : {
+               "lat" : 11.8311449,
+               "lng" : 98.27052979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.8526741,
+                  "lng" : 98.2949907
+               },
+               "southwest" : {
+                  "lat" : 11.8045987,
+                  "lng" : 98.25312289999999
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Money Tower",
+               "short_name" : "Money Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Annapurna Road",
+               "short_name" : "Annapurna Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pricanco Colony",
+               "short_name" : "Pricanco Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mishra Nagar",
+               "short_name" : "Mishra Nagar",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pre Conco Nagar",
+               "short_name" : "Pre Conco Nagar",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sudama Nagar",
+               "short_name" : "Sudama Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Indore",
+               "short_name" : "Indore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indore",
+               "short_name" : "Indore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "452009",
+               "short_name" : "452009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Money Tower, Annapurna Road, Pricanco Colony, Mishra Nagar, Pre Conco Nagar, Sudama Nagar, Indore, Madhya Pradesh 452009, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6855015,
+                  "lng" : 75.8360412
+               },
+               "southwest" : {
+                  "lat" : 22.6850477,
+                  "lng" : 75.83580139999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6853,
+               "lng" : 75.8358283
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6866235802915,
+                  "lng" : 75.83727028029149
+               },
+               "southwest" : {
+                  "lat" : 22.6839256197085,
+                  "lng" : 75.83457231970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

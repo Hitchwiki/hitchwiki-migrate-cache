@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reunion",
+               "short_name" : "RE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reunion",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.8717557,
+                  "lng" : 55.83655359999999
+               },
+               "southwest" : {
+                  "lat" : -21.389622,
+                  "lng" : 55.2164053
+               }
+            },
+            "location" : {
+               "lat" : -21.115141,
+               "lng" : 55.536384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.8717557,
+                  "lng" : 55.83655359999999
+               },
+               "southwest" : {
+                  "lat" : -21.389622,
+                  "lng" : 55.2164053
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

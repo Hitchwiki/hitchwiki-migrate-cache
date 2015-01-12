@@ -1,0 +1,354 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-15",
+               "short_name" : "A-15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-15, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.199533,
+                  "lng" : -1.6203919
+               },
+               "southwest" : {
+                  "lat" : 41.2546037,
+                  "lng" : -2.5442769
+               }
+            },
+            "location" : {
+               "lat" : 41.8758454,
+               "lng" : -1.9091223
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.199533,
+                  "lng" : -1.6203919
+               },
+               "southwest" : {
+                  "lat" : 41.2546037,
+                  "lng" : -2.5442769
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-15",
+               "short_name" : "A-15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Guipúzcoa",
+               "short_name" : "SS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "País Vasco",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-15, Guipúzcoa, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2856949,
+                  "lng" : -1.9570154
+               },
+               "southwest" : {
+                  "lat" : 43.2243727,
+                  "lng" : -2.0256288
+               }
+            },
+            "location" : {
+               "lat" : 43.2558443,
+               "lng" : -1.9924834
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2856949,
+                  "lng" : -1.9570154
+               },
+               "southwest" : {
+                  "lat" : 43.2243727,
+                  "lng" : -2.0256288
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-15",
+               "short_name" : "A-15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ayna",
+               "short_name" : "Ayna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-15, Ayna, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6190793,
+                  "lng" : -2.0658702
+               },
+               "southwest" : {
+                  "lat" : 38.5815466,
+                  "lng" : -2.0897053
+               }
+            },
+            "location" : {
+               "lat" : 38.5980772,
+               "lng" : -2.0695669
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6190793,
+                  "lng" : -2.0658702
+               },
+               "southwest" : {
+                  "lat" : 38.5815466,
+                  "lng" : -2.0897053
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-15",
+               "short_name" : "A-15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peñas de San Pedro",
+               "short_name" : "Peñas de San Pedro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02129",
+               "short_name" : "02129",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-15, 02129 Peñas de San Pedro, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7126643,
+                  "lng" : -1.9978878
+               },
+               "southwest" : {
+                  "lat" : 38.6972377,
+                  "lng" : -2.0306808
+               }
+            },
+            "location" : {
+               "lat" : 38.7028513,
+               "lng" : -2.0101445
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7126643,
+                  "lng" : -1.9978878
+               },
+               "southwest" : {
+                  "lat" : 38.6972377,
+                  "lng" : -2.0306808
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-15",
+               "short_name" : "A-15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Berastegi",
+               "short_name" : "Berastegi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gipuzkoa",
+               "short_name" : "SS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Euskadi",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20492",
+               "short_name" : "20492",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-15, 20492 Berastegi, Gipuzkoa, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1250028,
+                  "lng" : -1.9658081
+               },
+               "southwest" : {
+                  "lat" : 43.1227281,
+                  "lng" : -1.9666533
+               }
+            },
+            "location" : {
+               "lat" : 43.12388199999999,
+               "lng" : -1.9665667
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.12521443029149,
+                  "lng" : -1.964881719708498
+               },
+               "southwest" : {
+                  "lat" : 43.12251646970849,
+                  "lng" : -1.967579680291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cella",
+               "short_name" : "Cella",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cella",
+               "short_name" : "Cella",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Teruel",
+               "short_name" : "Teruel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragón",
+               "short_name" : "Aragón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44370",
+               "short_name" : "44370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15, 44370 Cella, Teruel, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4532369,
+                  "lng" : -1.2785739
+               },
+               "southwest" : {
+                  "lat" : 40.4483013,
+                  "lng" : -1.2821387
+               }
+            },
+            "location" : {
+               "lat" : 40.4503591,
+               "lng" : -1.2809172
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4532369,
+                  "lng" : -1.2785739
+               },
+               "southwest" : {
+                  "lat" : 40.4483013,
+                  "lng" : -1.2821387
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

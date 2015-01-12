@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horn-Bad Meinberg",
+               "short_name" : "Horn-Bad Meinberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lippe",
+               "short_name" : "Lippe",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Detmold",
+               "short_name" : "Detmold",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horn-Bad Meinberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9273855,
+                  "lng" : 9.092959499999999
+               },
+               "southwest" : {
+                  "lat" : 51.78898650000001,
+                  "lng" : 8.8765898
+               }
+            },
+            "location" : {
+               "lat" : 51.8751511,
+               "lng" : 8.948143099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9273855,
+                  "lng" : 9.092959499999999
+               },
+               "southwest" : {
+                  "lat" : 51.78898650000001,
+                  "lng" : 8.8765898
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

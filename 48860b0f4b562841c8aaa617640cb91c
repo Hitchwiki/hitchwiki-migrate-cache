@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mikkeli",
+               "short_name" : "Mikkeli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mikkeli",
+               "short_name" : "Mikkeli",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50100",
+               "short_name" : "50100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50100 Mikkeli, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.68580739999999,
+               "lng" : 27.2734876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.69109929999999,
+                  "lng" : 27.289495
+               },
+               "southwest" : {
+                  "lat" : 61.6805146,
+                  "lng" : 27.2574802
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turpan",
+               "short_name" : "Turpan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xinjiang",
+               "short_name" : "Xinjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turpan, Xinjiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.63268,
+                  "lng" : 91.9174709
+               },
+               "southwest" : {
+                  "lat" : 41.1976671,
+                  "lng" : 87.36445329999999
+               }
+            },
+            "location" : {
+               "lat" : 42.951384,
+               "lng" : 89.189655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.63268,
+                  "lng" : 91.9174709
+               },
+               "southwest" : {
+                  "lat" : 41.1976671,
+                  "lng" : 87.36445329999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

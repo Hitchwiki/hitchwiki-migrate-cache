@@ -1,0 +1,333 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6724789,
+                  "lng" : -75.301637
+               },
+               "southwest" : {
+                  "lat" : 40.578004,
+                  "lng" : -75.4304159
+               }
+            },
+            "location" : {
+               "lat" : 40.6259316,
+               "lng" : -75.37045789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6724789,
+                  "lng" : -75.301637
+               },
+               "southwest" : {
+                  "lat" : 40.578004,
+                  "lng" : -75.4304159
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Clark County",
+               "short_name" : "Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47104",
+               "short_name" : "47104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, IN 47104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5392299,
+               "lng" : -85.420514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.54057888029149,
+                  "lng" : -85.4191650197085
+               },
+               "southwest" : {
+                  "lat" : 38.53788091970849,
+                  "lng" : -85.42186298029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3364979,
+                  "lng" : -71.412851
+               },
+               "southwest" : {
+                  "lat" : 44.1663671,
+                  "lng" : -71.79423
+               }
+            },
+            "location" : {
+               "lat" : 44.2803843,
+               "lng" : -71.6875364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3364979,
+                  "lng" : -71.412851
+               },
+               "southwest" : {
+                  "lat" : 44.1663671,
+                  "lng" : -71.79423
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Litchfield County",
+               "short_name" : "Litchfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.669196,
+                  "lng" : -73.1577559
+               },
+               "southwest" : {
+                  "lat" : 41.6045319,
+                  "lng" : -73.26145009999999
+               }
+            },
+            "location" : {
+               "lat" : 41.639167,
+               "lng" : -73.20861099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.669196,
+                  "lng" : -73.1577559
+               },
+               "southwest" : {
+                  "lat" : 41.6045319,
+                  "lng" : -73.26145009999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunterdon County",
+               "short_name" : "Hunterdon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.706198,
+                  "lng" : -74.92290799999999
+               },
+               "southwest" : {
+                  "lat" : 40.6311089,
+                  "lng" : -75.10990409999999
+               }
+            },
+            "location" : {
+               "lat" : 40.665036,
+               "lng" : -75.01193499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.706198,
+                  "lng" : -74.92290799999999
+               },
+               "southwest" : {
+                  "lat" : 40.6311089,
+                  "lng" : -75.10990409999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethlehem",
+               "short_name" : "Bethlehem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ohio County",
+               "short_name" : "Ohio County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26003",
+               "short_name" : "26003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bethlehem, WV 26003, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.06254,
+                  "lng" : -80.6666669
+               },
+               "southwest" : {
+                  "lat" : 40.02862590000001,
+                  "lng" : -80.71362789999999
+               }
+            },
+            "location" : {
+               "lat" : 40.043962,
+               "lng" : -80.6906355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.06254,
+                  "lng" : -80.6666669
+               },
+               "southwest" : {
+                  "lat" : 40.02862590000001,
+                  "lng" : -80.71362789999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

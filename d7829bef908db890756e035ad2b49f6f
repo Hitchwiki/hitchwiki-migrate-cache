@@ -1,0 +1,428 @@
+{
+  "totalResultsCount": 884,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Ла Сейба",
+          "lang": "bg"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "de"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "en"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "es"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "fr"
+        },
+        {
+          "name": "LCE",
+          "lang": "iata"
+        },
+        {
+          "name": "ラ・セイバ",
+          "lang": "ja"
+        },
+        {
+          "name": "La Seiba",
+          "lang": "lt"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "nl"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "pl"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "pt"
+        },
+        {
+          "name": "Ла-Сейба",
+          "lang": "ru"
+        },
+        {
+          "name": "La Ceiba",
+          "lang": "sv"
+        },
+        {
+          "name": "LCE",
+          "lang": "unlc"
+        },
+        {
+          "name": "拉塞瓦",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Honduras",
+      "adminCode1": "01",
+      "score": 120.52461242675781,
+      "lng": "-86.78221",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Tegucigalpa"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 15.712977737972983,
+        "east": -86.73363860152978,
+        "north": 15.806442477470382,
+        "west": -86.83077637649757
+      },
+      "name": "La Ceiba",
+      "fcode": "PPLA",
+      "geonameId": 3608248,
+      "asciiName": "La Ceiba",
+      "lat": "15.75971",
+      "population": 130218,
+      "adminName1": "Atlántida",
+      "countryId": "3608932",
+      "adminId1": "3615027",
+      "fclName": "city, village,...",
+      "countryCode": "HN",
+      "toponymName": "La Ceiba",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "0101",
+      "countryName": "Honduras",
+      "adminCode1": "01",
+      "score": 32.36891174316406,
+      "lng": "-86.76",
+      "adminName2": "La Ceiba",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Tegucigalpa"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "La Ceiba",
+      "fcode": "ADM2",
+      "geonameId": 3608268,
+      "asciiName": "La Ceiba",
+      "lat": "15.67",
+      "population": 127590,
+      "adminName1": "Atlántida",
+      "countryId": "3608932",
+      "adminId1": "3615027",
+      "fclName": "country, state, region,...",
+      "countryCode": "HN",
+      "adminId2": "3608268",
+      "toponymName": "La Ceiba",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "2109",
+      "countryName": "Venezuela",
+      "adminCode1": "21",
+      "score": 32.36891174316406,
+      "lng": "-71.01419",
+      "adminName2": "Municipio La Ceiba",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4.5,
+        "gmtOffset": -4.5,
+        "timeZoneId": "America/Caracas"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Municipio La Ceiba",
+      "fcode": "ADM2",
+      "geonameId": 8129264,
+      "asciiName": "Municipio La Ceiba",
+      "lat": "9.47139",
+      "population": 0,
+      "adminName1": "Trujillo",
+      "countryId": "3625428",
+      "adminId1": "3625974",
+      "fclName": "country, state, region,...",
+      "countryCode": "VE",
+      "adminId2": "8129264",
+      "toponymName": "Municipio La Ceiba",
+      "fcl": "A",
+      "continentCode": "SA"
+    },
+    {
+      "countryId": "3608932",
+      "alternateNames": [
+        {
+          "name": "LCE",
+          "lang": "iata"
+        },
+        {
+          "name": "MHLC",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Golos%C3%B3n_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Honduras",
+      "fclName": "spot, building, farm",
+      "elevation": 14,
+      "score": 31.71492576599121,
+      "countryCode": "HN",
+      "lng": "-86.85304",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "airport",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Tegucigalpa"
+      },
+      "toponymName": "La Ceiba Airport",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "NA",
+      "name": "La Ceiba Airport",
+      "fcode": "AIRP",
+      "asciiName": "La Ceiba Airport",
+      "geonameId": 6299812,
+      "lat": "15.74248",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "countryName": "Colombia",
+      "adminCode1": "35",
+      "cc2": "CO",
+      "score": 22.990970611572266,
+      "lng": "-74.28333",
+      "adminName2": "",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Ciénaga La Ceiba",
+      "fcode": "LK",
+      "geonameId": 3679568,
+      "asciiName": "Cienaga La Ceiba",
+      "lat": "8.83333",
+      "population": 0,
+      "adminName1": "Bolívar",
+      "countryId": "3686110",
+      "adminId1": "3688650",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CO",
+      "toponymName": "Ciénaga La Ceiba",
+      "fcl": "H",
+      "continentCode": "SA"
+    },
+    {
+      "countryName": "Guatemala",
+      "adminCode1": "04",
+      "cc2": "GT",
+      "score": 22.658239364624023,
+      "lng": "-89.45",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Guatemala"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 14.724339651248574,
+        "east": -89.44070020207332,
+        "north": 14.742326948751426,
+        "west": -89.45929979792669
+      },
+      "name": "La Ceiba",
+      "fcode": "PPL",
+      "geonameId": 3594901,
+      "asciiName": "La Ceiba",
+      "lat": "14.73333",
+      "population": 0,
+      "adminName1": "Chiquimula",
+      "countryId": "3595528",
+      "adminId1": "3598464",
+      "fclName": "city, village,...",
+      "countryCode": "GT",
+      "toponymName": "La Ceiba",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "countryName": "Dominican Republic",
+      "adminCode1": "06",
+      "cc2": "DO",
+      "score": 22.658239364624023,
+      "lng": "-70.23333",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 19.35767305124857,
+        "east": -70.22379970326045,
+        "north": 19.375660348751428,
+        "west": -70.24286689673954
+      },
+      "name": "La Ceiba",
+      "fcode": "PPL",
+      "geonameId": 3503234,
+      "asciiName": "La Ceiba",
+      "lat": "19.36667",
+      "population": 0,
+      "adminName1": "Duarte",
+      "countryId": "3508796",
+      "adminId1": "3508718",
+      "fclName": "city, village,...",
+      "countryCode": "DO",
+      "toponymName": "La Ceiba",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "countryName": "Dominican Republic",
+      "adminCode1": "32",
+      "cc2": "DO",
+      "score": 22.658239364624023,
+      "lng": "-69.68333",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Santo_Domingo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 19.024339651248244,
+        "east": -69.67381900820415,
+        "north": 19.042326948751754,
+        "west": -69.69284759179585
+      },
+      "name": "La Ceiba",
+      "fcode": "PPL",
+      "geonameId": 3503240,
+      "asciiName": "La Ceiba",
+      "lat": "19.03333",
+      "population": 0,
+      "adminName1": "Monte Plata",
+      "countryId": "3508796",
+      "adminId1": "3496132",
+      "fclName": "city, village,...",
+      "countryCode": "DO",
+      "toponymName": "La Ceiba",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "countryName": "Colombia",
+      "adminCode1": "27",
+      "score": 22.425838470458984,
+      "lng": "-74.98342",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 8.920312351248246,
+        "east": -74.97431179179303,
+        "north": 8.938299648751755,
+        "west": -74.99252020820698
+      },
+      "name": "La Ceiba",
+      "fcode": "PPL",
+      "geonameId": 3679577,
+      "asciiName": "La Ceiba",
+      "lat": "8.92931",
+      "population": 0,
+      "adminName1": "Sucre",
+      "countryId": "3686110",
+      "adminId1": "3667725",
+      "fclName": "city, village,...",
+      "countryCode": "CO",
+      "toponymName": "La Ceiba",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Mercedes_La_Ceiba",
+        "lang": "link"
+      }],
+      "countryName": "El Salvador",
+      "adminCode1": "06",
+      "score": 21.204177856445312,
+      "lng": "-88.9",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -6,
+        "gmtOffset": -6,
+        "timeZoneId": "America/El_Salvador"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 13.624339651248574,
+        "east": -88.890745247076,
+        "north": 13.642326948751426,
+        "west": -88.90925475292401
+      },
+      "name": "Mercedes La Ceiba",
+      "fcode": "PPL",
+      "geonameId": 3584392,
+      "asciiName": "Mercedes La Ceiba",
+      "lat": "13.63333",
+      "population": 0,
+      "adminName1": "La Paz",
+      "countryId": "3585968",
+      "adminId1": "3585087",
+      "fclName": "city, village,...",
+      "countryCode": "SV",
+      "toponymName": "Mercedes La Ceiba",
+      "fcl": "P",
+      "continentCode": "NA"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xizang (Tibet)",
+               "short_name" : "Xizang (Tibet)",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tibet, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4833345,
+                  "lng" : 99.116241
+               },
+               "southwest" : {
+                  "lat" : 26.8548157,
+                  "lng" : 78.3955448
+               }
+            },
+            "location" : {
+               "lat" : 29.646923,
+               "lng" : 91.11721199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4833345,
+                  "lng" : 99.116241
+               },
+               "southwest" : {
+                  "lat" : 26.8548157,
+                  "lng" : 78.3955448
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

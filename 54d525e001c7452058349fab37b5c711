@@ -1,0 +1,761 @@
+{
+  "totalResultsCount": 262,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -43.72537546046983,
+        "south": -20.120777737409423,
+        "north": -19.72088892259058,
+        "west": -44.15018009953017
+      },
+      "asciiName": "Belo Horizonte",
+      "countryId": "3469034",
+      "fcl": "P",
+      "score": 186.4202880859375,
+      "adminId2": "6321162",
+      "countryCode": "BR",
+      "adminId1": "3457153",
+      "lat": "-19.92083",
+      "fcode": "PPLA",
+      "continentCode": "SA",
+      "elevation": 888,
+      "adminCode2": "3106200",
+      "adminCode1": "15",
+      "lng": "-43.93778",
+      "geonameId": 3470127,
+      "toponymName": "Belo Horizonte",
+      "population": 2373224,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بيلو هوريزونتي",
+          "lang": "ar"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "ast"
+        },
+        {
+          "name": "Горад Белу-Арызонты",
+          "lang": "be"
+        },
+        {
+          "name": "Бело Оризонти",
+          "lang": "bg"
+        },
+        {
+          "name": "বেলো হোরিজোন্টে",
+          "lang": "bpy"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "ca"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "ce"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "co"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "cs"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "da"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "de"
+        },
+        {
+          "name": "Μπέλο Οριζόντε",
+          "lang": "el"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "en"
+        },
+        {
+          "name": "Bel-Horizonto",
+          "lang": "eo"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "es"
+        },
+        {
+          "name": "بلو هوریزونته",
+          "lang": "fa"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "fi"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "fr"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "gl"
+        },
+        {
+          "name": "בלו הוריזונטה",
+          "lang": "he"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "hr"
+        },
+        {
+          "name": "BHZ",
+          "lang": "iata"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "id"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "io"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "it"
+        },
+        {
+          "name": "ベロオリゾンチ",
+          "lang": "ja"
+        },
+        {
+          "name": "ბელუ-ორიზონტი",
+          "lang": "ka"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "kk"
+        },
+        {
+          "name": "벨루오리존치",
+          "lang": "ko"
+        },
+        {
+          "name": "Urbs Pulchri Horizontis",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Belo_Horizonte",
+          "lang": "link"
+        },
+        {
+          "name": "Belo Horizontė",
+          "lang": "lt"
+        },
+        {
+          "name": "Belu Orizonti",
+          "lang": "lv"
+        },
+        {
+          "name": "Бело Хоризонте",
+          "lang": "mk"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "mn"
+        },
+        {
+          "name": "बेलो होरिझोन्ते",
+          "lang": "mr"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "nl"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "no"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "oc"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "os"
+        },
+        {
+          "name": "ਬੈਲੋ ਓਰੀਜ਼ੋਂਤੀ",
+          "lang": "pa"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "pl"
+        },
+        {
+          "name": "بیلو ہوریزونتے",
+          "lang": "pnb"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "pt"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "ru"
+        },
+        {
+          "name": "Бело Оризонте",
+          "lang": "sr"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "sv"
+        },
+        {
+          "name": "பெலோ அரிசாஞ்ச்",
+          "lang": "ta"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "tg"
+        },
+        {
+          "name": "เบโลโอรีซอนชี",
+          "lang": "th"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "tr"
+        },
+        {
+          "name": "Белу-Оризонті",
+          "lang": "uk"
+        },
+        {
+          "name": "BHZ",
+          "lang": "unlc"
+        },
+        {
+          "name": "Belu-Orizonti",
+          "lang": "uz"
+        },
+        {
+          "name": "贝洛奥里藏特",
+          "lang": "zh"
+        },
+        {
+          "name": "貝洛奥里藏特",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Belo Horizonte",
+      "name": "Belo Horizonte",
+      "fclName": "city, village,...",
+      "countryName": "Brazil",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Minas Gerais"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -43.85658296146309,
+        "south": -20.059699053790595,
+        "north": -19.776543712713,
+        "west": -44.063340600861
+      },
+      "asciiName": "Belo Horizonte",
+      "countryId": "3469034",
+      "fcl": "A",
+      "score": 38.02104187011719,
+      "adminId2": "6321162",
+      "countryCode": "BR",
+      "adminId1": "3457153",
+      "lat": "-19.92623",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "3106200",
+      "adminCode1": "15",
+      "lng": "-43.93982",
+      "geonameId": 6321162,
+      "toponymName": "Belo Horizonte",
+      "population": 2375444,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "BH",
+          "lang": "abbr"
+        },
+        {
+          "name": "بيلو هوريزونتي",
+          "lang": "ar"
+        },
+        {
+          "name": "Бело Оризонти",
+          "lang": "bg"
+        },
+        {
+          "name": "বেলো হোরিজোন্টে",
+          "lang": "bpy"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "de"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "en"
+        },
+        {
+          "name": "بلو هوریزونته",
+          "lang": "fa"
+        },
+        {
+          "name": "Belo Horizonte",
+          "lang": "fr"
+        },
+        {
+          "name": "בלו הוריזונטה",
+          "lang": "he"
+        },
+        {
+          "name": "ベロオリゾンテ",
+          "lang": "ja"
+        },
+        {
+          "name": "ბელუ-ორიზონტი",
+          "lang": "ka"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "kk"
+        },
+        {
+          "name": "벨루오리존치",
+          "lang": "ko"
+        },
+        {
+          "name": "Urbs Pulchri Horizontis",
+          "lang": "la"
+        },
+        {
+          "name": "Belo Horizontė",
+          "lang": "lt"
+        },
+        {
+          "name": "Belu Orizonti",
+          "lang": "lv"
+        },
+        {
+          "name": "बेलो होरिझोन्ते",
+          "lang": "mr"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "os"
+        },
+        {
+          "name": "بیلو ہوریزونتے",
+          "lang": "pnb"
+        },
+        {
+          "name": "Belo Hte",
+          "lang": "pt"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "ru"
+        },
+        {
+          "name": "Бело Оризонте",
+          "lang": "sr"
+        },
+        {
+          "name": "Белу-Оризонти",
+          "lang": "tg"
+        },
+        {
+          "name": "Белу-Оризонті",
+          "lang": "uk"
+        },
+        {
+          "name": "贝洛奥里藏特",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Belo Horizonte",
+      "name": "Belo Horizonte",
+      "fclName": "country, state, region,...",
+      "countryName": "Brazil",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Minas Gerais"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "asciiName": "Belo Horizonte",
+      "countryId": "3469034",
+      "fcl": "S",
+      "score": 30.280731201171875,
+      "adminId2": "6321290",
+      "countryCode": "BR",
+      "adminId1": "3457153",
+      "lat": "-19.63375",
+      "fcode": "AIRP",
+      "continentCode": "SA",
+      "elevation": 827,
+      "adminCode2": "3117876",
+      "adminCode1": "15",
+      "lng": "-43.96886",
+      "geonameId": 6301851,
+      "toponymName": "Belo Horizonte",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "CNF",
+          "lang": "iata"
+        },
+        {
+          "name": "SBCF",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Tancredo_Neves_International_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "Aeroporto de Confins",
+          "lang": "pt"
+        },
+        {
+          "name": "CNF",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Confins",
+      "name": "Belo Horizonte",
+      "fclName": "spot, building, farm",
+      "countryName": "Brazil",
+      "fcodeName": "airport",
+      "adminName1": "Minas Gerais"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Eirunepe",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -69.5742663391906,
+        "south": -7.308993648751755,
+        "north": -7.291006351248245,
+        "west": -69.59240026080941
+      },
+      "asciiName": "Belo Horizonte",
+      "countryId": "3469034",
+      "fcl": "P",
+      "score": 26.620548248291016,
+      "cc2": "BR",
+      "adminId2": "6319314",
+      "countryCode": "BR",
+      "adminId1": "3665361",
+      "lat": "-7.3",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode2": "1301506",
+      "adminCode1": "04",
+      "lng": "-69.58333",
+      "geonameId": 3665027,
+      "toponymName": "Belo Horizonte",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Envira",
+      "name": "Belo Horizonte",
+      "fclName": "city, village,...",
+      "countryName": "Brazil",
+      "fcodeName": "populated place",
+      "adminName1": "Amazonas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "asciiName": "Carlos Drummond de Andrade Airport",
+      "countryId": "3469034",
+      "fcl": "S",
+      "score": 22.94914436340332,
+      "adminId2": "6321162",
+      "countryCode": "BR",
+      "adminId1": "3457153",
+      "lat": "-19.85118",
+      "fcode": "AIRP",
+      "continentCode": "SA",
+      "elevation": 789,
+      "adminCode2": "3106200",
+      "adminCode1": "15",
+      "lng": "-43.95063",
+      "geonameId": 6300602,
+      "toponymName": "Carlos Drummond de Andrade Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "PLU",
+          "lang": "iata"
+        },
+        {
+          "name": "SBBH",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Belo_Horizonte%2FPampulha_%E2%80%93_Carlos_Drummond_de_Andrade_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "Aeroporto da Pampulha",
+          "lang": "pt"
+        }
+      ],
+      "adminName2": "Belo Horizonte",
+      "name": "Carlos Drummond de Andrade Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Brazil",
+      "fcodeName": "airport",
+      "adminName1": "Minas Gerais"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "asciiName": "Carlos Prates Airport",
+      "countryId": "3469034",
+      "fcl": "S",
+      "score": 22.94914436340332,
+      "adminId2": "6321162",
+      "countryCode": "BR",
+      "adminId1": "3457153",
+      "lat": "-19.91013",
+      "fcode": "AIRP",
+      "continentCode": "SA",
+      "adminCode2": "3106200",
+      "adminCode1": "15",
+      "lng": "-43.98977",
+      "geonameId": 8533078,
+      "toponymName": "Carlos Prates Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "SBPR",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Carlos_Prates_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Belo Horizonte",
+      "name": "Carlos Prates Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Brazil",
+      "fcodeName": "airport",
+      "adminName1": "Minas Gerais"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Manaus",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -67.53833808230543,
+        "south": -2.754679648751427,
+        "north": -2.736692351248573,
+        "west": -67.55634591769457
+      },
+      "asciiName": "Belo Horizonte",
+      "countryId": "3469034",
+      "fcl": "P",
+      "score": 22.18379020690918,
+      "adminId2": "6319347",
+      "countryCode": "BR",
+      "adminId1": "3665361",
+      "lat": "-2.74569",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode2": "1304237",
+      "adminCode1": "04",
+      "lng": "-67.54734",
+      "geonameId": 3665028,
+      "toponymName": "Belo Horizonte",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Tonantins",
+      "name": "Belo Horizonte",
+      "fclName": "city, village,...",
+      "countryName": "Brazil",
+      "fcodeName": "populated place",
+      "adminName1": "Amazonas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Santarem",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -52.85763456699327,
+        "south": -5.308993648751427,
+        "north": -5.291006351248573,
+        "west": -52.87569883300674
+      },
+      "asciiName": "Belo Horizonte",
+      "countryId": "3469034",
+      "fcl": "P",
+      "score": 22.18379020690918,
+      "cc2": "BR",
+      "adminId2": "6324183",
+      "countryCode": "BR",
+      "adminId1": "3393129",
+      "lat": "-5.3",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode2": "1500602",
+      "adminCode1": "16",
+      "lng": "-52.86667",
+      "geonameId": 3405825,
+      "toponymName": "Belo Horizonte",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Altamira",
+      "name": "Belo Horizonte",
+      "fclName": "city, village,...",
+      "countryName": "Brazil",
+      "fcodeName": "populated place",
+      "adminName1": "Pará"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Porto_Velho",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -64.1574763899335,
+        "south": -11.892326948751426,
+        "north": -11.874339651248574,
+        "west": -64.17585701006648
+      },
+      "asciiName": "Barracao Belo Horizonte",
+      "countryId": "3469034",
+      "fcl": "P",
+      "score": 20.730337142944336,
+      "cc2": "BR",
+      "adminId2": "3925074",
+      "countryCode": "BR",
+      "adminId1": "3924825",
+      "lat": "-11.88333",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode2": "1100106",
+      "adminCode1": "24",
+      "lng": "-64.16667",
+      "geonameId": 3925263,
+      "toponymName": "Barracão Belo Horizonte",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Guajará-Mirim",
+      "name": "Barracão Belo Horizonte",
+      "fclName": "city, village,...",
+      "countryName": "Brazil",
+      "fcodeName": "populated place",
+      "adminName1": "Rondônia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -43.923769063540156,
+        "south": -19.908993648751427,
+        "north": -19.89100635124857,
+        "west": -43.942897536459846
+      },
+      "asciiName": "Pampulha",
+      "countryId": "3469034",
+      "fcl": "P",
+      "score": 19.124286651611328,
+      "adminId2": "6321162",
+      "countryCode": "BR",
+      "adminId1": "3457153",
+      "lat": "-19.9",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode2": "3106200",
+      "adminCode1": "15",
+      "lng": "-43.93333",
+      "geonameId": 3455287,
+      "toponymName": "Pampulha",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Pampulha",
+          "lang": "link"
+        },
+        {
+          "name": "PLU",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Belo Horizonte",
+      "name": "Pampulha",
+      "fclName": "city, village,...",
+      "countryName": "Brazil",
+      "fcodeName": "populated place",
+      "adminName1": "Minas Gerais"
+    }
+  ]
+}

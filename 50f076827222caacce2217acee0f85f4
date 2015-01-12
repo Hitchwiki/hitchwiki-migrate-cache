@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bonn",
+               "short_name" : "BN",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bonn, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7744264,
+                  "lng" : 7.2107015
+               },
+               "southwest" : {
+                  "lat" : 50.6327276,
+                  "lng" : 7.020722999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.73743,
+               "lng" : 7.0982068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7744264,
+                  "lng" : 7.2107015
+               },
+               "southwest" : {
+                  "lat" : 50.6327276,
+                  "lng" : 7.020722999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A330",
+               "short_name" : "A330",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "54",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lorraine",
+               "short_name" : "Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A330, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6640524,
+                  "lng" : 6.1891854
+               },
+               "southwest" : {
+                  "lat" : 48.5740317,
+                  "lng" : 6.171320199999999
+               }
+            },
+            "location" : {
+               "lat" : 48.6193377,
+               "lng" : 6.1809411
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6640524,
+                  "lng" : 6.1891854
+               },
+               "southwest" : {
+                  "lat" : 48.5740317,
+                  "lng" : 6.171320199999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Memmingen",
+               "short_name" : "MM",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Swabia",
+               "short_name" : "Swabia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Memmingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0474892,
+                  "lng" : 10.2339474
+               },
+               "southwest" : {
+                  "lat" : 47.9155131,
+                  "lng" : 10.084774
+               }
+            },
+            "location" : {
+               "lat" : 47.9837999,
+               "lng" : 10.1801883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0474892,
+                  "lng" : 10.2339474
+               },
+               "southwest" : {
+                  "lat" : 47.9155131,
+                  "lng" : 10.084774
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

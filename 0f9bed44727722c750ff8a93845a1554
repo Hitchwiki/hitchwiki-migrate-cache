@@ -1,0 +1,333 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fayette County",
+               "short_name" : "Fayette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lexington, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.211404,
+                  "lng" : -84.282715
+               },
+               "southwest" : {
+                  "lat" : 37.8452559,
+                  "lng" : -84.66041509999999
+               }
+            },
+            "location" : {
+               "lat" : 38.0405837,
+               "lng" : -84.5037164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.211404,
+                  "lng" : -84.282715
+               },
+               "southwest" : {
+                  "lat" : 37.8452559,
+                  "lng" : -84.66041509999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lexington, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.489967,
+                  "lng" : -71.17775709999999
+               },
+               "southwest" : {
+                  "lat" : 42.4061949,
+                  "lng" : -71.27242009999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4430372,
+               "lng" : -71.2289641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.489967,
+                  "lng" : -71.17775709999999
+               },
+               "southwest" : {
+                  "lat" : 42.4061949,
+                  "lng" : -71.27242009999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lexington County",
+               "short_name" : "Lexington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lexington, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.018237,
+                  "lng" : -81.187241
+               },
+               "southwest" : {
+                  "lat" : 33.949646,
+                  "lng" : -81.275809
+               }
+            },
+            "location" : {
+               "lat" : 33.9815369,
+               "lng" : -81.2362107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.018237,
+                  "lng" : -81.187241
+               },
+               "southwest" : {
+                  "lat" : 33.949646,
+                  "lng" : -81.275809
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Davidson County",
+               "short_name" : "Davidson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lexington, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8593369,
+                  "lng" : -80.2198241
+               },
+               "southwest" : {
+                  "lat" : 35.7575389,
+                  "lng" : -80.3299129
+               }
+            },
+            "location" : {
+               "lat" : 35.8240265,
+               "lng" : -80.25338379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8593369,
+                  "lng" : -80.2198241
+               },
+               "southwest" : {
+                  "lat" : 35.7575389,
+                  "lng" : -80.3299129
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dawson County",
+               "short_name" : "Dawson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68850",
+               "short_name" : "68850",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lexington, NE 68850, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.798141,
+                  "lng" : -99.71095989999999
+               },
+               "southwest" : {
+                  "lat" : 40.7430979,
+                  "lng" : -99.7680369
+               }
+            },
+            "location" : {
+               "lat" : 40.7808398,
+               "lng" : -99.74150449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.798141,
+                  "lng" : -99.71095989999999
+               },
+               "southwest" : {
+                  "lat" : 40.7430979,
+                  "lng" : -99.7680369
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Scott County",
+               "short_name" : "Scott County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47138",
+               "short_name" : "47138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lexington, IN 47138, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6522821,
+               "lng" : -85.62524089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6536310802915,
+                  "lng" : -85.62389191970848
+               },
+               "southwest" : {
+                  "lat" : 38.6509331197085,
+                  "lng" : -85.6265898802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kristianstad",
+               "short_name" : "Kristianstad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kristianstad",
+               "short_name" : "Kristianstad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Skane County",
+               "short_name" : "Skane County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kristianstad, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.0646171,
+                  "lng" : 14.2289291
+               },
+               "southwest" : {
+                  "lat" : 55.986753,
+                  "lng" : 14.0623491
+               }
+            },
+            "location" : {
+               "lat" : 56.0293936,
+               "lng" : 14.1566778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0646171,
+                  "lng" : 14.2289291
+               },
+               "southwest" : {
+                  "lat" : 55.986753,
+                  "lng" : 14.0623491
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

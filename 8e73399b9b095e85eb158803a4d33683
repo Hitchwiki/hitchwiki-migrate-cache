@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gabon",
+               "short_name" : "GA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gabon",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.3181094,
+                  "lng" : 14.5205561
+               },
+               "southwest" : {
+                  "lat" : -3.9583722,
+                  "lng" : 8.6990528
+               }
+            },
+            "location" : {
+               "lat" : -0.803689,
+               "lng" : 11.609444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.3181094,
+                  "lng" : 14.5205561
+               },
+               "southwest" : {
+                  "lat" : -3.9583722,
+                  "lng" : 8.6990528
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

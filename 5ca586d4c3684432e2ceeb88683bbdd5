@@ -1,0 +1,485 @@
+{
+  "totalResultsCount": 21,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -75.38322136499994,
+        "south": 4.472103264000054,
+        "north": 4.716099667000037,
+        "west": -75.65054990499993
+      },
+      "asciiName": "Salento",
+      "countryId": "3686110",
+      "fcl": "A",
+      "score": 46.31468963623047,
+      "adminId2": "3670353",
+      "countryCode": "CO",
+      "adminId1": "3671087",
+      "lat": "4.63643",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "63690",
+      "adminCode1": "23",
+      "lng": "-75.5674",
+      "geonameId": 3670353,
+      "toponymName": "Salento",
+      "population": 7247,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Salento%2C_Quind%C3%ADo",
+        "lang": "link"
+      }],
+      "adminName2": "Salento",
+      "name": "Salento",
+      "fclName": "country, state, region,...",
+      "countryName": "Colombia",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Quindío"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Rome",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 18.357099355432737,
+        "south": 40.14330120718585,
+        "north": 40.15596461284273,
+        "west": 18.345064144704764
+      },
+      "asciiName": "Bagnolo del Salento",
+      "countryId": "3175395",
+      "fcl": "P",
+      "score": 35.01061248779297,
+      "adminId2": "3174952",
+      "adminId3": "6537583",
+      "countryCode": "IT",
+      "adminId1": "3169778",
+      "lat": "40.14908",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "elevation": 96,
+      "adminCode2": "LE",
+      "adminCode3": "075008",
+      "adminCode1": "13",
+      "lng": "18.35208",
+      "geonameId": 3182502,
+      "toponymName": "Bagnolo del Salento",
+      "population": 1879,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Bagnolo del Salento",
+      "alternateNames": [
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "de"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "en"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "eo"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "fr"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "it"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "nap"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "nl"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "pl"
+        },
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "pt"
+        }
+      ],
+      "adminName2": "Provincia di Lecce",
+      "name": "Bagnolo del Salento",
+      "fclName": "city, village,...",
+      "countryName": "Italy",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Apulia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Rome",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 15.2250912359748,
+        "south": 40.227274595241,
+        "north": 40.269047748873,
+        "west": 15.1304093485739
+      },
+      "asciiName": "Salento",
+      "countryId": "3175395",
+      "fcl": "A",
+      "score": 26.25796127319336,
+      "adminId2": "3168670",
+      "adminId3": "6540006",
+      "countryCode": "IT",
+      "adminId1": "3181042",
+      "lat": "40.2486",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "SA",
+      "adminCode3": "065115",
+      "adminCode1": "04",
+      "lng": "15.19006",
+      "geonameId": 6540006,
+      "toponymName": "Salento",
+      "population": 2005,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Salento",
+      "alternateNames": [
+        {
+          "name": "Salento",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Salento%2C_Campania",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Provincia di Salerno",
+      "name": "Salento",
+      "fclName": "country, state, region,...",
+      "countryName": "Italy",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Campania"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Rome",
+        "dstOffset": 2
+      },
+      "asciiName": "Brindisi - Salento Airport",
+      "countryId": "3175395",
+      "fcl": "S",
+      "score": 25.72744369506836,
+      "adminId2": "3181526",
+      "adminId3": "6540109",
+      "countryCode": "IT",
+      "adminId1": "3169778",
+      "lat": "40.65763",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 14,
+      "adminCode2": "BR",
+      "adminCode3": "074001",
+      "adminCode1": "13",
+      "lng": "17.94703",
+      "geonameId": 6299542,
+      "toponymName": "Brindisi – Salento Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Brindisi",
+      "alternateNames": [
+        {
+          "name": "Brindisi Airport",
+          "lang": "en"
+        },
+        {
+          "name": "BDS",
+          "lang": "iata"
+        },
+        {
+          "name": "LIBR",
+          "lang": "icao"
+        },
+        {
+          "name": "Aeroporto del Salento",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Brindisi_%E2%80%93_Salento_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Province of Brindisi",
+      "name": "Brindisi Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Italy",
+      "fcodeName": "airport",
+      "adminName1": "Apulia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Rome",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 15.19657521670782,
+        "south": 40.245566329276244,
+        "north": 40.25136464679136,
+        "west": 15.185147863765307
+      },
+      "asciiName": "Salento",
+      "countryId": "3175395",
+      "fcl": "P",
+      "score": 23.157344818115234,
+      "adminId2": "3168670",
+      "adminId3": "6540006",
+      "countryCode": "IT",
+      "adminId1": "3181042",
+      "lat": "40.24913",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "elevation": 420,
+      "adminCode2": "SA",
+      "adminCode3": "065115",
+      "adminCode1": "04",
+      "lng": "15.18938",
+      "geonameId": 3168676,
+      "toponymName": "Salento",
+      "population": 760,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Salento",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Salento_%28SA%29",
+        "lang": "link"
+      }],
+      "adminName2": "Provincia di Salerno",
+      "name": "Salento",
+      "fclName": "city, village,...",
+      "countryName": "Italy",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Campania"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -75.56246340277357,
+        "south": 4.62971127170855,
+        "north": 4.64528872829145,
+        "west": -75.57809219722643
+      },
+      "asciiName": "Salento",
+      "countryId": "3686110",
+      "fcl": "P",
+      "score": 19.571529388427734,
+      "countryCode": "CO",
+      "adminId1": "3671087",
+      "lat": "4.6375",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode1": "23",
+      "lng": "-75.57028",
+      "geonameId": 3670352,
+      "toponymName": "Salento",
+      "population": 4135,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "SAL",
+        "lang": "unlc"
+      }],
+      "adminName2": "",
+      "name": "Salento",
+      "fclName": "city, village,...",
+      "countryName": "Colombia",
+      "fcodeName": "populated place",
+      "adminName1": "Quindío"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Rome",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 18.3929604067847,
+        "south": 40.1364126258939,
+        "north": 40.1646903647193,
+        "west": 18.3309481563853
+      },
+      "asciiName": "Bagnolo del Salento",
+      "countryId": "3175395",
+      "fcl": "A",
+      "score": 18.380573272705078,
+      "adminId2": "3174952",
+      "adminId3": "6537583",
+      "countryCode": "IT",
+      "adminId1": "3169778",
+      "lat": "40.15062",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "LE",
+      "adminCode3": "075008",
+      "adminCode1": "13",
+      "lng": "18.35263",
+      "geonameId": 6537583,
+      "toponymName": "Bagnolo del Salento",
+      "population": 1879,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Bagnolo del Salento",
+      "alternateNames": [
+        {
+          "name": "Bagnolo del Salento",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bagnolo_del_Salento",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Provincia di Lecce",
+      "name": "Bagnolo del Salento",
+      "fclName": "country, state, region,...",
+      "countryName": "Italy",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Apulia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -76.45779122147201,
+        "south": 3.616987351248573,
+        "north": 3.634974648751427,
+        "west": -76.47581477852799
+      },
+      "asciiName": "Salento",
+      "countryId": "3686110",
+      "fcl": "P",
+      "score": 12.253715515136719,
+      "countryCode": "CO",
+      "adminId1": "3666313",
+      "lat": "3.62598",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode2": "Yumbo (undefined)",
+      "adminCode1": "29",
+      "lng": "-76.4668",
+      "geonameId": 3779155,
+      "toponymName": "Salento",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "CO.29.Yumbo (undefined)",
+      "name": "Salento",
+      "fclName": "city, village,...",
+      "countryName": "Colombia",
+      "fcodeName": "populated place",
+      "adminName1": "Valle del Cauca"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -75.55998843202276,
+        "south": 6.328728540499299,
+        "north": 6.335923459500702,
+        "west": -75.56722756797724
+      },
+      "asciiName": "Salento",
+      "countryId": "3686110",
+      "fcl": "P",
+      "score": 11.74291706085205,
+      "countryCode": "CO",
+      "adminId1": "3689815",
+      "lat": "6.33233",
+      "fcode": "PPLX",
+      "continentCode": "SA",
+      "adminCode1": "02",
+      "lng": "-75.56361",
+      "geonameId": 8264035,
+      "toponymName": "Salento",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Salento",
+        "lang": "es"
+      }],
+      "adminName2": "",
+      "name": "Salento",
+      "fclName": "city, village,...",
+      "countryName": "Colombia",
+      "fcodeName": "section of populated place",
+      "adminName1": "Antioquia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Rome",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 15.169780121524102,
+        "south": 40.22626913069316,
+        "north": 40.22933059278482,
+        "west": 15.163001504138451
+      },
+      "asciiName": "Palazza",
+      "countryId": "3175395",
+      "fcl": "P",
+      "score": 10.612028121948242,
+      "adminId2": "3168670",
+      "adminId3": "6540006",
+      "countryCode": "IT",
+      "adminId1": "3181042",
+      "lat": "40.22772",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "SA",
+      "adminCode3": "065115",
+      "adminCode1": "04",
+      "lng": "15.16622",
+      "geonameId": 8951912,
+      "toponymName": "Palazza",
+      "population": 274,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Salento",
+      "adminName2": "Provincia di Salerno",
+      "name": "Palazza",
+      "fclName": "city, village,...",
+      "countryName": "Italy",
+      "fcodeName": "populated place",
+      "adminName1": "Campania"
+    }
+  ]
+}

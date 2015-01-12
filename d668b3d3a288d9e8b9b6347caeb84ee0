@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sault Ste. Marie",
+               "short_name" : "Sault Ste. Marie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chippewa County",
+               "short_name" : "Chippewa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sault Ste. Marie, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5073107,
+                  "lng" : -84.28917869999999
+               },
+               "southwest" : {
+                  "lat" : 46.462519,
+                  "lng" : -84.46442449999999
+               }
+            },
+            "location" : {
+               "lat" : 46.4952996,
+               "lng" : -84.3453169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5073107,
+                  "lng" : -84.28917869999999
+               },
+               "southwest" : {
+                  "lat" : 46.462519,
+                  "lng" : -84.46442449999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

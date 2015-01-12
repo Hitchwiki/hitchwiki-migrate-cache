@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R52",
+               "short_name" : "R52",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brno-Country District",
+               "short_name" : "Brno-Country District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Moravian Region",
+               "short_name" : "South Moravian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R52, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1291373,
+                  "lng" : 16.6050768
+               },
+               "southwest" : {
+                  "lat" : 48.97035510000001,
+                  "lng" : 16.5251489
+               }
+            },
+            "location" : {
+               "lat" : 49.05221660000001,
+               "lng" : 16.5445306
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1291373,
+                  "lng" : 16.6050768
+               },
+               "southwest" : {
+                  "lat" : 48.97035510000001,
+                  "lng" : 16.5251489
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

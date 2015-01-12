@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trujillo",
+               "short_name" : "Trujillo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trujillo",
+               "short_name" : "Trujillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "La Libertad",
+               "short_name" : "La Libertad",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trujillo, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.082779799999999,
+                  "lng" : -78.9805411
+               },
+               "southwest" : {
+                  "lat" : -8.1507247,
+                  "lng" : -79.05869009999999
+               }
+            },
+            "location" : {
+               "lat" : -8.109052399999999,
+               "lng" : -79.0215336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.082779799999999,
+                  "lng" : -78.9805411
+               },
+               "southwest" : {
+                  "lat" : -8.1507247,
+                  "lng" : -79.05869009999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

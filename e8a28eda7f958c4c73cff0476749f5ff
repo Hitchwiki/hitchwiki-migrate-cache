@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "French Guiana",
+               "short_name" : "GF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "French Guiana",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.757189599999999,
+                  "lng" : -51.62071049999999
+               },
+               "southwest" : {
+                  "lat" : 2.109287,
+                  "lng" : -54.554438
+               }
+            },
+            "location" : {
+               "lat" : 3.933889,
+               "lng" : -53.125782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.757189599999999,
+                  "lng" : -51.62071049999999
+               },
+               "southwest" : {
+                  "lat" : 2.109287,
+                  "lng" : -54.554438
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

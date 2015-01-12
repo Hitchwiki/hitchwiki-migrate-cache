@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S11",
+               "short_name" : "S11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "wielkopolskie",
+               "short_name" : "wielkopolskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S11, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.522718,
+                  "lng" : 17.8553144
+               },
+               "southwest" : {
+                  "lat" : 51.6654965,
+                  "lng" : 16.7255369
+               }
+            },
+            "location" : {
+               "lat" : 52.2484625,
+               "lng" : 17.1086594
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.522718,
+                  "lng" : 17.8553144
+               },
+               "southwest" : {
+                  "lat" : 51.6654965,
+                  "lng" : 16.7255369
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S11",
+               "short_name" : "S11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jarocin",
+               "short_name" : "Jarocin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Jarocin",
+               "short_name" : "Gmina Jarocin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "jarociński",
+               "short_name" : "jarociński",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "wielkopolskie",
+               "short_name" : "wielkopolskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63-200",
+               "short_name" : "63-200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S11, 63-200 Jarocin, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0397685,
+                  "lng" : 17.5251969
+               },
+               "southwest" : {
+                  "lat" : 51.9769944,
+                  "lng" : 17.4401093
+               }
+            },
+            "location" : {
+               "lat" : 52.0120576,
+               "lng" : 17.4906669
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0397685,
+                  "lng" : 17.5251969
+               },
+               "southwest" : {
+                  "lat" : 51.9769944,
+                  "lng" : 17.4401093
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S11",
+               "short_name" : "S11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "tarnogórski",
+               "short_name" : "tarnogórski",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "śląskie",
+               "short_name" : "śląskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42-625",
+               "short_name" : "42-625",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S11, 42-625, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4541023,
+                  "lng" : 19.0551531
+               },
+               "southwest" : {
+                  "lat" : 50.4538222,
+                  "lng" : 19.0476537
+               }
+            },
+            "location" : {
+               "lat" : 50.4539657,
+               "lng" : 19.052133
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4553112302915,
+                  "lng" : 19.0551531
+               },
+               "southwest" : {
+                  "lat" : 50.4526132697085,
+                  "lng" : 19.0476537
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S11",
+               "short_name" : "S11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "kępiński",
+               "short_name" : "kępiński",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "wielkopolskie",
+               "short_name" : "wielkopolskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63-600",
+               "short_name" : "63-600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S11, 63-600, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3196093,
+                  "lng" : 18.0131149
+               },
+               "southwest" : {
+                  "lat" : 51.312089,
+                  "lng" : 18.0058017
+               }
+            },
+            "location" : {
+               "lat" : 51.3154857,
+               "lng" : 18.0100572
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3196093,
+                  "lng" : 18.0131149
+               },
+               "southwest" : {
+                  "lat" : 51.312089,
+                  "lng" : 18.0058017
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,318 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, City of Bristol, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.4509024
+               },
+               "southwest" : {
+                  "lat" : 51.39254529999999,
+                  "lng" : -2.7305164
+               }
+            },
+            "location" : {
+               "lat" : 51.454513,
+               "lng" : -2.58791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5444326,
+                  "lng" : -2.4509024
+               },
+               "southwest" : {
+                  "lat" : 51.39254529999999,
+                  "lng" : -2.7305164
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford County",
+               "short_name" : "Hartford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7235979,
+                  "lng" : -72.8833729
+               },
+               "southwest" : {
+                  "lat" : 41.6395989,
+                  "lng" : -72.99854999999999
+               }
+            },
+            "location" : {
+               "lat" : 41.67176480000001,
+               "lng" : -72.94927029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7235979,
+                  "lng" : -72.8833729
+               },
+               "southwest" : {
+                  "lat" : 41.6395989,
+                  "lng" : -72.99854999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sullivan County",
+               "short_name" : "Sullivan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.59601809999999,
+                  "lng" : -82.095975
+               },
+               "southwest" : {
+                  "lat" : 36.4684443,
+                  "lng" : -82.3228429
+               }
+            },
+            "location" : {
+               "lat" : 36.5951059,
+               "lng" : -82.18874439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.59601809999999,
+                  "lng" : -82.095975
+               },
+               "southwest" : {
+                  "lat" : 36.4684443,
+                  "lng" : -82.3228429
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.6769289,
+                  "lng" : -82.10307200000001
+               },
+               "southwest" : {
+                  "lat" : 36.5945849,
+                  "lng" : -82.2433819
+               }
+            },
+            "location" : {
+               "lat" : 36.595141,
+               "lng" : -82.1888089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.6769289,
+                  "lng" : -82.10307200000001
+               },
+               "southwest" : {
+                  "lat" : 36.5945849,
+                  "lng" : -82.2433819
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol County",
+               "short_name" : "Bristol County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7154079,
+                  "lng" : -71.21754319999999
+               },
+               "southwest" : {
+                  "lat" : 41.6426604,
+                  "lng" : -71.30681129999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6771101,
+               "lng" : -71.26620249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7154079,
+                  "lng" : -71.23530699999999
+               },
+               "southwest" : {
+                  "lat" : 41.6426604,
+                  "lng" : -71.30681129999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bucks County",
+               "short_name" : "Bucks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bristol, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1179511,
+                  "lng" : -74.83615309999999
+               },
+               "southwest" : {
+                  "lat" : 40.0903667,
+                  "lng" : -74.874757
+               }
+            },
+            "location" : {
+               "lat" : 40.1006661,
+               "lng" : -74.8518311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1179511,
+                  "lng" : -74.83615309999999
+               },
+               "southwest" : {
+                  "lat" : 40.0903667,
+                  "lng" : -74.874757
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

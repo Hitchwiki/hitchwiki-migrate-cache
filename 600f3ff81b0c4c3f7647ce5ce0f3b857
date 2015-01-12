@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "L'Horta de València",
+               "short_name" : "L'Horta de València",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "V",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valencia, Valencia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5073225,
+                  "lng" : -0.2914778
+               },
+               "southwest" : {
+                  "lat" : 39.308248,
+                  "lng" : -0.4315448
+               }
+            },
+            "location" : {
+               "lat" : 39.4699075,
+               "lng" : -0.3762881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5073225,
+                  "lng" : -0.2914778
+               },
+               "southwest" : {
+                  "lat" : 39.308248,
+                  "lng" : -0.4315448
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipio Autónomo Valencia",
+               "short_name" : "Municipio Autónomo Valencia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Carabobo",
+               "short_name" : "Carabobo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valencia, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.2339878,
+                  "lng" : -67.91398289999999
+               },
+               "southwest" : {
+                  "lat" : 10.111176,
+                  "lng" : -68.0744649
+               }
+            },
+            "location" : {
+               "lat" : 10.1579312,
+               "lng" : -67.9972104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2339878,
+                  "lng" : -67.91398289999999
+               },
+               "southwest" : {
+                  "lat" : 10.111176,
+                  "lng" : -68.0744649
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

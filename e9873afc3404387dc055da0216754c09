@@ -1,0 +1,437 @@
+{
+  "totalResultsCount": 24,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "asciiName": "Laayoune-Boujdour-Sakia El Hamra",
+      "countryId": "2542007",
+      "fcl": "A",
+      "score": 55.07030487060547,
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "27.08358",
+      "fcode": "ADM1",
+      "continentCode": "AF",
+      "adminCode1": "59",
+      "lng": "-13.24127",
+      "geonameId": 6545402,
+      "toponymName": "Laâyoune-Boujdour-Sakia El Hamra",
+      "population": 256152,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/La%C3%A2youne-Boujdour-Sakia_El_Hamra",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Laâyoune-Boujdour-Sakia El Hamra",
+      "fclName": "country, state, region,...",
+      "countryName": "Morocco",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "asciiName": "Boujdour",
+      "countryId": "2542007",
+      "fcl": "A",
+      "score": 46.02285385131836,
+      "adminId2": "6547290",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "25.66172",
+      "fcode": "ADM2",
+      "continentCode": "AF",
+      "adminCode2": "121",
+      "adminCode1": "59",
+      "lng": "-13.68419",
+      "geonameId": 6547290,
+      "toponymName": "Boujdour",
+      "population": 46129,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "إقليم بوجدور",
+          "lang": "ar"
+        },
+        {
+          "name": "Boujdour",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Boujdour_Province",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Boujdour",
+      "name": "Boujdour",
+      "fclName": "country, state, region,...",
+      "countryName": "Morocco",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "asciiName": "Boujdour",
+      "countryId": "2542007",
+      "fcl": "A",
+      "score": 34.69103240966797,
+      "adminId2": "6547290",
+      "adminId3": "6546490",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "26.12681",
+      "fcode": "ADM3",
+      "continentCode": "AF",
+      "adminCode2": "121",
+      "adminCode3": "0212101011",
+      "adminCode1": "59",
+      "lng": "-14.32129",
+      "geonameId": 6546490,
+      "toponymName": "Boujdour",
+      "population": 36731,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Boujdour",
+      "alternateNames": [
+        {
+          "name": "امليلي",
+          "lang": "ar"
+        },
+        {
+          "name": "Boujdour",
+          "lang": "fr"
+        }
+      ],
+      "adminName2": "Boujdour",
+      "name": "Boujdour",
+      "fclName": "country, state, region,...",
+      "countryName": "Morocco",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -14.379149776174433,
+        "south": 26.10572855124857,
+        "north": 26.123715848751427,
+        "west": -14.399183623825568
+      },
+      "asciiName": "Cabo Bojador",
+      "countryId": "2542007",
+      "fcl": "P",
+      "score": 27.425668716430664,
+      "cc2": "EH",
+      "adminId2": "6547290",
+      "adminId3": "6546490",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "26.11472",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode2": "121",
+      "adminCode3": "0212101011",
+      "adminCode1": "59",
+      "lng": "-14.38917",
+      "geonameId": 2463029,
+      "toponymName": "Cabo Bojador",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Boujdour",
+      "adminName2": "Boujdour",
+      "name": "Cabo Bojador",
+      "fclName": "city, village,...",
+      "countryName": "Morocco",
+      "fcodeName": "populated place",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -12.91585895304325,
+        "south": 27.93020635124857,
+        "north": 27.948193648751428,
+        "west": -12.936221046956751
+      },
+      "asciiName": "Tarfaya",
+      "countryId": "2542007",
+      "fcl": "P",
+      "score": 19.624210357666016,
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "27.9392",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "59",
+      "lng": "-12.92604",
+      "geonameId": 2529923,
+      "toponymName": "Tarfaya",
+      "population": 5615,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Tarfaya",
+          "lang": "link"
+        },
+        {
+          "name": "TFY",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Tarfaya",
+      "fclName": "city, village,...",
+      "countryName": "Morocco",
+      "fcodeName": "populated place",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "asciiName": "Lamssid",
+      "countryId": "2542007",
+      "fcl": "A",
+      "score": 19.39287567138672,
+      "adminId2": "6547290",
+      "adminId3": "6545513",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "26.00324",
+      "fcode": "ADM3",
+      "continentCode": "AF",
+      "adminCode2": "121",
+      "adminCode3": "0212103052",
+      "adminCode1": "59",
+      "lng": "-13.29071",
+      "geonameId": 6545513,
+      "toponymName": "Lamssid",
+      "population": 1102,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Lamssid",
+      "alternateNames": [
+        {
+          "name": "الجريفية",
+          "lang": "ar"
+        },
+        {
+          "name": "Lamssid",
+          "lang": "fr"
+        }
+      ],
+      "adminName2": "Boujdour",
+      "name": "Lamssid",
+      "fclName": "country, state, region,...",
+      "countryName": "Morocco",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "asciiName": "Jraifia",
+      "countryId": "2542007",
+      "fcl": "A",
+      "score": 19.39287567138672,
+      "adminId2": "6547290",
+      "adminId3": "6545649",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "25.26265",
+      "fcode": "ADM3",
+      "continentCode": "AF",
+      "adminCode2": "121",
+      "adminCode3": "0212103032",
+      "adminCode1": "59",
+      "lng": "-14.2341",
+      "geonameId": 6545649,
+      "toponymName": "Jraifia",
+      "population": 1353,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Jraifia",
+      "alternateNames": [
+        {
+          "name": "كلتة زمور",
+          "lang": "ar"
+        },
+        {
+          "name": "Jraifia",
+          "lang": "fr"
+        }
+      ],
+      "adminName2": "Boujdour",
+      "name": "Jraifia",
+      "fclName": "country, state, region,...",
+      "countryName": "Morocco",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -12.046472338051597,
+        "south": 28.090053175624124,
+        "north": 28.09904682437588,
+        "west": -12.056667661948403
+      },
+      "asciiName": "Akhfennir",
+      "countryId": "2542007",
+      "fcl": "P",
+      "score": 19.39287567138672,
+      "adminId2": "6547290",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "28.09455",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode2": "121",
+      "adminCode1": "59",
+      "lng": "-12.05157",
+      "geonameId": 9645312,
+      "toponymName": "Akhfennir",
+      "population": 1583,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Boujdour",
+      "name": "Akhfennir",
+      "fclName": "city, village,...",
+      "countryName": "Morocco",
+      "fcodeName": "populated place",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "asciiName": "Laayoune",
+      "countryId": "2542007",
+      "fcl": "A",
+      "score": 17.171184539794922,
+      "cc2": "MA",
+      "adminId2": "2543878",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "27.83333",
+      "fcode": "ADM2",
+      "continentCode": "AF",
+      "adminCode2": "321",
+      "adminCode1": "59",
+      "lng": "-12.33333",
+      "geonameId": 2543878,
+      "toponymName": "Laayoune",
+      "population": 210023,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "إقليم العيون",
+          "lang": "ar"
+        },
+        {
+          "name": "Province de  Laâyoune",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/La%C3%A2youne_Province",
+          "lang": "link"
+        },
+        {
+          "name": "EUN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Laayoune",
+      "name": "Laayoune",
+      "fclName": "country, state, region,...",
+      "countryName": "Morocco",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Casablanca",
+        "dstOffset": 1
+      },
+      "asciiName": "Gueltat Zemmour",
+      "countryId": "2542007",
+      "fcl": "A",
+      "score": 15.514301300048828,
+      "adminId2": "6547290",
+      "adminId3": "6545648",
+      "countryCode": "MA",
+      "adminId1": "6545402",
+      "lat": "25.25419",
+      "fcode": "ADM3",
+      "continentCode": "AF",
+      "adminCode2": "121",
+      "adminCode3": "0212103012",
+      "adminCode1": "59",
+      "lng": "-12.89066",
+      "geonameId": 6545648,
+      "toponymName": "Gueltat Zemmour",
+      "population": 512,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Gueltat Zemmour",
+      "alternateNames": [
+        {
+          "name": "بوجدور (البلدية)",
+          "lang": "ar"
+        },
+        {
+          "name": "Gueltat Zemmour",
+          "lang": "fr"
+        }
+      ],
+      "adminName2": "Boujdour",
+      "name": "Gueltat Zemmour",
+      "fclName": "country, state, region,...",
+      "countryName": "Morocco",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Laâyoune-Boujdour-Sakia El Hamra"
+    }
+  ]
+}

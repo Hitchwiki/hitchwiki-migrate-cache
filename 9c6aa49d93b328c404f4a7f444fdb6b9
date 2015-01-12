@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rīga",
+               "short_name" : "Rīga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rīgas pilsēta",
+               "short_name" : "Rīgas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rīgas pilsēta",
+               "short_name" : "Rīgas pilsēta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rīga, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.085921,
+                  "lng" : 24.3246659
+               },
+               "southwest" : {
+                  "lat" : 56.8570279,
+                  "lng" : 23.9336591
+               }
+            },
+            "location" : {
+               "lat" : 56.9496487,
+               "lng" : 24.1051864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.085921,
+                  "lng" : 24.3246659
+               },
+               "southwest" : {
+                  "lat" : 56.8570279,
+                  "lng" : 23.9336591
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

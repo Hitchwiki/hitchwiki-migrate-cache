@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagano",
+               "short_name" : "Nagano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nagano Prefecture",
+               "short_name" : "Nagano Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagano, Nagano Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.835842,
+                  "lng" : 138.3190719
+               },
+               "southwest" : {
+                  "lat" : 36.4604537,
+                  "lng" : 137.9100075
+               }
+            },
+            "location" : {
+               "lat" : 36.6485496,
+               "lng" : 138.1942432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.835842,
+                  "lng" : 138.3190719
+               },
+               "southwest" : {
+                  "lat" : 36.4604537,
+                  "lng" : 137.9100075
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagano Prefecture",
+               "short_name" : "Nagano Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagano Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0304777,
+                  "lng" : 138.7391621
+               },
+               "southwest" : {
+                  "lat" : 35.1983655,
+                  "lng" : 137.3250046
+               }
+            },
+            "location" : {
+               "lat" : 36.6512986,
+               "lng" : 138.1809557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0304777,
+                  "lng" : 138.7391621
+               },
+               "southwest" : {
+                  "lat" : 35.1983655,
+                  "lng" : 137.3250046
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Annaba",
+               "short_name" : "AAE",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Annaba",
+               "short_name" : "Annaba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Annaba, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9698538,
+                  "lng" : 7.793147699999999
+               },
+               "southwest" : {
+                  "lat" : 36.8656479,
+                  "lng" : 7.695407899999999
+               }
+            },
+            "location" : {
+               "lat" : 36.9,
+               "lng" : 7.766667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9698538,
+                  "lng" : 7.793147699999999
+               },
+               "southwest" : {
+                  "lat" : 36.8656479,
+                  "lng" : 7.695407899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

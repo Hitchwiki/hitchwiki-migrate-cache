@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milas",
+               "short_name" : "Milas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milas",
+               "short_name" : "Milas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Muğla",
+               "short_name" : "Muğla",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48670",
+               "short_name" : "48670",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48670 Milas/Muğla, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.333642,
+                  "lng" : 27.799285
+               },
+               "southwest" : {
+                  "lat" : 37.28438999999999,
+                  "lng" : 27.760918
+               }
+            },
+            "location" : {
+               "lat" : 37.311389,
+               "lng" : 27.781111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.333642,
+                  "lng" : 27.799285
+               },
+               "southwest" : {
+                  "lat" : 37.28438999999999,
+                  "lng" : 27.760918
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

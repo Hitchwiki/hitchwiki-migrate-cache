@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A18",
+               "short_name" : "A18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A18, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9498111,
+                  "lng" : 6.440840400000001
+               },
+               "southwest" : {
+                  "lat" : 51.915702,
+                  "lng" : 6.1414122
+               }
+            },
+            "location" : {
+               "lat" : 51.9440059,
+               "lng" : 6.290604099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9498111,
+                  "lng" : 6.440840400000001
+               },
+               "southwest" : {
+                  "lat" : 51.915702,
+                  "lng" : 6.1414122
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

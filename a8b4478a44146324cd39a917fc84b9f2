@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A18",
+               "short_name" : "A18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A18, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1870695,
+                  "lng" : 15.5273748
+               },
+               "southwest" : {
+                  "lat" : 36.8092961,
+                  "lng" : 14.9558766
+               }
+            },
+            "location" : {
+               "lat" : 37.582274,
+               "lng" : 15.1217752
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1870695,
+                  "lng" : 15.5273748
+               },
+               "southwest" : {
+                  "lat" : 36.8092961,
+                  "lng" : 14.9558766
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

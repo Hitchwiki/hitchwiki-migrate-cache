@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.8357665,
+                  "lng" : 81.87870289999999
+               },
+               "southwest" : {
+                  "lat" : 5.9190779,
+                  "lng" : 79.5219827
+               }
+            },
+            "location" : {
+               "lat" : 7.873053999999999,
+               "lng" : 80.77179699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.8357665,
+                  "lng" : 81.87870289999999
+               },
+               "southwest" : {
+                  "lat" : 5.9190779,
+                  "lng" : 79.5219827
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

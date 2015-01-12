@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bottrop",
+               "short_name" : "BOT",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bottrop, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.644845,
+                  "lng" : 6.9991106
+               },
+               "southwest" : {
+                  "lat" : 51.4970379,
+                  "lng" : 6.8325922
+               }
+            },
+            "location" : {
+               "lat" : 51.529086,
+               "lng" : 6.9446888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.644845,
+                  "lng" : 6.9991106
+               },
+               "southwest" : {
+                  "lat" : 51.4970379,
+                  "lng" : 6.8325922
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A8",
+               "short_name" : "A8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wrocław",
+               "short_name" : "Wrocław",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrocław",
+               "short_name" : "Wrocław",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wrocław",
+               "short_name" : "Wrocław",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Województwo dolnośląskie",
+               "short_name" : "Województwo dolnośląskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A8, Wrocław, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1744164,
+                  "lng" : 17.0839824
+               },
+               "southwest" : {
+                  "lat" : 51.0486586,
+                  "lng" : 16.9270093
+               }
+            },
+            "location" : {
+               "lat" : 51.1075066,
+               "lng" : 16.9341937
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1744164,
+                  "lng" : 17.0839824
+               },
+               "southwest" : {
+                  "lat" : 51.0486586,
+                  "lng" : 16.9270093
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

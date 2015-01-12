@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A25",
+               "short_name" : "A25",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A25, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4102934,
+                  "lng" : 14.1448699
+               },
+               "southwest" : {
+                  "lat" : 42.0111469,
+                  "lng" : 13.2683561
+               }
+            },
+            "location" : {
+               "lat" : 42.1757012,
+               "lng" : 13.8240295
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4102934,
+                  "lng" : 14.1448699
+               },
+               "southwest" : {
+                  "lat" : 42.0111469,
+                  "lng" : 13.2683561
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gelsenkirchen",
+               "short_name" : "GE",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gelsenkirchen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6315922,
+                  "lng" : 7.152272399999999
+               },
+               "southwest" : {
+                  "lat" : 51.4807828,
+                  "lng" : 6.987516200000001
+               }
+            },
+            "location" : {
+               "lat" : 51.517744,
+               "lng" : 7.085717199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6315922,
+                  "lng" : 7.152272399999999
+               },
+               "southwest" : {
+                  "lat" : 51.4807828,
+                  "lng" : 6.987516200000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

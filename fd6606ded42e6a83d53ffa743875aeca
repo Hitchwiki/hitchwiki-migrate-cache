@@ -1,0 +1,328 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dover, Kent, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.150891,
+                  "lng" : 1.3440096
+               },
+               "southwest" : {
+                  "lat" : 51.101737,
+                  "lng" : 1.2579511
+               }
+            },
+            "location" : {
+               "lat" : 51.1278758,
+               "lng" : 1.3134027
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.150891,
+                  "lng" : 1.3440096
+               },
+               "southwest" : {
+                  "lat" : 51.101737,
+                  "lng" : 1.2579511
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent County",
+               "short_name" : "Kent County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dover, DE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2106298,
+                  "lng" : -75.440637
+               },
+               "southwest" : {
+                  "lat" : 39.102202,
+                  "lng" : -75.5862029
+               }
+            },
+            "location" : {
+               "lat" : 39.158168,
+               "lng" : -75.5243682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2106298,
+                  "lng" : -75.440637
+               },
+               "southwest" : {
+                  "lat" : 39.102202,
+                  "lng" : -75.5862029
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Strafford County",
+               "short_name" : "Strafford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dover, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.254982,
+                  "lng" : -70.819115
+               },
+               "southwest" : {
+                  "lat" : 43.11768199999999,
+                  "lng" : -70.961606
+               }
+            },
+            "location" : {
+               "lat" : 43.1978624,
+               "lng" : -70.8736698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.254982,
+                  "lng" : -70.819115
+               },
+               "southwest" : {
+                  "lat" : 43.11768199999999,
+                  "lng" : -70.961606
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morris County",
+               "short_name" : "Morris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dover, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9041129,
+                  "lng" : -74.538707
+               },
+               "southwest" : {
+                  "lat" : 40.872536,
+                  "lng" : -74.578304
+               }
+            },
+            "location" : {
+               "lat" : 40.883988,
+               "lng" : -74.56210249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9041129,
+                  "lng" : -74.538707
+               },
+               "southwest" : {
+                  "lat" : 40.872536,
+                  "lng" : -74.578304
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuscarawas County",
+               "short_name" : "Tuscarawas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dover, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5694959,
+                  "lng" : -81.4487269
+               },
+               "southwest" : {
+                  "lat" : 40.495105,
+                  "lng" : -81.506587
+               }
+            },
+            "location" : {
+               "lat" : 40.5206198,
+               "lng" : -81.4740054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5694959,
+                  "lng" : -81.4487269
+               },
+               "southwest" : {
+                  "lat" : 40.495105,
+                  "lng" : -81.506587
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Norfolk County",
+               "short_name" : "Norfolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dover, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2829369,
+                  "lng" : -71.23188209999999
+               },
+               "southwest" : {
+                  "lat" : 42.2006019,
+                  "lng" : -71.34308899999999
+               }
+            },
+            "location" : {
+               "lat" : 42.2458749,
+               "lng" : -71.2828719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2829369,
+                  "lng" : -71.23188209999999
+               },
+               "southwest" : {
+                  "lat" : 42.2006019,
+                  "lng" : -71.34308899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

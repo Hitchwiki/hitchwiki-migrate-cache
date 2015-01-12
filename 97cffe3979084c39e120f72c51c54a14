@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5871
+               },
+               "southwest" : {
+                  "lat" : 59.7054404,
+                  "lng" : 20.5474108
+               }
+            },
+            "location" : {
+               "lat" : 61.92410999999999,
+               "lng" : 25.748151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 70.0922932,
+                  "lng" : 31.5871
+               },
+               "southwest" : {
+                  "lat" : 59.73703860000001,
+                  "lng" : 20.5474108
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schüttorf",
+               "short_name" : "Schüttorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bentheim",
+               "short_name" : "Bentheim",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Schüttorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.350022,
+                  "lng" : 7.2599249
+               },
+               "southwest" : {
+                  "lat" : 52.2644071,
+                  "lng" : 7.1887576
+               }
+            },
+            "location" : {
+               "lat" : 52.3225661,
+               "lng" : 7.2254549
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.350022,
+                  "lng" : 7.2599249
+               },
+               "southwest" : {
+                  "lat" : 52.2644071,
+                  "lng" : 7.1887576
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schüttorf",
+               "short_name" : "Schüttorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48465",
+               "short_name" : "48465",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48465 Schüttorf, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.316667,
+               "lng" : 7.233333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3180159802915,
+                  "lng" : 7.234681980291502
+               },
+               "southwest" : {
+                  "lat" : 52.3153180197085,
+                  "lng" : 7.231984019708499
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

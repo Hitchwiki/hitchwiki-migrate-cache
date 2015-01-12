@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R9",
+               "short_name" : "R9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charleroi",
+               "short_name" : "Charleroi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Région wallonne",
+               "short_name" : "Région wallonne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R9, Charleroi, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4190829,
+                  "lng" : 4.455945199999999
+               },
+               "southwest" : {
+                  "lat" : 50.4034724,
+                  "lng" : 4.4344625
+               }
+            },
+            "location" : {
+               "lat" : 50.4144659,
+               "lng" : 4.4390791
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4190829,
+                  "lng" : 4.455945199999999
+               },
+               "southwest" : {
+                  "lat" : 50.4034724,
+                  "lng" : 4.4344625
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

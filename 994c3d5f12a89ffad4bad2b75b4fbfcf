@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A62",
+               "short_name" : "A62",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A62, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.60214389999999,
+                  "lng" : 7.621496
+               },
+               "southwest" : {
+                  "lat" : 49.2193578,
+                  "lng" : 6.9850795
+               }
+            },
+            "location" : {
+               "lat" : 49.47625499999999,
+               "lng" : 7.4218131
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.60214389999999,
+                  "lng" : 7.621496
+               },
+               "southwest" : {
+                  "lat" : 49.2193578,
+                  "lng" : 6.9850795
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

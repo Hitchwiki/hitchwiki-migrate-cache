@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A9",
+               "short_name" : "A9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A9, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7435513,
+                  "lng" : 7.5621202
+               },
+               "southwest" : {
+                  "lat" : 46.1136785,
+                  "lng" : 6.3986066
+               }
+            },
+            "location" : {
+               "lat" : 46.424856,
+               "lng" : 6.9305442
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7435513,
+                  "lng" : 7.5621202
+               },
+               "southwest" : {
+                  "lat" : 46.1136785,
+                  "lng" : 6.3986066
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A9",
+               "short_name" : "A9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brig",
+               "short_name" : "Brig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brig",
+               "short_name" : "Brig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wallis",
+               "short_name" : "VS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A9, Brig, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.31994,
+                  "lng" : 8.021040000000001
+               },
+               "southwest" : {
+                  "lat" : 46.29811189999999,
+                  "lng" : 7.9292865
+               }
+            },
+            "location" : {
+               "lat" : 46.3073462,
+               "lng" : 7.9763354
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.31994,
+                  "lng" : 8.021040000000001
+               },
+               "southwest" : {
+                  "lat" : 46.29811189999999,
+                  "lng" : 7.9292865
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

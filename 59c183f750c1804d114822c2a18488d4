@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crimea",
+               "short_name" : "Crimea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Crimea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.229161,
+                  "lng" : 36.6467392
+               },
+               "southwest" : {
+                  "lat" : 44.3864399,
+                  "lng" : 32.4792759
+               }
+            },
+            "location" : {
+               "lat" : 44.952117,
+               "lng" : 34.102417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.229161,
+                  "lng" : 36.6467392
+               },
+               "southwest" : {
+                  "lat" : 44.3864399,
+                  "lng" : 32.4792759
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

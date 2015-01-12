@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A32",
+               "short_name" : "A32",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A32, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.14672239999999,
+                  "lng" : 6.208915999999999
+               },
+               "southwest" : {
+                  "lat" : 52.6690427,
+                  "lng" : 5.794997
+               }
+            },
+            "location" : {
+               "lat" : 52.9076302,
+               "lng" : 6.0016398
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.14672239999999,
+                  "lng" : 6.208915999999999
+               },
+               "southwest" : {
+                  "lat" : 52.6690427,
+                  "lng" : 5.794997
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

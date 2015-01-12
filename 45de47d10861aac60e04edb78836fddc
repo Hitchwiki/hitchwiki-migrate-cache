@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sudbury",
+               "short_name" : "Sudbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Sudbury Division",
+               "short_name" : "Greater Sudbury Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sudbury, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.973266,
+                  "lng" : -80.5608197
+               },
+               "southwest" : {
+                  "lat" : 46.19565,
+                  "lng" : -81.59745409999999
+               }
+            },
+            "location" : {
+               "lat" : 46.48999999999999,
+               "lng" : -81.00999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.973266,
+                  "lng" : -80.5608197
+               },
+               "southwest" : {
+                  "lat" : 46.19565,
+                  "lng" : -81.59745409999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sudbury",
+               "short_name" : "Sudbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sudbury, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4367461,
+                  "lng" : -71.3618259
+               },
+               "southwest" : {
+                  "lat" : 42.340883,
+                  "lng" : -71.484949
+               }
+            },
+            "location" : {
+               "lat" : 42.3834278,
+               "lng" : -71.4161725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4367461,
+                  "lng" : -71.3618259
+               },
+               "southwest" : {
+                  "lat" : 42.340883,
+                  "lng" : -71.484949
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

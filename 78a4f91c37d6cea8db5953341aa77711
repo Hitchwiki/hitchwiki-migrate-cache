@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ufa",
+               "short_name" : "Ufa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ufimsky District",
+               "short_name" : "Ufimsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Bashkortostan",
+               "short_name" : "Republic of Bashkortostan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ufa, Republic of Bashkortostan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.955175,
+                  "lng" : 56.2629578
+               },
+               "southwest" : {
+                  "lat" : 54.662384,
+                  "lng" : 55.7787893
+               }
+            },
+            "location" : {
+               "lat" : 54.7387621,
+               "lng" : 55.9720554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.955175,
+                  "lng" : 56.2629578
+               },
+               "southwest" : {
+                  "lat" : 54.662384,
+                  "lng" : 55.7787893
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

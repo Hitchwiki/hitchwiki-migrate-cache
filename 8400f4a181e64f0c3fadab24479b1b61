@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A53",
+               "short_name" : "A53",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A53, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4197453,
+                  "lng" : 8.977224699999999
+               },
+               "southwest" : {
+                  "lat" : 47.1823303,
+                  "lng" : 8.6255883
+               }
+            },
+            "location" : {
+               "lat" : 47.2907208,
+               "lng" : 8.8157838
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4197453,
+                  "lng" : 8.977224699999999
+               },
+               "southwest" : {
+                  "lat" : 47.1823303,
+                  "lng" : 8.6255883
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

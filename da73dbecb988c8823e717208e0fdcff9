@@ -1,0 +1,203 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode2": "055",
+      "alternateNames": [
+        {
+          "name": "هورستل",
+          "lang": "fa"
+        },
+        {
+          "name": "Хёрстель",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/H%C3%B6rstel",
+          "lang": "link"
+        },
+        {
+          "name": "Хёрстель",
+          "lang": "ru"
+        },
+        {
+          "name": "Херстел",
+          "lang": "sr"
+        },
+        {
+          "name": "HRL",
+          "lang": "unlc"
+        },
+        {
+          "name": "赫尔斯特尔",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Germany",
+      "adminCode1": "07",
+      "score": 39.59264373779297,
+      "lng": "7.58382",
+      "adminName2": "Regierungsbezirk Münster",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.27964370249715,
+        "east": 7.613246121282928,
+        "north": 52.31561829750286,
+        "west": 7.554397878717071
+      },
+      "name": "Hörstel",
+      "fcode": "PPL",
+      "geonameId": 2898603,
+      "asciiName": "Horstel",
+      "lat": "52.29763",
+      "population": 19894,
+      "adminName1": "North Rhine-Westphalia",
+      "adminId1": "2861876",
+      "countryId": "2921044",
+      "fclName": "city, village,...",
+      "countryCode": "DE",
+      "adminId2": "2867539",
+      "toponymName": "Hörstel",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "05566",
+      "adminCode2": "055",
+      "countryName": "Germany",
+      "adminCode1": "07",
+      "score": 24.43934440612793,
+      "lng": "7.58333",
+      "adminCode4": "05566016",
+      "adminName2": "Regierungsbezirk Münster",
+      "fcodeName": "fourth-order administrative division",
+      "adminName3": "Kreis Steinfurt",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Hörstel",
+      "adminName5": "",
+      "name": "Hörstel",
+      "fcode": "ADM4",
+      "geonameId": 6557595,
+      "asciiName": "Hoerstel",
+      "lat": "52.3167",
+      "population": 19610,
+      "adminName1": "North Rhine-Westphalia",
+      "adminId1": "2861876",
+      "countryId": "2921044",
+      "fclName": "country, state, region,...",
+      "countryCode": "DE",
+      "adminId4": "6557595",
+      "adminId3": "3247443",
+      "adminId2": "2867539",
+      "toponymName": "Hörstel",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminId1": "2842565",
+      "countryId": "2921044",
+      "adminCode1": "14",
+      "countryName": "Germany",
+      "fclName": "spot, building, farm",
+      "score": 5.772724151611328,
+      "countryCode": "DE",
+      "lng": "11.93333",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "farm",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "toponymName": "Hörstel",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "EU",
+      "name": "Hörstel",
+      "fcode": "FRM",
+      "asciiName": "Horstel",
+      "geonameId": 2898604,
+      "lat": "52.76667",
+      "adminName1": "Saxony-Anhalt",
+      "population": 0
+    },
+    {
+      "adminCode2": "055",
+      "countryName": "Germany",
+      "adminCode1": "07",
+      "score": 2.7052669525146484,
+      "lng": "7.56346",
+      "adminName2": "Regierungsbezirk Münster",
+      "fcodeName": "hotel",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Akzenthotel Saltenhof",
+      "fcode": "HTL",
+      "geonameId": 6488290,
+      "asciiName": "Akzenthotel Saltenhof",
+      "lat": "52.26967",
+      "population": 0,
+      "adminName1": "North Rhine-Westphalia",
+      "countryId": "2921044",
+      "adminId1": "2861876",
+      "fclName": "spot, building, farm",
+      "countryCode": "DE",
+      "adminId2": "2867539",
+      "toponymName": "Akzenthotel Saltenhof",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "055",
+      "countryName": "Germany",
+      "adminCode1": "07",
+      "score": 2.7052669525146484,
+      "lng": "7.6266",
+      "adminName2": "Regierungsbezirk Münster",
+      "fcodeName": "hotel",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Minotel Stratmann",
+      "fcode": "HTL",
+      "geonameId": 6526859,
+      "asciiName": "MINOTEL STRATMANN",
+      "lat": "52.2607",
+      "population": 0,
+      "adminName1": "North Rhine-Westphalia",
+      "countryId": "2921044",
+      "adminId1": "2861876",
+      "fclName": "spot, building, farm",
+      "countryCode": "DE",
+      "adminId2": "2867539",
+      "toponymName": "Minotel Stratmann",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

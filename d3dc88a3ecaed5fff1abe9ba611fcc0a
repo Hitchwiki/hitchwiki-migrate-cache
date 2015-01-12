@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viborg",
+               "short_name" : "Viborg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viborg Municipality",
+               "short_name" : "Viborg Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Denmark Region",
+               "short_name" : "Central Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8800",
+               "short_name" : "8800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8800 Viborg, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.5302259,
+                  "lng" : 9.5634978
+               },
+               "southwest" : {
+                  "lat" : 56.340799,
+                  "lng" : 9.0545674
+               }
+            },
+            "location" : {
+               "lat" : 56.45202699999999,
+               "lng" : 9.396347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5302259,
+                  "lng" : 9.5634978
+               },
+               "southwest" : {
+                  "lat" : 56.340799,
+                  "lng" : 9.0545674
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

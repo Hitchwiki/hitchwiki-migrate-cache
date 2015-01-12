@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Guanajuato",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "GTO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guanajuato, GTO, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.0516362,
+                  "lng" : -101.226862
+               },
+               "southwest" : {
+                  "lat" : 20.9986079,
+                  "lng" : -101.2801804
+               }
+            },
+            "location" : {
+               "lat" : 21.0190145,
+               "lng" : -101.2573586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.0516362,
+                  "lng" : -101.226862
+               },
+               "southwest" : {
+                  "lat" : 20.9986079,
+                  "lng" : -101.2801804
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

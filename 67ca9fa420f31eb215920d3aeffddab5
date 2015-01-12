@@ -1,0 +1,151 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Ko Lanta Yai",
+          "lang": "en"
+        },
+        {
+          "name": "Ланта Яи",
+          "lang": "ru"
+        },
+        {
+          "name": "Koh Lanta",
+          "lang": "sv"
+        },
+        {
+          "name": "KLA",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Thailand",
+      "adminCode1": "63",
+      "cc2": "TH",
+      "score": 50.28176498413086,
+      "lng": "99.08647",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 7,
+        "gmtOffset": 7,
+        "timeZoneId": "Asia/Bangkok"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 7.523560805664923,
+        "east": 99.09660882730684,
+        "north": 7.5436712156381365,
+        "west": 99.07632284383577
+      },
+      "name": "Ko Lanta Yai",
+      "fcode": "PPL",
+      "geonameId": 1152670,
+      "asciiName": "Ko Lanta",
+      "lat": "7.53362",
+      "population": 6090,
+      "adminName1": "Krabi",
+      "adminId1": "1152631",
+      "countryId": "1605651",
+      "fclName": "city, village,...",
+      "countryCode": "TH",
+      "toponymName": "Ko Lanta",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "countryName": "Thailand",
+      "adminCode1": "63",
+      "cc2": "TH",
+      "score": 39.28300857543945,
+      "lng": "99.1",
+      "adminName2": "",
+      "fcodeName": "islands",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 7,
+        "gmtOffset": 7,
+        "timeZoneId": "Asia/Bangkok"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Ko Lanta",
+      "fcode": "ISLS",
+      "geonameId": 1152416,
+      "asciiName": "Ko Lanta",
+      "lat": "7.65",
+      "population": 0,
+      "adminName1": "Krabi",
+      "countryId": "1605651",
+      "adminId1": "1152631",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "TH",
+      "toponymName": "Ko Lanta",
+      "fcl": "T",
+      "continentCode": "AS"
+    },
+    {
+      "adminId1": "1152631",
+      "countryId": "1605651",
+      "adminCode1": "63",
+      "countryName": "Thailand",
+      "fclName": "spot, building, farm",
+      "score": 5.675535202026367,
+      "countryCode": "TH",
+      "lng": "99.04192",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "resort",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 7,
+        "gmtOffset": 7,
+        "timeZoneId": "Asia/Bangkok"
+      },
+      "toponymName": "Koh Lanta",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "AS",
+      "name": "Koh Lanta",
+      "fcode": "RSRT",
+      "asciiName": "Koh Lanta",
+      "geonameId": 7279994,
+      "lat": "7.66804",
+      "adminName1": "Krabi",
+      "population": 0
+    },
+    {
+      "adminId1": "1152631",
+      "countryId": "1605651",
+      "adminCode1": "63",
+      "countryName": "Thailand",
+      "fclName": "spot, building, farm",
+      "score": 3.7836904525756836,
+      "countryCode": "TH",
+      "lng": "98.912",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "hotel",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 7,
+        "gmtOffset": 7,
+        "timeZoneId": "Asia/Bangkok"
+      },
+      "toponymName": "Best Western Maya Koh Lanta Rs",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "AS",
+      "name": "Best Western Maya Koh Lanta Rs",
+      "fcode": "HTL",
+      "asciiName": "BEST WESTERN MAYA KOH LANTA RS",
+      "geonameId": 6524908,
+      "lat": "8.052",
+      "adminName1": "Krabi",
+      "population": 0
+    }
+  ]
+}

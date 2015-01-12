@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vale de Cambra",
+               "short_name" : "Vale de Cambra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aveiro",
+               "short_name" : "Aveiro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vale de Cambra, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8734242,
+                  "lng" : -8.3620074
+               },
+               "southwest" : {
+                  "lat" : 40.80807679999999,
+                  "lng" : -8.422893400000001
+               }
+            },
+            "location" : {
+               "lat" : 40.8429643,
+               "lng" : -8.395616799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8734242,
+                  "lng" : -8.3620074
+               },
+               "southwest" : {
+                  "lat" : 40.80807679999999,
+                  "lng" : -8.422893400000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

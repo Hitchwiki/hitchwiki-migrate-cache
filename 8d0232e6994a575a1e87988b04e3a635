@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalmar County",
+               "short_name" : "Kalmar County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalmar County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.141144,
+                  "lng" : 17.1506084
+               },
+               "southwest" : {
+                  "lat" : 56.1942005,
+                  "lng" : 15.3360812
+               }
+            },
+            "location" : {
+               "lat" : 57.2350156,
+               "lng" : 16.1849349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.141144,
+                  "lng" : 17.1503094
+               },
+               "southwest" : {
+                  "lat" : 56.194803,
+                  "lng" : 15.3360812
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

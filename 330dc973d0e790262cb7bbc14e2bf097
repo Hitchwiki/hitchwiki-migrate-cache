@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Recife",
+               "short_name" : "Recife",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Recife",
+               "short_name" : "Recife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Pernambuco",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Recife - State of Pernambuco, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.931121999999999,
+                  "lng" : -34.8645967
+               },
+               "southwest" : {
+                  "lat" : -8.155500399999999,
+                  "lng" : -35.0078008
+               }
+            },
+            "location" : {
+               "lat" : -8.0578381,
+               "lng" : -34.8828969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.931121999999999,
+                  "lng" : -34.8645967
+               },
+               "southwest" : {
+                  "lat" : -8.155500399999999,
+                  "lng" : -35.0078008
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

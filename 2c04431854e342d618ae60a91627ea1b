@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R3",
+               "short_name" : "R3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Région wallonne",
+               "short_name" : "Région wallonne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R3, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4767261,
+                  "lng" : 4.5091185
+               },
+               "southwest" : {
+                  "lat" : 50.3804998,
+                  "lng" : 4.3094551
+               }
+            },
+            "location" : {
+               "lat" : 50.4194834,
+               "lng" : 4.3466112
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4767261,
+                  "lng" : 4.5091185
+               },
+               "southwest" : {
+                  "lat" : 50.3804998,
+                  "lng" : 4.3094551
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

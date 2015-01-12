@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heerlen",
+               "short_name" : "Heerlen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Heerlen",
+               "short_name" : "Heerlen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limburg",
+               "short_name" : "LI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heerlen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.93424539999999,
+                  "lng" : 6.0259411
+               },
+               "southwest" : {
+                  "lat" : 50.8182771,
+                  "lng" : 5.9170006
+               }
+            },
+            "location" : {
+               "lat" : 50.88817419999999,
+               "lng" : 5.9794988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.93424539999999,
+                  "lng" : 6.0259411
+               },
+               "southwest" : {
+                  "lat" : 50.8182771,
+                  "lng" : 5.9170006
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

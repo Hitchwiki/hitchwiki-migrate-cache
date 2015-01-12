@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ostrava",
+               "short_name" : "Ostrava",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ostrava-City District",
+               "short_name" : "Ostrava-City District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moravian-Silesian Region",
+               "short_name" : "Moravian-Silesian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ostrava, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9137292,
+                  "lng" : 18.3763648
+               },
+               "southwest" : {
+                  "lat" : 49.7257537,
+                  "lng" : 18.0984242
+               }
+            },
+            "location" : {
+               "lat" : 49.8209226,
+               "lng" : 18.2625243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9137292,
+                  "lng" : 18.3763648
+               },
+               "southwest" : {
+                  "lat" : 49.7257537,
+                  "lng" : 18.0984242
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

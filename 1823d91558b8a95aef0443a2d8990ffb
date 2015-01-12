@@ -1,0 +1,923 @@
+{
+  "totalResultsCount": 6656,
+  "geonames": [
+    {
+      "adminCode1": "00",
+      "lng": "35.20329",
+      "geonameId": 6254930,
+      "bbox": {
+        "east": 35.5732955932617,
+        "south": 31.216541290283203,
+        "north": 32.54638671875,
+        "west": 34.21665954589844
+      },
+      "toponymName": "Palestine",
+      "asciiName": "Palestine",
+      "countryId": "6254930",
+      "fcl": "A",
+      "population": 3800000,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 120.87364196777344,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Palestina",
+          "lang": "af"
+        },
+        {
+          "name": "Palestaen West Bank ne Gaza",
+          "lang": "ak"
+        },
+        {
+          "name": "የፍልስጤም ግዛት",
+          "lang": "am"
+        },
+        {
+          "name": "فلسطين",
+          "lang": "ar"
+        },
+        {
+          "name": "Fələstin Bölqüsü",
+          "lang": "az"
+        },
+        {
+          "name": "Палестынскія тэрыторыі",
+          "lang": "be"
+        },
+        {
+          "name": "Палестински територии",
+          "lang": "bg"
+        },
+        {
+          "name": "Palesitini",
+          "lang": "bm"
+        },
+        {
+          "name": "ফিলিস্তিন অঞ্চল",
+          "lang": "bn"
+        },
+        {
+          "name": "Tiriadoù Palestina",
+          "lang": "br"
+        },
+        {
+          "name": "Palestinska Teritorija",
+          "lang": "bs"
+        },
+        {
+          "name": "Palestina",
+          "lang": "ca"
+        },
+        {
+          "name": "Palestinská území",
+          "lang": "cs"
+        },
+        {
+          "name": "Tiriogaeth Palesteina",
+          "lang": "cy"
+        },
+        {
+          "name": "De palæstinensiske områder",
+          "lang": "da"
+        },
+        {
+          "name": "Palästinensische Autonomiegebiete",
+          "lang": "de"
+        },
+        {
+          "name": "པེ་ལིསི་ཊི་ནིཡ ན་ཊེ་རི་ངོ་རི",
+          "lang": "dz"
+        },
+        {
+          "name": "Palestinia nutome",
+          "lang": "ee"
+        },
+        {
+          "name": "Παλαιστινιακά Εδάφη",
+          "lang": "el"
+        },
+        {
+          "name": "Palestine",
+          "lang": "en"
+        },
+        {
+          "name": "Territorios Palestinos",
+          "lang": "es"
+        },
+        {
+          "name": "Palestiina ala",
+          "lang": "et"
+        },
+        {
+          "name": "Palestina",
+          "lang": "eu"
+        },
+        {
+          "name": "سرزمین‌های فلسطینی",
+          "lang": "fa"
+        },
+        {
+          "name": "Palestiin Sisjordani e Gaasaa",
+          "lang": "ff"
+        },
+        {
+          "name": "Palestiina",
+          "lang": "fi"
+        },
+        {
+          "name": "Palestinskt territorium",
+          "lang": "fo"
+        },
+        {
+          "name": "Territoire palestinien",
+          "lang": "fr"
+        },
+        {
+          "name": "Na Críocha Pailistíneacha",
+          "lang": "ga"
+        },
+        {
+          "name": "Palestina",
+          "lang": "gl"
+        },
+        {
+          "name": "પેલેસ્ટિનિયન ટેરિટરી",
+          "lang": "gu"
+        },
+        {
+          "name": "Palasɗinu",
+          "lang": "ha"
+        },
+        {
+          "name": "השטחים הפלסטיניים",
+          "lang": "he"
+        },
+        {
+          "name": "फ़िलिस्तीन",
+          "lang": "hi"
+        },
+        {
+          "name": "Palestinsko Područje",
+          "lang": "hr"
+        },
+        {
+          "name": "Palesztin Terület",
+          "lang": "hu"
+        },
+        {
+          "name": "Otoritas Palestina",
+          "lang": "id"
+        },
+        {
+          "name": "Palestína",
+          "lang": "is"
+        },
+        {
+          "name": "Palestina",
+          "lang": "it"
+        },
+        {
+          "name": "パレスチナ",
+          "lang": "ja"
+        },
+        {
+          "name": "პალესტინის ტერიტორია",
+          "lang": "ka"
+        },
+        {
+          "name": "Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina",
+          "lang": "ki"
+        },
+        {
+          "name": "ប៉ាលេស្ទីន",
+          "lang": "km"
+        },
+        {
+          "name": "ಪ್ಯಾಲಿಸ್ಟೇನಿಯನ್ ಪ್ರದೇಶ",
+          "lang": "kn"
+        },
+        {
+          "name": "팔레스타인 지구",
+          "lang": "ko"
+        },
+        {
+          "name": "فەلەستین",
+          "lang": "ku"
+        },
+        {
+          "name": "Palesitayini",
+          "lang": "lg"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/State_of_Palestine",
+          "lang": "link"
+        },
+        {
+          "name": "Palɛsine",
+          "lang": "ln"
+        },
+        {
+          "name": "Palestinos teritorija",
+          "lang": "lt"
+        },
+        {
+          "name": "Palesine",
+          "lang": "lu"
+        },
+        {
+          "name": "Palestīna",
+          "lang": "lv"
+        },
+        {
+          "name": "Palestina",
+          "lang": "mg"
+        },
+        {
+          "name": "Палестински територии",
+          "lang": "mk"
+        },
+        {
+          "name": "പാലസ്തീന്‍ പ്രദേശങ്ങള്‍",
+          "lang": "ml"
+        },
+        {
+          "name": "पॅलेस्टिनी प्रदेश",
+          "lang": "mr"
+        },
+        {
+          "name": "Palestinian Territory",
+          "lang": "ms"
+        },
+        {
+          "name": "Palestinian Territory",
+          "lang": "mt"
+        },
+        {
+          "name": "ပါလက်စတိုင်း ပိုင်နက်",
+          "lang": "my"
+        },
+        {
+          "name": "Palestinsk territorium",
+          "lang": "nb"
+        },
+        {
+          "name": "Palestinian West Bank and Gaza",
+          "lang": "nd"
+        },
+        {
+          "name": "प्यालेस्टनी भू-भाग",
+          "lang": "ne"
+        },
+        {
+          "name": "Palestijnse gebieden",
+          "lang": "nl"
+        },
+        {
+          "name": "Palestinsk territorium",
+          "lang": "nn"
+        },
+        {
+          "name": "ପାଲେସ୍ତେନିଆ",
+          "lang": "or"
+        },
+        {
+          "name": "Terytoria Palestyńskie",
+          "lang": "pl"
+        },
+        {
+          "name": "فلسطین",
+          "lang": "ps"
+        },
+        {
+          "name": "Territórios palestinos",
+          "lang": "pt"
+        },
+        {
+          "name": "Territori Palestinais",
+          "lang": "rm"
+        },
+        {
+          "name": "Palesitina Wesitibanka na Gaza",
+          "lang": "rn"
+        },
+        {
+          "name": "Teritoriul Palestinian",
+          "lang": "ro"
+        },
+        {
+          "name": "Палестинские территории",
+          "lang": "ru"
+        },
+        {
+          "name": "Palestina",
+          "lang": "se"
+        },
+        {
+          "name": "Sêse tî Palestîni",
+          "lang": "sg"
+        },
+        {
+          "name": "පලස්තීනය",
+          "lang": "si"
+        },
+        {
+          "name": "Palestínske územie",
+          "lang": "sk"
+        },
+        {
+          "name": "Palestinsko ozemlje",
+          "lang": "sl"
+        },
+        {
+          "name": "Falastiin Daanka galbeed iyo Qasa",
+          "lang": "so"
+        },
+        {
+          "name": "Палестинске територије",
+          "lang": "sr"
+        },
+        {
+          "name": "Palestinska territoriet",
+          "lang": "sv"
+        },
+        {
+          "name": "Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina",
+          "lang": "sw"
+        },
+        {
+          "name": "பாலஸ்தீனியன் மாஹாணங்கள்",
+          "lang": "ta"
+        },
+        {
+          "name": "పాలిస్తినియాన్ ప్రాంతం",
+          "lang": "te"
+        },
+        {
+          "name": "ปาเลสไตน์",
+          "lang": "th"
+        },
+        {
+          "name": "የፍልስጤም ግዛት",
+          "lang": "ti"
+        },
+        {
+          "name": "Potu Palesitaine",
+          "lang": "to"
+        },
+        {
+          "name": "Filistin Bölgesi",
+          "lang": "tr"
+        },
+        {
+          "name": "Палестина",
+          "lang": "uk"
+        },
+        {
+          "name": "فلسطینی خطے",
+          "lang": "ur"
+        },
+        {
+          "name": "Lãnh thổ Palestine",
+          "lang": "vi"
+        },
+        {
+          "name": "Orílẹ́ède Iwọorun Pakisitian ati Gaṣa",
+          "lang": "yo"
+        },
+        {
+          "name": "巴勒斯坦领土",
+          "lang": "zh"
+        },
+        {
+          "name": "i-Palestinian Territories",
+          "lang": "zu"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "PS",
+      "name": "Palestine",
+      "fclName": "country, state, region,...",
+      "countryName": "Palestine",
+      "fcodeName": "semi-independent political entity",
+      "adminName1": "",
+      "lat": "31.92157",
+      "fcode": "PCLS",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -76.05804853199999,
+        "south": 1.563590988000044,
+        "north": 1.785197493000055,
+        "west": -76.27878052999995
+      },
+      "asciiName": "Palestina",
+      "countryId": "3686110",
+      "fcl": "A",
+      "score": 30.466251373291016,
+      "adminId2": "9172391",
+      "countryCode": "CO",
+      "adminId1": "3680692",
+      "lat": "1.61751",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "41530",
+      "adminCode1": "16",
+      "lng": "-76.11633",
+      "geonameId": 9172391,
+      "toponymName": "Palestina",
+      "population": 10249,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Palestina",
+      "name": "Palestina",
+      "fclName": "country, state, region,...",
+      "countryName": "Colombia",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Huila"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -75.59695579899994,
+        "south": 4.989064967000047,
+        "north": 5.141135339000073,
+        "west": -75.71244596199995
+      },
+      "asciiName": "Palestina",
+      "countryId": "3686110",
+      "fcl": "A",
+      "score": 27.422760009765625,
+      "adminId2": "3673276",
+      "countryCode": "CO",
+      "adminId1": "3687951",
+      "lat": "5.04571",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "17524",
+      "adminCode1": "37",
+      "lng": "-75.69552",
+      "geonameId": 3673276,
+      "toponymName": "Palestina",
+      "population": 18037,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Palestina%2C_Caldas",
+        "lang": "link"
+      }],
+      "adminName2": "Palestina",
+      "name": "Palestina",
+      "fclName": "country, state, region,...",
+      "countryName": "Colombia",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Caldas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Maceio",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -37.23967149081369,
+        "south": -9.73683682308804,
+        "north": -9.636027708536659,
+        "west": -37.372698914716
+      },
+      "asciiName": "Palestina",
+      "countryId": "3469034",
+      "fcl": "A",
+      "score": 27.422760009765625,
+      "adminId2": "6320659",
+      "countryCode": "BR",
+      "adminId1": "3408096",
+      "lat": "-9.67504",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "2706208",
+      "adminCode1": "02",
+      "lng": "-37.331",
+      "geonameId": 6320659,
+      "toponymName": "Palestina",
+      "population": 5112,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Palestina,_Alagoas",
+        "lang": "link"
+      }],
+      "adminName2": "Palestina",
+      "name": "Palestina",
+      "fclName": "country, state, region,...",
+      "countryName": "Brazil",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Alagoas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -49.307231900875394,
+        "south": -20.505120022353296,
+        "north": -20.171110086511597,
+        "west": -49.69182833629989
+      },
+      "asciiName": "Palestina",
+      "countryId": "3469034",
+      "fcl": "A",
+      "score": 25.3885440826416,
+      "adminId2": "6322433",
+      "countryCode": "BR",
+      "adminId1": "3448433",
+      "lat": "-20.29911",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "3535002",
+      "adminCode1": "27",
+      "lng": "-49.52",
+      "geonameId": 6322433,
+      "toponymName": "Palestina",
+      "population": 11052,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Palestina",
+      "name": "Palestina",
+      "fclName": "country, state, region,...",
+      "countryName": "Brazil",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "São Paulo"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Hebron",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 35.33378899440909,
+        "south": 31.69851369574119,
+        "north": 31.86820552099981,
+        "west": 35.13397872104511
+      },
+      "asciiName": "East Jerusalem",
+      "countryId": "6254930",
+      "fcl": "P",
+      "score": 24.875591278076172,
+      "countryCode": "PS",
+      "adminId1": "285153",
+      "lat": "31.78336",
+      "fcode": "PPLX",
+      "continentCode": "AS",
+      "adminCode1": "WE",
+      "lng": "35.23388",
+      "geonameId": 7303419,
+      "toponymName": "East Jerusalem",
+      "population": 428304,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "لقدس الشرقية",
+          "lang": "ar"
+        },
+        {
+          "name": "Østjerusalem",
+          "lang": "da"
+        },
+        {
+          "name": "Ostjerusalem",
+          "lang": "de"
+        },
+        {
+          "name": "Jérusalem-Est",
+          "lang": "fr"
+        },
+        {
+          "name": "מזרח ירושלים",
+          "lang": "he"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/East_Jerusalem",
+          "lang": "link"
+        },
+        {
+          "name": "Øst-Jerusalem",
+          "lang": "nb"
+        },
+        {
+          "name": "Aust-Jerusalem",
+          "lang": "nn"
+        },
+        {
+          "name": "Östra Jerusalem",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "East Jerusalem",
+      "fclName": "city, village,...",
+      "countryName": "Palestine",
+      "fcodeName": "section of populated place",
+      "adminName1": "West Bank"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Bogota",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -76.12952912944546,
+        "south": 1.7191271756244504,
+        "north": 1.7281208243755497,
+        "west": -76.13852687055454
+      },
+      "asciiName": "Palestina",
+      "countryId": "3686110",
+      "fcl": "P",
+      "score": 23.176462173461914,
+      "countryCode": "CO",
+      "adminId1": "3680692",
+      "lat": "1.72362",
+      "fcode": "PPL",
+      "continentCode": "SA",
+      "adminCode1": "16",
+      "lng": "-76.13403",
+      "geonameId": 3673275,
+      "toponymName": "Palestina",
+      "population": 2027,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Palestina",
+          "lang": "es"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Palestina%2C_Huila",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Palestina",
+      "fclName": "city, village,...",
+      "countryName": "Colombia",
+      "fcodeName": "populated place",
+      "adminName1": "Huila"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Hebron",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 35.30971224981387,
+        "south": 32.1743787302513,
+        "north": 32.267843469748705,
+        "west": 35.199176550186124
+      },
+      "asciiName": "Nablus",
+      "countryId": "6254930",
+      "fcl": "P",
+      "score": 20.729658126831055,
+      "countryCode": "PS",
+      "adminId1": "285153",
+      "lat": "32.22111",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "WE",
+      "lng": "35.25444",
+      "geonameId": 282615,
+      "toponymName": "Nablus",
+      "population": 130326,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Sihhem",
+          "lang": "ang"
+        },
+        {
+          "name": "نابلس",
+          "lang": "ar"
+        },
+        {
+          "name": "Наблус",
+          "lang": "bg"
+        },
+        {
+          "name": "Náblus",
+          "lang": "cs"
+        },
+        {
+          "name": "Sichem",
+          "lang": "de"
+        },
+        {
+          "name": "Συχέμ",
+          "lang": "el"
+        },
+        {
+          "name": "Nablus",
+          "lang": "en"
+        },
+        {
+          "name": "Siquem",
+          "lang": "es"
+        },
+        {
+          "name": "نابلوس",
+          "lang": "fa"
+        },
+        {
+          "name": "Naplouse",
+          "lang": "fr"
+        },
+        {
+          "name": "Naplusa",
+          "lang": "hbs"
+        },
+        {
+          "name": "שכם",
+          "lang": "he"
+        },
+        {
+          "name": "Náblusz",
+          "lang": "hu"
+        },
+        {
+          "name": "ZDF",
+          "lang": "iata"
+        },
+        {
+          "name": "Sichem",
+          "lang": "it"
+        },
+        {
+          "name": "ナーブルス",
+          "lang": "ja"
+        },
+        {
+          "name": "나블루스",
+          "lang": "ko"
+        },
+        {
+          "name": "Flavia Neapolis",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Nablus",
+          "lang": "link"
+        },
+        {
+          "name": "Nablusas",
+          "lang": "lt"
+        },
+        {
+          "name": "Sichem",
+          "lang": "nl"
+        },
+        {
+          "name": "Nablus",
+          "lang": "no"
+        },
+        {
+          "name": "Наблус",
+          "lang": "os"
+        },
+        {
+          "name": "Sychem",
+          "lang": "pl"
+        },
+        {
+          "name": "نابلس",
+          "lang": "pnb"
+        },
+        {
+          "name": "Наблус",
+          "lang": "ru"
+        },
+        {
+          "name": "Náblus",
+          "lang": "sk"
+        },
+        {
+          "name": "Наблус",
+          "lang": "uk"
+        },
+        {
+          "name": "שכם",
+          "lang": "yi"
+        },
+        {
+          "name": "納布盧斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Nablus",
+      "fclName": "city, village,...",
+      "countryName": "Palestine",
+      "fcodeName": "populated place",
+      "adminName1": "West Bank"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Araguaina",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -48.1722770252603,
+        "south": -6.14912061060101,
+        "north": -5.673056273026839,
+        "west": -48.53459923916189
+      },
+      "asciiName": "Palestina Do Para",
+      "countryId": "3469034",
+      "fcl": "A",
+      "score": 20.310834884643555,
+      "adminId2": "6319441",
+      "countryCode": "BR",
+      "adminId1": "3393129",
+      "lat": "-5.97518",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "1505494",
+      "adminCode1": "16",
+      "lng": "-48.38544",
+      "geonameId": 6319441,
+      "toponymName": "Palestina do Pará",
+      "population": 7487,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Palestina do Pará",
+      "name": "Palestina do Pará",
+      "fclName": "country, state, region,...",
+      "countryName": "Brazil",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Pará"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -51.2190778056284,
+        "south": -16.927914890675098,
+        "north": -16.465198198395598,
+        "west": -51.67011187537359
+      },
+      "asciiName": "Palestina De Goias",
+      "countryId": "3469034",
+      "fcl": "A",
+      "score": 20.310834884643555,
+      "adminId2": "6324049",
+      "countryCode": "BR",
+      "adminId1": "3462372",
+      "lat": "-16.72854",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "5215652",
+      "adminCode1": "29",
+      "lng": "-51.45851",
+      "geonameId": 6324049,
+      "toponymName": "Palestina de Goiás",
+      "population": 3382,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Palestina de Goiás",
+      "name": "Palestina de Goiás",
+      "fclName": "country, state, region,...",
+      "countryName": "Brazil",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Goiás"
+    }
+  ]
+}

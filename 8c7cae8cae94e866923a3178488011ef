@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaconsfield, Buckinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.63479590000001,
+                  "lng" : -0.5960215999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5788922,
+                  "lng" : -0.68019
+               }
+            },
+            "location" : {
+               "lat" : 51.602396,
+               "lng" : -0.6442409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.63479590000001,
+                  "lng" : -0.5960215999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5788922,
+                  "lng" : -0.68019
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaconsfield, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.445581,
+                  "lng" : -73.83129889999999
+               },
+               "southwest" : {
+                  "lat" : 45.4143894,
+                  "lng" : -73.900964
+               }
+            },
+            "location" : {
+               "lat" : 45.4309308,
+               "lng" : -73.86828349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.445581,
+                  "lng" : -73.83129889999999
+               },
+               "southwest" : {
+                  "lat" : 45.4143894,
+                  "lng" : -73.900964
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaconsfield VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.01352990000001,
+                  "lng" : 145.410467
+               },
+               "southwest" : {
+                  "lat" : -38.0658992,
+                  "lng" : 145.3589924
+               }
+            },
+            "location" : {
+               "lat" : -38.04554,
+               "lng" : 145.3672877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.01352990000001,
+                  "lng" : 145.410467
+               },
+               "southwest" : {
+                  "lat" : -38.0658992,
+                  "lng" : 145.3589924
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6162",
+               "short_name" : "6162",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beaconsfield WA 6162, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.0632899,
+                  "lng" : 115.7798189
+               },
+               "southwest" : {
+                  "lat" : -32.0780735,
+                  "lng" : 115.7570097
+               }
+            },
+            "location" : {
+               "lat" : -32.0671578,
+               "lng" : 115.7720727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.0632899,
+                  "lng" : 115.7798189
+               },
+               "southwest" : {
+                  "lat" : -32.0780735,
+                  "lng" : 115.7570097
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2015",
+               "short_name" : "2015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beaconsfield NSW 2015, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.9083696,
+                  "lng" : 151.2027662
+               },
+               "southwest" : {
+                  "lat" : -33.9146567,
+                  "lng" : 151.1978866
+               }
+            },
+            "location" : {
+               "lat" : -33.912306,
+               "lng" : 151.2004474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.9083696,
+                  "lng" : 151.2027662
+               },
+               "southwest" : {
+                  "lat" : -33.9146567,
+                  "lng" : 151.1978866
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaconsfield",
+               "short_name" : "Beaconsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ringgold County",
+               "short_name" : "Ringgold County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaconsfield, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.81458,
+                  "lng" : -94.04350699999999
+               },
+               "southwest" : {
+                  "lat" : 40.800515,
+                  "lng" : -94.057931
+               }
+            },
+            "location" : {
+               "lat" : 40.8077725,
+               "lng" : -94.0505057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81458,
+                  "lng" : -94.04350699999999
+               },
+               "southwest" : {
+                  "lat" : 40.800515,
+                  "lng" : -94.057931
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

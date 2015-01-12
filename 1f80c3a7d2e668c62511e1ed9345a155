@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A59",
+               "short_name" : "A59",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A59, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5453264,
+                  "lng" : 7.157773499999999
+               },
+               "southwest" : {
+                  "lat" : 50.7281896,
+                  "lng" : 6.7326522
+               }
+            },
+            "location" : {
+               "lat" : 51.13007529999999,
+               "lng" : 6.9114485
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5453264,
+                  "lng" : 7.157773499999999
+               },
+               "southwest" : {
+                  "lat" : 50.7281896,
+                  "lng" : 6.7326522
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

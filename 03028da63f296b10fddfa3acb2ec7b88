@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alta",
+               "short_name" : "Alta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alta",
+               "short_name" : "Alta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Finnmark",
+               "short_name" : "Finnmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alta, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.99154539999999,
+                  "lng" : 23.4463824
+               },
+               "southwest" : {
+                  "lat" : 69.93120519999999,
+                  "lng" : 23.1768146
+               }
+            },
+            "location" : {
+               "lat" : 69.96873760000001,
+               "lng" : 23.2715496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.99154539999999,
+                  "lng" : 23.4463824
+               },
+               "southwest" : {
+                  "lat" : 69.93120519999999,
+                  "lng" : 23.1768146
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

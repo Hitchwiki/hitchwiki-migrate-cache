@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lindau",
+               "short_name" : "Lindau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lindau",
+               "short_name" : "Lindau",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Swabia",
+               "short_name" : "Swabia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lindau, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.612066,
+                  "lng" : 9.7408415
+               },
+               "southwest" : {
+                  "lat" : 47.5336565,
+                  "lng" : 9.6362276
+               }
+            },
+            "location" : {
+               "lat" : 47.5797815,
+               "lng" : 9.678933299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.612066,
+                  "lng" : 9.7408415
+               },
+               "southwest" : {
+                  "lat" : 47.5336565,
+                  "lng" : 9.6362276
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

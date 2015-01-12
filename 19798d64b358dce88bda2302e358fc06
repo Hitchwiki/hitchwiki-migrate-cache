@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gualeguay",
+               "short_name" : "Gualeguay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gualeguay",
+               "short_name" : "Gualeguay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Entre Rios",
+               "short_name" : "ER",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gualeguay, Entre Rios, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -33.1512413,
+               "lng" : -59.3344116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.1325557,
+                  "lng" : -59.30239679999999
+               },
+               "southwest" : {
+                  "lat" : -33.1699229,
+                  "lng" : -59.36642639999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

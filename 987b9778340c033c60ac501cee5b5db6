@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peine",
+               "short_name" : "PE",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peine",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peine, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3745327,
+                  "lng" : 10.34838
+               },
+               "southwest" : {
+                  "lat" : 52.25790809999999,
+                  "lng" : 10.1178438
+               }
+            },
+            "location" : {
+               "lat" : 52.3204095,
+               "lng" : 10.243267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3745327,
+                  "lng" : 10.34838
+               },
+               "southwest" : {
+                  "lat" : 52.25790809999999,
+                  "lng" : 10.1178438
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

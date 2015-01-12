@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "David District",
+               "short_name" : "David District",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "David",
+               "short_name" : "David",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chiriqui",
+               "short_name" : "Chiriqui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "David District, Panama",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.482304899999999,
+                  "lng" : -82.387805
+               },
+               "southwest" : {
+                  "lat" : 8.327728199999999,
+                  "lng" : -82.46636149999999
+               }
+            },
+            "location" : {
+               "lat" : 8.433332999999999,
+               "lng" : -82.433333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.482304899999999,
+                  "lng" : -82.387805
+               },
+               "southwest" : {
+                  "lat" : 8.327728199999999,
+                  "lng" : -82.46636149999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

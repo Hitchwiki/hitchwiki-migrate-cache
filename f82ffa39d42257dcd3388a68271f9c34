@@ -1,0 +1,109 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode3": "15091",
+      "alternateNames": [
+        {
+          "name": "Lutherstadt Wittenberg",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Wittenberg",
+          "lang": "link"
+        },
+        {
+          "name": "Виттенберг",
+          "lang": "ru"
+        },
+        {
+          "name": "ZAX",
+          "lang": "unlc"
+        }
+      ],
+      "adminCode2": "00",
+      "countryName": "Germany",
+      "adminCode1": "14",
+      "score": 25.33423614501953,
+      "lng": "12.60603",
+      "adminCode4": "15091375",
+      "adminName2": "",
+      "fcodeName": "fourth-order administrative division",
+      "adminName3": "Landkreis Wittenberg",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Wittenberg",
+      "adminName5": "",
+      "name": "Lutherstadt Wittenberg",
+      "fcode": "ADM4",
+      "geonameId": 6548975,
+      "asciiName": "Wittenberg, Lutherstadt",
+      "lat": "51.87437",
+      "population": 46930,
+      "adminName1": "Saxony-Anhalt",
+      "adminId1": "2842565",
+      "countryId": "2921044",
+      "fclName": "country, state, region,...",
+      "countryCode": "DE",
+      "adminId4": "6548975",
+      "adminId3": "2807345",
+      "toponymName": "Wittenberg, Lutherstadt",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "15091",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Griebo",
+          "lang": "link"
+        },
+        {
+          "name": "06886",
+          "lang": "post"
+        }
+      ],
+      "adminCode2": "00",
+      "countryName": "Germany",
+      "adminCode1": "14",
+      "score": 21.928207397460938,
+      "lng": "12.5088",
+      "adminCode4": "15091375",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "Landkreis Wittenberg",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Wittenberg",
+      "adminName5": "",
+      "bbox": {
+        "south": 51.880450635124824,
+        "east": 12.510255981378359,
+        "north": 51.88224936487517,
+        "west": 12.50734201862164
+      },
+      "name": "Griebo",
+      "fcode": "PPL",
+      "geonameId": 2917493,
+      "asciiName": "Griebo",
+      "lat": "51.88135",
+      "population": 645,
+      "adminName1": "Saxony-Anhalt",
+      "adminId1": "2842565",
+      "countryId": "2921044",
+      "fclName": "city, village,...",
+      "countryCode": "DE",
+      "adminId4": "6548975",
+      "adminId3": "2807345",
+      "toponymName": "Griebo",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

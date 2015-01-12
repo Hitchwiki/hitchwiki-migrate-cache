@@ -1,0 +1,434 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lohardaga",
+               "short_name" : "Lohardaga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jharkhand",
+               "short_name" : "JH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "835213",
+               "short_name" : "835213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuru, Jharkhand 835213, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.545655,
+                  "lng" : 84.82286449999999
+               },
+               "southwest" : {
+                  "lat" : 23.5357402,
+                  "lng" : 84.8131657
+               }
+            },
+            "location" : {
+               "lat" : 23.5418911,
+               "lng" : 84.8189902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.545655,
+                  "lng" : 84.82286449999999
+               },
+               "southwest" : {
+                  "lat" : 23.5357402,
+                  "lng" : 84.8131657
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mtkvari",
+               "short_name" : "Mtkvari",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Goranboy",
+               "short_name" : "Goranboy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mtkvari, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0439546,
+                  "lng" : 49.39628339999999
+               },
+               "southwest" : {
+                  "lat" : 39.3069725,
+                  "lng" : 43.0451524
+               }
+            },
+            "location" : {
+               "lat" : 40.6754748,
+               "lng" : 46.2207179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0439546,
+                  "lng" : 49.39628339999999
+               },
+               "southwest" : {
+                  "lat" : 39.3069951,
+                  "lng" : 43.0451524
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tartu",
+               "short_name" : "Tartu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tartu linn",
+               "short_name" : "Tartu linn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tartumaa",
+               "short_name" : "Tartumaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50107",
+               "short_name" : "50107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuru, 50107 Tartu, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.36169559999999,
+                  "lng" : 26.7307469
+               },
+               "southwest" : {
+                  "lat" : 58.36100099999999,
+                  "lng" : 26.7261626
+               }
+            },
+            "location" : {
+               "lat" : 58.3611625,
+               "lng" : 26.7289663
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.36269728029149,
+                  "lng" : 26.7307469
+               },
+               "southwest" : {
+                  "lat" : 58.35999931970849,
+                  "lng" : 26.7261626
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peñalolén",
+               "short_name" : "Peñalolén",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región Metropolitana",
+               "short_name" : "Región Metropolitana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuru, Peñalolén, Región Metropolitana, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.4820836,
+                  "lng" : -70.53009659999999
+               },
+               "southwest" : {
+                  "lat" : -33.4825346,
+                  "lng" : -70.5302416
+               }
+            },
+            "location" : {
+               "lat" : -33.4825346,
+               "lng" : -70.5302416
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.4809601197085,
+                  "lng" : -70.52882011970848
+               },
+               "southwest" : {
+                  "lat" : -33.4836580802915,
+                  "lng" : -70.53151808029151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Lestijärvi",
+               "short_name" : "Lestijärvi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69450",
+               "short_name" : "69450",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuru, 69450 Lestijärvi, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 63.44248950000001,
+               "lng" : 24.9152827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.44383848029151,
+                  "lng" : 24.9166316802915
+               },
+               "southwest" : {
+                  "lat" : 63.4411405197085,
+                  "lng" : 24.9139337197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Tharaka Nithi",
+               "short_name" : "Tharaka Nithi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kenya",
+               "short_name" : "KE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuru, Kenya",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0286111,
+               "lng" : 37.9322222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02726211970849797,
+                  "lng" : 37.93357118029149
+               },
+               "southwest" : {
+                  "lat" : -0.02996008029150203,
+                  "lng" : 37.9308732197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ida-Virumaa",
+               "short_name" : "Ida-Virumaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41009",
+               "short_name" : "41009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuru, Kuru, 41009 Ida-Virumaa, Estonia",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.99862479999999,
+               "lng" : 27.2821609
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.9999737802915,
+                  "lng" : 27.2835098802915
+               },
+               "southwest" : {
+                  "lat" : 58.99727581970849,
+                  "lng" : 27.2808119197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuru",
+               "short_name" : "Kuru",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nõmme",
+               "short_name" : "Nõmme",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tallinn",
+               "short_name" : "Tallinn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tallinna linn",
+               "short_name" : "Tallinna linn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Harjumaa",
+               "short_name" : "Harjumaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11612",
+               "short_name" : "11612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuru, 11612 Tallinn, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.3870595,
+                  "lng" : 24.6772662
+               },
+               "southwest" : {
+                  "lat" : 59.38626290000001,
+                  "lng" : 24.6764771
+               }
+            },
+            "location" : {
+               "lat" : 59.38652810000001,
+               "lng" : 24.6769501
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3880101802915,
+                  "lng" : 24.6782206302915
+               },
+               "southwest" : {
+                  "lat" : 59.38531221970849,
+                  "lng" : 24.6755226697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

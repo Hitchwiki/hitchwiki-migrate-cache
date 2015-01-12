@@ -1,0 +1,353 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4043839,
+                  "lng" : -71.06548719999999
+               },
+               "southwest" : {
+                  "lat" : 42.3523968,
+                  "lng" : -71.16033209999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3736158,
+               "lng" : -71.10973349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4043839,
+                  "lng" : -71.06548719999999
+               },
+               "southwest" : {
+                  "lat" : 42.3523968,
+                  "lng" : -71.16033209999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Guernsey County",
+               "short_name" : "Guernsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43725",
+               "short_name" : "43725",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, OH 43725, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.060147,
+                  "lng" : -81.559816
+               },
+               "southwest" : {
+                  "lat" : 39.9845538,
+                  "lng" : -81.625727
+               }
+            },
+            "location" : {
+               "lat" : 40.031183,
+               "lng" : -81.5884561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.060147,
+                  "lng" : -81.559816
+               },
+               "southwest" : {
+                  "lat" : 39.9845538,
+                  "lng" : -81.625727
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "7, Cambridge",
+               "short_name" : "7, Cambridge",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dorchester County",
+               "short_name" : "Dorchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5851566,
+                  "lng" : -76.038528
+               },
+               "southwest" : {
+                  "lat" : 38.50294400000001,
+                  "lng" : -76.1143051
+               }
+            },
+            "location" : {
+               "lat" : 38.5631744,
+               "lng" : -76.0788292
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5851566,
+                  "lng" : -76.038528
+               },
+               "southwest" : {
+                  "lat" : 38.50294400000001,
+                  "lng" : -76.1143051
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isanti County",
+               "short_name" : "Isanti County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.590841,
+                  "lng" : -93.1881351
+               },
+               "southwest" : {
+                  "lat" : 45.5179679,
+                  "lng" : -93.270687
+               }
+            },
+            "location" : {
+               "lat" : 45.5656755,
+               "lng" : -93.2258999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.590841,
+                  "lng" : -93.1881351
+               },
+               "southwest" : {
+                  "lat" : 45.5179679,
+                  "lng" : -93.270687
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12816",
+               "short_name" : "12816",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, NY 12816, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.038871,
+                  "lng" : -73.36370789999999
+               },
+               "southwest" : {
+                  "lat" : 43.0175871,
+                  "lng" : -73.39928689999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0281329,
+               "lng" : -73.3812231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.038871,
+                  "lng" : -73.36370789999999
+               },
+               "southwest" : {
+                  "lat" : 43.0175871,
+                  "lng" : -73.39928689999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Henry County",
+               "short_name" : "Henry County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61238",
+               "short_name" : "61238",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cambridge, IL 61238, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3106079,
+                  "lng" : -90.1832689
+               },
+               "southwest" : {
+                  "lat" : 41.283952,
+                  "lng" : -90.2031118
+               }
+            },
+            "location" : {
+               "lat" : 41.3036472,
+               "lng" : -90.1928971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3106079,
+                  "lng" : -90.1832689
+               },
+               "southwest" : {
+                  "lat" : 41.283952,
+                  "lng" : -90.2031118
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

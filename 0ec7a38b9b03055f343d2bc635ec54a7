@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "D11",
+               "short_name" : "D11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "D11, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1533957,
+                  "lng" : 15.7417241
+               },
+               "southwest" : {
+                  "lat" : 50.0985946,
+                  "lng" : 14.5973588
+               }
+            },
+            "location" : {
+               "lat" : 50.1189824,
+               "lng" : 15.1708418
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1533957,
+                  "lng" : 15.7417241
+               },
+               "southwest" : {
+                  "lat" : 50.0985946,
+                  "lng" : 14.5973588
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azaz District",
+               "short_name" : "Azaz District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aleppo Governorate",
+               "short_name" : "Aleppo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Azaz District, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.677919,
+                  "lng" : 37.4514483
+               },
+               "southwest" : {
+                  "lat" : 36.29596540000001,
+                  "lng" : 36.9546604
+               }
+            },
+            "location" : {
+               "lat" : 36.5439382,
+               "lng" : 37.2115829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.677919,
+                  "lng" : 37.4514483
+               },
+               "southwest" : {
+                  "lat" : 36.29596540000001,
+                  "lng" : 36.9546604
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Murghab",
+               "short_name" : "Murghab",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorno-Badakhshan Autonomous Province",
+               "short_name" : "Gorno-Badakhshan Autonomous Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Murghab, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2004851,
+                  "lng" : 74.04510499999999
+               },
+               "southwest" : {
+                  "lat" : 38.1620285,
+                  "lng" : 73.95901669999999
+               }
+            },
+            "location" : {
+               "lat" : 38.168889,
+               "lng" : 73.965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2004851,
+                  "lng" : 74.04510499999999
+               },
+               "southwest" : {
+                  "lat" : 38.1620285,
+                  "lng" : 73.95901669999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

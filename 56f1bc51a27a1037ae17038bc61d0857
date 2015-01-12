@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Esquel",
+               "short_name" : "Esquel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Futaleufú Department",
+               "short_name" : "Futaleufú Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chubut Province",
+               "short_name" : "CH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Esquel, Chubut Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.89734079999999,
+                  "lng" : -71.2861386
+               },
+               "southwest" : {
+                  "lat" : -42.92818889999999,
+                  "lng" : -71.3552574
+               }
+            },
+            "location" : {
+               "lat" : -42.9171389,
+               "lng" : -71.32183329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.89734079999999,
+                  "lng" : -71.2861386
+               },
+               "southwest" : {
+                  "lat" : -42.92818889999999,
+                  "lng" : -71.3552574
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,147 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "adminCode2": "8260556",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Mpulungu_District",
+        "lang": "link"
+      }],
+      "countryName": "Zambia",
+      "adminCode1": "05",
+      "score": 54.7507438659668,
+      "lng": "30.794",
+      "adminName2": "Mpulungu District",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Mpulungu District",
+      "fcode": "ADM2",
+      "geonameId": 8260556,
+      "asciiName": "Mpulungu District",
+      "lat": "-8.982",
+      "population": 0,
+      "adminName1": "Northern",
+      "countryId": "895949",
+      "adminId1": "900601",
+      "fclName": "country, state, region,...",
+      "countryCode": "ZM",
+      "adminId2": "8260556",
+      "toponymName": "Mpulungu District",
+      "fcl": "A",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Mpulungu",
+          "lang": "link"
+        },
+        {
+          "name": "MPU",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Zambia",
+      "adminCode1": "05",
+      "score": 47.4155387878418,
+      "lng": "31.11405",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": -8.774242033178584,
+        "east": 31.126091318904678,
+        "north": -8.75044707520324,
+        "west": 31.1020161334879
+      },
+      "name": "Mpulungu",
+      "fcode": "PPL",
+      "geonameId": 175961,
+      "asciiName": "Mpulungu",
+      "lat": "-8.76234",
+      "population": 8547,
+      "adminName1": "Northern",
+      "countryId": "895949",
+      "adminId1": "900601",
+      "fclName": "city, village,...",
+      "countryCode": "ZM",
+      "toponymName": "Mpulungu",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "adminId1": "900601",
+      "countryId": "895949",
+      "adminCode1": "05",
+      "countryName": "Zambia",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 30.29898452758789,
+      "countryCode": "ZM",
+      "lng": "31.1",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "hill",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka"
+      },
+      "toponymName": "Mpulungu",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "AF",
+      "name": "Mpulungu",
+      "fcode": "HLL",
+      "asciiName": "Mpulungu",
+      "geonameId": 175962,
+      "lat": "-8.76667",
+      "adminName1": "Northern",
+      "population": 0
+    },
+    {
+      "adminId1": "900601",
+      "countryId": "895949",
+      "adminCode1": "05",
+      "countryName": "Zambia",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 25.970558166503906,
+      "countryCode": "ZM",
+      "lng": "31.23333",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "hill",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Lusaka"
+      },
+      "toponymName": "Mpulungu Hill",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "AF",
+      "name": "Mpulungu Hill",
+      "fcode": "HLL",
+      "asciiName": "Mpulungu Hill",
+      "geonameId": 175960,
+      "lat": "-8.6",
+      "adminName1": "Northern",
+      "population": 0
+    }
+  ]
+}

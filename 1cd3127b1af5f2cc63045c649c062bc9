@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ternopil",
+               "short_name" : "Ternopil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka city council",
+               "short_name" : "Ternopil's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil, Ternopil's'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.5401121
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.5401121
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

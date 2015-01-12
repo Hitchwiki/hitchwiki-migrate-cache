@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A19",
+               "short_name" : "A19",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A19, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0835013,
+                  "lng" : 15.0426268
+               },
+               "southwest" : {
+                  "lat" : 37.4616128,
+                  "lng" : 13.4426672
+               }
+            },
+            "location" : {
+               "lat" : 37.6585681,
+               "lng" : 14.1058684
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0835013,
+                  "lng" : 15.0426268
+               },
+               "southwest" : {
+                  "lat" : 37.4616128,
+                  "lng" : 13.4426672
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

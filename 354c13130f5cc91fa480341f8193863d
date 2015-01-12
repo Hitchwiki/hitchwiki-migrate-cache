@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A542",
+               "short_name" : "A542",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Langenfeld (Rheinland)",
+               "short_name" : "Langenfeld (Rheinland)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40764",
+               "short_name" : "40764",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A542, 40764 Langenfeld (Rheinland), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.112537,
+                  "lng" : 6.982665
+               },
+               "southwest" : {
+                  "lat" : 51.0830575,
+                  "lng" : 6.9350929
+               }
+            },
+            "location" : {
+               "lat" : 51.0976066,
+               "lng" : 6.9593484
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.112537,
+                  "lng" : 6.982665
+               },
+               "southwest" : {
+                  "lat" : 51.0830575,
+                  "lng" : 6.9350929
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

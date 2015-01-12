@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giessen",
+               "short_name" : "Giessen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Giessen",
+               "short_name" : "Giessen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Giessen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Giessen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.63524169999999,
+                  "lng" : 8.7641993
+               },
+               "southwest" : {
+                  "lat" : 50.5263386,
+                  "lng" : 8.5557541
+               }
+            },
+            "location" : {
+               "lat" : 50.5840512,
+               "lng" : 8.678403099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.63524169999999,
+                  "lng" : 8.7641993
+               },
+               "southwest" : {
+                  "lat" : 50.5263386,
+                  "lng" : 8.5557541
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

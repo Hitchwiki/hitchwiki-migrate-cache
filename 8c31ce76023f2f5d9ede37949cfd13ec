@@ -1,0 +1,608 @@
+{
+  "totalResultsCount": 20,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.345061982953677,
+        "south": 49.03061332528144,
+        "north": 49.092270674718556,
+        "west": 20.250906017046322
+      },
+      "asciiName": "Poprad",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 95.23216247558594,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.06144",
+      "fcode": "PPLA2",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.29798",
+      "geonameId": 723846,
+      "toponymName": "Poprad",
+      "population": 57431,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Deutschendorf",
+          "lang": "de"
+        },
+        {
+          "name": "Poprad",
+          "lang": "en"
+        },
+        {
+          "name": "TAT",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Poprad",
+          "lang": "link"
+        },
+        {
+          "name": "Попрад",
+          "lang": "ru"
+        },
+        {
+          "name": "POP",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Poprad",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "asciiName": "Okres Poprad",
+      "countryId": "3057568",
+      "fcl": "A",
+      "score": 52.69036865234375,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.05",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.3",
+      "geonameId": 723844,
+      "toponymName": "Okres Poprad",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Poprad",
+          "lang": "cs"
+        },
+        {
+          "name": "Poprad",
+          "lang": "de"
+        },
+        {
+          "name": "Poprad District",
+          "lang": "en"
+        },
+        {
+          "name": "Poprad",
+          "lang": "fi"
+        },
+        {
+          "name": "District de Poprad",
+          "lang": "fr"
+        },
+        {
+          "name": "Poprádi járás",
+          "lang": "hu"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Poprad_District",
+          "lang": "link"
+        },
+        {
+          "name": "Popradas",
+          "lang": "lt"
+        },
+        {
+          "name": "Poprad",
+          "lang": "nl"
+        },
+        {
+          "name": "Powiat Poprad",
+          "lang": "pl"
+        },
+        {
+          "name": "Districtul Poprad",
+          "lang": "ro"
+        },
+        {
+          "name": "Попрад",
+          "lang": "ru"
+        },
+        {
+          "name": "Poprad",
+          "lang": "sk"
+        },
+        {
+          "name": "Poprad",
+          "lang": "sl"
+        },
+        {
+          "name": "Poprad",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Poprad District",
+      "fclName": "country, state, region,...",
+      "countryName": "Slovakia",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "asciiName": "Poprad-Tatry Airport",
+      "countryId": "3057568",
+      "fcl": "S",
+      "score": 52.16080093383789,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.07359",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 718,
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.24114",
+      "geonameId": 6299789,
+      "toponymName": "Poprad-Tatry Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Poprad-Tatry Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport Poprad-Tatry",
+          "lang": "fr"
+        },
+        {
+          "name": "TAT",
+          "lang": "iata"
+        },
+        {
+          "name": "LZTT",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Poprad-Tatry_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "Аэропорт Попрад-Татры",
+          "lang": "ru"
+        },
+        {
+          "name": "Letisko Poprad-Tatry",
+          "lang": "sk"
+        },
+        {
+          "name": "TAT",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Poprad-Tatry Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Slovakia",
+      "fcodeName": "airport",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.26928645426532,
+        "south": 49.26649999979249,
+        "north": 49.275493648543915,
+        "west": 20.255501448566683
+      },
+      "asciiName": "Zdiar",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 32.52797317504883,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.271",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.26239",
+      "geonameId": 723082,
+      "toponymName": "Ždiar",
+      "population": 1330,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/%C5%BDdiar",
+          "lang": "link"
+        },
+        {
+          "name": "Ждьяр",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Ždiar",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "populated place",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.255768493065133,
+        "south": 49.128579271708546,
+        "north": 49.14415672829145,
+        "west": 20.231955506934867
+      },
+      "asciiName": "Vysoke Tatry",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 32.52797317504883,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.13637",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.24386",
+      "geonameId": 723119,
+      "toponymName": "Vysoké Tatry",
+      "population": 4700,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Vysoké Tatry",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Vysok%C3%A9_Tatry_%28town%29",
+          "lang": "link"
+        },
+        {
+          "name": "Высокие Татры",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Vysoké Tatry",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "populated place",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.223760896496117,
+        "south": 49.04912983019628,
+        "north": 49.0711596805631,
+        "west": 20.190133756824196
+      },
+      "asciiName": "Svit",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 32.52797317504883,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.06014",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.20695",
+      "geonameId": 723411,
+      "toponymName": "Svit",
+      "population": 7445,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Svit",
+          "lang": "cs"
+        },
+        {
+          "name": "Svit",
+          "lang": "de"
+        },
+        {
+          "name": "Svit",
+          "lang": "en"
+        },
+        {
+          "name": "Szvit",
+          "lang": "hu"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Svit",
+          "lang": "link"
+        },
+        {
+          "name": "Świt",
+          "lang": "pl"
+        },
+        {
+          "name": "Svit",
+          "lang": "ro"
+        },
+        {
+          "name": "Свит",
+          "lang": "ru"
+        },
+        {
+          "name": "Svit",
+          "lang": "sk"
+        },
+        {
+          "name": "SVT",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Svit",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "populated place",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.091634221403478,
+        "south": 49.05134366133765,
+        "north": 49.06692111792055,
+        "west": 20.067858271272325
+      },
+      "asciiName": "Strba",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 32.52797317504883,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.05913",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.07975",
+      "geonameId": 723468,
+      "toponymName": "Štrba",
+      "population": 3600,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Strba",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/%C5%A0trba",
+          "lang": "link"
+        },
+        {
+          "name": "Штрба",
+          "lang": "ru"
+        },
+        {
+          "name": "STR",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Strba",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "populated place",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.274243973731597,
+        "south": 49.11803731278732,
+        "north": 49.12703096153908,
+        "west": 20.2605002889638
+      },
+      "asciiName": "Nova Lesna",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 32.52797317504883,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.12253",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.26737",
+      "geonameId": 724026,
+      "toponymName": "Nová Lesná",
+      "population": 1520,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Nov%C3%A1_Lesn%C3%A1",
+          "lang": "link"
+        },
+        {
+          "name": "Нова-Лесна",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Nová Lesná",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "populated place",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.28265218210119,
+        "south": 49.16526069543663,
+        "north": 49.16705942518698,
+        "west": 20.279901223660605
+      },
+      "asciiName": "Tatranska Lomnica",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 27.881120681762695,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.16616",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.28128",
+      "geonameId": 723397,
+      "toponymName": "Tatranská Lomnica",
+      "population": 800,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Tatranská Lomnica",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Tatransk%C3%A1_Lomnica",
+          "lang": "link"
+        },
+        {
+          "name": "Татранска Ломница",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "Poprad District",
+      "name": "Tatranská Lomnica",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "populated place",
+      "adminName1": "Prešovský"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.154250962179603,
+        "south": 49.08342351278478,
+        "north": 49.10141081028764,
+        "west": 20.12677778537899
+      },
+      "asciiName": "Stola",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 27.881120681762695,
+      "adminId2": "723844",
+      "countryCode": "SK",
+      "adminId1": "865085",
+      "lat": "49.09242",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "706",
+      "adminCode1": "05",
+      "lng": "20.14051",
+      "geonameId": 723484,
+      "toponymName": "Štôla",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/%C5%A0t%C3%B4la",
+        "lang": "link"
+      }],
+      "adminName2": "Poprad District",
+      "name": "Štôla",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "populated place",
+      "adminName1": "Prešovský"
+    }
+  ]
+}

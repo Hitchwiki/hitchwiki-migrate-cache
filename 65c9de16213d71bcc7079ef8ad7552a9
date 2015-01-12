@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 50",
+               "short_name" : "Autoroute 50",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 50, Québec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7247831,
+                  "lng" : -73.95910409999999
+               },
+               "southwest" : {
+                  "lat" : 45.43003050000001,
+                  "lng" : -75.7286168
+               }
+            },
+            "location" : {
+               "lat" : 45.653789,
+               "lng" : -74.83925069999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7247831,
+                  "lng" : -73.95910409999999
+               },
+               "southwest" : {
+                  "lat" : 45.43003050000001,
+                  "lng" : -75.7286168
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

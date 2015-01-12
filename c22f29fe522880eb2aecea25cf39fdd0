@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A81",
+               "short_name" : "A81",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A81, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7365967,
+                  "lng" : 9.825870399999999
+               },
+               "southwest" : {
+                  "lat" : 47.73767520000001,
+                  "lng" : 8.570520499999999
+               }
+            },
+            "location" : {
+               "lat" : 48.7265387,
+               "lng" : 9.0687237
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7365967,
+                  "lng" : 9.825870399999999
+               },
+               "southwest" : {
+                  "lat" : 47.73767520000001,
+                  "lng" : 8.570520499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

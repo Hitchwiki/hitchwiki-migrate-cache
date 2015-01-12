@@ -1,0 +1,648 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "A4",
+               "short_name" : "A4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Province de Fahs-Anjra",
+               "short_name" : "Province de Fahs-Anjra",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tanger-Tétouan",
+               "short_name" : "Tanger-Tétouan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Péage, A4, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7366024,
+                  "lng" : -5.6249087
+               },
+               "southwest" : {
+                  "lat" : 35.73644549999999,
+                  "lng" : -5.625354199999999
+               }
+            },
+            "location" : {
+               "lat" : 35.73651780000001,
+               "lng" : -5.625136599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.73787293029149,
+                  "lng" : -5.623782469708497
+               },
+               "southwest" : {
+                  "lat" : 35.7351749697085,
+                  "lng" : -5.626480430291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ash Sharqiyah North Governorate",
+               "short_name" : "Ash Sharqiyah North Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Péage, 17, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6678011,
+                  "lng" : 59.3899012
+               },
+               "southwest" : {
+                  "lat" : 22.6674027,
+                  "lng" : 59.38895699999999
+               }
+            },
+            "location" : {
+               "lat" : 22.6675634,
+               "lng" : 59.3894042
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6689508802915,
+                  "lng" : 59.3907780802915
+               },
+               "southwest" : {
+                  "lat" : 22.6662529197085,
+                  "lng" : 59.3880801197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "RNIE 1",
+               "short_name" : "RNIE 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cotonou",
+               "short_name" : "Cotonou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cotonou",
+               "short_name" : "Cotonou",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Littoral",
+               "short_name" : "Littoral",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Benin",
+               "short_name" : "BJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Péage, RNIE 1, Cotonou, Benin",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3709389,
+               "lng" : 2.5350738
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.372287880291502,
+                  "lng" : 2.536422780291502
+               },
+               "southwest" : {
+                  "lat" : 6.369589919708497,
+                  "lng" : 2.533724819708498
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Molières-Glandaz",
+               "short_name" : "Molières-Glandaz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drôme",
+               "short_name" : "26",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26150",
+               "short_name" : "26150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Péage, 26150 Molières-Glandaz, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7292938,
+                  "lng" : 5.397844
+               },
+               "southwest" : {
+                  "lat" : 44.72464720000001,
+                  "lng" : 5.3920637
+               }
+            },
+            "location" : {
+               "lat" : 44.7269271,
+               "lng" : 5.3949538
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7292938,
+                  "lng" : 5.397844
+               },
+               "southwest" : {
+                  "lat" : 44.72464720000001,
+                  "lng" : 5.3920637
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mazères",
+               "short_name" : "Mazères",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33210",
+               "short_name" : "33210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Péage, 33210 Mazères, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4954082,
+                  "lng" : -0.2358481
+               },
+               "southwest" : {
+                  "lat" : 44.4944351,
+                  "lng" : -0.237582
+               }
+            },
+            "location" : {
+               "lat" : 44.4948866,
+               "lng" : -0.2370238
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4962706302915,
+                  "lng" : -0.2353660697084979
+               },
+               "southwest" : {
+                  "lat" : 44.4935726697085,
+                  "lng" : -0.238064030291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Orgnac-sur-Vézère",
+               "short_name" : "Orgnac-sur-Vézère",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Corrèze",
+               "short_name" : "19",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limousin",
+               "short_name" : "Limousin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19410",
+               "short_name" : "19410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Péage, 19410 Orgnac-sur-Vézère, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3338988,
+                  "lng" : 1.459123
+               },
+               "southwest" : {
+                  "lat" : 45.3232737,
+                  "lng" : 1.4524931
+               }
+            },
+            "location" : {
+               "lat" : 45.3285314,
+               "lng" : 1.4558662
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3338988,
+                  "lng" : 1.459123
+               },
+               "southwest" : {
+                  "lat" : 45.3232737,
+                  "lng" : 1.4524931
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montcabrier",
+               "short_name" : "Montcabrier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lot",
+               "short_name" : "46",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46700",
+               "short_name" : "46700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Péage, 46700 Montcabrier, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5503008,
+                  "lng" : 1.1190465
+               },
+               "southwest" : {
+                  "lat" : 44.549766,
+                  "lng" : 1.1175932
+               }
+            },
+            "location" : {
+               "lat" : 44.5501424,
+               "lng" : 1.1181777
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.55138238029149,
+                  "lng" : 1.119668830291502
+               },
+               "southwest" : {
+                  "lat" : 44.5486844197085,
+                  "lng" : 1.116970869708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peage",
+               "short_name" : "Peage",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Woluwé-Saint-Lambert",
+               "short_name" : "Woluwe-St.-Lambert",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bruxelles",
+               "short_name" : "Bruxelles",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1140",
+               "short_name" : "1140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peage, 1140 Woluwé-Saint-Lambert, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.862457,
+               "lng" : 4.426194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8638059802915,
+                  "lng" : 4.427542980291502
+               },
+               "southwest" : {
+                  "lat" : 50.8611080197085,
+                  "lng" : 4.424845019708497
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stație de taxare",
+               "short_name" : "Stație de taxare",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "A2",
+               "short_name" : "A2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fetești",
+               "short_name" : "Fetești",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipiul Fetești",
+               "short_name" : "Municipiul Fetești",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Județul Ialomița",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stație de taxare, A2, Fetești, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3875675,
+                  "lng" : 27.8448755
+               },
+               "southwest" : {
+                  "lat" : 44.387285,
+                  "lng" : 27.844268
+               }
+            },
+            "location" : {
+               "lat" : 44.3874262,
+               "lng" : 27.8445718
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.38877523029151,
+                  "lng" : 27.84592073029151
+               },
+               "southwest" : {
+                  "lat" : 44.38607726970851,
+                  "lng" : 27.8432227697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Trans-African Highway 1",
+               "short_name" : "Trans-African Hwy 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalaa Sghira",
+               "short_name" : "Kalaa Sghira",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gouvernorat de Sousse",
+               "short_name" : "Gouvernorat de Sousse",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Péage, Trans-African Highway 1, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8163646,
+                  "lng" : 10.5462903
+               },
+               "southwest" : {
+                  "lat" : 35.8127909,
+                  "lng" : 10.5450778
+               }
+            },
+            "location" : {
+               "lat" : 35.8145778,
+               "lng" : 10.545684
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8163646,
+                  "lng" : 10.5470330302915
+               },
+               "southwest" : {
+                  "lat" : 35.8127909,
+                  "lng" : 10.5443350697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Péage",
+               "short_name" : "Péage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ain Chock Hay Hassani",
+               "short_name" : "Ain Chock Hay Hassani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Grand Casablanca",
+               "short_name" : "Grand Casablanca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Péage, A5, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4923882,
+                  "lng" : -7.6893528
+               },
+               "southwest" : {
+                  "lat" : 33.4920037,
+                  "lng" : -7.6899748
+               }
+            },
+            "location" : {
+               "lat" : 33.4921959,
+               "lng" : -7.689663800000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4935449302915,
+                  "lng" : -7.688314819708499
+               },
+               "southwest" : {
+                  "lat" : 33.4908469697085,
+                  "lng" : -7.691012780291503
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

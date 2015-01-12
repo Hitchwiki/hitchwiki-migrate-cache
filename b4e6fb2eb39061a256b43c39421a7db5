@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kupang City",
+               "short_name" : "Kupang City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kupang",
+               "short_name" : "Kupang",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "East Nusa Tenggara",
+               "short_name" : "East Nusa Tenggara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kupang City, Kupang, East Nusa Tenggara, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.12957,
+                  "lng" : 123.6836101
+               },
+               "southwest" : {
+                  "lat" : -10.2932599,
+                  "lng" : 123.5266529
+               }
+            },
+            "location" : {
+               "lat" : -10.1787573,
+               "lng" : 123.5976057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.12957,
+                  "lng" : 123.6836101
+               },
+               "southwest" : {
+                  "lat" : -10.2932599,
+                  "lng" : 123.5266529
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banff",
+               "short_name" : "Banff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 15",
+               "short_name" : "Division No. 15",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banff, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.193346,
+                  "lng" : -115.5446519
+               },
+               "southwest" : {
+                  "lat" : 51.160522,
+                  "lng" : -115.5921271
+               }
+            },
+            "location" : {
+               "lat" : 51.1783629,
+               "lng" : -115.5707694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.193346,
+                  "lng" : -115.5446519
+               },
+               "southwest" : {
+                  "lat" : 51.160522,
+                  "lng" : -115.5921271
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

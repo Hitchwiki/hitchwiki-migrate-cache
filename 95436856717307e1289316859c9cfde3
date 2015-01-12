@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erzurum",
+               "short_name" : "Erzurum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erzurum Province",
+               "short_name" : "Erzurum Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erzurum/Erzurum Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.955924,
+                  "lng" : 41.3105771
+               },
+               "southwest" : {
+                  "lat" : 39.867876,
+                  "lng" : 41.2164562
+               }
+            },
+            "location" : {
+               "lat" : 39.908611,
+               "lng" : 41.276944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.955924,
+                  "lng" : 41.3105771
+               },
+               "southwest" : {
+                  "lat" : 39.867876,
+                  "lng" : 41.2164562
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

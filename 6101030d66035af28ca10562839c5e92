@@ -1,0 +1,57 @@
+{
+  "totalResultsCount": 1,
+  "geonames": [{
+    "alternateNames": [
+      {
+        "name": "Uppsala",
+        "lang": "en"
+      },
+      {
+        "name": "Uppsala",
+        "lang": "fr"
+      },
+      {
+        "name": "http://en.wikipedia.org/wiki/Uppsala_County",
+        "lang": "link"
+      },
+      {
+        "name": "Uppsala län",
+        "lang": "sv"
+      }
+    ],
+    "countryName": "Sweden",
+    "adminCode1": "21",
+    "score": 61.53125762939453,
+    "lng": "17.75",
+    "adminName2": "",
+    "fcodeName": "first-order administrative division",
+    "adminName3": "",
+    "timezone": {
+      "dstOffset": 2,
+      "gmtOffset": 1,
+      "timeZoneId": "Europe/Stockholm"
+    },
+    "adminName4": "",
+    "adminName5": "",
+    "bbox": {
+      "south": 59.46916198730469,
+      "east": 18.607776641845703,
+      "north": 60.64332580566406,
+      "west": 16.721942901611328
+    },
+    "name": "Uppsala",
+    "fcode": "ADM1",
+    "geonameId": 2666218,
+    "asciiName": "Uppsala",
+    "lat": "60",
+    "population": 341977,
+    "adminName1": "Uppsala",
+    "countryId": "2661886",
+    "adminId1": "2666218",
+    "fclName": "country, state, region,...",
+    "countryCode": "SE",
+    "toponymName": "Uppsala",
+    "fcl": "A",
+    "continentCode": "EU"
+  }]
+}

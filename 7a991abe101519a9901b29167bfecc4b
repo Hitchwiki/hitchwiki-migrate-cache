@@ -1,0 +1,378 @@
+{
+  "totalResultsCount": 10,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 26.697252844877514,
+        "south": 40.390167390025326,
+        "north": 40.43038820997468,
+        "west": 26.64441375512249
+      },
+      "asciiName": "Gelibolu",
+      "countryId": "298795",
+      "fcl": "P",
+      "score": 36.37418746948242,
+      "countryCode": "TR",
+      "adminId1": "749778",
+      "lat": "40.41028",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "17",
+      "lng": "26.67083",
+      "geonameId": 746983,
+      "toponymName": "Gelibolu",
+      "population": 25178,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Gelibolu",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Gelibolu",
+          "lang": "link"
+        },
+        {
+          "name": "Гелиболу",
+          "lang": "ru"
+        },
+        {
+          "name": "Gelibolu",
+          "lang": "tr"
+        },
+        {
+          "name": "GEL",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Gelibolu",
+      "fclName": "city, village,...",
+      "countryName": "Turkey",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Çanakkale"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "asciiName": "Gelibolu Ilcesi",
+      "countryId": "298795",
+      "fcl": "A",
+      "score": 31.177875518798828,
+      "adminId2": "8632582",
+      "countryCode": "TR",
+      "adminId1": "749778",
+      "lat": "40.45567",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "8632582",
+      "adminCode1": "17",
+      "lng": "26.64442",
+      "geonameId": 8632582,
+      "toponymName": "Gelibolu İlçesi",
+      "population": 43345,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Gelibolu İlçesi",
+        "lang": "tr"
+      }],
+      "adminName2": "Gelibolu İlçesi",
+      "name": "Gelibolu İlçesi",
+      "fclName": "country, state, region,...",
+      "countryName": "Turkey",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Çanakkale"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 38.745678027853884,
+        "south": 37.361651351248575,
+        "north": 37.37963864875143,
+        "west": 38.72304197214612
+      },
+      "asciiName": "Gelibolu",
+      "countryId": "298795",
+      "fcl": "P",
+      "score": 24.648277282714844,
+      "countryCode": "TR",
+      "adminId1": "298332",
+      "lat": "37.37065",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "63",
+      "lng": "38.73436",
+      "geonameId": 317975,
+      "toponymName": "Gelibolu",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Gelibolu",
+      "fclName": "city, village,...",
+      "countryName": "Turkey",
+      "fcodeName": "populated place",
+      "adminName1": "Şanlıurfa"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Nicosia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 33.36273596960156,
+        "south": 35.196402540499435,
+        "north": 35.20359745950057,
+        "west": 33.35393063039844
+      },
+      "asciiName": "Trakhonas",
+      "countryId": "146669",
+      "fcl": "P",
+      "score": 15.588937759399414,
+      "cc2": "CY",
+      "countryCode": "CY",
+      "adminId1": "146267",
+      "lat": "35.2",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "04",
+      "lng": "33.35833",
+      "geonameId": 146034,
+      "toponymName": "Trakhonas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Trachonas",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Trakhonas",
+      "fclName": "city, village,...",
+      "countryName": "Cyprus",
+      "fcodeName": "section of populated place",
+      "adminName1": "Lefkosia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "asciiName": "Gallipoli Peninsula",
+      "countryId": "298795",
+      "fcl": "T",
+      "score": 12.9907808303833,
+      "cc2": "TR",
+      "countryCode": "TR",
+      "adminId1": "749778",
+      "lat": "40.33333",
+      "fcode": "PEN",
+      "continentCode": "AS",
+      "adminCode1": "17",
+      "lng": "26.5",
+      "geonameId": 746980,
+      "toponymName": "Gallipoli Peninsula",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Gallipoli Peninsula",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Thracian_Chersonese",
+          "lang": "link"
+        },
+        {
+          "name": "Gelibolu Yarımadası",
+          "lang": "tr"
+        }
+      ],
+      "adminName2": "",
+      "name": "Gallipoli Peninsula",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Turkey",
+      "fcodeName": "peninsula",
+      "adminName1": "Çanakkale"
+    },
+    {
+      "adminCode1": "17",
+      "lng": "26.73333",
+      "geonameId": 746982,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "Gelibolu Strait",
+      "asciiName": "Gelibolu Strait",
+      "countryId": "298795",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 12.151763916015625,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "Gelibolu Strait",
+      "fclName": "stream, lake, ...",
+      "countryName": "Turkey",
+      "fcodeName": "strait",
+      "adminId1": "749778",
+      "adminName1": "Çanakkale",
+      "lat": "40.41667",
+      "fcode": "STRT",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "asciiName": "Gelibolu Limani",
+      "countryId": "298795",
+      "fcl": "H",
+      "score": 11.250347137451172,
+      "cc2": "TR",
+      "countryCode": "TR",
+      "adminId1": "749778",
+      "lat": "40.4",
+      "fcode": "BAY",
+      "continentCode": "AS",
+      "adminCode1": "17",
+      "lng": "26.65",
+      "geonameId": 746981,
+      "toponymName": "Gelibolu Limanı",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Gelibolu Limanı",
+      "fclName": "stream, lake, ...",
+      "countryName": "Turkey",
+      "fcodeName": "bay",
+      "adminName1": "Çanakkale"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "28.24076",
+      "geonameId": 314690,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "Gelibolu Adası",
+      "asciiName": "Gelibolu Adasi",
+      "countryId": "298795",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 9.185869216918945,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "Gelibolu Adası",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Turkey",
+      "fcodeName": "island",
+      "adminId1": "304183",
+      "adminName1": "Muğla",
+      "lat": "37.00227",
+      "fcode": "ISL",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 28.291761912288464,
+        "south": 36.97960535124857,
+        "north": 36.99759264875143,
+        "west": 28.269240087711538
+      },
+      "asciiName": "Port Gallipoli",
+      "countryId": "298795",
+      "fcl": "P",
+      "score": 7.348695755004883,
+      "countryCode": "TR",
+      "adminId1": "304183",
+      "lat": "36.9886",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "48",
+      "lng": "28.2805",
+      "geonameId": 319599,
+      "toponymName": "Port Gallipoli",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Port Gallipoli",
+      "fclName": "city, village,...",
+      "countryName": "Turkey",
+      "fcodeName": "populated place",
+      "adminName1": "Muğla"
+    },
+    {
+      "adminCode1": "48",
+      "lng": "28.25",
+      "geonameId": 314689,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "Port Gallipoli",
+      "asciiName": "Port Gallipoli",
+      "countryId": "298795",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 4.546773433685303,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "Port Gallipoli",
+      "fclName": "stream, lake, ...",
+      "countryName": "Turkey",
+      "fcodeName": "bay",
+      "adminId1": "304183",
+      "adminName1": "Muğla",
+      "lat": "36.98333",
+      "fcode": "BAY",
+      "continentCode": "AS"
+    }
+  ]
+}

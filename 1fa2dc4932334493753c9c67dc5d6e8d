@@ -1,0 +1,504 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-1, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2726345,
+                  "lng" : -2.0164782
+               },
+               "southwest" : {
+                  "lat" : 40.4808748,
+                  "lng" : -3.7783159
+               }
+            },
+            "location" : {
+               "lat" : 41.7608663,
+               "lng" : -3.6888554
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2726345,
+                  "lng" : -2.0164782
+               },
+               "southwest" : {
+                  "lat" : 40.4808748,
+                  "lng" : -3.7783159
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Armiñón",
+               "short_name" : "Armiñón",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Armiñon",
+               "short_name" : "Armiñon",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Araba",
+               "short_name" : "Araba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Euskadi",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01220",
+               "short_name" : "01220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-1, 01220 Armiñón, Araba, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.72354869999999,
+                  "lng" : -2.8662073
+               },
+               "southwest" : {
+                  "lat" : 42.70359879999999,
+                  "lng" : -2.9161062
+               }
+            },
+            "location" : {
+               "lat" : 42.70799160000001,
+               "lng" : -2.8910408
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.72354869999999,
+                  "lng" : -2.8662073
+               },
+               "southwest" : {
+                  "lat" : 42.70359879999999,
+                  "lng" : -2.9161062
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-1, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8745454,
+                  "lng" : -2.1510915
+               },
+               "southwest" : {
+                  "lat" : 38.8312177,
+                  "lng" : -2.1855841
+               }
+            },
+            "location" : {
+               "lat" : 38.8713403,
+               "lng" : -2.1688071
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8745454,
+                  "lng" : -2.1510915
+               },
+               "southwest" : {
+                  "lat" : 38.8312177,
+                  "lng" : -2.1855841
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mequinenza",
+               "short_name" : "Mequinenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zaragoza",
+               "short_name" : "Z",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragón",
+               "short_name" : "Aragón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50170",
+               "short_name" : "50170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-1, 50170 Mequinenza, Zaragoza, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.37901919999999,
+                  "lng" : 0.3054939
+               },
+               "southwest" : {
+                  "lat" : 41.3785088,
+                  "lng" : 0.3038996
+               }
+            },
+            "location" : {
+               "lat" : 41.378766,
+               "lng" : 0.3046935
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.38011298029149,
+                  "lng" : 0.3060457302915021
+               },
+               "southwest" : {
+                  "lat" : 41.37741501970849,
+                  "lng" : 0.303347769708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45007",
+               "short_name" : "45007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-1, 45007 Toledo, Toledo, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8834757,
+                  "lng" : -3.920802
+               },
+               "southwest" : {
+                  "lat" : 39.8781201,
+                  "lng" : -3.9289331
+               }
+            },
+            "location" : {
+               "lat" : 39.8807927,
+               "lng" : -3.9245854
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8834757,
+                  "lng" : -3.920802
+               },
+               "southwest" : {
+                  "lat" : 39.8781201,
+                  "lng" : -3.9289331
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Carolina",
+               "short_name" : "La Carolina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Carolina",
+               "short_name" : "La Carolina",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Jaén",
+               "short_name" : "Jaén",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23200",
+               "short_name" : "23200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-1, 23200 La Carolina, Jaén, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2832849,
+                  "lng" : -3.6122573
+               },
+               "southwest" : {
+                  "lat" : 38.2813791,
+                  "lng" : -3.6150177
+               }
+            },
+            "location" : {
+               "lat" : 38.282493,
+               "lng" : -3.6130425
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.28368098029149,
+                  "lng" : -3.6122573
+               },
+               "southwest" : {
+                  "lat" : 38.28098301970849,
+                  "lng" : -3.6150177
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ponferrada",
+               "short_name" : "Ponferrada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ponferrada",
+               "short_name" : "Ponferrada",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla y León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24400",
+               "short_name" : "24400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-1, 24400 Ponferrada, León, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5551423,
+                  "lng" : -6.610373800000001
+               },
+               "southwest" : {
+                  "lat" : 42.5544214,
+                  "lng" : -6.6120214
+               }
+            },
+            "location" : {
+               "lat" : 42.5550729,
+               "lng" : -6.6109896
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5561308302915,
+                  "lng" : -6.609848619708498
+               },
+               "southwest" : {
+                  "lat" : 42.5534328697085,
+                  "lng" : -6.612546580291503
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-1",
+               "short_name" : "A-1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Coria del Río",
+               "short_name" : "Coria del Río",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coria del Río",
+               "short_name" : "Coria del Río",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Sevilla",
+               "short_name" : "Sevilla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41100",
+               "short_name" : "41100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-1, 41100 Coria del Río, Sevilla, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2765158,
+                  "lng" : -6.057816100000001
+               },
+               "southwest" : {
+                  "lat" : 37.27588679999999,
+                  "lng" : -6.058402999999999
+               }
+            },
+            "location" : {
+               "lat" : 37.2765158,
+               "lng" : -6.057816100000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.27755028029149,
+                  "lng" : -6.056760569708498
+               },
+               "southwest" : {
+                  "lat" : 37.27485231970849,
+                  "lng" : -6.059458530291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

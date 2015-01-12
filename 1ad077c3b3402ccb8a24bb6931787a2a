@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mérida",
+               "short_name" : "Mérida",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Tierra de Mérida - Vegas Bajas",
+               "short_name" : "Tierra de Mérida - Vegas Bajas",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Badajoz",
+               "short_name" : "Badajoz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06800",
+               "short_name" : "06800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "06800 Mérida, Badajoz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9404815,
+                  "lng" : -6.3132066
+               },
+               "southwest" : {
+                  "lat" : 38.8925132,
+                  "lng" : -6.3741279
+               }
+            },
+            "location" : {
+               "lat" : 38.9142955,
+               "lng" : -6.3491975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9404815,
+                  "lng" : -6.3132066
+               },
+               "southwest" : {
+                  "lat" : 38.8925132,
+                  "lng" : -6.3741279
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

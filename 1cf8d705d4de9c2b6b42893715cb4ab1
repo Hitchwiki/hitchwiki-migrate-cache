@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delaware, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8394839,
+                  "lng" : -75.04869339999999
+               },
+               "southwest" : {
+                  "lat" : 38.451018,
+                  "lng" : -75.78914790000002
+               }
+            },
+            "location" : {
+               "lat" : 38.9108325,
+               "lng" : -75.52766989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8394839,
+                  "lng" : -75.04869339999999
+               },
+               "southwest" : {
+                  "lat" : 38.451018,
+                  "lng" : -75.78914790000002
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delaware",
+               "short_name" : "Delaware",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delaware County",
+               "short_name" : "Delaware County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delaware, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3382011,
+                  "lng" : -83.0126009
+               },
+               "southwest" : {
+                  "lat" : 40.227401,
+                  "lng" : -83.12860999999999
+               }
+            },
+            "location" : {
+               "lat" : 40.2986724,
+               "lng" : -83.067965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3382011,
+                  "lng" : -83.0126009
+               },
+               "southwest" : {
+                  "lat" : 40.227401,
+                  "lng" : -83.12860999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

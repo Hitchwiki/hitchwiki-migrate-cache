@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fårö",
+               "short_name" : "Fårö",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fårö, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.99947419999999,
+                  "lng" : 19.3821333
+               },
+               "southwest" : {
+                  "lat" : 57.8404649,
+                  "lng" : 19.035132
+               }
+            },
+            "location" : {
+               "lat" : 57.9441874,
+               "lng" : 19.1424789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.99947419999999,
+                  "lng" : 19.3821333
+               },
+               "southwest" : {
+                  "lat" : 57.8404649,
+                  "lng" : 19.035132
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

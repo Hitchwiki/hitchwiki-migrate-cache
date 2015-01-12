@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sabaudia",
+               "short_name" : "Sabaudia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sabaudia",
+               "short_name" : "Sabaudia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Latina",
+               "short_name" : "LT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04016",
+               "short_name" : "04016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "04016 Sabaudia LT, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3190556,
+                  "lng" : 13.0492246
+               },
+               "southwest" : {
+                  "lat" : 41.2904219,
+                  "lng" : 13.0070554
+               }
+            },
+            "location" : {
+               "lat" : 41.3015823,
+               "lng" : 13.0275758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3190556,
+                  "lng" : 13.0492246
+               },
+               "southwest" : {
+                  "lat" : 41.2904219,
+                  "lng" : 13.0070554
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

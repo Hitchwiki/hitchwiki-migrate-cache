@@ -1,0 +1,87 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "elevation": 281,
+      "lng": "35.57191",
+      "geonameId": 6299660,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Jerusalem",
+        "dstOffset": 3
+      },
+      "toponymName": "Rosh Pina Airport",
+      "asciiName": "Rosh Pina Airport",
+      "countryId": "294640",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 46.179412841796875,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Rosh Pina",
+          "lang": "en"
+        },
+        {
+          "name": "RPN",
+          "lang": "iata"
+        },
+        {
+          "name": "LLIB",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Rosh_Pina_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "RPN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "IL",
+      "name": "Rosh Pina",
+      "fclName": "spot, building, farm",
+      "countryName": "Israel",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "32.98105",
+      "fcode": "AIRP",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Windhoek",
+        "dstOffset": 1
+      },
+      "asciiName": "Rosh Pinah",
+      "countryId": "3355338",
+      "fcl": "S",
+      "score": 11.831171989440918,
+      "cc2": "NA",
+      "countryCode": "NA",
+      "adminId1": "3371201",
+      "lat": "-27.95",
+      "fcode": "MN",
+      "continentCode": "AF",
+      "adminCode1": "31",
+      "lng": "16.76667",
+      "geonameId": 3353426,
+      "toponymName": "Rosh Pinah",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Rosh Pinah",
+      "fclName": "spot, building, farm",
+      "countryName": "Namibia",
+      "fcodeName": "mine(s)",
+      "adminName1": "Karas"
+    }
+  ]
+}

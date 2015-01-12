@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mendig",
+               "short_name" : "Mendig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mayen-Koblenz",
+               "short_name" : "Mayen-Koblenz",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mendig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3979088,
+                  "lng" : 7.329851400000001
+               },
+               "southwest" : {
+                  "lat" : 50.3570814,
+                  "lng" : 7.1929539
+               }
+            },
+            "location" : {
+               "lat" : 50.374,
+               "lng" : 7.281
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3979088,
+                  "lng" : 7.329851400000001
+               },
+               "southwest" : {
+                  "lat" : 50.3570814,
+                  "lng" : 7.1929539
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

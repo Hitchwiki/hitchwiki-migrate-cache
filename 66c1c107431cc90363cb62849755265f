@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Interlaken",
+               "short_name" : "Interlaken",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Interlaken District",
+               "short_name" : "Interlaken District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Bern",
+               "short_name" : "BE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Interlaken, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7043,
+                  "lng" : 7.8887
+               },
+               "southwest" : {
+                  "lat" : 46.6646999,
+                  "lng" : 7.826959899999999
+               }
+            },
+            "location" : {
+               "lat" : 46.6873837,
+               "lng" : 7.869550499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7043,
+                  "lng" : 7.8887
+               },
+               "southwest" : {
+                  "lat" : 46.6646999,
+                  "lng" : 7.826959899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

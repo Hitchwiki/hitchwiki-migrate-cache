@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agadir",
+               "short_name" : "Agadir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agadir-Ida-Ou Tanane Province",
+               "short_name" : "Agadir-Ida-Ou Tanane Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Souss-Massa-Draa",
+               "short_name" : "Souss-Massa-Draa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agadir, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.47136769999999,
+                  "lng" : -9.495406300000001
+               },
+               "southwest" : {
+                  "lat" : 30.3788824,
+                  "lng" : -9.668232399999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4277547,
+               "lng" : -9.598107199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.47136769999999,
+                  "lng" : -9.495406300000001
+               },
+               "southwest" : {
+                  "lat" : 30.3788824,
+                  "lng" : -9.668232399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogota",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogota",
+               "short_name" : "Bogotá, D.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogotá, Bogota, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.8371,
+                  "lng" : -73.99630999999999
+               },
+               "southwest" : {
+                  "lat" : 3.72977,
+                  "lng" : -74.45177
+               }
+            },
+            "location" : {
+               "lat" : 4.598056000000001,
+               "lng" : -74.075833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.8371,
+                  "lng" : -73.99630999999999
+               },
+               "southwest" : {
+                  "lat" : 3.72977,
+                  "lng" : -74.45177
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

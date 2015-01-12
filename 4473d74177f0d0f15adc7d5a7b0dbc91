@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M58",
+               "short_name" : "M58",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bickerstaffe",
+               "short_name" : "Bickerstaffe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ormskirk",
+               "short_name" : "Ormskirk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L39",
+               "short_name" : "L39",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M58, Bickerstaffe, Ormskirk L39, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5433888,
+                  "lng" : -2.6957974
+               },
+               "southwest" : {
+                  "lat" : 53.4951946,
+                  "lng" : -2.9508675
+               }
+            },
+            "location" : {
+               "lat" : 53.5360417,
+               "lng" : -2.8299264
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5433888,
+                  "lng" : -2.6957974
+               },
+               "southwest" : {
+                  "lat" : 53.4951946,
+                  "lng" : -2.9508675
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

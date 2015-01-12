@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A29",
+               "short_name" : "A29",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A29, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5785251,
+                  "lng" : 8.2764202
+               },
+               "southwest" : {
+                  "lat" : 52.8558613,
+                  "lng" : 7.995640099999998
+               }
+            },
+            "location" : {
+               "lat" : 53.2344629,
+               "lng" : 8.1812494
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5785251,
+                  "lng" : 8.2764202
+               },
+               "southwest" : {
+                  "lat" : 52.8558613,
+                  "lng" : 7.995640099999998
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A29",
+               "short_name" : "A29",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Meitingen",
+               "short_name" : "Meitingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86405",
+               "short_name" : "86405",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A29, 86405 Meitingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5590662,
+                  "lng" : 10.8623257
+               },
+               "southwest" : {
+                  "lat" : 48.5051205,
+                  "lng" : 10.8530829
+               }
+            },
+            "location" : {
+               "lat" : 48.5322897,
+               "lng" : 10.8586774
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5590662,
+                  "lng" : 10.8623257
+               },
+               "southwest" : {
+                  "lat" : 48.5051205,
+                  "lng" : 10.8530829
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

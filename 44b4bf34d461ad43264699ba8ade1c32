@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A555",
+               "short_name" : "A555",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A555, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8920898,
+                  "lng" : 7.0776831
+               },
+               "southwest" : {
+                  "lat" : 50.7431837,
+                  "lng" : 6.963958700000001
+               }
+            },
+            "location" : {
+               "lat" : 50.80481839999999,
+               "lng" : 6.996958599999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8920898,
+                  "lng" : 7.0776831
+               },
+               "southwest" : {
+                  "lat" : 50.7431837,
+                  "lng" : 6.963958700000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

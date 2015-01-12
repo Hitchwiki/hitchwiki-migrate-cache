@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Söderhamn",
+               "short_name" : "Söderhamn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Söderhamn",
+               "short_name" : "Söderhamn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gavleborg County",
+               "short_name" : "Gavleborg County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Söderhamn, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.3323049,
+                  "lng" : 17.1318834
+               },
+               "southwest" : {
+                  "lat" : 61.2860239,
+                  "lng" : 17.0131501
+               }
+            },
+            "location" : {
+               "lat" : 61.3055762,
+               "lng" : 17.0628102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.3323049,
+                  "lng" : 17.1318834
+               },
+               "southwest" : {
+                  "lat" : 61.2860239,
+                  "lng" : 17.0131501
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

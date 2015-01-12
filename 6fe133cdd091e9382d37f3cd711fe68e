@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daraa",
+               "short_name" : "Daraa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Daraa District",
+               "short_name" : "Daraa District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Daraa Governorate",
+               "short_name" : "Daraa Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Syria",
+               "short_name" : "SY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Daraa, Syria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6466746,
+                  "lng" : 36.1277676
+               },
+               "southwest" : {
+                  "lat" : 32.5963599,
+                  "lng" : 36.0721494
+               }
+            },
+            "location" : {
+               "lat" : 32.625278,
+               "lng" : 36.106111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6466746,
+                  "lng" : 36.1277676
+               },
+               "southwest" : {
+                  "lat" : 32.5963599,
+                  "lng" : 36.0721494
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

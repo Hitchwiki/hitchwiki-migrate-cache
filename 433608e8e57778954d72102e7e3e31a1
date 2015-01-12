@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vanadzor",
+               "short_name" : "Vanadzor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lori",
+               "short_name" : "Lori",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vanadzor, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8518648,
+                  "lng" : 44.54604150000001
+               },
+               "southwest" : {
+                  "lat" : 40.7800215,
+                  "lng" : 44.40382
+               }
+            },
+            "location" : {
+               "lat" : 40.807399,
+               "lng" : 44.4970268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8518648,
+                  "lng" : 44.54604150000001
+               },
+               "southwest" : {
+                  "lat" : 40.7800215,
+                  "lng" : 44.40382
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

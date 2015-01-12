@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M73",
+               "short_name" : "M73",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G69",
+               "short_name" : "G69",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M73, Glasgow G69, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9255864,
+                  "lng" : -4.0462042
+               },
+               "southwest" : {
+                  "lat" : 55.8358937,
+                  "lng" : -4.0987696
+               }
+            },
+            "location" : {
+               "lat" : 55.8795636,
+               "lng" : -4.0810982
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9255864,
+                  "lng" : -4.0462042
+               },
+               "southwest" : {
+                  "lat" : 55.8358937,
+                  "lng" : -4.0987696
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

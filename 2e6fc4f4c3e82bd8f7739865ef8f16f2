@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Otavalo",
+               "short_name" : "Otavalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imbabura",
+               "short_name" : "Imbabura",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Otavalo, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.2499382,
+                  "lng" : -78.2465172
+               },
+               "southwest" : {
+                  "lat" : 0.2167219,
+                  "lng" : -78.27381129999999
+               }
+            },
+            "location" : {
+               "lat" : 0.2343005,
+               "lng" : -78.2610672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.2499382,
+                  "lng" : -78.2465172
+               },
+               "southwest" : {
+                  "lat" : 0.2167219,
+                  "lng" : -78.27381129999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

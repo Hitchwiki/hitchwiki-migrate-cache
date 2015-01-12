@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Picardy",
+               "short_name" : "Picardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Picardy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3663219,
+                  "lng" : 4.255678899999999
+               },
+               "southwest" : {
+                  "lat" : 48.837212,
+                  "lng" : 1.3796628
+               }
+            },
+            "location" : {
+               "lat" : 49.66361269999999,
+               "lng" : 2.5280732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3663219,
+                  "lng" : 4.255678899999999
+               },
+               "southwest" : {
+                  "lat" : 48.837212,
+                  "lng" : 1.3796628
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

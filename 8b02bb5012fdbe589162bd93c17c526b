@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A64",
+               "short_name" : "A64",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A64, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.56967909999999,
+                  "lng" : 1.4196942
+               },
+               "southwest" : {
+                  "lat" : 43.09076839999999,
+                  "lng" : -1.4459196
+               }
+            },
+            "location" : {
+               "lat" : 43.2337755,
+               "lng" : -0.0265655
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56967909999999,
+                  "lng" : 1.4196942
+               },
+               "southwest" : {
+                  "lat" : 43.09076839999999,
+                  "lng" : -1.4459196
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

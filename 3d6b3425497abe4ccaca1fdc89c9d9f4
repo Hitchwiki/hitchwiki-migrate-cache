@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tauranga",
+               "short_name" : "Tauranga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tauranga City",
+               "short_name" : "Tauranga City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bay Of Plenty",
+               "short_name" : "Bay Of Plenty",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tauranga, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.6020556,
+                  "lng" : 176.561571
+               },
+               "southwest" : {
+                  "lat" : -37.7847869,
+                  "lng" : 176.0722855
+               }
+            },
+            "location" : {
+               "lat" : -37.68779749999999,
+               "lng" : 176.1651295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.6231479,
+                  "lng" : 176.2449763
+               },
+               "southwest" : {
+                  "lat" : -37.7847869,
+                  "lng" : 176.0722855
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tauranga",
+               "short_name" : "Tauranga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tauranga",
+               "short_name" : "Tauranga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tauranga City",
+               "short_name" : "Tauranga City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bay Of Plenty",
+               "short_name" : "Bay Of Plenty",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tauranga, Tauranga, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.658197,
+                  "lng" : 176.175502
+               },
+               "southwest" : {
+                  "lat" : -37.7021614,
+                  "lng" : 176.1436987
+               }
+            },
+            "location" : {
+               "lat" : -37.68779749999999,
+               "lng" : 176.1651295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.658197,
+                  "lng" : 176.175502
+               },
+               "southwest" : {
+                  "lat" : -37.7021614,
+                  "lng" : 176.1436987
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

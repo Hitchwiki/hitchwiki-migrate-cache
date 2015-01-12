@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bystrzyca Klodzka",
+               "short_name" : "Bystrzyca Klodzka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Bystrzyca Kłodzka",
+               "short_name" : "Gmina Bystrzyca Kłodzka",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kłodzko County",
+               "short_name" : "Kłodzko County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bystrzyca Klodzka, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3154311,
+                  "lng" : 16.6807971
+               },
+               "southwest" : {
+                  "lat" : 50.27506959999999,
+                  "lng" : 16.6203543
+               }
+            },
+            "location" : {
+               "lat" : 50.2990907,
+               "lng" : 16.6417942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3154311,
+                  "lng" : 16.6807971
+               },
+               "southwest" : {
+                  "lat" : 50.27506959999999,
+                  "lng" : 16.6203543
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

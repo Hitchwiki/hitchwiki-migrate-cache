@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kutaisi",
+               "short_name" : "Kutaisi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imereti",
+               "short_name" : "Imereti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kutaisi, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2903325,
+                  "lng" : 42.7572442
+               },
+               "southwest" : {
+                  "lat" : 42.1905127,
+                  "lng" : 42.599144
+               }
+            },
+            "location" : {
+               "lat" : 42.25,
+               "lng" : 42.7
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2903325,
+                  "lng" : 42.7572442
+               },
+               "southwest" : {
+                  "lat" : 42.1905127,
+                  "lng" : 42.599144
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

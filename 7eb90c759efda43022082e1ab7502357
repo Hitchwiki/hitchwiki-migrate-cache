@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Elena de Uairen",
+               "short_name" : "Santa Elena de Uairen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gran Sabana",
+               "short_name" : "Gran Sabana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bolívar",
+               "short_name" : "Bolívar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Elena de Uairen, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.6336602,
+                  "lng" : -61.0788345
+               },
+               "southwest" : {
+                  "lat" : 4.569067,
+                  "lng" : -61.1329079
+               }
+            },
+            "location" : {
+               "lat" : 4.602119,
+               "lng" : -61.111194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.6336602,
+                  "lng" : -61.0788345
+               },
+               "southwest" : {
+                  "lat" : 4.569067,
+                  "lng" : -61.1329079
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

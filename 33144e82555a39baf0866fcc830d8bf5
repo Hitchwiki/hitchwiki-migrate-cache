@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tel Aviv-Yafo",
+               "short_name" : "ת\"א",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tel Aviv-Yafo, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1465074,
+                  "lng" : 34.8519761
+               },
+               "southwest" : {
+                  "lat" : 32.0292531,
+                  "lng" : 34.7425159
+               }
+            },
+            "location" : {
+               "lat" : 32.0852999,
+               "lng" : 34.78176759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1465074,
+                  "lng" : 34.8519761
+               },
+               "southwest" : {
+                  "lat" : 32.0292531,
+                  "lng" : 34.7425159
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

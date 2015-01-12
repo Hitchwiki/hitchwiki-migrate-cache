@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R4",
+               "short_name" : "R4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Bohemian Region",
+               "short_name" : "Central Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R4, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9100452,
+                  "lng" : 14.3358187
+               },
+               "southwest" : {
+                  "lat" : 49.7046832,
+                  "lng" : 14.0877236
+               }
+            },
+            "location" : {
+               "lat" : 49.8114139,
+               "lng" : 14.2117611
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9100452,
+                  "lng" : 14.3358187
+               },
+               "southwest" : {
+                  "lat" : 49.7046832,
+                  "lng" : 14.0877236
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R4",
+               "short_name" : "R4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Předotice",
+               "short_name" : "Předotice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Písek District",
+               "short_name" : "Písek District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Bohemian Region",
+               "short_name" : "South Bohemian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R4, Předotice, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.413134,
+                  "lng" : 14.0575798
+               },
+               "southwest" : {
+                  "lat" : 49.3458195,
+                  "lng" : 14.0375897
+               }
+            },
+            "location" : {
+               "lat" : 49.3753254,
+               "lng" : 14.0520488
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.413134,
+                  "lng" : 14.0575798
+               },
+               "southwest" : {
+                  "lat" : 49.3458195,
+                  "lng" : 14.0375897
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

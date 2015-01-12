@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5227719,
+                  "lng" : 153.9874305
+               },
+               "southwest" : {
+                  "lat" : 20.4218793,
+                  "lng" : 122.9338302
+               }
+            },
+            "location" : {
+               "lat" : 36.204824,
+               "lng" : 138.252924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5468212,
+                  "lng" : 142.0723049
+               },
+               "southwest" : {
+                  "lat" : 33.4332424,
+                  "lng" : 130.8604967
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

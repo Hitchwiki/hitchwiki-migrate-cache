@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alaska, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.3902351,
+                  "lng" : -129.9945562
+               },
+               "southwest" : {
+                  "lat" : 51.214766,
+                  "lng" : 172.4445167
+               }
+            },
+            "location" : {
+               "lat" : 64.20084129999999,
+               "lng" : -149.4936733
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.3902351,
+                  "lng" : -129.9945562
+               },
+               "southwest" : {
+                  "lat" : 51.214766,
+                  "lng" : 172.4445167
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

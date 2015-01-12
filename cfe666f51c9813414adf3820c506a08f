@@ -1,0 +1,328 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6754542,
+                  "lng" : 13.7611176
+               },
+               "southwest" : {
+                  "lat" : 52.33962959999999,
+                  "lng" : 13.0891553
+               }
+            },
+            "location" : {
+               "lat" : 52.52000659999999,
+               "lng" : 13.404954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6754542,
+                  "lng" : 13.7611176
+               },
+               "southwest" : {
+                  "lat" : 52.33962959999999,
+                  "lng" : 13.0891553
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford County",
+               "short_name" : "Hartford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berlin, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.652699,
+                  "lng" : -72.711213
+               },
+               "southwest" : {
+                  "lat" : 41.5541968,
+                  "lng" : -72.84024409999999
+               }
+            },
+            "location" : {
+               "lat" : 41.621488,
+               "lng" : -72.7456519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.652699,
+                  "lng" : -72.711213
+               },
+               "southwest" : {
+                  "lat" : 41.5541968,
+                  "lng" : -72.84024409999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "3, Berlin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21811",
+               "short_name" : "21811",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berlin, MD 21811, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.35636909999999,
+                  "lng" : -75.188018
+               },
+               "southwest" : {
+                  "lat" : 38.308406,
+                  "lng" : -75.2347939
+               }
+            },
+            "location" : {
+               "lat" : 38.3226153,
+               "lng" : -75.2176892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.35636909999999,
+                  "lng" : -75.188018
+               },
+               "southwest" : {
+                  "lat" : 38.308406,
+                  "lng" : -75.2347939
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coos County",
+               "short_name" : "Coos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berlin, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.528436,
+                  "lng" : -71.1236421
+               },
+               "southwest" : {
+                  "lat" : 44.4450569,
+                  "lng" : -71.397858
+               }
+            },
+            "location" : {
+               "lat" : 44.4686696,
+               "lng" : -71.18507679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.528436,
+                  "lng" : -71.1236421
+               },
+               "southwest" : {
+                  "lat" : 44.4450569,
+                  "lng" : -71.397858
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Camden County",
+               "short_name" : "Camden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berlin, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8091748,
+                  "lng" : -74.90795899999999
+               },
+               "southwest" : {
+                  "lat" : 39.7760293,
+                  "lng" : -74.96611279999999
+               }
+            },
+            "location" : {
+               "lat" : 39.7912261,
+               "lng" : -74.9290536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8091748,
+                  "lng" : -74.90795899999999
+               },
+               "southwest" : {
+                  "lat" : 39.7760293,
+                  "lng" : -74.96611279999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berlin, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.27189689999999,
+                  "lng" : -72.519772
+               },
+               "southwest" : {
+                  "lat" : 44.1536289,
+                  "lng" : -72.68374109999999
+               }
+            },
+            "location" : {
+               "lat" : 44.2152614,
+               "lng" : -72.5861615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.27189689999999,
+                  "lng" : -72.519772
+               },
+               "southwest" : {
+                  "lat" : 44.1536289,
+                  "lng" : -72.68374109999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

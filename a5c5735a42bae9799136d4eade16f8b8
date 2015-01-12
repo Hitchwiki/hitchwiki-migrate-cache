@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guerrero",
+               "short_name" : "GRO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guerrero, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.8863544,
+                  "lng" : -98.0069927
+               },
+               "southwest" : {
+                  "lat" : 16.3155366,
+                  "lng" : -102.1828896
+               }
+            },
+            "location" : {
+               "lat" : 17.4391926,
+               "lng" : -99.54509739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8863544,
+                  "lng" : -98.0069927
+               },
+               "southwest" : {
+                  "lat" : 16.3155366,
+                  "lng" : -102.1828896
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

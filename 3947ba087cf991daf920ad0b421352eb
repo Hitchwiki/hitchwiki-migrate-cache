@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puerto Rico",
+               "short_name" : "PR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puerto Rico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5160099,
+                  "lng" : -65.2211099
+               },
+               "southwest" : {
+                  "lat" : 17.8814286,
+                  "lng" : -67.9515777
+               }
+            },
+            "location" : {
+               "lat" : 18.220833,
+               "lng" : -66.590149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5160099,
+                  "lng" : -65.2211099
+               },
+               "southwest" : {
+                  "lat" : 17.8814286,
+                  "lng" : -67.4842396
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

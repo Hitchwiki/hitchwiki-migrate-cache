@@ -1,0 +1,554 @@
+{
+  "totalResultsCount": 35,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": -55.813085044484026,
+        "south": -27.440830403489986,
+        "north": -27.29332359651001,
+        "west": -55.97907095551598
+      },
+      "asciiName": "Posadas",
+      "countryId": "3865483",
+      "fcl": "P",
+      "score": 110.90767669677734,
+      "adminId2": "3435699",
+      "countryCode": "AR",
+      "adminId1": "3430657",
+      "lat": "-27.36708",
+      "fcode": "PPLA",
+      "continentCode": "SA",
+      "elevation": 83,
+      "adminCode2": "3435699",
+      "adminCode1": "14",
+      "lng": "-55.89608",
+      "geonameId": 3429886,
+      "toponymName": "Posadas",
+      "population": 323739,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Посадас",
+          "lang": "bg"
+        },
+        {
+          "name": "Posadas",
+          "lang": "de"
+        },
+        {
+          "name": "Posadas",
+          "lang": "en"
+        },
+        {
+          "name": "Posadas",
+          "lang": "es"
+        },
+        {
+          "name": "Posadas",
+          "lang": "eu"
+        },
+        {
+          "name": "پوساداس",
+          "lang": "fa"
+        },
+        {
+          "name": "Posadas",
+          "lang": "fr"
+        },
+        {
+          "name": "פוסאדאס",
+          "lang": "he"
+        },
+        {
+          "name": "PSS",
+          "lang": "iata"
+        },
+        {
+          "name": "Posadas",
+          "lang": "id"
+        },
+        {
+          "name": "Posadas",
+          "lang": "it"
+        },
+        {
+          "name": "ポサーダス",
+          "lang": "ja"
+        },
+        {
+          "name": "პოსადასი",
+          "lang": "ka"
+        },
+        {
+          "name": "포사다스",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Posadas%2C_Misiones",
+          "lang": "link"
+        },
+        {
+          "name": "Posadasas",
+          "lang": "lt"
+        },
+        {
+          "name": "Posadas",
+          "lang": "nl"
+        },
+        {
+          "name": "Posadas",
+          "lang": "pl"
+        },
+        {
+          "name": "پوساداس",
+          "lang": "pnb"
+        },
+        {
+          "name": "Posadas",
+          "lang": "pt"
+        },
+        {
+          "name": "Посадас",
+          "lang": "ru"
+        },
+        {
+          "name": "Посадас",
+          "lang": "sr"
+        },
+        {
+          "name": "Posadas",
+          "lang": "tr"
+        },
+        {
+          "name": "Посадас",
+          "lang": "uk"
+        },
+        {
+          "name": "PSS",
+          "lang": "unlc"
+        },
+        {
+          "name": "波萨达斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Departamento de Capital",
+      "name": "Posadas",
+      "fclName": "city, village,...",
+      "countryName": "Argentina",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Misiones"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Rio_Gallegos",
+        "dstOffset": -3
+      },
+      "asciiName": "Lago Posadas",
+      "countryId": "3865483",
+      "fcl": "H",
+      "score": 30.21323585510254,
+      "countryCode": "AR",
+      "adminId1": "3836350",
+      "lat": "-47.49175",
+      "fcode": "LK",
+      "continentCode": "SA",
+      "adminCode1": "20",
+      "lng": "-71.83148",
+      "geonameId": 3840718,
+      "toponymName": "Lago Posadas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Posadas_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Lago Posadas",
+      "fclName": "stream, lake, ...",
+      "countryName": "Argentina",
+      "fcodeName": "lake",
+      "adminName1": "Santa Cruz"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba",
+        "dstOffset": -3
+      },
+      "asciiName": "Posadas Airport",
+      "countryId": "3865483",
+      "fcl": "S",
+      "score": 30.21323585510254,
+      "adminId2": "3435699",
+      "countryCode": "AR",
+      "adminId1": "3430657",
+      "lat": "-27.38584",
+      "fcode": "AIRP",
+      "continentCode": "SA",
+      "elevation": 131,
+      "adminCode2": "3435699",
+      "adminCode1": "14",
+      "lng": "-55.97073",
+      "geonameId": 6300552,
+      "toponymName": "Posadas Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "PSS",
+          "lang": "iata"
+        },
+        {
+          "name": "SARP",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Libertador_General_Jos%C3%A9_de_San_Mart%C3%ADn_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Departamento de Capital",
+      "name": "Posadas Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Argentina",
+      "fcodeName": "airport",
+      "adminName1": "Misiones"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba",
+        "dstOffset": -3
+      },
+      "asciiName": "Departamento de Capital",
+      "countryId": "3865483",
+      "fcl": "A",
+      "score": 19.1085262298584,
+      "cc2": "AR",
+      "adminId2": "3435699",
+      "countryCode": "AR",
+      "adminId1": "3430657",
+      "lat": "-27.5",
+      "fcode": "ADM2",
+      "continentCode": "SA",
+      "adminCode2": "3435699",
+      "adminCode1": "14",
+      "lng": "-55.83333",
+      "geonameId": 3435699,
+      "toponymName": "Departamento de Capital",
+      "population": 323739,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Departamento de Capital",
+      "name": "Departamento de Capital",
+      "fclName": "country, state, region,...",
+      "countryName": "Argentina",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Misiones"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": -5.061483673304632,
+        "south": 37.73567140871211,
+        "north": 37.92240753927067,
+        "west": -5.189982479400643
+      },
+      "asciiName": "Posadas",
+      "countryId": "2510769",
+      "fcl": "A",
+      "score": 17.73419761657715,
+      "adminId2": "2519239",
+      "adminId3": "6357248",
+      "countryCode": "ES",
+      "adminId1": "2593109",
+      "lat": "37.82361",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "CO",
+      "adminCode3": "14053",
+      "adminCode1": "51",
+      "lng": "-5.11913",
+      "geonameId": 6357248,
+      "toponymName": "Posadas",
+      "population": 7594,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Posadas",
+      "alternateNames": [
+        {
+          "name": "بوساداس، قرطبة",
+          "lang": "ar"
+        },
+        {
+          "name": "ポサーダス",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Posadas%2C_Spain",
+          "lang": "link"
+        },
+        {
+          "name": "Посадас",
+          "lang": "ru"
+        },
+        {
+          "name": "Посадас",
+          "lang": "uk"
+        },
+        {
+          "name": "波萨达斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Cordoba",
+      "name": "Posadas",
+      "fclName": "country, state, region,...",
+      "countryName": "Spain",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Andalusia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Manila",
+        "dstOffset": 8
+      },
+      "bbox": {
+        "east": 121.05512181142778,
+        "south": 14.457395251248574,
+        "north": 14.475382548751426,
+        "west": 121.03654478857221
+      },
+      "asciiName": "Posadas Village",
+      "countryId": "1694008",
+      "fcl": "P",
+      "score": 15.10661792755127,
+      "adminId2": "1691591",
+      "countryCode": "PH",
+      "adminId1": "7521303",
+      "lat": "14.46639",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode2": "53",
+      "adminCode1": "40",
+      "lng": "121.04583",
+      "geonameId": 1906875,
+      "toponymName": "Posadas Village",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Posadas Village",
+        "lang": "fil"
+      }],
+      "adminName2": "Rizal",
+      "name": "Posadas Village",
+      "fclName": "city, village,...",
+      "countryName": "Philippines",
+      "fcodeName": "populated place",
+      "adminName1": "Calabarzon"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": -3.0264354342800197,
+        "south": 42.23495635124857,
+        "north": 42.252943648751426,
+        "west": -3.0507365657199803
+      },
+      "asciiName": "Posadas",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 14.479912757873535,
+      "adminId2": "6355232",
+      "adminId3": "6359051",
+      "countryCode": "ES",
+      "adminId1": "3336897",
+      "lat": "42.24395",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "LO",
+      "adminCode3": "26061",
+      "adminCode1": "27",
+      "lng": "-3.03859",
+      "geonameId": 3113073,
+      "toponymName": "Posadas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Ezcaray",
+      "alternateNames": [
+        {
+          "name": "Posatas",
+          "lang": "es"
+        },
+        {
+          "name": "26289",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "La Rioja",
+      "name": "Posadas",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "populated place",
+      "adminName1": "La Rioja"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": -3.596917389915539,
+        "south": 37.94667635124857,
+        "north": 37.964663648751426,
+        "west": -3.6197326100844607
+      },
+      "asciiName": "Posadas Ricas",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 13.405792236328125,
+      "adminId2": "2516394",
+      "adminId3": "6358549",
+      "countryCode": "ES",
+      "adminId1": "2593109",
+      "lat": "37.95567",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "J",
+      "adminCode3": "23903",
+      "adminCode1": "51",
+      "lng": "-3.60832",
+      "geonameId": 2512366,
+      "toponymName": "Posadas Ricas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Villatorres",
+      "adminName2": "Jaen",
+      "name": "Posadas Ricas",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "populated place",
+      "adminName1": "Andalusia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": -5.093315324347453,
+        "south": 37.79103807481619,
+        "north": 37.81306792518381,
+        "west": -5.121200675652546
+      },
+      "asciiName": "Posadas",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 13.405792236328125,
+      "adminId2": "2519239",
+      "adminId3": "6357248",
+      "countryCode": "ES",
+      "adminId1": "2593109",
+      "lat": "37.80205",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "adminCode2": "CO",
+      "adminCode3": "14053",
+      "adminCode1": "51",
+      "lng": "-5.10726",
+      "geonameId": 2512367,
+      "toponymName": "Posadas",
+      "population": 7364,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Posadas",
+      "alternateNames": [
+        {
+          "name": "14730",
+          "lang": "post"
+        },
+        {
+          "name": "ZJS",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Cordoba",
+      "name": "Posadas",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Andalusia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Mexico_City",
+        "dstOffset": -5
+      },
+      "bbox": {
+        "east": -94.22129553410576,
+        "south": 18.037553351248246,
+        "north": 18.055540648751755,
+        "west": -94.24021446589424
+      },
+      "asciiName": "Mario Hernandez Posadas",
+      "countryId": "3996063",
+      "fcl": "P",
+      "score": 12.411354064941406,
+      "adminId2": "8583850",
+      "countryCode": "MX",
+      "adminId1": "3514780",
+      "lat": "18.04655",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode2": "204",
+      "adminCode1": "30",
+      "lng": "-94.23076",
+      "geonameId": 9112249,
+      "toponymName": "Mario Hernández Posadas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Mario Hernández Posadas",
+        "lang": "es"
+      }],
+      "adminName2": "Agua Dulce",
+      "name": "Mario Hernández Posadas",
+      "fclName": "city, village,...",
+      "countryName": "Mexico",
+      "fcodeName": "populated place",
+      "adminName1": "Veracruz"
+    }
+  ]
+}

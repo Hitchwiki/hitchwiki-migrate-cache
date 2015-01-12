@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolzano",
+               "short_name" : "BZ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trentino-Alto Adige/South Tyrol",
+               "short_name" : "Trentino-Alto Adige/South Tyrol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolzano, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0917942,
+                  "lng" : 12.4775863
+               },
+               "southwest" : {
+                  "lat" : 46.21976780000001,
+                  "lng" : 10.3817891
+               }
+            },
+            "location" : {
+               "lat" : 46.7340955,
+               "lng" : 11.2888015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0917942,
+                  "lng" : 12.4775863
+               },
+               "southwest" : {
+                  "lat" : 46.21976780000001,
+                  "lng" : 10.3817891
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

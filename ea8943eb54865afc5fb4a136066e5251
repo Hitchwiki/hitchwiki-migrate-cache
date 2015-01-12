@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nunavut",
+               "short_name" : "NU",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nunavut, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.0956638,
+                  "lng" : -61.1794384
+               },
+               "southwest" : {
+                  "lat" : 51.640642,
+                  "lng" : -121.0492491
+               }
+            },
+            "location" : {
+               "lat" : 70.2997711,
+               "lng" : -83.1075769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.091005,
+                  "lng" : -61.1794384
+               },
+               "southwest" : {
+                  "lat" : 51.6424976,
+                  "lng" : -121.0492491
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

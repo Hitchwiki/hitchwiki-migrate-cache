@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osijek",
+               "short_name" : "Osijek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Općina Osijek",
+               "short_name" : "Općina Osijek",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Osijek-Baranja County",
+               "short_name" : "Osijek-Baranja County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osijek, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5785779,
+                  "lng" : 18.7812673
+               },
+               "southwest" : {
+                  "lat" : 45.5140857,
+                  "lng" : 18.5964504
+               }
+            },
+            "location" : {
+               "lat" : 45.5549624,
+               "lng" : 18.6955144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5785779,
+                  "lng" : 18.7812673
+               },
+               "southwest" : {
+                  "lat" : 45.5140857,
+                  "lng" : 18.5964504
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

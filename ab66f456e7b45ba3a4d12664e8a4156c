@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 13",
+               "short_name" : "Autoroute 13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laval",
+               "short_name" : "Laval",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 13, Laval, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5950414,
+                  "lng" : -73.69580189999999
+               },
+               "southwest" : {
+                  "lat" : 45.4535522,
+                  "lng" : -73.85451949999999
+               }
+            },
+            "location" : {
+               "lat" : 45.5240836,
+               "lng" : -73.77741429999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5950414,
+                  "lng" : -73.69580189999999
+               },
+               "southwest" : {
+                  "lat" : 45.4535522,
+                  "lng" : -73.85451949999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

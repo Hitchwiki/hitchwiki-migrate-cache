@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maribor",
+               "short_name" : "Maribor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maribor",
+               "short_name" : "Maribor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maribor",
+               "short_name" : "Maribor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maribor, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.59536490000001,
+                  "lng" : 15.700245
+               },
+               "southwest" : {
+                  "lat" : 46.5117149,
+                  "lng" : 15.5888547
+               }
+            },
+            "location" : {
+               "lat" : 46.5546503,
+               "lng" : 15.6458812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.59536490000001,
+                  "lng" : 15.700245
+               },
+               "southwest" : {
+                  "lat" : 46.5117149,
+                  "lng" : 15.5888547
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

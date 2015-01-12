@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pskov Oblast",
+               "short_name" : "Pskov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pskov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.01885189999999,
+                  "lng" : 31.51626409999999
+               },
+               "southwest" : {
+                  "lat" : 55.5896019,
+                  "lng" : 27.323293
+               }
+            },
+            "location" : {
+               "lat" : 56.7708599,
+               "lng" : 29.094009
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.01885189999999,
+                  "lng" : 31.51626409999999
+               },
+               "southwest" : {
+                  "lat" : 55.5896019,
+                  "lng" : 27.323293
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

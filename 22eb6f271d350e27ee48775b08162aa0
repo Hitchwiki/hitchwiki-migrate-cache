@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shizuoka",
+               "short_name" : "Shizuoka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shizuoka Prefecture",
+               "short_name" : "Shizuoka Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shizuoka, Shizuoka Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6459882,
+                  "lng" : 138.635826
+               },
+               "southwest" : {
+                  "lat" : 34.8980251,
+                  "lng" : 138.0829207
+               }
+            },
+            "location" : {
+               "lat" : 34.975562,
+               "lng" : 138.3827596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6459882,
+                  "lng" : 138.635826
+               },
+               "southwest" : {
+                  "lat" : 34.8980251,
+                  "lng" : 138.0829207
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shizuoka Prefecture",
+               "short_name" : "Shizuoka Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shizuoka Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6459882,
+                  "lng" : 139.1763238
+               },
+               "southwest" : {
+                  "lat" : 34.5945537,
+                  "lng" : 137.4741269
+               }
+            },
+            "location" : {
+               "lat" : 34.9771201,
+               "lng" : 138.3830845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6459882,
+                  "lng" : 139.1763238
+               },
+               "southwest" : {
+                  "lat" : 34.5945537,
+                  "lng" : 137.4741269
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

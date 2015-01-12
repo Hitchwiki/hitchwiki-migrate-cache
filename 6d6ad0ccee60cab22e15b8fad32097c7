@@ -1,0 +1,33 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nablus",
+               "short_name" : "Nablus",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Nablus",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.22504,
+               "lng" : 35.260971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2439165,
+                  "lng" : 35.2929858
+               },
+               "southwest" : {
+                  "lat" : 32.20615960000001,
+                  "lng" : 35.2289562
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

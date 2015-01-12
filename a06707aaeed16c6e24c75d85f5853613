@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Micronesia",
+               "short_name" : "FM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Micronesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.0903783,
+                  "lng" : 163.0355912
+               },
+               "southwest" : {
+                  "lat" : 3.8224419,
+                  "lng" : 138.0549824
+               }
+            },
+            "location" : {
+               "lat" : 6.8874813,
+               "lng" : 158.2150717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.011341199999999,
+                  "lng" : 158.3488442
+               },
+               "southwest" : {
+                  "lat" : 6.7636214,
+                  "lng" : 158.0812992
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

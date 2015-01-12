@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nădlac",
+               "short_name" : "Nădlac",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nadlac",
+               "short_name" : "Nadlac",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arad County",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "315500",
+               "short_name" : "315500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nădlac 315500, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.193735,
+                  "lng" : 20.7949735
+               },
+               "southwest" : {
+                  "lat" : 46.15135660000001,
+                  "lng" : 20.7170392
+               }
+            },
+            "location" : {
+               "lat" : 46.166667,
+               "lng" : 20.750556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.193735,
+                  "lng" : 20.7949735
+               },
+               "southwest" : {
+                  "lat" : 46.15135660000001,
+                  "lng" : 20.7170392
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

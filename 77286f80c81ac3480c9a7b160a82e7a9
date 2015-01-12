@@ -1,0 +1,983 @@
+{
+  "totalResultsCount": 3472,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 23.947555,
+        "south": 52.281893,
+        "north": 54.408908,
+        "west": 21.595971
+      },
+      "asciiName": "Wojewodztwo Podlaskie",
+      "countryId": "798544",
+      "fcl": "A",
+      "score": 35.526611328125,
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "53.25",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "81",
+      "lng": "23",
+      "geonameId": 858789,
+      "toponymName": "Województwo Podlaskie",
+      "population": 1189731,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Podlàquia",
+          "lang": "ca"
+        },
+        {
+          "name": "Podleské vojvodství",
+          "lang": "cs"
+        },
+        {
+          "name": "Pòdlasczé wòjewództwò",
+          "lang": "csb"
+        },
+        {
+          "name": "Województwo podlaskie",
+          "lang": "da"
+        },
+        {
+          "name": "Woiwodschaft Podlachien",
+          "lang": "de"
+        },
+        {
+          "name": "Podlasie",
+          "lang": "en"
+        },
+        {
+          "name": "Podlasio",
+          "lang": "eo"
+        },
+        {
+          "name": "Podlaquia",
+          "lang": "es"
+        },
+        {
+          "name": "Podlaasia vojevoodkond",
+          "lang": "et"
+        },
+        {
+          "name": "Voïvodie de Podlachie",
+          "lang": "fr"
+        },
+        {
+          "name": "Provinsi Podlasie",
+          "lang": "id"
+        },
+        {
+          "name": "Voivodato di Podlachia",
+          "lang": "it"
+        },
+        {
+          "name": "ポドラシェ県",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Podlachian_Voivodeship",
+          "lang": "link"
+        },
+        {
+          "name": "Palenkės vaivadija",
+          "lang": "lt"
+        },
+        {
+          "name": "Podlachië",
+          "lang": "nl"
+        },
+        {
+          "name": "Województwo podlaskie",
+          "lang": "pl"
+        },
+        {
+          "name": "Podláquia",
+          "lang": "pt"
+        },
+        {
+          "name": "Voievodatul Podlasia",
+          "lang": "ro"
+        },
+        {
+          "name": "Подляское воеводство",
+          "lang": "ru"
+        },
+        {
+          "name": "Podlasie",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "Podlasie",
+      "fclName": "country, state, region,...",
+      "countryName": "Poland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 23.281360263596465,
+        "south": 53.063233802680145,
+        "north": 53.20343091193135,
+        "west": 23.047298794020723
+      },
+      "asciiName": "Bialystok",
+      "countryId": "798544",
+      "fcl": "P",
+      "score": 24.616588592529297,
+      "adminId2": "7530772",
+      "adminId3": "7531591",
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "53.13333",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "2061",
+      "adminCode3": "206101",
+      "adminCode1": "81",
+      "lng": "23.16433",
+      "geonameId": 776069,
+      "toponymName": "Białystok",
+      "population": 291855,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Białystok",
+      "alternateNames": [
+        {
+          "name": "Белосток",
+          "lang": "ba"
+        },
+        {
+          "name": "Горад Беласток",
+          "lang": "be"
+        },
+        {
+          "name": "Бялисток",
+          "lang": "bg"
+        },
+        {
+          "name": "Białystok",
+          "lang": "br"
+        },
+        {
+          "name": "Białystok",
+          "lang": "ca"
+        },
+        {
+          "name": "Białystok",
+          "lang": "da"
+        },
+        {
+          "name": "Białystok",
+          "lang": "de"
+        },
+        {
+          "name": "Μπιάλιστοκ",
+          "lang": "el"
+        },
+        {
+          "name": "Białystok",
+          "lang": "en"
+        },
+        {
+          "name": "Białystok",
+          "lang": "eo"
+        },
+        {
+          "name": "Białystok",
+          "lang": "es"
+        },
+        {
+          "name": "Białystok",
+          "lang": "et"
+        },
+        {
+          "name": "Bialystok",
+          "lang": "eu"
+        },
+        {
+          "name": "بیاویستوک",
+          "lang": "fa"
+        },
+        {
+          "name": "Białystok",
+          "lang": "fi"
+        },
+        {
+          "name": "Białystok",
+          "lang": "fr"
+        },
+        {
+          "name": "ביאליסטוק",
+          "lang": "he"
+        },
+        {
+          "name": "Białystok",
+          "lang": "hu"
+        },
+        {
+          "name": "Białystok",
+          "lang": "id"
+        },
+        {
+          "name": "Białystok",
+          "lang": "it"
+        },
+        {
+          "name": "ビャウィストク",
+          "lang": "ja"
+        },
+        {
+          "name": "Białystok",
+          "lang": "jv"
+        },
+        {
+          "name": "ბელოსტოკი",
+          "lang": "ka"
+        },
+        {
+          "name": "비아위스토크",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bia%C5%82ystok",
+          "lang": "link"
+        },
+        {
+          "name": "Balstogė",
+          "lang": "lt"
+        },
+        {
+          "name": "Bjalistoka",
+          "lang": "lv"
+        },
+        {
+          "name": "Białystok",
+          "lang": "na"
+        },
+        {
+          "name": "Białystok",
+          "lang": "nds"
+        },
+        {
+          "name": "Białystok",
+          "lang": "nl"
+        },
+        {
+          "name": "Białystok",
+          "lang": "no"
+        },
+        {
+          "name": "Białystok",
+          "lang": "pl"
+        },
+        {
+          "name": "بیالیستوک",
+          "lang": "pnb"
+        },
+        {
+          "name": "Białystok",
+          "lang": "pt"
+        },
+        {
+          "name": "Белосток",
+          "lang": "ro"
+        },
+        {
+          "name": "Белосток",
+          "lang": "ru"
+        },
+        {
+          "name": "Białystok",
+          "lang": "sq"
+        },
+        {
+          "name": "Бјалисток",
+          "lang": "sr"
+        },
+        {
+          "name": "Białystok",
+          "lang": "sv"
+        },
+        {
+          "name": "Bjołystok",
+          "lang": "szl"
+        },
+        {
+          "name": "Білосток",
+          "lang": "uk"
+        },
+        {
+          "name": "BIA",
+          "lang": "unlc"
+        },
+        {
+          "name": "ביאליסטאק",
+          "lang": "yi"
+        },
+        {
+          "name": "比亚韦斯托克",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Białystok",
+      "name": "Białystok",
+      "fclName": "city, village,...",
+      "countryName": "Poland",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 22.988832784380108,
+        "south": 54.07779770279947,
+        "north": 54.14569826184173,
+        "west": 22.872907327924494
+      },
+      "asciiName": "Suwalki",
+      "countryId": "798544",
+      "fcl": "P",
+      "score": 19.69327163696289,
+      "adminId2": "7530941",
+      "adminId3": "7531587",
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "54.11175",
+      "fcode": "PPLA2",
+      "continentCode": "EU",
+      "adminCode2": "2063",
+      "adminCode3": "206301",
+      "adminCode1": "81",
+      "lng": "22.93087",
+      "geonameId": 757718,
+      "toponymName": "Suwałki",
+      "population": 69222,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Suwałki",
+      "alternateNames": [
+        {
+          "name": "Горад Сувалкі",
+          "lang": "be"
+        },
+        {
+          "name": "Сувалки",
+          "lang": "bg"
+        },
+        {
+          "name": "Suwałki",
+          "lang": "de"
+        },
+        {
+          "name": "Suwałki",
+          "lang": "en"
+        },
+        {
+          "name": "Suwałki",
+          "lang": "et"
+        },
+        {
+          "name": "סובאלק",
+          "lang": "he"
+        },
+        {
+          "name": "スヴァウキ",
+          "lang": "ja"
+        },
+        {
+          "name": "수바우키",
+          "lang": "ko"
+        },
+        {
+          "name": "http://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B2%D0%B0%D0%BB%D0%BA%D0%B8",
+          "lang": "link"
+        },
+        {
+          "name": "Suvalkai",
+          "lang": "lt"
+        },
+        {
+          "name": "Suvalki",
+          "lang": "lv"
+        },
+        {
+          "name": "Suwalki",
+          "lang": "na"
+        },
+        {
+          "name": "Suwałki",
+          "lang": "nl"
+        },
+        {
+          "name": "Suwałki",
+          "lang": "pl"
+        },
+        {
+          "name": "Suwałki",
+          "lang": "ro"
+        },
+        {
+          "name": "Сувалки",
+          "lang": "ru"
+        },
+        {
+          "name": "Сувалки",
+          "lang": "uk"
+        },
+        {
+          "name": "SWL",
+          "lang": "unlc"
+        },
+        {
+          "name": "苏瓦乌基",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Suwałki",
+      "name": "Suwałki",
+      "fclName": "city, village,...",
+      "countryName": "Poland",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 22.114010247023213,
+        "south": 53.145320440007936,
+        "north": 53.21079519122391,
+        "west": 22.004680243699443
+      },
+      "asciiName": "Lomza",
+      "countryId": "798544",
+      "fcl": "P",
+      "score": 19.69327163696289,
+      "adminId2": "7530773",
+      "adminId3": "7531442",
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "53.17806",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "2062",
+      "adminCode3": "206201",
+      "adminCode1": "81",
+      "lng": "22.05935",
+      "geonameId": 766027,
+      "toponymName": "Łomża",
+      "population": 63723,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Łomża",
+      "alternateNames": [
+        {
+          "name": "Ломжа",
+          "lang": "ba"
+        },
+        {
+          "name": "Горад Ломжа",
+          "lang": "be"
+        },
+        {
+          "name": "Ломжа",
+          "lang": "bg"
+        },
+        {
+          "name": "Łomża",
+          "lang": "da"
+        },
+        {
+          "name": "Łomża",
+          "lang": "de"
+        },
+        {
+          "name": "Łomża",
+          "lang": "en"
+        },
+        {
+          "name": "Łomża",
+          "lang": "fr"
+        },
+        {
+          "name": "לומזה",
+          "lang": "he"
+        },
+        {
+          "name": "Łomża",
+          "lang": "id"
+        },
+        {
+          "name": "Łomża",
+          "lang": "it"
+        },
+        {
+          "name": "ウォムジャ",
+          "lang": "ja"
+        },
+        {
+          "name": "Łomża",
+          "lang": "jv"
+        },
+        {
+          "name": "웜자",
+          "lang": "ko"
+        },
+        {
+          "name": "Lomsa",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/%C5%81om%C5%BCa",
+          "lang": "link"
+        },
+        {
+          "name": "Lomža",
+          "lang": "lt"
+        },
+        {
+          "name": "Lomža",
+          "lang": "lv"
+        },
+        {
+          "name": "Łomża",
+          "lang": "nl"
+        },
+        {
+          "name": "Łomża",
+          "lang": "pl"
+        },
+        {
+          "name": "Łomża",
+          "lang": "ro"
+        },
+        {
+          "name": "Ломжа",
+          "lang": "ru"
+        },
+        {
+          "name": "วอมชา",
+          "lang": "th"
+        },
+        {
+          "name": "Ломжа",
+          "lang": "tt"
+        },
+        {
+          "name": "Ломжа",
+          "lang": "uk"
+        },
+        {
+          "name": "QOY",
+          "lang": "unlc"
+        },
+        {
+          "name": "沃姆扎",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Łomża",
+      "name": "Łomża",
+      "fclName": "city, village,...",
+      "countryName": "Poland",
+      "fcodeName": "populated place",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Jezioro Wizajny",
+      "countryId": "798544",
+      "fcl": "H",
+      "score": 17.231613159179688,
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "54.38502",
+      "fcode": "LK",
+      "continentCode": "EU",
+      "adminCode1": "81",
+      "lng": "22.85797",
+      "geonameId": 755505,
+      "toponymName": "Jezioro Wiżajny",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Wi%C5%BCajny",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Jezioro Wiżajny",
+      "fclName": "stream, lake, ...",
+      "countryName": "Poland",
+      "fcodeName": "lake",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "asciiName": "Jezioro Wigry",
+      "countryId": "798544",
+      "fcl": "H",
+      "score": 17.231613159179688,
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "54.05078",
+      "fcode": "LK",
+      "continentCode": "EU",
+      "adminCode1": "81",
+      "lng": "23.09134",
+      "geonameId": 755746,
+      "toponymName": "Jezioro Wigry",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Wigry_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Jezioro Wigry",
+      "fclName": "stream, lake, ...",
+      "countryName": "Poland",
+      "fcodeName": "lake",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 22.275768573769692,
+        "south": 52.965894208656756,
+        "north": 53.005096614697926,
+        "west": 22.210620586386558
+      },
+      "asciiName": "Zambrow",
+      "countryId": "798544",
+      "fcl": "P",
+      "score": 17.231613159179688,
+      "adminId2": "7530828",
+      "adminId3": "7532222",
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "52.9855",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "2014",
+      "adminCode3": "201401",
+      "adminCode1": "81",
+      "lng": "22.24319",
+      "geonameId": 753895,
+      "toponymName": "Zambrów",
+      "population": 22857,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Zambrów",
+      "alternateNames": [
+        {
+          "name": "Замбров",
+          "lang": "bg"
+        },
+        {
+          "name": "Zambrów",
+          "lang": "en"
+        },
+        {
+          "name": "זמברוב",
+          "lang": "he"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Zambr%C3%B3w",
+          "lang": "link"
+        },
+        {
+          "name": "Zambruvas",
+          "lang": "lt"
+        },
+        {
+          "name": "Zambrova",
+          "lang": "lv"
+        },
+        {
+          "name": "Замбрув",
+          "lang": "ru"
+        },
+        {
+          "name": "Замбрув",
+          "lang": "uk"
+        },
+        {
+          "name": "ZAW",
+          "lang": "unlc"
+        },
+        {
+          "name": "贊布魯夫",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Powiat zambrowski",
+      "name": "Zambrów",
+      "fclName": "city, village,...",
+      "countryName": "Poland",
+      "fcodeName": "populated place",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 21.950398855026574,
+        "south": 53.39875705985697,
+        "north": 53.42419493993595,
+        "west": 21.90770966548124
+      },
+      "asciiName": "Kolno",
+      "countryId": "798544",
+      "fcl": "P",
+      "score": 17.231613159179688,
+      "adminId2": "7530826",
+      "adminId3": "7532707",
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "53.41148",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "2006",
+      "adminCode3": "200601",
+      "adminCode1": "81",
+      "lng": "21.92905",
+      "geonameId": 768785,
+      "toponymName": "Kolno",
+      "population": 10659,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Kolno",
+      "alternateNames": [
+        {
+          "name": "Колно",
+          "lang": "bg"
+        },
+        {
+          "name": "Kolno",
+          "lang": "en"
+        },
+        {
+          "name": "קולנה",
+          "lang": "he"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Kolno",
+          "lang": "link"
+        },
+        {
+          "name": "Kolnas",
+          "lang": "lt"
+        },
+        {
+          "name": "Кольно",
+          "lang": "ru"
+        },
+        {
+          "name": "Кольно",
+          "lang": "uk"
+        },
+        {
+          "name": "KNO",
+          "lang": "unlc"
+        },
+        {
+          "name": "科爾諾",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Powiat kolneński",
+      "name": "Kolno",
+      "fclName": "city, village,...",
+      "countryName": "Poland",
+      "fcodeName": "populated place",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 23.01715213557173,
+        "south": 53.82118005588077,
+        "north": 53.86523975661439,
+        "west": 22.942434961596238
+      },
+      "asciiName": "Augustow",
+      "countryId": "798544",
+      "fcl": "P",
+      "score": 17.231613159179688,
+      "adminId2": "7530841",
+      "adminId3": "7531271",
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "53.84321",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "adminCode2": "2001",
+      "adminCode3": "200102",
+      "adminCode1": "81",
+      "lng": "22.97979",
+      "geonameId": 776597,
+      "toponymName": "Augustów",
+      "population": 29752,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Augustów",
+      "alternateNames": [
+        {
+          "name": "Augustów",
+          "lang": "de"
+        },
+        {
+          "name": "Augustów",
+          "lang": "en"
+        },
+        {
+          "name": "Augustów",
+          "lang": "et"
+        },
+        {
+          "name": "Augustów",
+          "lang": "gl"
+        },
+        {
+          "name": "Augustów",
+          "lang": "jv"
+        },
+        {
+          "name": "http://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%BE%D0%B2",
+          "lang": "link"
+        },
+        {
+          "name": "Augustavas",
+          "lang": "lt"
+        },
+        {
+          "name": "Augustów",
+          "lang": "nl"
+        },
+        {
+          "name": "Augustów",
+          "lang": "no"
+        },
+        {
+          "name": "Augustów",
+          "lang": "pl"
+        },
+        {
+          "name": "Augustów",
+          "lang": "ro"
+        },
+        {
+          "name": "Августов",
+          "lang": "ru"
+        },
+        {
+          "name": "Аугустов",
+          "lang": "sr"
+        },
+        {
+          "name": "AUG",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Powiat augustowski",
+      "name": "Augustów",
+      "fclName": "city, village,...",
+      "countryName": "Poland",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Podlasie"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Warsaw",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 23.2471947154079,
+        "south": 53.0665873354444,
+        "north": 53.188294990356,
+        "west": 23.0657909694731
+      },
+      "asciiName": "Bialystok",
+      "countryId": "798544",
+      "fcl": "A",
+      "score": 17.231613159179688,
+      "adminId2": "7530772",
+      "countryCode": "PL",
+      "adminId1": "858789",
+      "lat": "53.12744",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "2061",
+      "adminCode1": "81",
+      "lng": "23.15649",
+      "geonameId": 7530772,
+      "toponymName": "Białystok",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Bia%C5%82ystok",
+          "lang": "link"
+        },
+        {
+          "name": "Wysoczyzna Białostocka",
+          "lang": "pl"
+        }
+      ],
+      "adminName2": "Białystok",
+      "name": "Białystok",
+      "fclName": "country, state, region,...",
+      "countryName": "Poland",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Podlasie"
+    }
+  ]
+}

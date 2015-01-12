@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9223834,
+                  "lng" : -0.9969758
+               },
+               "southwest" : {
+                  "lat" : 27.6666665,
+                  "lng" : -13.1728914
+               }
+            },
+            "location" : {
+               "lat" : 31.791702,
+               "lng" : -7.092619999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9223834,
+                  "lng" : -0.9969758
+               },
+               "southwest" : {
+                  "lat" : 27.6666665,
+                  "lng" : -13.1728914
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

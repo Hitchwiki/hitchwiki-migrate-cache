@@ -1,0 +1,781 @@
+{
+  "totalResultsCount": 31,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "bbox": {
+        "east": 74.75836844925367,
+        "south": 42.74684939261413,
+        "north": 42.993150607385864,
+        "west": 74.42163155074634
+      },
+      "asciiName": "Bishkek",
+      "countryId": "1527747",
+      "fcl": "P",
+      "score": 220.19215393066406,
+      "cc2": "KG",
+      "countryCode": "KG",
+      "adminId1": "1538652",
+      "lat": "42.87",
+      "fcode": "PPLC",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "74.59",
+      "geonameId": 1528675,
+      "toponymName": "Bishkek",
+      "population": 900000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Bisjkek",
+          "lang": "af"
+        },
+        {
+          "name": "ቢሽኬክ",
+          "lang": "am"
+        },
+        {
+          "name": "بيشكك",
+          "lang": "ar"
+        },
+        {
+          "name": "بيشكيك",
+          "lang": "arz"
+        },
+        {
+          "name": "Bişkek",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Бішкек",
+          "lang": "be"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "bg"
+        },
+        {
+          "name": "বিশকেক",
+          "lang": "bn"
+        },
+        {
+          "name": "པི་སི་ཁེག",
+          "lang": "bo"
+        },
+        {
+          "name": "Bichkek",
+          "lang": "br"
+        },
+        {
+          "name": "Bixkek",
+          "lang": "ca"
+        },
+        {
+          "name": "بیشکێک",
+          "lang": "ckb"
+        },
+        {
+          "name": "Bişkek",
+          "lang": "crh"
+        },
+        {
+          "name": "Biškek",
+          "lang": "cs"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "cv"
+        },
+        {
+          "name": "Bisjkek",
+          "lang": "da"
+        },
+        {
+          "name": "Bischkek",
+          "lang": "de"
+        },
+        {
+          "name": "Bişqeq",
+          "lang": "diq"
+        },
+        {
+          "name": "Biškek",
+          "lang": "dsb"
+        },
+        {
+          "name": "Μπισκέκ",
+          "lang": "el"
+        },
+        {
+          "name": "Bishkek",
+          "lang": "en"
+        },
+        {
+          "name": "Biŝkeko",
+          "lang": "eo"
+        },
+        {
+          "name": "Biskek",
+          "lang": "es"
+        },
+        {
+          "name": "Biškek",
+          "lang": "et"
+        },
+        {
+          "name": "Bixkek",
+          "lang": "eu"
+        },
+        {
+          "name": "بیشکک",
+          "lang": "fa"
+        },
+        {
+          "name": "Biškek",
+          "lang": "fi"
+        },
+        {
+          "name": "Bichkek",
+          "lang": "fr"
+        },
+        {
+          "name": "Bisjkek",
+          "lang": "fy"
+        },
+        {
+          "name": "Bixkek",
+          "lang": "gl"
+        },
+        {
+          "name": "Biškek",
+          "lang": "hbs"
+        },
+        {
+          "name": "בישקק",
+          "lang": "he"
+        },
+        {
+          "name": "बिश्केक",
+          "lang": "hi"
+        },
+        {
+          "name": "Biškek",
+          "lang": "hr"
+        },
+        {
+          "name": "Biškek",
+          "lang": "hsb"
+        },
+        {
+          "name": "Bichkek",
+          "lang": "ht"
+        },
+        {
+          "name": "Biskek",
+          "lang": "hu"
+        },
+        {
+          "name": "Բիշկեք",
+          "lang": "hy"
+        },
+        {
+          "name": "FRU",
+          "lang": "iata"
+        },
+        {
+          "name": "Bishkek",
+          "lang": "id"
+        },
+        {
+          "name": "Bishkek",
+          "lang": "io"
+        },
+        {
+          "name": "Biškek",
+          "lang": "it"
+        },
+        {
+          "name": "ビシュケク",
+          "lang": "ja"
+        },
+        {
+          "name": "ბიშკეკი",
+          "lang": "ka"
+        },
+        {
+          "name": "Бішкек",
+          "lang": "kk"
+        },
+        {
+          "name": "ಬಿಷ್ಕೆಕ್",
+          "lang": "kn"
+        },
+        {
+          "name": "비슈케크",
+          "lang": "ko"
+        },
+        {
+          "name": "Bîşkek",
+          "lang": "ku"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "kv"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "ky"
+        },
+        {
+          "name": "Biscecum",
+          "lang": "la"
+        },
+        {
+          "name": "Bischkek",
+          "lang": "lb"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bishkek",
+          "lang": "link"
+        },
+        {
+          "name": "Biškek",
+          "lang": "lmo"
+        },
+        {
+          "name": "Biškekas",
+          "lang": "lt"
+        },
+        {
+          "name": "Biškeka",
+          "lang": "lv"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "mhr"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "mk"
+        },
+        {
+          "name": "ബിഷ്കെക്ക്",
+          "lang": "ml"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "mn"
+        },
+        {
+          "name": "बिश्केक",
+          "lang": "mr"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "mrj"
+        },
+        {
+          "name": "Бишкек ош",
+          "lang": "myv"
+        },
+        {
+          "name": "بيشکک",
+          "lang": "mzn"
+        },
+        {
+          "name": "Bischkek",
+          "lang": "nds"
+        },
+        {
+          "name": "Bisjkek",
+          "lang": "nl"
+        },
+        {
+          "name": "Bisjkek",
+          "lang": "nn"
+        },
+        {
+          "name": "Bisjkek",
+          "lang": "no"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "os"
+        },
+        {
+          "name": "ਬਿਸ਼ਕੇਕ",
+          "lang": "pa"
+        },
+        {
+          "name": "Biszkek",
+          "lang": "pl"
+        },
+        {
+          "name": "Bisqueque",
+          "lang": "pt"
+        },
+        {
+          "name": "Bișkek",
+          "lang": "ro"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "ru"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "sah"
+        },
+        {
+          "name": "Biškek",
+          "lang": "sk"
+        },
+        {
+          "name": "Biškek",
+          "lang": "sl"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "sr"
+        },
+        {
+          "name": "Bisjkek",
+          "lang": "sv"
+        },
+        {
+          "name": "பிசுக்கெக்",
+          "lang": "ta"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "tg"
+        },
+        {
+          "name": "บิชเคก",
+          "lang": "th"
+        },
+        {
+          "name": "Biskek",
+          "lang": "tl"
+        },
+        {
+          "name": "Bişkek",
+          "lang": "tr"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "udm"
+        },
+        {
+          "name": "Бішкек",
+          "lang": "uk"
+        },
+        {
+          "name": "FRU",
+          "lang": "unlc"
+        },
+        {
+          "name": "بشکیک",
+          "lang": "ur"
+        },
+        {
+          "name": "Biškek",
+          "lang": "vep"
+        },
+        {
+          "name": "בישקעק",
+          "lang": "yi"
+        },
+        {
+          "name": "比什凯克",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bishkek",
+      "fclName": "city, village,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Chüy"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "asciiName": "Gorod Bishkek",
+      "countryId": "1527747",
+      "fcl": "A",
+      "score": 84.29412078857422,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "42.87781",
+      "fcode": "ADM1",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "74.60022",
+      "geonameId": 1528334,
+      "toponymName": "Gorod Bishkek",
+      "population": 896259,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Бишкек Шаары",
+          "lang": "ky"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bishkek",
+          "lang": "link"
+        },
+        {
+          "name": "Бишкек",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Gorod Bishkek",
+      "fclName": "country, state, region,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Bishkek"
+    },
+    {
+      "elevation": 627,
+      "lng": "74.47756",
+      "geonameId": 6300915,
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "toponymName": "Bishkek/Manas Airport",
+      "asciiName": "Bishkek/Manas Airport",
+      "countryId": "1527747",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 40.88865661621094,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "FRU",
+          "lang": "iata"
+        },
+        {
+          "name": "UAFM",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Manas_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "KG",
+      "name": "Bishkek/Manas Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "43.06131",
+      "fcode": "AIRP",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "bbox": {
+        "east": 72.61941457105564,
+        "south": 40.60155735124857,
+        "north": 40.61954464875143,
+        "west": 72.59571742894437
+      },
+      "asciiName": "Beshkavak",
+      "countryId": "1527747",
+      "fcl": "P",
+      "score": 23.851715087890625,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "40.61055",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "72.60757",
+      "geonameId": 8139997,
+      "toponymName": "Beshkavak",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Бешкавак",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Beshkavak",
+      "fclName": "city, village,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "populated place",
+      "adminName1": "Bishkek"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "bbox": {
+        "east": 74.59313762926652,
+        "south": 42.808193351248896,
+        "north": 42.8261806487511,
+        "west": 74.56861237073349
+      },
+      "asciiName": "Chong-Aryk",
+      "countryId": "1527747",
+      "fcl": "P",
+      "score": 20.44432830810547,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "42.81719",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "74.58088",
+      "geonameId": 1540661,
+      "toponymName": "Chong-Aryk",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Chong-Aryk",
+          "lang": "ky"
+        },
+        {
+          "name": "Чон-Арык",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Chong-Aryk",
+      "fclName": "city, village,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "populated place",
+      "adminName1": "Bishkek"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "bbox": {
+        "east": 74.60420889630218,
+        "south": 42.79441135124857,
+        "north": 42.812398648751426,
+        "west": 74.57968910369782
+      },
+      "asciiName": "Orto-Say",
+      "countryId": "1527747",
+      "fcl": "P",
+      "score": 20.44432830810547,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "42.8034",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "74.59195",
+      "geonameId": 1540662,
+      "toponymName": "Orto-Say",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Орто-Сай",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Orto-Say",
+      "fclName": "city, village,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "populated place",
+      "adminName1": "Bishkek"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "asciiName": "Pervomayskiy Rayon",
+      "countryId": "1527747",
+      "fcl": "A",
+      "score": 20.44432830810547,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "42.88704",
+      "fcode": "ADM3",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "74.58213",
+      "geonameId": 1527506,
+      "toponymName": "Pervomayskiy Rayon",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Pervomayskiy District",
+          "lang": "en"
+        },
+        {
+          "name": "Первомайский Район",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Pervomayskiy District",
+      "fclName": "country, state, region,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Bishkek"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "asciiName": "Leninskiy Rayon",
+      "countryId": "1527747",
+      "fcl": "A",
+      "score": 20.44432830810547,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "42.85491",
+      "fcode": "ADM3",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "74.58405",
+      "geonameId": 1527686,
+      "toponymName": "Leninskiy Rayon",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Leninskiy District",
+          "lang": "en"
+        },
+        {
+          "name": "Ленинский Район",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Leninskiy District",
+      "fclName": "country, state, region,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Bishkek"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "bbox": {
+        "east": 72.65387615342112,
+        "south": 40.61611135124857,
+        "north": 40.634098648751426,
+        "west": 72.63017384657888
+      },
+      "asciiName": "Egamberdyabad",
+      "countryId": "1527747",
+      "fcl": "P",
+      "score": 20.44432830810547,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "40.6251",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "72.64203",
+      "geonameId": 8139995,
+      "toponymName": "Egamberdyabad",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Эгамбердыабад",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Egamberdyabad",
+      "fclName": "city, village,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "populated place",
+      "adminName1": "Bishkek"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Bishkek",
+        "dstOffset": 6
+      },
+      "bbox": {
+        "east": 72.58730298107538,
+        "south": 40.61514035124857,
+        "north": 40.633127648751426,
+        "west": 72.56360101892462
+      },
+      "asciiName": "Sukalak",
+      "countryId": "1527747",
+      "fcl": "P",
+      "score": 20.44432830810547,
+      "countryCode": "KG",
+      "adminId1": "1528334",
+      "lat": "40.62413",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "72.57545",
+      "geonameId": 8139996,
+      "toponymName": "Sukalak",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Сукалак",
+        "lang": "ru"
+      }],
+      "adminName2": "",
+      "name": "Sukalak",
+      "fclName": "city, village,...",
+      "countryName": "Kyrgyzstan",
+      "fcodeName": "populated place",
+      "adminName1": "Bishkek"
+    }
+  ]
+}

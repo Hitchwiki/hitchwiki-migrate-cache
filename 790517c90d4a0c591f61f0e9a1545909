@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belize City",
+               "short_name" : "Belize City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "Belize",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "BZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belize City, Belize",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.5353682,
+                  "lng" : -88.18077389999999
+               },
+               "southwest" : {
+                  "lat" : 17.4757965,
+                  "lng" : -88.24579249999999
+               }
+            },
+            "location" : {
+               "lat" : 17.5045661,
+               "lng" : -88.1962133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.5353682,
+                  "lng" : -88.18077389999999
+               },
+               "southwest" : {
+                  "lat" : 17.4757965,
+                  "lng" : -88.24579249999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

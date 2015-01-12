@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.86950059999999,
+                  "lng" : 6.1203416
+               },
+               "southwest" : {
+                  "lat" : 50.6341461,
+                  "lng" : 4.413841
+               }
+            },
+            "location" : {
+               "lat" : 50.7067221,
+               "lng" : 5.2608508
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.86950059999999,
+                  "lng" : 6.1203416
+               },
+               "southwest" : {
+                  "lat" : 50.6341461,
+                  "lng" : 4.413841
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

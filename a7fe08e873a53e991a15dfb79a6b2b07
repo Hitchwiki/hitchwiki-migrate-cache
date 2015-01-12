@@ -1,0 +1,457 @@
+{
+  "totalResultsCount": 158,
+  "geonames": [
+    {
+      "adminCode2": "0807",
+      "alternateNames": [
+        {
+          "name": "Lagos Municipality",
+          "lang": "en"
+        },
+        {
+          "name": "لاگوس",
+          "lang": "fa"
+        },
+        {
+          "name": "לאגוש",
+          "lang": "he"
+        },
+        {
+          "name": "ლაგუში",
+          "lang": "ka"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Lagos%2C_Portugal",
+          "lang": "link"
+        },
+        {
+          "name": "Lagošas",
+          "lang": "lt"
+        },
+        {
+          "name": "Лагуш",
+          "lang": "ru"
+        },
+        {
+          "name": "Лагос",
+          "lang": "sr"
+        },
+        {
+          "name": "Лагуш",
+          "lang": "uk"
+        },
+        {
+          "name": "拉古什",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 25.45071029663086,
+      "lng": "-8.67661",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.07122205697931,
+        "east": -8.61915011123726,
+        "north": 37.23502306703452,
+        "west": -8.853213034020403
+      },
+      "name": "Lagos Municipality",
+      "fcode": "ADM2",
+      "geonameId": 8010518,
+      "asciiName": "Lagos",
+      "lat": "37.09567",
+      "population": 0,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId2": "8010518",
+      "toponymName": "Lagos",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "080706",
+      "adminCode2": "0807",
+      "alternateNames": [{
+        "name": "LOS",
+        "lang": "unlc"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 18.269319534301758,
+      "lng": "-8.67422",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "populated place",
+      "adminName3": "Lagos (São Sebastião)",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.08459891354026,
+        "east": -8.652379330043624,
+        "north": 37.119431165376184,
+        "west": -8.696062747593094
+      },
+      "name": "Lagos",
+      "fcode": "PPL",
+      "geonameId": 2267226,
+      "asciiName": "Lagos",
+      "lat": "37.10202",
+      "population": 18831,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "city, village,...",
+      "countryCode": "PT",
+      "adminId3": "8012001",
+      "adminId2": "8010518",
+      "toponymName": "Lagos",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "080705",
+      "adminCode2": "0807",
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 15.224431991577148,
+      "lng": "-8.66861",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Lagos (Santa Maria)",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.07887222944153,
+        "east": -8.665429064908372,
+        "north": 37.10676945827727,
+        "west": -8.7233532346951
+      },
+      "name": "Lagos (Santa Maria)",
+      "fcode": "ADM3",
+      "geonameId": 8012000,
+      "asciiName": "Lagos (Santa Maria)",
+      "lat": "37.0893",
+      "population": 0,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8012000",
+      "adminId2": "8010518",
+      "toponymName": "Lagos (Santa Maria)",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "080706",
+      "adminCode2": "0807",
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 15.224431991577148,
+      "lng": "-8.68121",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Lagos (São Sebastião)",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.100227221470654,
+        "east": -8.64264479781464,
+        "north": 37.151691121266246,
+        "west": -8.719768568862953
+      },
+      "name": "Lagos (São Sebastião)",
+      "fcode": "ADM3",
+      "geonameId": 8012001,
+      "asciiName": "Lagos (Sao Sebastiao)",
+      "lat": "37.12596",
+      "population": 0,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8012001",
+      "adminId2": "8010518",
+      "toponymName": "Lagos (São Sebastião)",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "080702",
+      "adminCode2": "0807",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Bensafrim",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 13.851052284240723,
+      "lng": "-8.73414",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "populated place",
+      "adminName3": "Bensafrim",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.14818635124857,
+        "east": -8.722857018056793,
+        "north": 37.166173648751425,
+        "west": -8.745428981943206
+      },
+      "name": "Bensafrim",
+      "fcode": "PPL",
+      "geonameId": 2270930,
+      "asciiName": "Bensafrim",
+      "lat": "37.15718",
+      "population": 0,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "city, village,...",
+      "countryCode": "PT",
+      "adminId3": "8011997",
+      "adminId2": "8010518",
+      "toponymName": "Bensafrim",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "061107",
+      "adminCode2": "0611",
+      "countryName": "Portugal",
+      "adminCode1": "07",
+      "score": 12.909929275512695,
+      "lng": "-7.82125",
+      "adminName2": "Oliveira do Hospital Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Lagos da Beira",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.35350948952236,
+        "east": -7.795857107218629,
+        "north": 40.382679635925925,
+        "west": -7.846639995592681
+      },
+      "name": "Lagos da Beira",
+      "fcode": "ADM3",
+      "geonameId": 8014701,
+      "asciiName": "Lagos da Beira",
+      "lat": "40.3681",
+      "population": 0,
+      "adminName1": "Coimbra",
+      "adminId1": "2740636",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8014701",
+      "adminId2": "8010491",
+      "toponymName": "Lagos da Beira",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "061119",
+      "adminCode2": "0611",
+      "countryName": "Portugal",
+      "adminCode1": "07",
+      "score": 12.909929275512695,
+      "lng": "-7.89518",
+      "adminName2": "Oliveira do Hospital Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Travanca de Lagos",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.36912002273021,
+        "east": -7.854840385757822,
+        "north": 40.411662250229554,
+        "west": -7.935510108978023
+      },
+      "name": "Travanca de Lagos",
+      "fcode": "ADM3",
+      "geonameId": 8014720,
+      "asciiName": "Travanca de Lagos",
+      "lat": "40.39039",
+      "population": 0,
+      "adminName1": "Coimbra",
+      "adminId1": "2740636",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8014720",
+      "adminId2": "8010491",
+      "toponymName": "Travanca de Lagos",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "080703",
+      "adminCode2": "0807",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Praia_da_Luz",
+        "lang": "link"
+      }],
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 11.872329711914062,
+      "lng": "-8.7265",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "populated place",
+      "adminName3": "Luz",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.07871735124857,
+        "east": -8.715219374116549,
+        "north": 37.09670464875143,
+        "west": -8.737770625883451
+      },
+      "name": "Senhora da Luz",
+      "fcode": "PPL",
+      "geonameId": 2263071,
+      "asciiName": "Senhora da Luz",
+      "lat": "37.08771",
+      "population": 0,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "city, village,...",
+      "countryCode": "PT",
+      "adminId3": "8011998",
+      "adminId2": "8010518",
+      "toponymName": "Senhora da Luz",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "080702",
+      "adminCode2": "0807",
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 11.872329711914062,
+      "lng": "-8.73088",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Bensafrim",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.125883330001884,
+        "east": -8.672949146774027,
+        "north": 37.23502306703452,
+        "west": -8.788802955922637
+      },
+      "name": "Bensafrim",
+      "fcode": "ADM3",
+      "geonameId": 8011997,
+      "asciiName": "Bensafrim",
+      "lat": "37.18045",
+      "population": 0,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8011997",
+      "adminId2": "8010518",
+      "toponymName": "Bensafrim",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "080703",
+      "adminCode2": "0807",
+      "countryName": "Portugal",
+      "adminCode1": "09",
+      "score": 11.872329711914062,
+      "lng": "-8.74033",
+      "adminName2": "Lagos Municipality",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "Luz",
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 37.07122205697931,
+        "east": -8.706048908978373,
+        "north": 37.12324714487518,
+        "west": -8.78131610739847
+      },
+      "name": "Luz",
+      "fcode": "ADM3",
+      "geonameId": 8011998,
+      "asciiName": "Luz",
+      "lat": "37.08964",
+      "population": 0,
+      "adminName1": "Faro",
+      "adminId1": "2268337",
+      "countryId": "2264397",
+      "fclName": "country, state, region,...",
+      "countryCode": "PT",
+      "adminId3": "8011998",
+      "adminId2": "8010518",
+      "toponymName": "Luz",
+      "fcl": "A",
+      "continentCode": "EU"
+    }
+  ]
+}

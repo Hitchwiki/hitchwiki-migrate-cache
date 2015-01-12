@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leeuwarden",
+               "short_name" : "Leeuwarden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leeuwarden",
+               "short_name" : "Leeuwarden",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Friesland",
+               "short_name" : "Frater",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leeuwarden, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2410508,
+                  "lng" : 5.907138499999999
+               },
+               "southwest" : {
+                  "lat" : 53.1595767,
+                  "lng" : 5.7298697
+               }
+            },
+            "location" : {
+               "lat" : 53.2012334,
+               "lng" : 5.7999133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2410508,
+                  "lng" : 5.907138499999999
+               },
+               "southwest" : {
+                  "lat" : 53.1595767,
+                  "lng" : 5.7298697
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

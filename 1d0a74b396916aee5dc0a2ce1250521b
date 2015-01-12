@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S2",
+               "short_name" : "S2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S2, Warszawa, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2003324,
+                  "lng" : 21.2758934
+               },
+               "southwest" : {
+                  "lat" : 52.1387866,
+                  "lng" : 20.8324511
+               }
+            },
+            "location" : {
+               "lat" : 52.1523584,
+               "lng" : 21.066606
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2003324,
+                  "lng" : 21.2758934
+               },
+               "southwest" : {
+                  "lat" : 52.1387866,
+                  "lng" : 20.8324511
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "S2",
+               "short_name" : "S2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "otwocki",
+               "short_name" : "otwocki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "mazowieckie",
+               "short_name" : "mazowieckie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05-462",
+               "short_name" : "05-462",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S2, 05-462, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.198467,
+                  "lng" : 21.2736189
+               },
+               "southwest" : {
+                  "lat" : 52.1982039,
+                  "lng" : 21.2709582
+               }
+            },
+            "location" : {
+               "lat" : 52.198344,
+               "lng" : 21.2723477
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1996844302915,
+                  "lng" : 21.2736375302915
+               },
+               "southwest" : {
+                  "lat" : 52.1969864697085,
+                  "lng" : 21.2709395697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

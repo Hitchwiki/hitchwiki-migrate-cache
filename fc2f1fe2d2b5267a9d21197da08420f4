@@ -1,0 +1,139 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern District",
+               "short_name" : "Eastern District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong Island",
+               "short_name" : "Hong Kong Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong",
+               "short_name" : "HK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern District, Hong Kong",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.294839,
+                  "lng" : 114.2574509
+               },
+               "southwest" : {
+                  "lat" : 22.2564131,
+                  "lng" : 114.1895111
+               }
+            },
+            "location" : {
+               "lat" : 22.2733889,
+               "lng" : 114.2360778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.294839,
+                  "lng" : 114.2574509
+               },
+               "southwest" : {
+                  "lat" : 22.2564131,
+                  "lng" : 114.1895111
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eastern Province",
+               "short_name" : "Eastern Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sri Lanka",
+               "short_name" : "LK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eastern Province, Sri Lanka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.980805799999999,
+                  "lng" : 81.87870289999999
+               },
+               "southwest" : {
+                  "lat" : 6.5076455,
+                  "lng" : 80.75840989999999
+               }
+            },
+            "location" : {
+               "lat" : 7.7853051,
+               "lng" : 81.42789839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.980805799999999,
+                  "lng" : 81.87870289999999
+               },
+               "southwest" : {
+                  "lat" : 6.5076455,
+                  "lng" : 80.75840989999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dornod",
+               "short_name" : "Dornod",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mongolia",
+               "short_name" : "MN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dornod, Mongolia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.28290879999999,
+                  "lng" : 119.924301
+               },
+               "southwest" : {
+                  "lat" : 46.23549999999999,
+                  "lng" : 111.9632341
+               }
+            },
+            "location" : {
+               "lat" : 47.4658154,
+               "lng" : 115.3927119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.28290879999999,
+                  "lng" : 119.924301
+               },
+               "southwest" : {
+                  "lat" : 46.23549999999999,
+                  "lng" : 111.9632341
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

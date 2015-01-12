@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rødby",
+               "short_name" : "Rødby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lolland Municipality",
+               "short_name" : "Lolland Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region Zealand",
+               "short_name" : "Region Zealand",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4970",
+               "short_name" : "4970",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4970 Rødby, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.77530849999999,
+                  "lng" : 11.5276926
+               },
+               "southwest" : {
+                  "lat" : 54.5937509,
+                  "lng" : 11.2460622
+               }
+            },
+            "location" : {
+               "lat" : 54.6937,
+               "lng" : 11.389576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.77530849999999,
+                  "lng" : 11.5276926
+               },
+               "southwest" : {
+                  "lat" : 54.5937509,
+                  "lng" : 11.2460622
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

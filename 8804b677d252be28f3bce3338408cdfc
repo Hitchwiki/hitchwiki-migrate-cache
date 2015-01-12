@@ -1,0 +1,323 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Étienne",
+               "short_name" : "Saint-Étienne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire",
+               "short_name" : "42",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Étienne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.476736,
+                  "lng" : 4.4888749
+               },
+               "southwest" : {
+                  "lat" : 45.371484,
+                  "lng" : 4.2440541
+               }
+            },
+            "location" : {
+               "lat" : 45.439695,
+               "lng" : 4.3871779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.476736,
+                  "lng" : 4.4888749
+               },
+               "southwest" : {
+                  "lat" : 45.371484,
+                  "lng" : 4.352435
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Étienne-sur-Chalaronne",
+               "short_name" : "Saint-Étienne-sur-Chalaronne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ain",
+               "short_name" : "01",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Étienne-sur-Chalaronne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.172042,
+                  "lng" : 4.904961
+               },
+               "southwest" : {
+                  "lat" : 46.11825,
+                  "lng" : 4.833778
+               }
+            },
+            "location" : {
+               "lat" : 46.147915,
+               "lng" : 4.866148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.172042,
+                  "lng" : 4.904961
+               },
+               "southwest" : {
+                  "lat" : 46.11825,
+                  "lng" : 4.833778
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Étienne-le-Molard",
+               "short_name" : "Saint-Étienne-le-Molard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loire",
+               "short_name" : "42",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Étienne-le-Molard, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.765502,
+                  "lng" : 4.136095000000001
+               },
+               "southwest" : {
+                  "lat" : 45.7205099,
+                  "lng" : 4.0633499
+               }
+            },
+            "location" : {
+               "lat" : 45.73159099999999,
+               "lng" : 4.088677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.765502,
+                  "lng" : 4.136095000000001
+               },
+               "southwest" : {
+                  "lat" : 45.7205099,
+                  "lng" : 4.0633499
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Étienne-la-Varenne",
+               "short_name" : "Saint-Étienne-la-Varenne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "69",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Étienne-la-Varenne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.090632,
+                  "lng" : 4.652148
+               },
+               "southwest" : {
+                  "lat" : 46.062329,
+                  "lng" : 4.591723
+               }
+            },
+            "location" : {
+               "lat" : 46.076756,
+               "lng" : 4.630138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.090632,
+                  "lng" : 4.652148
+               },
+               "southwest" : {
+                  "lat" : 46.062329,
+                  "lng" : 4.591723
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Étienne-sur-Reyssouze",
+               "short_name" : "Saint-Étienne-sur-Reyssouze",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ain",
+               "short_name" : "01",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Étienne-sur-Reyssouze, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4243921,
+                  "lng" : 5.034541900000001
+               },
+               "southwest" : {
+                  "lat" : 46.3751861,
+                  "lng" : 4.971630999999999
+               }
+            },
+            "location" : {
+               "lat" : 46.414873,
+               "lng" : 4.999027
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4243921,
+                  "lng" : 5.034541900000001
+               },
+               "southwest" : {
+                  "lat" : 46.3751861,
+                  "lng" : 4.971630999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Étienne",
+               "short_name" : "Saint-Étienne",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bonneville",
+               "short_name" : "Bonneville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "74",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74130",
+               "short_name" : "74130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint-Étienne, 74130 Bonneville, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.094334,
+               "lng" : 6.408549
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.09568298029149,
+                  "lng" : 6.409897980291502
+               },
+               "southwest" : {
+                  "lat" : 46.09298501970849,
+                  "lng" : 6.407200019708498
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

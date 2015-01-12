@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A21",
+               "short_name" : "A21",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A21, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4519811,
+                  "lng" : 3.3723129
+               },
+               "southwest" : {
+                  "lat" : 50.3047615,
+                  "lng" : 2.7059715
+               }
+            },
+            "location" : {
+               "lat" : 50.4033594,
+               "lng" : 3.0486514
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4519811,
+                  "lng" : 3.3723129
+               },
+               "southwest" : {
+                  "lat" : 50.3047615,
+                  "lng" : 2.7059715
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

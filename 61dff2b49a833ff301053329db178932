@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tatarstan",
+               "short_name" : "Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tatarstan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6772159,
+                  "lng" : 54.2602891
+               },
+               "southwest" : {
+                  "lat" : 53.976026,
+                  "lng" : 47.2586476
+               }
+            },
+            "location" : {
+               "lat" : 55.1802364,
+               "lng" : 50.7263945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6772159,
+                  "lng" : 54.2602891
+               },
+               "southwest" : {
+                  "lat" : 53.976026,
+                  "lng" : 47.2586476
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

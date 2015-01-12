@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A38",
+               "short_name" : "A38",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Côte-d'Or",
+               "short_name" : "21",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bourgogne",
+               "short_name" : "Bourgogne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A38, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3379199,
+                  "lng" : 4.9758372
+               },
+               "southwest" : {
+                  "lat" : 47.2524587,
+                  "lng" : 4.558309
+               }
+            },
+            "location" : {
+               "lat" : 47.3022438,
+               "lng" : 4.7682247
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3379199,
+                  "lng" : 4.9758372
+               },
+               "southwest" : {
+                  "lat" : 47.2524587,
+                  "lng" : 4.558309
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A38",
+               "short_name" : "A38",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plombières-lès-Dijon",
+               "short_name" : "Plombières-lès-Dijon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Côte-d'Or",
+               "short_name" : "21",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bourgogne",
+               "short_name" : "Bourgogne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21370",
+               "short_name" : "21370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A38, 21370 Plombières-lès-Dijon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.33425,
+                  "lng" : 4.9820838
+               },
+               "southwest" : {
+                  "lat" : 47.332319,
+                  "lng" : 4.9754113
+               }
+            },
+            "location" : {
+               "lat" : 47.3323683,
+               "lng" : 4.9785923
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3346334802915,
+                  "lng" : 4.9820838
+               },
+               "southwest" : {
+                  "lat" : 47.3319355197085,
+                  "lng" : 4.9754113
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

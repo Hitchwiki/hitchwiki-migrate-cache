@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A18",
+               "short_name" : "A18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "bolesławiecki",
+               "short_name" : "bolesławiecki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Województwo dolnośląskie",
+               "short_name" : "Województwo dolnośląskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A18, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3577768,
+                  "lng" : 15.6403376
+               },
+               "southwest" : {
+                  "lat" : 51.3308416,
+                  "lng" : 15.592711
+               }
+            },
+            "location" : {
+               "lat" : 51.3455203,
+               "lng" : 15.6176889
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3577768,
+                  "lng" : 15.6403376
+               },
+               "southwest" : {
+                  "lat" : 51.3308416,
+                  "lng" : 15.592711
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,295 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamm",
+               "short_name" : "Hamm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamm, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7445973,
+                  "lng" : 7.997343399999999
+               },
+               "southwest" : {
+                  "lat" : 51.5778978,
+                  "lng" : 7.674777499999999
+               }
+            },
+            "location" : {
+               "lat" : 51.6738583,
+               "lng" : 7.815981600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7445973,
+                  "lng" : 7.997343399999999
+               },
+               "southwest" : {
+                  "lat" : 51.5778978,
+                  "lng" : 7.674777499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Düsseldorf-Hamm",
+               "short_name" : "Düsseldorf-Hamm",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stadtbezirke 03",
+               "short_name" : "Stadtbezirke 03",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Düsseldorf-Hamm, Düsseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2128509,
+                  "lng" : 6.762192100000001
+               },
+               "southwest" : {
+                  "lat" : 51.1825419,
+                  "lng" : 6.7294681
+               }
+            },
+            "location" : {
+               "lat" : 51.20500000000001,
+               "lng" : 6.744444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2128509,
+                  "lng" : 6.762192100000001
+               },
+               "southwest" : {
+                  "lat" : 51.1825419,
+                  "lng" : 6.7294681
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamm",
+               "short_name" : "Hamm",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Viersen",
+               "short_name" : "Viersen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41748",
+               "short_name" : "41748",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamm, 41748 Viersen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.25080579999999,
+               "lng" : 6.4239501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2521547802915,
+                  "lng" : 6.425299080291502
+               },
+               "southwest" : {
+                  "lat" : 51.2494568197085,
+                  "lng" : 6.422601119708498
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamm",
+               "short_name" : "Hamm",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Marl",
+               "short_name" : "Marl",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45772",
+               "short_name" : "45772",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamm, 45772 Marl, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6871279,
+                  "lng" : 7.141246900000001
+               },
+               "southwest" : {
+                  "lat" : 51.6766032,
+                  "lng" : 7.1303984
+               }
+            },
+            "location" : {
+               "lat" : 51.6792994,
+               "lng" : 7.136472299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6871279,
+                  "lng" : 7.141246900000001
+               },
+               "southwest" : {
+                  "lat" : 51.6766032,
+                  "lng" : 7.1303984
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamm",
+               "short_name" : "Hamm",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Haltern am See",
+               "short_name" : "Haltern am See",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45721",
+               "short_name" : "45721",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamm, 45721 Haltern am See, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7221035,
+                  "lng" : 7.174425400000001
+               },
+               "southwest" : {
+                  "lat" : 51.718286,
+                  "lng" : 7.167206299999999
+               }
+            },
+            "location" : {
+               "lat" : 51.7206042,
+               "lng" : 7.170407300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7221035,
+                  "lng" : 7.174425400000001
+               },
+               "southwest" : {
+                  "lat" : 51.718286,
+                  "lng" : 7.167206299999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

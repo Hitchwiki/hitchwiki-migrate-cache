@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Feldkirch",
+               "short_name" : "Feldkirch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Feldkirch",
+               "short_name" : "Feldkirch",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Feldkirch District",
+               "short_name" : "Feldkirch District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vorarlberg",
+               "short_name" : "Vorarlberg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Feldkirch, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2997299,
+                  "lng" : 9.632739899999999
+               },
+               "southwest" : {
+                  "lat" : 47.2045,
+                  "lng" : 9.530909899999999
+               }
+            },
+            "location" : {
+               "lat" : 47.24128,
+               "lng" : 9.601899999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2997299,
+                  "lng" : 9.632739899999999
+               },
+               "southwest" : {
+                  "lat" : 47.2045,
+                  "lng" : 9.530909899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

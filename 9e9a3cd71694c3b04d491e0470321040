@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fréjus",
+               "short_name" : "Fréjus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Var",
+               "short_name" : "83",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fréjus, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.533516,
+                  "lng" : 6.896478
+               },
+               "southwest" : {
+                  "lat" : 43.368269,
+                  "lng" : 6.6859386
+               }
+            },
+            "location" : {
+               "lat" : 43.43315200000001,
+               "lng" : 6.737034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.533516,
+                  "lng" : 6.896478
+               },
+               "southwest" : {
+                  "lat" : 43.368269,
+                  "lng" : 6.6859386
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

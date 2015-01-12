@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ede",
+               "short_name" : "Ede",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ede",
+               "short_name" : "Ede",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ede, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0923153,
+                  "lng" : 5.8139144
+               },
+               "southwest" : {
+                  "lat" : 52.0125983,
+                  "lng" : 5.586379399999999
+               }
+            },
+            "location" : {
+               "lat" : 52.0401675,
+               "lng" : 5.6648594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0923153,
+                  "lng" : 5.8139144
+               },
+               "southwest" : {
+                  "lat" : 52.0125983,
+                  "lng" : 5.586379399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ede",
+               "short_name" : "Ede",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osun",
+               "short_name" : "Osun",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nigeria",
+               "short_name" : "NG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ede, Nigeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.767209100000001,
+                  "lng" : 4.4684314
+               },
+               "southwest" : {
+                  "lat" : 7.689897500000001,
+                  "lng" : 4.4191647
+               }
+            },
+            "location" : {
+               "lat" : 7.733332999999999,
+               "lng" : 4.433333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.767209100000001,
+                  "lng" : 4.4684314
+               },
+               "southwest" : {
+                  "lat" : 7.689897500000001,
+                  "lng" : 4.4191647
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edenton Northeastern Regional Airport",
+               "short_name" : "Edenton Northeastern Regional Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Edenton",
+               "short_name" : "Edenton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "4, Yeopim",
+               "short_name" : "4, Yeopim",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chowan County",
+               "short_name" : "Chowan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27932",
+               "short_name" : "27932",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Edenton Northeastern Regional Airport (EDE), Edenton, NC 27932, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0409577,
+                  "lng" : -76.55171659999999
+               },
+               "southwest" : {
+                  "lat" : 36.0189799,
+                  "lng" : -76.5719819
+               }
+            },
+            "location" : {
+               "lat" : 36.027222,
+               "lng" : -76.566948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0409577,
+                  "lng" : -76.55171659999999
+               },
+               "southwest" : {
+                  "lat" : 36.0189799,
+                  "lng" : -76.5719819
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

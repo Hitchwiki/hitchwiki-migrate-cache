@@ -1,0 +1,1624 @@
+{
+  "totalResultsCount": 562248,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Minsk",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": -169.002365,
+        "south": 41.188862,
+        "north": 81.857361,
+        "west": 12.096194
+      },
+      "asciiName": "Eastern Europe",
+      "countryId": "2017370",
+      "fcl": "L",
+      "score": 43.64482116699219,
+      "cc2": "RU,UA,PL,RO,CZ,HU,BY,BG,SK,MD",
+      "countryCode": "RU",
+      "lat": "51.72703",
+      "fcode": "RGN",
+      "continentCode": "EU",
+      "lng": "28.38867",
+      "geonameId": 7729884,
+      "toponymName": "Eastern Europe",
+      "population": 294600000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Eastern_Europe",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Eastern Europe",
+      "fclName": "parks,area, ...",
+      "countryName": "Russia",
+      "fcodeName": "region",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.224430680692063,
+        "south": 46.200364122331465,
+        "north": 46.30563208206934,
+        "west": 20.07204759079234
+      },
+      "asciiName": "Szeged",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 14.56085205078125,
+      "countryCode": "HU",
+      "adminId1": "721589",
+      "lat": "46.253",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode1": "06",
+      "lng": "20.14824",
+      "geonameId": 715429,
+      "toponymName": "Szeged",
+      "population": 164883,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Сегед",
+          "lang": "bg"
+        },
+        {
+          "name": "Szegedin",
+          "lang": "de"
+        },
+        {
+          "name": "QZD",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sz%C5%91reg",
+          "lang": "link"
+        },
+        {
+          "name": "سکدین",
+          "lang": "ota"
+        },
+        {
+          "name": "Szeghed",
+          "lang": "ro"
+        },
+        {
+          "name": "SZE",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Szeged",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Csongrád"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Kiev",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 36.49493728150234,
+        "south": 49.82555955103481,
+        "north": 50.1360684489652,
+        "west": 36.010498718497665
+      },
+      "asciiName": "Kharkiv",
+      "countryId": "690791",
+      "fcl": "P",
+      "score": 14.56085205078125,
+      "countryCode": "UA",
+      "adminId1": "706482",
+      "lat": "49.98081",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode1": "07",
+      "lng": "36.25272",
+      "geonameId": 706483,
+      "toponymName": "Kharkiv",
+      "population": 1430885,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "خاركوف",
+          "lang": "ar"
+        },
+        {
+          "name": "Харков",
+          "lang": "bg"
+        },
+        {
+          "name": "Charkov",
+          "lang": "cs"
+        },
+        {
+          "name": "Kharkiv",
+          "lang": "da"
+        },
+        {
+          "name": "Charkiw",
+          "lang": "de"
+        },
+        {
+          "name": "Kharkiv",
+          "lang": "en"
+        },
+        {
+          "name": "Ĥarkov",
+          "lang": "eo"
+        },
+        {
+          "name": "Jarkov",
+          "lang": "es"
+        },
+        {
+          "name": "Harkiv",
+          "lang": "et"
+        },
+        {
+          "name": "Harkova",
+          "lang": "fi"
+        },
+        {
+          "name": "Kharkiv",
+          "lang": "fr"
+        },
+        {
+          "name": "חרקוב",
+          "lang": "he"
+        },
+        {
+          "name": "HRK",
+          "lang": "iata"
+        },
+        {
+          "name": "Kharkiv",
+          "lang": "id"
+        },
+        {
+          "name": "Kharkiv",
+          "lang": "it"
+        },
+        {
+          "name": "ハリコフ",
+          "lang": "ja"
+        },
+        {
+          "name": "ხარკოვი",
+          "lang": "ka"
+        },
+        {
+          "name": "하르키우",
+          "lang": "ko"
+        },
+        {
+          "name": "Charcovia",
+          "lang": "la"
+        },
+        {
+          "name": "Charkovas",
+          "lang": "lt"
+        },
+        {
+          "name": "Harkiva",
+          "lang": "lv"
+        },
+        {
+          "name": "Charkov",
+          "lang": "nl"
+        },
+        {
+          "name": "Kharkiv",
+          "lang": "nn"
+        },
+        {
+          "name": "Charków",
+          "lang": "pl"
+        },
+        {
+          "name": "Carcóvia",
+          "lang": "pt"
+        },
+        {
+          "name": "Harkov",
+          "lang": "ro"
+        },
+        {
+          "name": "Харьков",
+          "lang": "ru"
+        },
+        {
+          "name": "Charkov",
+          "lang": "sk"
+        },
+        {
+          "name": "Charkiv",
+          "lang": "sv"
+        },
+        {
+          "name": "Kharkov",
+          "lang": "tr"
+        },
+        {
+          "name": "Харків",
+          "lang": "uk"
+        },
+        {
+          "name": "KIV",
+          "lang": "unlc"
+        },
+        {
+          "name": "Kharkiv",
+          "lang": "vi"
+        },
+        {
+          "name": "哈爾科夫",
+          "lang": "zh-TW"
+        }
+      ],
+      "adminName2": "",
+      "name": "Kharkiv",
+      "fclName": "city, village,...",
+      "countryName": "Ukraine",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Kharkiv"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Yekaterinburg",
+        "dstOffset": 5
+      },
+      "bbox": {
+        "east": 60.88902889372715,
+        "south": 56.70113897479854,
+        "north": 57.00266102520146,
+        "west": 60.33537110627285
+      },
+      "asciiName": "Yekaterinburg",
+      "countryId": "2017370",
+      "fcl": "P",
+      "score": 12.480730056762695,
+      "countryCode": "RU",
+      "adminId1": "1490542",
+      "lat": "56.8519",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode1": "71",
+      "lng": "60.6122",
+      "geonameId": 1486209,
+      "toponymName": "Yekaterinburg",
+      "population": 1349772,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Екатеринбург",
+          "lang": "bg"
+        },
+        {
+          "name": "Jekatěrinburg",
+          "lang": "cs"
+        },
+        {
+          "name": "Екатеринбург",
+          "lang": "cv"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "da"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "de"
+        },
+        {
+          "name": "Yekaterinburg",
+          "lang": "en"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "eo"
+        },
+        {
+          "name": "Ekaterimburgo",
+          "lang": "es"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "et"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "fi"
+        },
+        {
+          "name": "Iekaterinbourg",
+          "lang": "fr"
+        },
+        {
+          "name": "יקטרינבורג",
+          "lang": "he"
+        },
+        {
+          "name": "Ekaterinburg",
+          "lang": "hr"
+        },
+        {
+          "name": "Jekatyerinburg",
+          "lang": "hu"
+        },
+        {
+          "name": "SVX",
+          "lang": "iata"
+        },
+        {
+          "name": "Yekaterinburg",
+          "lang": "id"
+        },
+        {
+          "name": "Ekaterinburg",
+          "lang": "it"
+        },
+        {
+          "name": "エカテリンブルク",
+          "lang": "ja"
+        },
+        {
+          "name": "예카테린부르크",
+          "lang": "ko"
+        },
+        {
+          "name": "Catharinoburgum",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Yekaterinburg",
+          "lang": "link"
+        },
+        {
+          "name": "Jekaterinburgas",
+          "lang": "lt"
+        },
+        {
+          "name": "Jekaterinburga",
+          "lang": "lv"
+        },
+        {
+          "name": "Jekaterinenburg",
+          "lang": "nl"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "nn"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "no"
+        },
+        {
+          "name": "Jekaterynburg",
+          "lang": "pl"
+        },
+        {
+          "name": "Yekaterinburg",
+          "lang": "pt"
+        },
+        {
+          "name": "Екатеринбург",
+          "lang": "ru"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "sk"
+        },
+        {
+          "name": "Jekaterinburg",
+          "lang": "sv"
+        },
+        {
+          "name": "Єкатеринбург",
+          "lang": "uk"
+        },
+        {
+          "name": "YEK",
+          "lang": "unlc"
+        },
+        {
+          "name": "葉卡捷琳堡",
+          "lang": "zh-TW"
+        }
+      ],
+      "adminName2": "",
+      "name": "Yekaterinburg",
+      "fclName": "city, village,...",
+      "countryName": "Russia",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Sverdlovsk"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 23.900090524586652,
+        "south": 44.24514032965381,
+        "north": 44.38819307034619,
+        "west": 23.69990947541335
+      },
+      "asciiName": "Craiova",
+      "countryId": "798549",
+      "fcl": "P",
+      "score": 12.480730056762695,
+      "countryCode": "RO",
+      "adminId1": "679134",
+      "lat": "44.31667",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode1": "17",
+      "lng": "23.8",
+      "geonameId": 680332,
+      "toponymName": "Craiova",
+      "population": 304142,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "كرايوفا",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Краёва",
+          "lang": "be"
+        },
+        {
+          "name": "Крайова",
+          "lang": "bg"
+        },
+        {
+          "name": "Крайова",
+          "lang": "ce"
+        },
+        {
+          "name": "Craiova",
+          "lang": "cs"
+        },
+        {
+          "name": "Craiova",
+          "lang": "de"
+        },
+        {
+          "name": "Κραϊόβα",
+          "lang": "el"
+        },
+        {
+          "name": "Craiova",
+          "lang": "en"
+        },
+        {
+          "name": "Craiova",
+          "lang": "eo"
+        },
+        {
+          "name": "Craiova",
+          "lang": "et"
+        },
+        {
+          "name": "کرایووا",
+          "lang": "fa"
+        },
+        {
+          "name": "Craiova",
+          "lang": "fi"
+        },
+        {
+          "name": "Craiova",
+          "lang": "fr"
+        },
+        {
+          "name": "קריובה",
+          "lang": "he"
+        },
+        {
+          "name": "Craiova",
+          "lang": "hu"
+        },
+        {
+          "name": "CRA",
+          "lang": "iata"
+        },
+        {
+          "name": "Craiova",
+          "lang": "id"
+        },
+        {
+          "name": "クラヨーヴァ",
+          "lang": "ja"
+        },
+        {
+          "name": "크라이오바",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Craiova",
+          "lang": "link"
+        },
+        {
+          "name": "Krajova",
+          "lang": "lt"
+        },
+        {
+          "name": "Krajova",
+          "lang": "lv"
+        },
+        {
+          "name": "Крајова",
+          "lang": "mk"
+        },
+        {
+          "name": "Craiova",
+          "lang": "nl"
+        },
+        {
+          "name": "Krajowa",
+          "lang": "pl"
+        },
+        {
+          "name": "کرائیؤوا",
+          "lang": "pnb"
+        },
+        {
+          "name": "کرايووا",
+          "lang": "ps"
+        },
+        {
+          "name": "Craiova",
+          "lang": "pt"
+        },
+        {
+          "name": "Craiova",
+          "lang": "ro"
+        },
+        {
+          "name": "Крайова",
+          "lang": "ru"
+        },
+        {
+          "name": "Крајова",
+          "lang": "sr"
+        },
+        {
+          "name": "Крайова",
+          "lang": "tg"
+        },
+        {
+          "name": "Крайова",
+          "lang": "uk"
+        },
+        {
+          "name": "CRV",
+          "lang": "unlc"
+        },
+        {
+          "name": "克拉約瓦",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Craiova",
+      "fclName": "city, village,...",
+      "countryName": "Romania",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Dolj"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 26.356068772048133,
+        "south": 44.254409727738995,
+        "north": 44.61008551091711,
+        "west": 25.856455642014367
+      },
+      "asciiName": "Bucharest",
+      "countryId": "798549",
+      "fcl": "P",
+      "score": 12.480730056762695,
+      "adminId2": "8335003",
+      "countryCode": "RO",
+      "adminId1": "683504",
+      "lat": "44.43225",
+      "fcode": "PPLC",
+      "continentCode": "EU",
+      "adminCode2": "179132",
+      "adminCode1": "10",
+      "lng": "26.10626",
+      "geonameId": 683506,
+      "toponymName": "Bucharest",
+      "population": 1877155,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "ቡካረስት",
+          "lang": "am"
+        },
+        {
+          "name": "بوخارست",
+          "lang": "ar"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "ast"
+        },
+        {
+          "name": "Букурещ",
+          "lang": "bg"
+        },
+        {
+          "name": "པུ་ཁ་རེ་སིད",
+          "lang": "bo"
+        },
+        {
+          "name": "Bukurešt",
+          "lang": "bs"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "ca"
+        },
+        {
+          "name": "Bukurešť",
+          "lang": "cs"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "da"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "de"
+        },
+        {
+          "name": "Βουκουρέστι",
+          "lang": "el"
+        },
+        {
+          "name": "Bucharest",
+          "lang": "en"
+        },
+        {
+          "name": "Bukareŝto",
+          "lang": "eo"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "es"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "et"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "eu"
+        },
+        {
+          "name": "بخارست",
+          "lang": "fa"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "fi"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "fr"
+        },
+        {
+          "name": "Bucarèst",
+          "lang": "frp"
+        },
+        {
+          "name": "Bûkarest",
+          "lang": "fy"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "gl"
+        },
+        {
+          "name": "Bukurešt",
+          "lang": "hbs"
+        },
+        {
+          "name": "בוקרשט",
+          "lang": "he"
+        },
+        {
+          "name": "Bukurešt",
+          "lang": "hr"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "hu"
+        },
+        {
+          "name": "Բուխարեստ",
+          "lang": "hy"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "ia"
+        },
+        {
+          "name": "BUH",
+          "lang": "iata"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "id"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "io"
+        },
+        {
+          "name": "Búkarest",
+          "lang": "is"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "it"
+        },
+        {
+          "name": "ブカレスト",
+          "lang": "ja"
+        },
+        {
+          "name": "ბუქარესტი",
+          "lang": "ka"
+        },
+        {
+          "name": "부쿠레슈티",
+          "lang": "ko"
+        },
+        {
+          "name": "Bucaresta",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bucharest",
+          "lang": "link"
+        },
+        {
+          "name": "Bukareštas",
+          "lang": "lt"
+        },
+        {
+          "name": "Bukareste",
+          "lang": "lv"
+        },
+        {
+          "name": "Букурешт",
+          "lang": "mk"
+        },
+        {
+          "name": "Boekarest",
+          "lang": "nl"
+        },
+        {
+          "name": "Bucureşti",
+          "lang": "no"
+        },
+        {
+          "name": "Bucarèst",
+          "lang": "oc"
+        },
+        {
+          "name": "Bukareszt",
+          "lang": "pl"
+        },
+        {
+          "name": "Bucareste",
+          "lang": "pt"
+        },
+        {
+          "name": "Bucaresta",
+          "lang": "rm"
+        },
+        {
+          "name": "Bukureshti",
+          "lang": "rmy"
+        },
+        {
+          "name": "București",
+          "lang": "ro"
+        },
+        {
+          "name": "Бухарест",
+          "lang": "ru"
+        },
+        {
+          "name": "Bucarest",
+          "lang": "scn"
+        },
+        {
+          "name": "Bukurešť",
+          "lang": "sk"
+        },
+        {
+          "name": "Bukureshti",
+          "lang": "sq"
+        },
+        {
+          "name": "Букурешт",
+          "lang": "sr"
+        },
+        {
+          "name": "Bukarest",
+          "lang": "sv"
+        },
+        {
+          "name": "Bukareste",
+          "lang": "tet"
+        },
+        {
+          "name": "Бухарест",
+          "lang": "tg"
+        },
+        {
+          "name": "Bükreş",
+          "lang": "tr"
+        },
+        {
+          "name": "بۇخارېست",
+          "lang": "ug"
+        },
+        {
+          "name": "Бухарест",
+          "lang": "uk"
+        },
+        {
+          "name": "BUH",
+          "lang": "unlc"
+        },
+        {
+          "name": "Bucharest",
+          "lang": "vo"
+        },
+        {
+          "name": "בוקאַרעשט",
+          "lang": "yi"
+        },
+        {
+          "name": "布加勒斯特",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Municipiul Bucureşti",
+      "name": "Bucharest",
+      "fclName": "city, village,...",
+      "countryName": "Romania",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Bucureşti"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Bucharest",
+        "dstOffset": 3
+      },
+      "asciiName": "Moldoveanu",
+      "countryId": "798549",
+      "fcl": "T",
+      "score": 12.480730056762695,
+      "countryCode": "RO",
+      "lat": "45.59955",
+      "fcode": "PK",
+      "continentCode": "EU",
+      "elevation": 2544,
+      "adminCode1": "00",
+      "lng": "24.73616",
+      "geonameId": 672907,
+      "toponymName": "Moldoveanu",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Moldoveanu_Peak",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Moldoveanu",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Romania",
+      "fcodeName": "peak",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Bratislava",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 21.353860691210883,
+        "south": 48.65083006219659,
+        "north": 48.77706193780341,
+        "west": 21.162307308789117
+      },
+      "asciiName": "Kosice",
+      "countryId": "3057568",
+      "fcl": "P",
+      "score": 12.480730056762695,
+      "countryCode": "SK",
+      "adminId1": "865084",
+      "lat": "48.71395",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode1": "03",
+      "lng": "21.25808",
+      "geonameId": 724443,
+      "toponymName": "Košice",
+      "population": 236563,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "كوشيتسه",
+          "lang": "ar"
+        },
+        {
+          "name": "Koşitse",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Кошыцэ",
+          "lang": "be"
+        },
+        {
+          "name": "Кошице",
+          "lang": "bg"
+        },
+        {
+          "name": "Košice",
+          "lang": "br"
+        },
+        {
+          "name": "Košice",
+          "lang": "bs"
+        },
+        {
+          "name": "Košice",
+          "lang": "cs"
+        },
+        {
+          "name": "Košice",
+          "lang": "de"
+        },
+        {
+          "name": "Κόσιτσε",
+          "lang": "el"
+        },
+        {
+          "name": "Košice",
+          "lang": "en"
+        },
+        {
+          "name": "Košice",
+          "lang": "eo"
+        },
+        {
+          "name": "Košice",
+          "lang": "es"
+        },
+        {
+          "name": "Košice",
+          "lang": "et"
+        },
+        {
+          "name": "کوشیتسه",
+          "lang": "fa"
+        },
+        {
+          "name": "Košice",
+          "lang": "fi"
+        },
+        {
+          "name": "Košice",
+          "lang": "fr"
+        },
+        {
+          "name": "קושיצה",
+          "lang": "he"
+        },
+        {
+          "name": "Kassa",
+          "lang": "hu"
+        },
+        {
+          "name": "KSC",
+          "lang": "iata"
+        },
+        {
+          "name": "Košice",
+          "lang": "it"
+        },
+        {
+          "name": "コシツェ",
+          "lang": "ja"
+        },
+        {
+          "name": "კოშიცე",
+          "lang": "ka"
+        },
+        {
+          "name": "코시체",
+          "lang": "ko"
+        },
+        {
+          "name": "Cassovia",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Ko%C5%A1ice",
+          "lang": "link"
+        },
+        {
+          "name": "Košicė",
+          "lang": "lt"
+        },
+        {
+          "name": "Košice",
+          "lang": "lv"
+        },
+        {
+          "name": "Кошице",
+          "lang": "mk"
+        },
+        {
+          "name": "कोशित्सा",
+          "lang": "mr"
+        },
+        {
+          "name": "Košice",
+          "lang": "nl"
+        },
+        {
+          "name": "Košice",
+          "lang": "no"
+        },
+        {
+          "name": "Кошице",
+          "lang": "os"
+        },
+        {
+          "name": "Koszyce",
+          "lang": "pl"
+        },
+        {
+          "name": "کوشیسے",
+          "lang": "pnb"
+        },
+        {
+          "name": "Košice",
+          "lang": "pt"
+        },
+        {
+          "name": "Cașovia",
+          "lang": "ro"
+        },
+        {
+          "name": "Кошице",
+          "lang": "ru"
+        },
+        {
+          "name": "Košice",
+          "lang": "sk"
+        },
+        {
+          "name": "Košice",
+          "lang": "sl"
+        },
+        {
+          "name": "Кошице",
+          "lang": "sr"
+        },
+        {
+          "name": "Košice",
+          "lang": "sv"
+        },
+        {
+          "name": "Kösice",
+          "lang": "tr"
+        },
+        {
+          "name": "Кошице",
+          "lang": "uk"
+        },
+        {
+          "name": "KSC",
+          "lang": "unlc"
+        },
+        {
+          "name": "科希策",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Košice",
+      "fclName": "city, village,...",
+      "countryName": "Slovakia",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Košický"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Zaporozhye",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 35.36315078093979,
+        "south": 47.70710422976512,
+        "north": 47.938679770234884,
+        "west": 35.01747721906021
+      },
+      "asciiName": "Zaporizhzhya",
+      "countryId": "690791",
+      "fcl": "P",
+      "score": 12.480730056762695,
+      "countryCode": "UA",
+      "adminId1": "687699",
+      "lat": "47.82289",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode1": "26",
+      "lng": "35.19031",
+      "geonameId": 687700,
+      "toponymName": "Zaporizhzhya",
+      "population": 796217,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Saporischschja",
+          "lang": "de"
+        },
+        {
+          "name": "Zaporizhia",
+          "lang": "en"
+        },
+        {
+          "name": "Zaporijia",
+          "lang": "fr"
+        },
+        {
+          "name": "OZH",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Zaporizhia",
+          "lang": "link"
+        },
+        {
+          "name": "Запорожье",
+          "lang": "ru"
+        },
+        {
+          "name": "Запоріжжя",
+          "lang": "uk"
+        },
+        {
+          "name": "ZPR",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Zaporizhia",
+      "fclName": "city, village,...",
+      "countryName": "Ukraine",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Zaporizhia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Minsk",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.858587972178363,
+        "south": 53.72870699326831,
+        "north": 54.071293006731686,
+        "west": 27.274745427821635
+      },
+      "asciiName": "Minsk",
+      "countryId": "630336",
+      "fcl": "P",
+      "score": 12.480730056762695,
+      "countryCode": "BY",
+      "adminId1": "625143",
+      "lat": "53.9",
+      "fcode": "PPLC",
+      "continentCode": "EU",
+      "adminCode1": "04",
+      "lng": "27.56667",
+      "geonameId": 625144,
+      "toponymName": "Minsk",
+      "population": 1742124,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "مينسك",
+          "lang": "ar"
+        },
+        {
+          "name": "Мінск",
+          "lang": "be"
+        },
+        {
+          "name": "Минск",
+          "lang": "bg"
+        },
+        {
+          "name": "མིན་སིཀ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Minsk",
+          "lang": "bs"
+        },
+        {
+          "name": "Minsk",
+          "lang": "ca"
+        },
+        {
+          "name": "مینسک",
+          "lang": "ckb"
+        },
+        {
+          "name": "Minsk",
+          "lang": "cs"
+        },
+        {
+          "name": "Мѣньскъ",
+          "lang": "cu"
+        },
+        {
+          "name": "Минск",
+          "lang": "cv"
+        },
+        {
+          "name": "Minsk",
+          "lang": "da"
+        },
+        {
+          "name": "Minsk",
+          "lang": "de"
+        },
+        {
+          "name": "Μινσκ",
+          "lang": "el"
+        },
+        {
+          "name": "Minsk",
+          "lang": "en"
+        },
+        {
+          "name": "Minsko",
+          "lang": "eo"
+        },
+        {
+          "name": "Minsk",
+          "lang": "es"
+        },
+        {
+          "name": "Minsk",
+          "lang": "et"
+        },
+        {
+          "name": "Minsk",
+          "lang": "eu"
+        },
+        {
+          "name": "مینسک",
+          "lang": "fa"
+        },
+        {
+          "name": "Minsk",
+          "lang": "fi"
+        },
+        {
+          "name": "Minsk",
+          "lang": "fr"
+        },
+        {
+          "name": "Minsk",
+          "lang": "frp"
+        },
+        {
+          "name": "Minsc",
+          "lang": "ga"
+        },
+        {
+          "name": "Minsk - Мінск",
+          "lang": "gl"
+        },
+        {
+          "name": "Minsk",
+          "lang": "hbs"
+        },
+        {
+          "name": "מינסק",
+          "lang": "he"
+        },
+        {
+          "name": "Minsk",
+          "lang": "hr"
+        },
+        {
+          "name": "Minszk",
+          "lang": "hu"
+        },
+        {
+          "name": "Մինսկ",
+          "lang": "hy"
+        },
+        {
+          "name": "MSQ",
+          "lang": "iata"
+        },
+        {
+          "name": "Minsk",
+          "lang": "id"
+        },
+        {
+          "name": "Minsk",
+          "lang": "io"
+        },
+        {
+          "name": "Minsk",
+          "lang": "it"
+        },
+        {
+          "name": "ミンスク",
+          "lang": "ja"
+        },
+        {
+          "name": "მინსკი",
+          "lang": "ka"
+        },
+        {
+          "name": "Минск",
+          "lang": "kk"
+        },
+        {
+          "name": "ಮಿನ್ಸ್ಕ್",
+          "lang": "kn"
+        },
+        {
+          "name": "민스크",
+          "lang": "ko"
+        },
+        {
+          "name": "Mînsk",
+          "lang": "ku"
+        },
+        {
+          "name": "Минск",
+          "lang": "kv"
+        },
+        {
+          "name": "Минск",
+          "lang": "ky"
+        },
+        {
+          "name": "Minscum",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Minsk",
+          "lang": "link"
+        },
+        {
+          "name": "Minskas",
+          "lang": "lt"
+        },
+        {
+          "name": "Minska",
+          "lang": "lv"
+        },
+        {
+          "name": "Минск",
+          "lang": "mhr"
+        },
+        {
+          "name": "Минск",
+          "lang": "mk"
+        },
+        {
+          "name": "മിൻസ്ക്",
+          "lang": "ml"
+        },
+        {
+          "name": "मिन्‍स्‍क",
+          "lang": "mr"
+        },
+        {
+          "name": "Минск ош",
+          "lang": "myv"
+        },
+        {
+          "name": "Minsk",
+          "lang": "nl"
+        },
+        {
+          "name": "Minsk",
+          "lang": "nn"
+        },
+        {
+          "name": "Minsk",
+          "lang": "no"
+        },
+        {
+          "name": "Минск",
+          "lang": "os"
+        },
+        {
+          "name": "Mińsk",
+          "lang": "pl"
+        },
+        {
+          "name": "منسک",
+          "lang": "pnb"
+        },
+        {
+          "name": "Minsk",
+          "lang": "pt"
+        },
+        {
+          "name": "Minsk",
+          "lang": "qu"
+        },
+        {
+          "name": "Минск",
+          "lang": "ro"
+        },
+        {
+          "name": "Минск",
+          "lang": "ru"
+        },
+        {
+          "name": "Мінск",
+          "lang": "rue"
+        },
+        {
+          "name": "Минскай",
+          "lang": "sah"
+        },
+        {
+          "name": "Minsk",
+          "lang": "scn"
+        },
+        {
+          "name": "Minsk",
+          "lang": "sk"
+        },
+        {
+          "name": "Minsk",
+          "lang": "sl"
+        },
+        {
+          "name": "Minsk",
+          "lang": "sq"
+        },
+        {
+          "name": "Минск",
+          "lang": "sr"
+        },
+        {
+          "name": "Minsk",
+          "lang": "sv"
+        },
+        {
+          "name": "Minsk",
+          "lang": "sw"
+        },
+        {
+          "name": "மின்ஸ்க்",
+          "lang": "ta"
+        },
+        {
+          "name": "Минск",
+          "lang": "tg"
+        },
+        {
+          "name": "มินสก์",
+          "lang": "th"
+        },
+        {
+          "name": "Minsk",
+          "lang": "tr"
+        },
+        {
+          "name": "Минск",
+          "lang": "tt"
+        },
+        {
+          "name": "Минск",
+          "lang": "udm"
+        },
+        {
+          "name": "مىنىسكى",
+          "lang": "ug"
+        },
+        {
+          "name": "Мінськ",
+          "lang": "uk"
+        },
+        {
+          "name": "MSQ",
+          "lang": "unlc"
+        },
+        {
+          "name": "Minsk",
+          "lang": "vi"
+        },
+        {
+          "name": "明斯克",
+          "lang": "wuu"
+        },
+        {
+          "name": "מינסק",
+          "lang": "yi"
+        },
+        {
+          "name": "明斯克",
+          "lang": "zh"
+        },
+        {
+          "name": "明斯克市",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "",
+      "name": "Minsk",
+      "fclName": "city, village,...",
+      "countryName": "Belarus",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Minsk"
+    }
+  ]
+}

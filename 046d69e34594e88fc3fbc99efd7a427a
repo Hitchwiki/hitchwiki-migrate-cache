@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hoogeveen",
+               "short_name" : "Hoogeveen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hoogeveen",
+               "short_name" : "Hoogeveen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Drenthe",
+               "short_name" : "DR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hoogeveen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7454796,
+                  "lng" : 6.5356225
+               },
+               "southwest" : {
+                  "lat" : 52.6933253,
+                  "lng" : 6.4036643
+               }
+            },
+            "location" : {
+               "lat" : 52.7286158,
+               "lng" : 6.490100200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7454796,
+                  "lng" : 6.5356225
+               },
+               "southwest" : {
+                  "lat" : 52.6933253,
+                  "lng" : 6.4036643
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

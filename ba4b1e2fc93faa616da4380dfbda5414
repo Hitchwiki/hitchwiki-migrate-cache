@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phnom Penh",
+               "short_name" : "PP",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Phnom Penh",
+               "short_name" : "Phnom Penh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phnom Penh, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.7363275,
+                  "lng" : 105.0446807
+               },
+               "southwest" : {
+                  "lat" : 11.422401,
+                  "lng" : 104.7127961
+               }
+            },
+            "location" : {
+               "lat" : 11.5448729,
+               "lng" : 104.8921668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.7363275,
+                  "lng" : 105.0446807
+               },
+               "southwest" : {
+                  "lat" : 11.422401,
+                  "lng" : 104.7127961
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phnom Penh",
+               "short_name" : "Phnom Penh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veal Veaeng",
+               "short_name" : "Veal Veaeng",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pursat",
+               "short_name" : "Pursat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cambodia",
+               "short_name" : "KH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phnom Penh, Cambodia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2851597,
+                  "lng" : 103.0289268
+               },
+               "southwest" : {
+                  "lat" : 12.2666247,
+                  "lng" : 102.9997015
+               }
+            },
+            "location" : {
+               "lat" : 12.2765321,
+               "lng" : 103.0155323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2851597,
+                  "lng" : 103.0289268
+               },
+               "southwest" : {
+                  "lat" : 12.2666247,
+                  "lng" : 102.9997015
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

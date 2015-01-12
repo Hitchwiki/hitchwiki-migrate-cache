@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oskarshamn",
+               "short_name" : "Oskarshamn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oskarshamn",
+               "short_name" : "Oskarshamn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kalmar County",
+               "short_name" : "Kalmar County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oskarshamn, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.29209609999999,
+                  "lng" : 16.4884022
+               },
+               "southwest" : {
+                  "lat" : 57.239841,
+                  "lng" : 16.3755291
+               }
+            },
+            "location" : {
+               "lat" : 57.26569929999999,
+               "lng" : 16.4473984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.29209609999999,
+                  "lng" : 16.4884022
+               },
+               "southwest" : {
+                  "lat" : 57.239841,
+                  "lng" : 16.3755291
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

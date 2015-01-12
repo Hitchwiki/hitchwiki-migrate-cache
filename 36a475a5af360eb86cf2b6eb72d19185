@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oradea",
+               "short_name" : "Oradea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oradea",
+               "short_name" : "Oradea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihor County",
+               "short_name" : "BH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oradea, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.14218289999999,
+                  "lng" : 22.0323515
+               },
+               "southwest" : {
+                  "lat" : 47.0070067,
+                  "lng" : 21.842537
+               }
+            },
+            "location" : {
+               "lat" : 47.072222,
+               "lng" : 21.921111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.14218289999999,
+                  "lng" : 22.0323515
+               },
+               "southwest" : {
+                  "lat" : 47.0070067,
+                  "lng" : 21.842537
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

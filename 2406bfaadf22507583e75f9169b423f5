@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cyprus",
+               "short_name" : "CY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cyprus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7072,
+                  "lng" : 34.60450000000001
+               },
+               "southwest" : {
+                  "lat" : 34.632303,
+                  "lng" : 32.2687076
+               }
+            },
+            "location" : {
+               "lat" : 35.126413,
+               "lng" : 33.429859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7072,
+                  "lng" : 34.60450000000001
+               },
+               "southwest" : {
+                  "lat" : 34.632303,
+                  "lng" : 32.2687076
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

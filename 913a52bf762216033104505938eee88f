@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lofoten",
+               "short_name" : "Lofoten",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Nordland",
+               "short_name" : "Nordland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lofoten, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 68.4770236,
+                  "lng" : 15.211456
+               },
+               "southwest" : {
+                  "lat" : 67.388614,
+                  "lng" : 11.7230676
+               }
+            },
+            "location" : {
+               "lat" : 68.07960899999999,
+               "lng" : 13.3741914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 68.4770236,
+                  "lng" : 15.211456
+               },
+               "southwest" : {
+                  "lat" : 67.388614,
+                  "lng" : 11.7230676
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

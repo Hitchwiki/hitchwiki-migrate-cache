@@ -1,0 +1,677 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bar",
+               "short_name" : "Bar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bor-et-Bar",
+               "short_name" : "Bor-et-Bar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aveyron",
+               "short_name" : "12",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12270",
+               "short_name" : "12270",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bar, 12270 Bor-et-Bar, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.190631,
+                  "lng" : 2.0810458
+               },
+               "southwest" : {
+                  "lat" : 44.186803,
+                  "lng" : 2.0721097
+               }
+            },
+            "location" : {
+               "lat" : 44.1887187,
+               "lng" : 2.0764229
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.190631,
+                  "lng" : 2.0810458
+               },
+               "southwest" : {
+                  "lat" : 44.186803,
+                  "lng" : 2.0721097
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bar",
+               "short_name" : "Bar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bar, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.315069,
+                  "lng" : 19.3438408
+               },
+               "southwest" : {
+                  "lat" : 42.006969,
+                  "lng" : 18.9345229
+               }
+            },
+            "location" : {
+               "lat" : 42.2040425,
+               "lng" : 19.140438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.315069,
+                  "lng" : 19.3438408
+               },
+               "southwest" : {
+                  "lat" : 42.006969,
+                  "lng" : 18.9345229
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bar",
+               "short_name" : "Bar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waldo",
+               "short_name" : "Waldo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waldo",
+               "short_name" : "Waldo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Columbia County",
+               "short_name" : "Columbia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "71770",
+               "short_name" : "71770",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bar, Waldo, AR 71770, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.347145,
+                  "lng" : -93.27838299999999
+               },
+               "southwest" : {
+                  "lat" : 33.33412670000001,
+                  "lng" : -93.2840214
+               }
+            },
+            "location" : {
+               "lat" : 33.3415103,
+               "lng" : -93.2826084
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.347145,
+                  "lng" : -93.27838299999999
+               },
+               "southwest" : {
+                  "lat" : 33.33412670000001,
+                  "lng" : -93.2840214
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bar-le-Duc",
+               "short_name" : "Bar-le-Duc",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meuse",
+               "short_name" : "55",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lorraine",
+               "short_name" : "Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55000",
+               "short_name" : "55000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "55000 Bar-le-Duc, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.798285,
+                  "lng" : 5.215253
+               },
+               "southwest" : {
+                  "lat" : 48.725857,
+                  "lng" : 5.126658
+               }
+            },
+            "location" : {
+               "lat" : 48.773605,
+               "lng" : 5.158238000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.798285,
+                  "lng" : 5.215253
+               },
+               "southwest" : {
+                  "lat" : 48.725857,
+                  "lng" : 5.126658
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bárska",
+               "short_name" : "Bárska",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Topoľníky",
+               "short_name" : "Topoľníky",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Topoľníky",
+               "short_name" : "Topoľníky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "930 11",
+               "short_name" : "930 11",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bárska, 930 11 Topoľníky, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.973018,
+                  "lng" : 17.7830746
+               },
+               "southwest" : {
+                  "lat" : 47.9713465,
+                  "lng" : 17.7785667
+               }
+            },
+            "location" : {
+               "lat" : 47.9719353,
+               "lng" : 17.7801959
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9735312302915,
+                  "lng" : 17.7830746
+               },
+               "southwest" : {
+                  "lat" : 47.97083326970851,
+                  "lng" : 17.7785667
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bär",
+               "short_name" : "Bär",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8637",
+               "short_name" : "8637",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bär, 8637, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2616774,
+                  "lng" : 8.9321111
+               },
+               "southwest" : {
+                  "lat" : 47.2593285,
+                  "lng" : 8.931148499999999
+               }
+            },
+            "location" : {
+               "lat" : 47.2604318,
+               "lng" : 8.931708499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2618519302915,
+                  "lng" : 8.932978780291503
+               },
+               "southwest" : {
+                  "lat" : 47.2591539697085,
+                  "lng" : 8.930280819708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bar",
+               "short_name" : "Bar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bars'kyi district",
+               "short_name" : "Bars'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vinnyts'ka oblast",
+               "short_name" : "Vinnyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bar, Vinnyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.090597,
+                  "lng" : 27.7043129
+               },
+               "southwest" : {
+                  "lat" : 49.064085,
+                  "lng" : 27.654193
+               }
+            },
+            "location" : {
+               "lat" : 49.075,
+               "lng" : 27.676111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.090597,
+                  "lng" : 27.7043129
+               },
+               "southwest" : {
+                  "lat" : 49.064085,
+                  "lng" : 27.654193
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bar",
+               "short_name" : "Bar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint-Martin-de-Jussac",
+               "short_name" : "Saint-Martin-de-Jussac",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Vienne",
+               "short_name" : "87",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limousin",
+               "short_name" : "Limousin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bar, Saint-Martin-de-Jussac, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.848382,
+                  "lng" : 0.9542580000000001
+               },
+               "southwest" : {
+                  "lat" : 45.8424115,
+                  "lng" : 0.9420746
+               }
+            },
+            "location" : {
+               "lat" : 45.845321,
+               "lng" : 0.9482039999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.848382,
+                  "lng" : 0.9542580000000001
+               },
+               "southwest" : {
+                  "lat" : 45.8424115,
+                  "lng" : 0.9420746
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barahineban",
+               "short_name" : "BAR",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Newcastle",
+               "short_name" : "University of Newcastle",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Wirra Crescent",
+               "short_name" : "Wirra Cres",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Callaghan",
+               "short_name" : "Callaghan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2308",
+               "short_name" : "2308",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barahineban, University of Newcastle, Wirra Crescent, Callaghan NSW 2308, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.8943473,
+                  "lng" : 151.7105422
+               },
+               "southwest" : {
+                  "lat" : -32.8952176,
+                  "lng" : 151.7100699
+               }
+            },
+            "location" : {
+               "lat" : -32.8948383,
+               "lng" : 151.7104841
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.8934334697085,
+                  "lng" : 151.7116550302915
+               },
+               "southwest" : {
+                  "lat" : -32.8961314302915,
+                  "lng" : 151.7089570697085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnim",
+               "short_name" : "BAR",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barnim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.05863429999999,
+                  "lng" : 14.1564828
+               },
+               "southwest" : {
+                  "lat" : 52.5455688,
+                  "lng" : 13.1535126
+               }
+            },
+            "location" : {
+               "lat" : 52.85744529999999,
+               "lng" : 13.6998296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.05863429999999,
+                  "lng" : 14.1564828
+               },
+               "southwest" : {
+                  "lat" : 52.5455688,
+                  "lng" : 13.3966722
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bar-sur-Aube",
+               "short_name" : "Bar-sur-Aube",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aube",
+               "short_name" : "10",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Champagne-Ardenne",
+               "short_name" : "Champagne-Ardenne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bar-sur-Aube, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.260318,
+                  "lng" : 4.754570999999999
+               },
+               "southwest" : {
+                  "lat" : 48.2056499,
+                  "lng" : 4.6787
+               }
+            },
+            "location" : {
+               "lat" : 48.231209,
+               "lng" : 4.707771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.260318,
+                  "lng" : 4.754570999999999
+               },
+               "southwest" : {
+                  "lat" : 48.2056499,
+                  "lng" : 4.6787
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Bar",
+               "short_name" : "W Bar",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheffield",
+               "short_name" : "Sheffield",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Yorkshire",
+               "short_name" : "South York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "West Bar, Sheffield, Sheffield, South Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.38657079999999,
+                  "lng" : -1.4666581
+               },
+               "southwest" : {
+                  "lat" : 53.3846759,
+                  "lng" : -1.471286
+               }
+            },
+            "location" : {
+               "lat" : 53.3852433,
+               "lng" : -1.4691446
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3869723302915,
+                  "lng" : -1.4666581
+               },
+               "southwest" : {
+                  "lat" : 53.3842743697085,
+                  "lng" : -1.471286
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

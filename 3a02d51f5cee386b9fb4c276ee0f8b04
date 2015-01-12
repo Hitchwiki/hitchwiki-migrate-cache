@@ -1,0 +1,2575 @@
+{
+  "totalResultsCount": 11664,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 28.612167,
+        "south": 41.242084,
+        "north": 44.21764,
+        "west": 22.371166
+      },
+      "asciiName": "Republic of Bulgaria",
+      "countryId": "732800",
+      "fcl": "A",
+      "score": 161.51930236816406,
+      "countryCode": "BG",
+      "lat": "42.66667",
+      "fcode": "PCLI",
+      "continentCode": "EU",
+      "adminCode1": "00",
+      "lng": "25.25",
+      "geonameId": 732800,
+      "toponymName": "Republic of Bulgaria",
+      "population": 7148785,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Bulgarye",
+          "lang": "af"
+        },
+        {
+          "name": "Bɔlgeria",
+          "lang": "ak"
+        },
+        {
+          "name": "ቡልጌሪያ",
+          "lang": "am"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "an"
+        },
+        {
+          "name": "بلغاريا",
+          "lang": "ar"
+        },
+        {
+          "name": "ܒܘܠܓܐܪܝܐ",
+          "lang": "arc"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "ast"
+        },
+        {
+          "name": "Bolqariya",
+          "lang": "az"
+        },
+        {
+          "name": "Балгарыя",
+          "lang": "be"
+        },
+        {
+          "name": "България",
+          "lang": "bg"
+        },
+        {
+          "name": "Buligari",
+          "lang": "bm"
+        },
+        {
+          "name": "বুলগেরিয়া",
+          "lang": "bn"
+        },
+        {
+          "name": "བུལ་ག་རི་ཡ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "br"
+        },
+        {
+          "name": "Bugarska",
+          "lang": "bs"
+        },
+        {
+          "name": "Bulgària",
+          "lang": "ca"
+        },
+        {
+          "name": "Bulharsko",
+          "lang": "cs"
+        },
+        {
+          "name": "Bùlgarskô",
+          "lang": "csb"
+        },
+        {
+          "name": "Блъгарїꙗ",
+          "lang": "cu"
+        },
+        {
+          "name": "Тăнайçи Пăлхарĕ",
+          "lang": "cv"
+        },
+        {
+          "name": "Bwlgaria",
+          "lang": "cy"
+        },
+        {
+          "name": "Bulgarien",
+          "lang": "da"
+        },
+        {
+          "name": "Bulgarien",
+          "lang": "de"
+        },
+        {
+          "name": "Bulgaria nutome",
+          "lang": "ee"
+        },
+        {
+          "name": "Βουλγαρία",
+          "lang": "el"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "en"
+        },
+        {
+          "name": "Bulgario",
+          "lang": "eo"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "es"
+        },
+        {
+          "name": "Bulgaaria",
+          "lang": "et"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "eu"
+        },
+        {
+          "name": "بلغارستان",
+          "lang": "fa"
+        },
+        {
+          "name": "Bulgarii",
+          "lang": "ff"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "fi"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "fo"
+        },
+        {
+          "name": "Bulgarie",
+          "lang": "fr"
+        },
+        {
+          "name": "Bulgarie",
+          "lang": "frp"
+        },
+        {
+          "name": "Bulgarije",
+          "lang": "fy"
+        },
+        {
+          "name": "An Bhulgáir",
+          "lang": "ga"
+        },
+        {
+          "name": "Bulgàiria",
+          "lang": "gd"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "gl"
+        },
+        {
+          "name": "બલ્ગેરિયા",
+          "lang": "gu"
+        },
+        {
+          "name": "Bulgariya",
+          "lang": "ha"
+        },
+        {
+          "name": "Bugarska",
+          "lang": "hbs"
+        },
+        {
+          "name": "בולגריה",
+          "lang": "he"
+        },
+        {
+          "name": "बल्गारिया",
+          "lang": "hi"
+        },
+        {
+          "name": "Bugarska",
+          "lang": "hr"
+        },
+        {
+          "name": "Bołharska",
+          "lang": "hsb"
+        },
+        {
+          "name": "Bilgari",
+          "lang": "ht"
+        },
+        {
+          "name": "Bulgária",
+          "lang": "hu"
+        },
+        {
+          "name": "Բուլղարիա",
+          "lang": "hy"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "ia"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "id"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "ilo"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "io"
+        },
+        {
+          "name": "Búlgaría",
+          "lang": "is"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "it"
+        },
+        {
+          "name": "ブルガリア共和国",
+          "lang": "ja"
+        },
+        {
+          "name": "ბულგარეთი",
+          "lang": "ka"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "ki"
+        },
+        {
+          "name": "Болгария",
+          "lang": "kk"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "kl"
+        },
+        {
+          "name": "ប៊ុលហ្គារី",
+          "lang": "km"
+        },
+        {
+          "name": "ಬಲ್ಗೇರಿಯನ್",
+          "lang": "kn"
+        },
+        {
+          "name": "불가리아",
+          "lang": "ko"
+        },
+        {
+          "name": "بولگاریا",
+          "lang": "ku"
+        },
+        {
+          "name": "Bulgari",
+          "lang": "kw"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "la"
+        },
+        {
+          "name": "Bulgarien",
+          "lang": "lb"
+        },
+        {
+          "name": "Bulugariya",
+          "lang": "lg"
+        },
+        {
+          "name": "Bölgarije",
+          "lang": "li"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bulgaria",
+          "lang": "link"
+        },
+        {
+          "name": "Biligari",
+          "lang": "ln"
+        },
+        {
+          "name": "ບັງກາເລຍ",
+          "lang": "lo"
+        },
+        {
+          "name": "Bulgarija",
+          "lang": "lt"
+        },
+        {
+          "name": "Biligari",
+          "lang": "lu"
+        },
+        {
+          "name": "Bulgārija",
+          "lang": "lv"
+        },
+        {
+          "name": "Biolgaria",
+          "lang": "mg"
+        },
+        {
+          "name": "Бугарија",
+          "lang": "mk"
+        },
+        {
+          "name": "ബള്‍ഗേറിയ",
+          "lang": "ml"
+        },
+        {
+          "name": "बल्गेरिया",
+          "lang": "mr"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "ms"
+        },
+        {
+          "name": "Bulgarija",
+          "lang": "mt"
+        },
+        {
+          "name": "ဘူဂေးရီးယား",
+          "lang": "my"
+        },
+        {
+          "name": "Borgeriya",
+          "lang": "na"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "nb"
+        },
+        {
+          "name": "Bhulgariya",
+          "lang": "nd"
+        },
+        {
+          "name": "Bulgarien",
+          "lang": "nds"
+        },
+        {
+          "name": "बल्गेरिया",
+          "lang": "ne"
+        },
+        {
+          "name": "Bulgarije",
+          "lang": "nl"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "nn"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "no"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "nov"
+        },
+        {
+          "name": "Bulgarie",
+          "lang": "nrm"
+        },
+        {
+          "name": "Bolgària",
+          "lang": "oc"
+        },
+        {
+          "name": "ବୁଲଗେରିଆ",
+          "lang": "or"
+        },
+        {
+          "name": "Болгари",
+          "lang": "os"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "pam"
+        },
+        {
+          "name": "Bułgaria",
+          "lang": "pl"
+        },
+        {
+          "name": "Bulgarìa",
+          "lang": "pms"
+        },
+        {
+          "name": "بلغاریا",
+          "lang": "ps"
+        },
+        {
+          "name": "Bulgária",
+          "lang": "pt"
+        },
+        {
+          "name": "Bulgariya",
+          "lang": "qu"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "rm"
+        },
+        {
+          "name": "Bulgariya",
+          "lang": "rmy"
+        },
+        {
+          "name": "Buligariya",
+          "lang": "rn"
+        },
+        {
+          "name": "Булгария",
+          "lang": "ro"
+        },
+        {
+          "name": "Болгария",
+          "lang": "ru"
+        },
+        {
+          "name": "बुल्गारिया",
+          "lang": "sa"
+        },
+        {
+          "name": "Bulgarìa",
+          "lang": "scn"
+        },
+        {
+          "name": "Bulgária",
+          "lang": "se"
+        },
+        {
+          "name": "Bulugarïi",
+          "lang": "sg"
+        },
+        {
+          "name": "බල්ගේරියාව",
+          "lang": "si"
+        },
+        {
+          "name": "Bulharsko",
+          "lang": "sk"
+        },
+        {
+          "name": "Bolgarija",
+          "lang": "sl"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "sn"
+        },
+        {
+          "name": "Bulgaariya",
+          "lang": "so"
+        },
+        {
+          "name": "Bullgari",
+          "lang": "sq"
+        },
+        {
+          "name": "Бугарска",
+          "lang": "sr"
+        },
+        {
+          "name": "Bulgarien",
+          "lang": "sv"
+        },
+        {
+          "name": "Bulgaria",
+          "lang": "sw"
+        },
+        {
+          "name": "பல்கேரியா",
+          "lang": "ta"
+        },
+        {
+          "name": "బల్గేరియా",
+          "lang": "te"
+        },
+        {
+          "name": "Булғористон",
+          "lang": "tg"
+        },
+        {
+          "name": "ประเทศบัลแกเรีย",
+          "lang": "th"
+        },
+        {
+          "name": "ቡልጌሪያ",
+          "lang": "ti"
+        },
+        {
+          "name": "Bulgarya",
+          "lang": "tl"
+        },
+        {
+          "name": "Pokalia",
+          "lang": "to"
+        },
+        {
+          "name": "Bulgaristan",
+          "lang": "tr"
+        },
+        {
+          "name": "بۇلغارىيە",
+          "lang": "ug"
+        },
+        {
+          "name": "Болгарія",
+          "lang": "uk"
+        },
+        {
+          "name": "بلغاریہ",
+          "lang": "ur"
+        },
+        {
+          "name": "Bun-ga-ri (Bulgaria)",
+          "lang": "vi"
+        },
+        {
+          "name": "Bulgarän",
+          "lang": "vo"
+        },
+        {
+          "name": "Bulgåreye",
+          "lang": "wa"
+        },
+        {
+          "name": "Bulgarya",
+          "lang": "war"
+        },
+        {
+          "name": "בולגאריע",
+          "lang": "yi"
+        },
+        {
+          "name": "Orílẹ́ède Bùùgáríà",
+          "lang": "yo"
+        },
+        {
+          "name": "保加利亚",
+          "lang": "zh"
+        },
+        {
+          "name": "i-Bulgaria",
+          "lang": "zu"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bulgaria",
+      "fclName": "country, state, region,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "independent political entity",
+      "adminName1": ""
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 26.041998671755223,
+        "south": 43.80511721355825,
+        "north": 43.90766058644175,
+        "west": 25.899667928244774
+      },
+      "asciiName": "Ruse",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 33.4759521484375,
+      "adminId2": "727522",
+      "countryCode": "BG",
+      "adminId1": "727524",
+      "lat": "43.85639",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "RSE27",
+      "adminCode1": "53",
+      "lng": "25.97083",
+      "geonameId": 727523,
+      "toponymName": "Ruse",
+      "population": 156238,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "روسه",
+          "lang": "ar"
+        },
+        {
+          "name": "Русе",
+          "lang": "bg"
+        },
+        {
+          "name": "Rouse",
+          "lang": "br"
+        },
+        {
+          "name": "ڕوسێ",
+          "lang": "ckb"
+        },
+        {
+          "name": "Роусє",
+          "lang": "cu"
+        },
+        {
+          "name": "Русе",
+          "lang": "cv"
+        },
+        {
+          "name": "Ruse",
+          "lang": "da"
+        },
+        {
+          "name": "Russe",
+          "lang": "de"
+        },
+        {
+          "name": "Ρούσε",
+          "lang": "el"
+        },
+        {
+          "name": "Rousse",
+          "lang": "en"
+        },
+        {
+          "name": "Ruse",
+          "lang": "es"
+        },
+        {
+          "name": "روسه، بلغارستان",
+          "lang": "fa"
+        },
+        {
+          "name": "Ruse",
+          "lang": "fi"
+        },
+        {
+          "name": "Roussé",
+          "lang": "fr"
+        },
+        {
+          "name": "Rousse",
+          "lang": "gd"
+        },
+        {
+          "name": "רוסה",
+          "lang": "he"
+        },
+        {
+          "name": "Rusze",
+          "lang": "hu"
+        },
+        {
+          "name": "Ռուսե",
+          "lang": "hy"
+        },
+        {
+          "name": "ROU",
+          "lang": "iata"
+        },
+        {
+          "name": "Ruse",
+          "lang": "id"
+        },
+        {
+          "name": "Ruzo",
+          "lang": "io"
+        },
+        {
+          "name": "Ruse",
+          "lang": "it"
+        },
+        {
+          "name": "ルセ",
+          "lang": "ja"
+        },
+        {
+          "name": "რუსე",
+          "lang": "ka"
+        },
+        {
+          "name": "Русе",
+          "lang": "kk"
+        },
+        {
+          "name": "루세",
+          "lang": "ko"
+        },
+        {
+          "name": "Sexantaprista",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Ruse%2C_Bulgaria",
+          "lang": "link"
+        },
+        {
+          "name": "Rusė",
+          "lang": "lt"
+        },
+        {
+          "name": "Ruse",
+          "lang": "lv"
+        },
+        {
+          "name": "Русе",
+          "lang": "mk"
+        },
+        {
+          "name": "Roese",
+          "lang": "nl"
+        },
+        {
+          "name": "Русе",
+          "lang": "os"
+        },
+        {
+          "name": "Ruse",
+          "lang": "pl"
+        },
+        {
+          "name": "7000",
+          "lang": "post"
+        },
+        {
+          "name": "Ruse",
+          "lang": "pt"
+        },
+        {
+          "name": "Ruse",
+          "lang": "ro"
+        },
+        {
+          "name": "Русе",
+          "lang": "ru"
+        },
+        {
+          "name": "Русе",
+          "lang": "sr"
+        },
+        {
+          "name": "Ruse",
+          "lang": "sv"
+        },
+        {
+          "name": "รูเซ",
+          "lang": "th"
+        },
+        {
+          "name": "Rusçuk",
+          "lang": "tr"
+        },
+        {
+          "name": "Русе",
+          "lang": "uk"
+        },
+        {
+          "name": "RDU",
+          "lang": "unlc"
+        },
+        {
+          "name": "Rousse",
+          "lang": "war"
+        },
+        {
+          "name": "鲁塞",
+          "lang": "zh"
+        },
+        {
+          "name": "鲁塞",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Obshtina Ruse",
+      "name": "Rousse",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Ruse"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 24.381541179166064,
+        "south": 42.16430756303829,
+        "north": 42.23569243696171,
+        "west": 24.285125420833936
+      },
+      "asciiName": "Pazardzhik",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 20.0855712890625,
+      "adminId2": "728376",
+      "countryCode": "BG",
+      "adminId1": "728379",
+      "lat": "42.2",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "PAZ19",
+      "adminCode1": "48",
+      "lng": "24.33333",
+      "geonameId": 728378,
+      "toponymName": "Pazardzhik",
+      "population": 75977,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بازارجيك",
+          "lang": "ar"
+        },
+        {
+          "name": "Пазарджик",
+          "lang": "bg"
+        },
+        {
+          "name": "Pàzardjik",
+          "lang": "ca"
+        },
+        {
+          "name": "پازارجیک، بولگاریا",
+          "lang": "ckb"
+        },
+        {
+          "name": "Pazardžik",
+          "lang": "cs"
+        },
+        {
+          "name": "Pazardsjik",
+          "lang": "da"
+        },
+        {
+          "name": "Pasardschik",
+          "lang": "de"
+        },
+        {
+          "name": "Πάζαρτζικ",
+          "lang": "el"
+        },
+        {
+          "name": "Pazardzhik",
+          "lang": "en"
+        },
+        {
+          "name": "Pazardĵik",
+          "lang": "eo"
+        },
+        {
+          "name": "Pazardzhik",
+          "lang": "es"
+        },
+        {
+          "name": "פאזארדזיק",
+          "lang": "he"
+        },
+        {
+          "name": "パザルジク",
+          "lang": "ja"
+        },
+        {
+          "name": "Пазарджик",
+          "lang": "kk"
+        },
+        {
+          "name": "파자르지크",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Pazardzhik",
+          "lang": "link"
+        },
+        {
+          "name": "Pazardžikas",
+          "lang": "lt"
+        },
+        {
+          "name": "Пазарџик",
+          "lang": "mk"
+        },
+        {
+          "name": "Pazardzjik",
+          "lang": "nl"
+        },
+        {
+          "name": "Пазарджик",
+          "lang": "os"
+        },
+        {
+          "name": "Pazardżik",
+          "lang": "pl"
+        },
+        {
+          "name": "پازارجک",
+          "lang": "pnb"
+        },
+        {
+          "name": "4400",
+          "lang": "post"
+        },
+        {
+          "name": "Pazardzhik",
+          "lang": "pt"
+        },
+        {
+          "name": "Пазарджик",
+          "lang": "ru"
+        },
+        {
+          "name": "Пазарџик",
+          "lang": "sr"
+        },
+        {
+          "name": "Pazardzjik",
+          "lang": "sv"
+        },
+        {
+          "name": "ปาซาร์จีก",
+          "lang": "th"
+        },
+        {
+          "name": "Pazarcık",
+          "lang": "tr"
+        },
+        {
+          "name": "Пазарджик",
+          "lang": "uk"
+        },
+        {
+          "name": "PZA",
+          "lang": "unlc"
+        },
+        {
+          "name": "帕扎爾吉克",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Obshtina Pazardzhik",
+      "name": "Pazardzhik",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Pazardzhik"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 28.016280505136486,
+        "south": 43.14415758566833,
+        "north": 43.289175814331664,
+        "west": 27.817052894863515
+      },
+      "asciiName": "Varna",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 19.327350616455078,
+      "adminId2": "726048",
+      "countryCode": "BG",
+      "adminId1": "726051",
+      "lat": "43.21667",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "VAR06",
+      "adminCode1": "61",
+      "lng": "27.91667",
+      "geonameId": 726050,
+      "toponymName": "Varna",
+      "population": 312770,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "فارنا",
+          "lang": "ar"
+        },
+        {
+          "name": "Varna",
+          "lang": "ast"
+        },
+        {
+          "name": "Горад Варна",
+          "lang": "be"
+        },
+        {
+          "name": "Варна",
+          "lang": "bg"
+        },
+        {
+          "name": "Varna",
+          "lang": "br"
+        },
+        {
+          "name": "Odessos",
+          "lang": "ca"
+        },
+        {
+          "name": "Варна",
+          "lang": "ce"
+        },
+        {
+          "name": "Varna",
+          "lang": "cs"
+        },
+        {
+          "name": "Варна",
+          "lang": "cu"
+        },
+        {
+          "name": "Varna",
+          "lang": "da"
+        },
+        {
+          "name": "Warna",
+          "lang": "de"
+        },
+        {
+          "name": "Βάρνα",
+          "lang": "el"
+        },
+        {
+          "name": "Varna",
+          "lang": "en"
+        },
+        {
+          "name": "Varna",
+          "lang": "eo"
+        },
+        {
+          "name": "Varna",
+          "lang": "es"
+        },
+        {
+          "name": "وارنا",
+          "lang": "fa"
+        },
+        {
+          "name": "Varna",
+          "lang": "fi"
+        },
+        {
+          "name": "Varna",
+          "lang": "fr"
+        },
+        {
+          "name": "Varna",
+          "lang": "hbs"
+        },
+        {
+          "name": "וארנה",
+          "lang": "he"
+        },
+        {
+          "name": "Várna",
+          "lang": "hu"
+        },
+        {
+          "name": "Վառնա",
+          "lang": "hy"
+        },
+        {
+          "name": "VAR",
+          "lang": "iata"
+        },
+        {
+          "name": "Varna",
+          "lang": "id"
+        },
+        {
+          "name": "Varna",
+          "lang": "it"
+        },
+        {
+          "name": "ヴァルナ",
+          "lang": "ja"
+        },
+        {
+          "name": "ვარნა",
+          "lang": "ka"
+        },
+        {
+          "name": "Варна",
+          "lang": "kk"
+        },
+        {
+          "name": "바르나",
+          "lang": "ko"
+        },
+        {
+          "name": "Odessos",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Varna",
+          "lang": "link"
+        },
+        {
+          "name": "Varna",
+          "lang": "lv"
+        },
+        {
+          "name": "Варна",
+          "lang": "mk"
+        },
+        {
+          "name": "Варна",
+          "lang": "mn"
+        },
+        {
+          "name": "व्हर्ना",
+          "lang": "mr"
+        },
+        {
+          "name": "Varna",
+          "lang": "nl"
+        },
+        {
+          "name": "Varna",
+          "lang": "no"
+        },
+        {
+          "name": "Варнæ",
+          "lang": "os"
+        },
+        {
+          "name": "Warna",
+          "lang": "pl"
+        },
+        {
+          "name": "وارنا",
+          "lang": "pnb"
+        },
+        {
+          "name": "9000",
+          "lang": "post"
+        },
+        {
+          "name": "Varna",
+          "lang": "pt"
+        },
+        {
+          "name": "Varna",
+          "lang": "ro"
+        },
+        {
+          "name": "Варна",
+          "lang": "ru"
+        },
+        {
+          "name": "Varna",
+          "lang": "sk"
+        },
+        {
+          "name": "Варна",
+          "lang": "sr"
+        },
+        {
+          "name": "Varna",
+          "lang": "sv"
+        },
+        {
+          "name": "วาร์นา",
+          "lang": "th"
+        },
+        {
+          "name": "Varna",
+          "lang": "tr"
+        },
+        {
+          "name": "Варна",
+          "lang": "uk"
+        },
+        {
+          "name": "VAR",
+          "lang": "unlc"
+        },
+        {
+          "name": "وارنا",
+          "lang": "ur"
+        },
+        {
+          "name": "瓦爾納",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Obshtina Varna",
+      "name": "Varna",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Varna"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 23.51415088073971,
+        "south": 42.55818452083176,
+        "north": 42.83684253552924,
+        "west": 23.13414166076429
+      },
+      "asciiName": "Sofia",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 19.327350616455078,
+      "adminId2": "6458974",
+      "countryCode": "BG",
+      "adminId1": "731061",
+      "lat": "42.69751",
+      "fcode": "PPLC",
+      "continentCode": "EU",
+      "adminCode2": "SOF46",
+      "adminCode1": "42",
+      "lng": "23.32415",
+      "geonameId": 727011,
+      "toponymName": "Sofia",
+      "population": 1152556,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Sofia",
+          "lang": "af"
+        },
+        {
+          "name": "ሶፊያ",
+          "lang": "am"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "an"
+        },
+        {
+          "name": "صوفيا",
+          "lang": "ar"
+        },
+        {
+          "name": "صوفيا",
+          "lang": "arz"
+        },
+        {
+          "name": "Sofía",
+          "lang": "ast"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Сафія",
+          "lang": "be"
+        },
+        {
+          "name": "София",
+          "lang": "bg"
+        },
+        {
+          "name": "সফিয়া",
+          "lang": "bn"
+        },
+        {
+          "name": "སོ་ཧྥི་ཡ།",
+          "lang": "bo"
+        },
+        {
+          "name": "Sofia",
+          "lang": "br"
+        },
+        {
+          "name": "Sofija",
+          "lang": "bs"
+        },
+        {
+          "name": "Sòfia",
+          "lang": "ca"
+        },
+        {
+          "name": "София",
+          "lang": "ce"
+        },
+        {
+          "name": "سۆفیا",
+          "lang": "ckb"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "crh"
+        },
+        {
+          "name": "Sofia",
+          "lang": "cs"
+        },
+        {
+          "name": "Софїꙗ",
+          "lang": "cu"
+        },
+        {
+          "name": "Софи",
+          "lang": "cv"
+        },
+        {
+          "name": "Sofia",
+          "lang": "cy"
+        },
+        {
+          "name": "Sofia",
+          "lang": "da"
+        },
+        {
+          "name": "Sofia",
+          "lang": "de"
+        },
+        {
+          "name": "Sofya",
+          "lang": "diq"
+        },
+        {
+          "name": "Σόφια",
+          "lang": "el"
+        },
+        {
+          "name": "Sofia",
+          "lang": "en"
+        },
+        {
+          "name": "Sofio",
+          "lang": "eo"
+        },
+        {
+          "name": "Sofía",
+          "lang": "es"
+        },
+        {
+          "name": "Sofia",
+          "lang": "eu"
+        },
+        {
+          "name": "صوفیه",
+          "lang": "fa"
+        },
+        {
+          "name": "Sofia",
+          "lang": "fi"
+        },
+        {
+          "name": "Sofia",
+          "lang": "fr"
+        },
+        {
+          "name": "Sofia",
+          "lang": "frp"
+        },
+        {
+          "name": "Sóifia",
+          "lang": "ga"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "gag"
+        },
+        {
+          "name": "Sofia",
+          "lang": "gd"
+        },
+        {
+          "name": "Sofía",
+          "lang": "gl"
+        },
+        {
+          "name": "𐍃𐍉𐍆𐌹𐌰",
+          "lang": "got"
+        },
+        {
+          "name": "Sofija",
+          "lang": "hbs"
+        },
+        {
+          "name": "סופיה",
+          "lang": "he"
+        },
+        {
+          "name": "सोफिया",
+          "lang": "hi"
+        },
+        {
+          "name": "Sofija",
+          "lang": "hr"
+        },
+        {
+          "name": "Szófia",
+          "lang": "hu"
+        },
+        {
+          "name": "Սոֆիա",
+          "lang": "hy"
+        },
+        {
+          "name": "Sofia",
+          "lang": "ia"
+        },
+        {
+          "name": "SOF",
+          "lang": "iata"
+        },
+        {
+          "name": "Sofia",
+          "lang": "id"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "io"
+        },
+        {
+          "name": "Sófía",
+          "lang": "is"
+        },
+        {
+          "name": "Sofia",
+          "lang": "it"
+        },
+        {
+          "name": "ソフィア",
+          "lang": "ja"
+        },
+        {
+          "name": "სოფია",
+          "lang": "ka"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "kaa"
+        },
+        {
+          "name": "София",
+          "lang": "kk"
+        },
+        {
+          "name": "소피아",
+          "lang": "ko"
+        },
+        {
+          "name": "София",
+          "lang": "kv"
+        },
+        {
+          "name": "София",
+          "lang": "ky"
+        },
+        {
+          "name": "Ulpia Serdica",
+          "lang": "la"
+        },
+        {
+          "name": "София",
+          "lang": "lez"
+        },
+        {
+          "name": "Sòfia",
+          "lang": "lij"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sofia",
+          "lang": "link"
+        },
+        {
+          "name": "Sofija",
+          "lang": "lt"
+        },
+        {
+          "name": "Sofija",
+          "lang": "lv"
+        },
+        {
+          "name": "Софий",
+          "lang": "mhr"
+        },
+        {
+          "name": "Софија",
+          "lang": "mk"
+        },
+        {
+          "name": "സോഫിയ",
+          "lang": "ml"
+        },
+        {
+          "name": "Софи",
+          "lang": "mn"
+        },
+        {
+          "name": "सोफिया",
+          "lang": "mr"
+        },
+        {
+          "name": "София ош",
+          "lang": "myv"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "nah"
+        },
+        {
+          "name": "Sofia",
+          "lang": "nl"
+        },
+        {
+          "name": "Sofia",
+          "lang": "nn"
+        },
+        {
+          "name": "Sofia",
+          "lang": "no"
+        },
+        {
+          "name": "Sòfia",
+          "lang": "oc"
+        },
+        {
+          "name": "София",
+          "lang": "os"
+        },
+        {
+          "name": "ਸੋਫ਼ੀਆ",
+          "lang": "pa"
+        },
+        {
+          "name": "Sofia",
+          "lang": "pl"
+        },
+        {
+          "name": "Sòfia",
+          "lang": "pms"
+        },
+        {
+          "name": "صوفیہ",
+          "lang": "pnb"
+        },
+        {
+          "name": "1000",
+          "lang": "post"
+        },
+        {
+          "name": "Sófia",
+          "lang": "pt"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "qu"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "rmy"
+        },
+        {
+          "name": "София",
+          "lang": "ro"
+        },
+        {
+          "name": "София",
+          "lang": "ru"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "rw"
+        },
+        {
+          "name": "София",
+          "lang": "sah"
+        },
+        {
+          "name": "Suofėjė",
+          "lang": "sgs"
+        },
+        {
+          "name": "Sofia",
+          "lang": "sk"
+        },
+        {
+          "name": "Sofja",
+          "lang": "sq"
+        },
+        {
+          "name": "Софија",
+          "lang": "sr"
+        },
+        {
+          "name": "Sofia",
+          "lang": "sv"
+        },
+        {
+          "name": "Sofijo",
+          "lang": "szl"
+        },
+        {
+          "name": "சோஃவியா",
+          "lang": "ta"
+        },
+        {
+          "name": "София",
+          "lang": "tg"
+        },
+        {
+          "name": "โซเฟีย",
+          "lang": "th"
+        },
+        {
+          "name": "Sofiýa",
+          "lang": "tk"
+        },
+        {
+          "name": "Sofya",
+          "lang": "tr"
+        },
+        {
+          "name": "Sofia",
+          "lang": "tt"
+        },
+        {
+          "name": "София",
+          "lang": "udm"
+        },
+        {
+          "name": "سوفىيە",
+          "lang": "ug"
+        },
+        {
+          "name": "Софія",
+          "lang": "uk"
+        },
+        {
+          "name": "SOF",
+          "lang": "unlc"
+        },
+        {
+          "name": "صوفیہ",
+          "lang": "ur"
+        },
+        {
+          "name": "Sòfia",
+          "lang": "vec"
+        },
+        {
+          "name": "Sofii",
+          "lang": "vep"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "vo"
+        },
+        {
+          "name": "Sofiya",
+          "lang": "wo"
+        },
+        {
+          "name": "סאפיע",
+          "lang": "yi"
+        },
+        {
+          "name": "索菲亞",
+          "lang": "yue"
+        },
+        {
+          "name": "索菲亞",
+          "lang": "zh"
+        },
+        {
+          "name": "索菲亞",
+          "lang": "zh-TW"
+        }
+      ],
+      "adminName2": "Municipality of the Capital",
+      "name": "Sofia",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Sofia-Capital"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 24.852157877468535,
+        "south": 42.07435170498365,
+        "north": 42.22564829501635,
+        "west": 24.647842122531465
+      },
+      "asciiName": "Plovdiv",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 19.327350616455078,
+      "adminId2": "728192",
+      "countryCode": "BG",
+      "adminId1": "728194",
+      "lat": "42.15",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "PDV22",
+      "adminCode1": "51",
+      "lng": "24.75",
+      "geonameId": 728193,
+      "toponymName": "Plovdiv",
+      "population": 340494,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بلوفديف",
+          "lang": "ar"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "ast"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "bg"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "br"
+        },
+        {
+          "name": "Plóvdiv",
+          "lang": "ca"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "cs"
+        },
+        {
+          "name": "Фїлїппополь",
+          "lang": "cu"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "cy"
+        },
+        {
+          "name": "Plowdiw",
+          "lang": "de"
+        },
+        {
+          "name": "Φιλιππούπολη",
+          "lang": "el"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "en"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "eo"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "es"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "et"
+        },
+        {
+          "name": "پلوودیو",
+          "lang": "fa"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "fi"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "fr"
+        },
+        {
+          "name": "פלובדיב",
+          "lang": "he"
+        },
+        {
+          "name": "Պլովդիվ",
+          "lang": "hy"
+        },
+        {
+          "name": "PDV",
+          "lang": "iata"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "id"
+        },
+        {
+          "name": "Filippopoli",
+          "lang": "it"
+        },
+        {
+          "name": "プロヴディフ",
+          "lang": "ja"
+        },
+        {
+          "name": "პლოვდივი",
+          "lang": "ka"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "kk"
+        },
+        {
+          "name": "플로브디프",
+          "lang": "ko"
+        },
+        {
+          "name": "Philippopolis",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Plovdiv",
+          "lang": "link"
+        },
+        {
+          "name": "Filipopul",
+          "lang": "lmo"
+        },
+        {
+          "name": "Plovdivas",
+          "lang": "lt"
+        },
+        {
+          "name": "Plovdiva",
+          "lang": "lv"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "mk"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "mn"
+        },
+        {
+          "name": "प्लॉव्हडिव्ह",
+          "lang": "mr"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "nl"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "os"
+        },
+        {
+          "name": "Płowdiw",
+          "lang": "pl"
+        },
+        {
+          "name": "پلوودیف",
+          "lang": "pnb"
+        },
+        {
+          "name": "4000",
+          "lang": "post"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "pt"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "rmy"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "ru"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "sr"
+        },
+        {
+          "name": "Plovdiv",
+          "lang": "sv"
+        },
+        {
+          "name": "พลอฟดิฟ",
+          "lang": "th"
+        },
+        {
+          "name": "Plowdiw",
+          "lang": "tk"
+        },
+        {
+          "name": "Filibe",
+          "lang": "tr"
+        },
+        {
+          "name": "Пловдив",
+          "lang": "uk"
+        },
+        {
+          "name": "PDV",
+          "lang": "unlc"
+        },
+        {
+          "name": "פלאוודיוו",
+          "lang": "yi"
+        },
+        {
+          "name": "普罗夫迪夫",
+          "lang": "zh"
+        },
+        {
+          "name": "普罗夫迪夫",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Obshtina Plovdiv",
+      "name": "Plovdiv",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Plovdiv"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 24.67799737732084,
+        "south": 43.372150409861796,
+        "north": 43.461182990138205,
+        "west": 24.55533602267916
+      },
+      "asciiName": "Pleven",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 19.327350616455078,
+      "adminId2": "728202",
+      "countryCode": "BG",
+      "adminId1": "728204",
+      "lat": "43.41667",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "PVN24",
+      "adminCode1": "50",
+      "lng": "24.61667",
+      "geonameId": 728203,
+      "toponymName": "Pleven",
+      "population": 118675,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بلفن",
+          "lang": "ar"
+        },
+        {
+          "name": "Pleven",
+          "lang": "ast"
+        },
+        {
+          "name": "Горад Плевен",
+          "lang": "be"
+        },
+        {
+          "name": "Плевен",
+          "lang": "bg"
+        },
+        {
+          "name": "Pleven",
+          "lang": "cs"
+        },
+        {
+          "name": "Plewen",
+          "lang": "de"
+        },
+        {
+          "name": "Πλέβεν",
+          "lang": "el"
+        },
+        {
+          "name": "Pleven",
+          "lang": "en"
+        },
+        {
+          "name": "Pleven",
+          "lang": "es"
+        },
+        {
+          "name": "Pleven",
+          "lang": "fi"
+        },
+        {
+          "name": "Pleven",
+          "lang": "fr"
+        },
+        {
+          "name": "פלבן",
+          "lang": "he"
+        },
+        {
+          "name": "Պլևեն",
+          "lang": "hy"
+        },
+        {
+          "name": "Pleven",
+          "lang": "id"
+        },
+        {
+          "name": "Pleven",
+          "lang": "it"
+        },
+        {
+          "name": "プレヴェン",
+          "lang": "ja"
+        },
+        {
+          "name": "პლევენი",
+          "lang": "ka"
+        },
+        {
+          "name": "Плевен",
+          "lang": "kk"
+        },
+        {
+          "name": "플레벤",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Pleven",
+          "lang": "link"
+        },
+        {
+          "name": "Plevenas",
+          "lang": "lt"
+        },
+        {
+          "name": "Плевен",
+          "lang": "mk"
+        },
+        {
+          "name": "Pleven",
+          "lang": "nl"
+        },
+        {
+          "name": "Плевен",
+          "lang": "os"
+        },
+        {
+          "name": "Plewen",
+          "lang": "pl"
+        },
+        {
+          "name": "پلیوین",
+          "lang": "pnb"
+        },
+        {
+          "name": "5800",
+          "lang": "post"
+        },
+        {
+          "name": "Pleven",
+          "lang": "pt"
+        },
+        {
+          "name": "Plevna",
+          "lang": "ro"
+        },
+        {
+          "name": "Плевен",
+          "lang": "ru"
+        },
+        {
+          "name": "Плевен",
+          "lang": "sr"
+        },
+        {
+          "name": "Pleven",
+          "lang": "sv"
+        },
+        {
+          "name": "Plevne",
+          "lang": "tr"
+        },
+        {
+          "name": "Плевен",
+          "lang": "uk"
+        },
+        {
+          "name": "PVN",
+          "lang": "unlc"
+        },
+        {
+          "name": "普列文",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Obshtina Pleven",
+      "name": "Pleven",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Pleven"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 23.263676672412778,
+        "south": 43.38441734077452,
+        "north": 43.440582659225484,
+        "west": 23.186323327587225
+      },
+      "asciiName": "Montana",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 19.327350616455078,
+      "adminId2": "729113",
+      "countryCode": "BG",
+      "adminId1": "453753",
+      "lat": "43.4125",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "MON29",
+      "adminCode1": "47",
+      "lng": "23.225",
+      "geonameId": 729114,
+      "toponymName": "Montana",
+      "population": 47445,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Монтана",
+          "lang": "bg"
+        },
+        {
+          "name": "مۆنتانا، بولگاریا",
+          "lang": "ckb"
+        },
+        {
+          "name": "Монтана · Блъгарїи",
+          "lang": "cu"
+        },
+        {
+          "name": "Μοντάνα",
+          "lang": "el"
+        },
+        {
+          "name": "مونتانا، بلغارستان",
+          "lang": "fa"
+        },
+        {
+          "name": "מונטנה",
+          "lang": "he"
+        },
+        {
+          "name": "モンタナ",
+          "lang": "ja"
+        },
+        {
+          "name": "몬타나",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Montana%2C_Bulgaria",
+          "lang": "link"
+        },
+        {
+          "name": "Монтана",
+          "lang": "mk"
+        },
+        {
+          "name": "Монтанæ",
+          "lang": "os"
+        },
+        {
+          "name": "3400",
+          "lang": "post"
+        },
+        {
+          "name": "Монтана",
+          "lang": "ru"
+        },
+        {
+          "name": "Монтана",
+          "lang": "sr"
+        },
+        {
+          "name": "Kutlu Viçe",
+          "lang": "tr"
+        },
+        {
+          "name": "Монтана",
+          "lang": "uk"
+        },
+        {
+          "name": "OZA",
+          "lang": "unlc"
+        },
+        {
+          "name": "蒙塔納",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Obshtina Montana",
+      "name": "Montana",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Montana"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.545758937364916,
+        "south": 42.44864638965018,
+        "north": 42.56346961034983,
+        "west": 27.389861062635084
+      },
+      "asciiName": "Burgas",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 19.327350616455078,
+      "adminId2": "732769",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.50606",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode1": "39",
+      "lng": "27.46781",
+      "geonameId": 732770,
+      "toponymName": "Burgas",
+      "population": 195966,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Boergas",
+          "lang": "af"
+        },
+        {
+          "name": "بورغاس",
+          "lang": "ar"
+        },
+        {
+          "name": "Burgas",
+          "lang": "ast"
+        },
+        {
+          "name": "Burqas",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Бургас",
+          "lang": "be"
+        },
+        {
+          "name": "Бургас",
+          "lang": "bg"
+        },
+        {
+          "name": "Burgas",
+          "lang": "br"
+        },
+        {
+          "name": "بورگاس",
+          "lang": "ckb"
+        },
+        {
+          "name": "Burgas",
+          "lang": "cs"
+        },
+        {
+          "name": "Пѷргъ",
+          "lang": "cu"
+        },
+        {
+          "name": "Burgas",
+          "lang": "cy"
+        },
+        {
+          "name": "Burgas",
+          "lang": "da"
+        },
+        {
+          "name": "Burgas",
+          "lang": "de"
+        },
+        {
+          "name": "Μπουργκας",
+          "lang": "el"
+        },
+        {
+          "name": "Burgas",
+          "lang": "en"
+        },
+        {
+          "name": "Burgaso",
+          "lang": "eo"
+        },
+        {
+          "name": "Burgas",
+          "lang": "es"
+        },
+        {
+          "name": "بورگاس",
+          "lang": "fa"
+        },
+        {
+          "name": "Burgas",
+          "lang": "fi"
+        },
+        {
+          "name": "Bourgas",
+          "lang": "fr"
+        },
+        {
+          "name": "בורגס",
+          "lang": "he"
+        },
+        {
+          "name": "Burgasz",
+          "lang": "hu"
+        },
+        {
+          "name": "Բուրգաս",
+          "lang": "hy"
+        },
+        {
+          "name": "BOJ",
+          "lang": "iata"
+        },
+        {
+          "name": "Burgas",
+          "lang": "id"
+        },
+        {
+          "name": "ブルガス",
+          "lang": "ja"
+        },
+        {
+          "name": "ბურგასი",
+          "lang": "ka"
+        },
+        {
+          "name": "Бургас",
+          "lang": "kk"
+        },
+        {
+          "name": "부르가스",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Burgas",
+          "lang": "link"
+        },
+        {
+          "name": "Burgasas",
+          "lang": "lt"
+        },
+        {
+          "name": "Burgasa",
+          "lang": "lv"
+        },
+        {
+          "name": "Бургас",
+          "lang": "mk"
+        },
+        {
+          "name": "Бургас хот",
+          "lang": "mn"
+        },
+        {
+          "name": "बुर्गास",
+          "lang": "mr"
+        },
+        {
+          "name": "Boergas",
+          "lang": "nl"
+        },
+        {
+          "name": "Бургас",
+          "lang": "os"
+        },
+        {
+          "name": "Burgas",
+          "lang": "pl"
+        },
+        {
+          "name": "برگاس",
+          "lang": "pnb"
+        },
+        {
+          "name": "8000",
+          "lang": "post"
+        },
+        {
+          "name": "Burgas",
+          "lang": "pt"
+        },
+        {
+          "name": "Burgas",
+          "lang": "ro"
+        },
+        {
+          "name": "Бургас",
+          "lang": "ru"
+        },
+        {
+          "name": "Burgas",
+          "lang": "sk"
+        },
+        {
+          "name": "Бургас",
+          "lang": "sr"
+        },
+        {
+          "name": "Burgas",
+          "lang": "sv"
+        },
+        {
+          "name": "Burgaz",
+          "lang": "tr"
+        },
+        {
+          "name": "Бургас",
+          "lang": "uk"
+        },
+        {
+          "name": "BOJ",
+          "lang": "unlc"
+        },
+        {
+          "name": "布爾加斯",
+          "lang": "yue"
+        },
+        {
+          "name": "布爾加斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Obshtina Burgas",
+      "name": "Burgas",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Burgas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.745456235341933,
+        "south": 42.09100635124857,
+        "north": 42.10899364875143,
+        "west": 27.72121036465807
+      },
+      "asciiName": "Bulgari",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 19.133100509643555,
+      "cc2": "BG",
+      "adminId2": "729123",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.1",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "BGS13",
+      "adminCode1": "39",
+      "lng": "27.73333",
+      "geonameId": 732802,
+      "toponymName": "Bŭlgari",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Българи",
+          "lang": "bg"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Balgari",
+          "lang": "link"
+        },
+        {
+          "name": "8274",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Obshtina Tsarevo",
+      "name": "Bŭlgari",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "populated place",
+      "adminName1": "Burgas"
+    }
+  ]
+}

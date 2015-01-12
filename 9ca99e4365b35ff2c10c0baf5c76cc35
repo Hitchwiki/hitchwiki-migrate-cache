@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A395",
+               "short_name" : "A395",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niedersachsen",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A395, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.23764,
+                  "lng" : 10.5855379
+               },
+               "southwest" : {
+                  "lat" : 51.9393367,
+                  "lng" : 10.486233
+               }
+            },
+            "location" : {
+               "lat" : 52.0844409,
+               "lng" : 10.4973001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.23764,
+                  "lng" : 10.5855379
+               },
+               "southwest" : {
+                  "lat" : 51.9393367,
+                  "lng" : 10.486233
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

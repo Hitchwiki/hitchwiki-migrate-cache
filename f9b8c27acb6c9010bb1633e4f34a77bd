@@ -1,0 +1,584 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy",
+               "short_name" : "Embassy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Howell",
+               "short_name" : "Howell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Livingston County",
+               "short_name" : "Livingston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48843",
+               "short_name" : "48843",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy, Howell, MI 48843, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5462144,
+                  "lng" : -84.0056764
+               },
+               "southwest" : {
+                  "lat" : 42.54184240000001,
+                  "lng" : -84.0075109
+               }
+            },
+            "location" : {
+               "lat" : 42.5440891,
+               "lng" : -84.0069148
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5462144,
+                  "lng" : -84.00524466970849
+               },
+               "southwest" : {
+                  "lat" : 42.54184240000001,
+                  "lng" : -84.0079426302915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy",
+               "short_name" : "Embassy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Anna",
+               "short_name" : "Anna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Collin County",
+               "short_name" : "Collin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75409",
+               "short_name" : "75409",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy, Anna, TX 75409, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.3735095,
+                  "lng" : -96.4343854
+               },
+               "southwest" : {
+                  "lat" : 33.3691416,
+                  "lng" : -96.43637629999999
+               }
+            },
+            "location" : {
+               "lat" : 33.3713673,
+               "lng" : -96.43517489999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3735095,
+                  "lng" : -96.43403186970849
+               },
+               "southwest" : {
+                  "lat" : 33.3691416,
+                  "lng" : -96.4367298302915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy Mayfair",
+               "short_name" : "Embassy Mayfair",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old Burlington Street",
+               "short_name" : "Old Burlington St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mayfair",
+               "short_name" : "Mayfair",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W1S 3AN",
+               "short_name" : "W1S 3AN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy Mayfair, 29 Old Burlington Street, Mayfair, London W1S 3AN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51042589999999,
+               "lng" : -0.1408852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5117748802915,
+                  "lng" : -0.139536219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5090769197085,
+                  "lng" : -0.142234180291502
+               }
+            }
+         },
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy",
+               "short_name" : "Embassy",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ta' Xbiex",
+               "short_name" : "Ta' Xbiex",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Embassy, Ta' Xbiex, Malta",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.897878,
+               "lng" : 14.49716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8992269802915,
+                  "lng" : 14.4985089802915
+               },
+               "southwest" : {
+                  "lat" : 35.8965290197085,
+                  "lng" : 14.4958110197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy Tower",
+               "short_name" : "Embassy Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Mahatma Gandhi Road",
+               "short_name" : "Mahatma Gandhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Tukoganj",
+               "short_name" : "South Tukoganj",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tukoganj",
+               "short_name" : "Tukoganj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Indore",
+               "short_name" : "Indore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indore",
+               "short_name" : "Indore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "452001",
+               "short_name" : "452001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy Tower, Mahatma Gandhi Road, South Tukoganj, Tukoganj, Indore, Madhya Pradesh 452001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7220207,
+                  "lng" : 75.88032729999999
+               },
+               "southwest" : {
+                  "lat" : 22.7219075,
+                  "lng" : 75.8801323
+               }
+            },
+            "location" : {
+               "lat" : 22.7219641,
+               "lng" : 75.8802298
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7233130802915,
+                  "lng" : 75.88157878029151
+               },
+               "southwest" : {
+                  "lat" : 22.7206151197085,
+                  "lng" : 75.8788808197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy Building",
+               "short_name" : "Embassy Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Zahur Ahmed Chowdhury Road",
+               "short_name" : "Zahur Ahmed Chowdhury Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Panchlaish",
+               "short_name" : "Panchlaish",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittagong",
+               "short_name" : "Chittagong",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chittagong Division",
+               "short_name" : "Chittagong Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Embassy Building, Zahur Ahmed Chowdhury Road, Chittagong, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.3554639,
+                  "lng" : 91.82488379999999
+               },
+               "southwest" : {
+                  "lat" : 22.3552529,
+                  "lng" : 91.8244601
+               }
+            },
+            "location" : {
+               "lat" : 22.3553594,
+               "lng" : 91.82463380000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.3567073802915,
+                  "lng" : 91.82602093029149
+               },
+               "southwest" : {
+                  "lat" : 22.3540094197085,
+                  "lng" : 91.82332296970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy Bandung",
+               "short_name" : "Embassy Bandung",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cipaganti",
+               "short_name" : "Cipaganti",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Coblong",
+               "short_name" : "Coblong",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bandung",
+               "short_name" : "Bandung",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40131",
+               "short_name" : "40131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy Bandung, Cipaganti, Coblong, Bandung 40131, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.895277,
+               "lng" : 107.604548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.893928019708498,
+                  "lng" : 107.6058969802915
+               },
+               "southwest" : {
+                  "lat" : -6.896625980291502,
+                  "lng" : 107.6031990197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy",
+               "short_name" : "Embassy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bérc utca",
+               "short_name" : "Bérc u.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "I. kerület",
+               "short_name" : "I. kerület",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Bp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Budapest",
+               "short_name" : "Budapest",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1016",
+               "short_name" : "1016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Budapest, Embassy, Bérc utca 16, 1016 Hungary",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.4867279,
+               "lng" : 19.0405951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4880768802915,
+                  "lng" : 19.0419440802915
+               },
+               "southwest" : {
+                  "lat" : 47.4853789197085,
+                  "lng" : 19.0392461197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy",
+               "short_name" : "Embassy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "199",
+               "short_name" : "199",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Anton Lembede Street",
+               "short_name" : "Anton Lembede St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durban Central",
+               "short_name" : "Durban Central",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Durban",
+               "short_name" : "Durban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durban Metro",
+               "short_name" : "Durban Metro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durban Metro",
+               "short_name" : "Durban Metro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "KwaZulu-Natal",
+               "short_name" : "KZN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4001",
+               "short_name" : "4001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy, 199 Anton Lembede Street, Durban, 4001, South Africa",
+         "geometry" : {
+            "location" : {
+               "lat" : -29.859053,
+               "lng" : 31.02789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.8577040197085,
+                  "lng" : 31.0292389802915
+               },
+               "southwest" : {
+                  "lat" : -29.8604019802915,
+                  "lng" : 31.0265410197085
+               }
+            }
+         },
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

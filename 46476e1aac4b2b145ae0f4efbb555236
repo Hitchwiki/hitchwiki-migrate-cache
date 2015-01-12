@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A150",
+               "short_name" : "A150",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seine-Maritime",
+               "short_name" : "76",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haute-Normandie",
+               "short_name" : "Haute-Normandie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A150, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6459354,
+                  "lng" : 1.0611182
+               },
+               "southwest" : {
+                  "lat" : 49.4495845,
+                  "lng" : 0.7651791999999999
+               }
+            },
+            "location" : {
+               "lat" : 49.5371078,
+               "lng" : 0.9614648000000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6459354,
+                  "lng" : 1.0611182
+               },
+               "southwest" : {
+                  "lat" : 49.4495845,
+                  "lng" : 0.7651791999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

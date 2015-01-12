@@ -1,0 +1,173 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "asciiName": "Ezine Ilcesi",
+      "countryId": "298795",
+      "fcl": "A",
+      "score": 34.843162536621094,
+      "adminId2": "8632578",
+      "countryCode": "TR",
+      "adminId1": "749778",
+      "lat": "39.79679",
+      "fcode": "ADM2",
+      "continentCode": "AS",
+      "adminCode2": "8632578",
+      "adminCode1": "17",
+      "lng": "26.35702",
+      "geonameId": 8632578,
+      "toponymName": "Ezine İlçesi",
+      "population": 32165,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Ezine,_%C3%87anakkale",
+          "lang": "link"
+        },
+        {
+          "name": "Ezine İlçesi",
+          "lang": "tr"
+        }
+      ],
+      "adminName2": "Ezine İlçesi",
+      "name": "Ezine İlçesi",
+      "fclName": "country, state, region,...",
+      "countryName": "Turkey",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Çanakkale"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 26.3619301369735,
+        "south": 39.76939246913661,
+        "north": 39.80181953086339,
+        "west": 26.3197218630265
+      },
+      "asciiName": "Ezine",
+      "countryId": "298795",
+      "fcl": "P",
+      "score": 21.642131805419922,
+      "countryCode": "TR",
+      "adminId1": "749778",
+      "lat": "39.78561",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "17",
+      "lng": "26.34083",
+      "geonameId": 315061,
+      "toponymName": "Ezine",
+      "population": 15677,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Ezine%2C_%C3%87anakkale",
+          "lang": "link"
+        },
+        {
+          "name": "EZI",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Ezine",
+      "fclName": "city, village,...",
+      "countryName": "Turkey",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Çanakkale"
+    },
+    {
+      "adminCode1": "37",
+      "lng": "33.99836",
+      "geonameId": 752925,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "Abana Deresi",
+      "asciiName": "Abana Deresi",
+      "countryId": "298795",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 11.614387512207031,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "Abana Deresi",
+      "fclName": "stream, lake, ...",
+      "countryName": "Turkey",
+      "fcodeName": "stream",
+      "adminId1": "743881",
+      "adminName1": "Kastamonu",
+      "lat": "41.98004",
+      "fcode": "STM",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 36.07784675764651,
+        "south": 40.53732870249714,
+        "north": 40.573303297502854,
+        "west": 36.03048524235349
+      },
+      "asciiName": "Ezinepazari",
+      "countryId": "298795",
+      "fcl": "P",
+      "score": 6.775059223175049,
+      "countryCode": "TR",
+      "adminId1": "752014",
+      "lat": "40.55532",
+      "fcode": "PPLA3",
+      "continentCode": "AS",
+      "adminCode1": "05",
+      "lng": "36.05417",
+      "geonameId": 747177,
+      "toponymName": "Ezinepazarı",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Ezinepazar",
+          "lang": "en"
+        },
+        {
+          "name": "Эзине",
+          "lang": "ru"
+        },
+        {
+          "name": "Ezinepazarı",
+          "lang": "tr"
+        }
+      ],
+      "adminName2": "",
+      "name": "Ezinepazar",
+      "fclName": "city, village,...",
+      "countryName": "Turkey",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Amasya"
+    }
+  ]
+}

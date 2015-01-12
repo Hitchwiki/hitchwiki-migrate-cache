@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halle (Saale), Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5436635,
+                  "lng" : 12.0892163
+               },
+               "southwest" : {
+                  "lat" : 51.4021017,
+                  "lng" : 11.8555299
+               }
+            },
+            "location" : {
+               "lat" : 51.4969802,
+               "lng" : 11.9688029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5436635,
+                  "lng" : 12.0892163
+               },
+               "southwest" : {
+                  "lat" : 51.4021017,
+                  "lng" : 11.8555299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarajevo",
+               "short_name" : "Sarajevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanton Sarajevo",
+               "short_name" : "Kanton Sarajevo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Federation of Bosnia and Herzegovina",
+               "short_name" : "Federation of Bosnia and Herzegovina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarajevo, Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8845937,
+                  "lng" : 18.4660864
+               },
+               "southwest" : {
+                  "lat" : 43.8191703,
+                  "lng" : 18.3017635
+               }
+            },
+            "location" : {
+               "lat" : 43.8562586,
+               "lng" : 18.4130763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8845937,
+                  "lng" : 18.4660864
+               },
+               "southwest" : {
+                  "lat" : 43.8191703,
+                  "lng" : 18.3017635
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

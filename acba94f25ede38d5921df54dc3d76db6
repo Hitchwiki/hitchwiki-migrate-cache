@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gronau",
+               "short_name" : "Gronau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borken",
+               "short_name" : "Borken",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gronau, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.243035,
+                  "lng" : 7.1028534
+               },
+               "southwest" : {
+                  "lat" : 52.1350302,
+                  "lng" : 6.950369599999999
+               }
+            },
+            "location" : {
+               "lat" : 52.2125,
+               "lng" : 7.041666999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.243035,
+                  "lng" : 7.1028534
+               },
+               "southwest" : {
+                  "lat" : 52.1350302,
+                  "lng" : 6.950369599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

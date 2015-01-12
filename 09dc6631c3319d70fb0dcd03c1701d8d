@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M50",
+               "short_name" : "M50",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Salford",
+               "short_name" : "Salford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salford M50, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4853294,
+                  "lng" : -2.2797878
+               },
+               "southwest" : {
+                  "lat" : 53.46584619999999,
+                  "lng" : -2.3311568
+               }
+            },
+            "location" : {
+               "lat" : 53.4739926,
+               "lng" : -2.2937409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4853294,
+                  "lng" : -2.2797878
+               },
+               "southwest" : {
+                  "lat" : 53.46584619999999,
+                  "lng" : -2.3311568
+               }
+            }
+         },
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

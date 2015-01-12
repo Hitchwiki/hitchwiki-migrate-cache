@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neiva",
+               "short_name" : "Neiva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huila",
+               "short_name" : "Huila",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neiva, Huila, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.28341,
+                  "lng" : -74.97081
+               },
+               "southwest" : {
+                  "lat" : 2.7831,
+                  "lng" : -75.62214
+               }
+            },
+            "location" : {
+               "lat" : 2.998611,
+               "lng" : -75.30444399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.28341,
+                  "lng" : -74.97081
+               },
+               "southwest" : {
+                  "lat" : 2.7831,
+                  "lng" : -75.62214
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Neiva",
+               "short_name" : "Neiva",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Neiva",
+               "short_name" : "Neiva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Huila",
+               "short_name" : "Huila",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Neiva, Neiva, Huila, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.92573,
+               "lng" : -75.29084999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.927078980291502,
+                  "lng" : -75.28950101970848
+               },
+               "southwest" : {
+                  "lat" : 2.924381019708498,
+                  "lng" : -75.29219898029149
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

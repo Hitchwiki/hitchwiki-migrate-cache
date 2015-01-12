@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torun",
+               "short_name" : "Torun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toruń",
+               "short_name" : "Toruń",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Toruń County",
+               "short_name" : "Toruń County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kuyavian-Pomeranian Voivodeship",
+               "short_name" : "Kuyavian-Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torun, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0655486,
+                  "lng" : 18.7408869
+               },
+               "southwest" : {
+                  "lat" : 52.9612365,
+                  "lng" : 18.4622103
+               }
+            },
+            "location" : {
+               "lat" : 53.0137902,
+               "lng" : 18.5984437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0655486,
+                  "lng" : 18.7408869
+               },
+               "southwest" : {
+                  "lat" : 52.9612365,
+                  "lng" : 18.4622103
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

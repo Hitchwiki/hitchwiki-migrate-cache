@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guernsey",
+               "short_name" : "GG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guernsey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7327825,
+                  "lng" : -2.1584973
+               },
+               "southwest" : {
+                  "lat" : 49.4002032,
+                  "lng" : -2.6745361
+               }
+            },
+            "location" : {
+               "lat" : 49.465691,
+               "lng" : -2.585278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5094108,
+                  "lng" : -2.5016885
+               },
+               "southwest" : {
+                  "lat" : 49.4167199,
+                  "lng" : -2.6745361
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

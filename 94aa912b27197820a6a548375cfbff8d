@@ -1,0 +1,431 @@
+{
+  "totalResultsCount": 43,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "هاميلتون",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Гамільтан",
+          "lang": "be"
+        },
+        {
+          "name": "Хамилтън",
+          "lang": "bg"
+        },
+        {
+          "name": "Hamiltono",
+          "lang": "eo"
+        },
+        {
+          "name": "همیلتون",
+          "lang": "fa"
+        },
+        {
+          "name": "המילטון",
+          "lang": "he"
+        },
+        {
+          "name": "ハミルトン",
+          "lang": "ja"
+        },
+        {
+          "name": "ჰამილტონი",
+          "lang": "ka"
+        },
+        {
+          "name": "해밀턴",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Hamilton%2C_Ontario",
+          "lang": "link"
+        },
+        {
+          "name": "Hamiltonas",
+          "lang": "lt"
+        },
+        {
+          "name": "Hamiltona",
+          "lang": "lv"
+        },
+        {
+          "name": "हॅमिल्टन",
+          "lang": "mr"
+        },
+        {
+          "name": "Hamilton i Ontario",
+          "lang": "nn"
+        },
+        {
+          "name": "Гамильтон",
+          "lang": "os"
+        },
+        {
+          "name": "ہاملٹن",
+          "lang": "pnb"
+        },
+        {
+          "name": "Гамильтон",
+          "lang": "ru"
+        },
+        {
+          "name": "Хамилтон",
+          "lang": "sr"
+        },
+        {
+          "name": "ஆமில்டன்",
+          "lang": "ta"
+        },
+        {
+          "name": "Гамільтон",
+          "lang": "uk"
+        },
+        {
+          "name": "HAM",
+          "lang": "unlc"
+        },
+        {
+          "name": "ہیملٹن، انٹاریو",
+          "lang": "ur"
+        },
+        {
+          "name": "哈密尔顿",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 34.55720138549805,
+      "lng": "-79.84963",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 43.15653578824732,
+        "east": -79.72096471334801,
+        "north": 43.34368149575268,
+        "west": -79.97829822865198
+      },
+      "name": "Hamilton",
+      "fcode": "PPL",
+      "geonameId": 5969782,
+      "asciiName": "Hamilton",
+      "lat": "43.25011",
+      "population": 519949,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "city, village,...",
+      "countryCode": "CA",
+      "toponymName": "Hamilton",
+      "fcl": "P",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "5969784",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 23.56534767150879,
+      "lng": "-79.93103",
+      "adminName2": "Hamilton",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 43.050518794000084,
+        "east": -79.62208747099993,
+        "north": 43.47103610700009,
+        "west": -80.2484862149999
+      },
+      "name": "Hamilton",
+      "fcode": "ADM2",
+      "geonameId": 5969784,
+      "asciiName": "Hamilton",
+      "lat": "43.25521",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "country, state, region,...",
+      "countryCode": "CA",
+      "adminId2": "5969784",
+      "toponymName": "Hamilton",
+      "fcl": "A",
+      "continentCode": "NA"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Hamilton%2C_Ontario_%28township%29",
+        "lang": "link"
+      }],
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 15.58110523223877,
+      "lng": "-78.21622",
+      "adminName2": "",
+      "fcodeName": "area",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton",
+      "fcode": "AREA",
+      "geonameId": 5969783,
+      "asciiName": "Hamilton",
+      "lat": "44.05012",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "parks,area, ...",
+      "countryCode": "CA",
+      "toponymName": "Hamilton",
+      "fcl": "L",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "5958506",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 12.984254837036133,
+      "lng": "-76.38898",
+      "adminName2": "Frontenac County",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton Lake",
+      "fcode": "LK",
+      "geonameId": 5969840,
+      "asciiName": "Hamilton Lake",
+      "lat": "44.56244",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "5958506",
+      "toponymName": "Hamilton Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "5991054",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 12.984254837036133,
+      "lng": "-91.02782",
+      "adminName2": "Kenora District",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Winnipeg"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton Lake",
+      "fcode": "LK",
+      "geonameId": 5969841,
+      "asciiName": "Hamilton Lake",
+      "lat": "49.53601",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "5991054",
+      "toponymName": "Hamilton Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "5991054",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 12.984254837036133,
+      "lng": "-92.09056",
+      "adminName2": "Kenora District",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Winnipeg"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton Lake",
+      "fcode": "LK",
+      "geonameId": 5969842,
+      "asciiName": "Hamilton Lake",
+      "lat": "49.98803",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "5991054",
+      "toponymName": "Hamilton Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "6166139",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 12.984254837036133,
+      "lng": "-90.43634",
+      "adminName2": "Thunder Bay District",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Winnipeg"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton Lake",
+      "fcode": "LK",
+      "geonameId": 5969843,
+      "asciiName": "Hamilton Lake",
+      "lat": "50.86908",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "6166139",
+      "toponymName": "Hamilton Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "5971841",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 12.984254837036133,
+      "lng": "-78.04111",
+      "adminName2": "Hastings County",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton Lake",
+      "fcode": "LK",
+      "geonameId": 5969844,
+      "asciiName": "Hamilton Lake",
+      "lat": "45.16056",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "5971841",
+      "toponymName": "Hamilton Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "6098746",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 12.984254837036133,
+      "lng": "-79.44116",
+      "adminName2": "Parry Sound District",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton Lake",
+      "fcode": "LK",
+      "geonameId": 5969845,
+      "asciiName": "Hamilton Lake",
+      "lat": "45.8897",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "6098746",
+      "toponymName": "Hamilton Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    },
+    {
+      "adminCode2": "6158840",
+      "countryName": "Canada",
+      "adminCode1": "08",
+      "score": 12.984254837036133,
+      "lng": "-82.9918",
+      "adminName2": "Sudbury",
+      "fcodeName": "lake",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Hamilton Lake",
+      "fcode": "LK",
+      "geonameId": 5969846,
+      "asciiName": "Hamilton Lake",
+      "lat": "47.53425",
+      "population": 0,
+      "adminName1": "Ontario",
+      "countryId": "6251999",
+      "adminId1": "6093943",
+      "fclName": "stream, lake, ...",
+      "countryCode": "CA",
+      "adminId2": "6158840",
+      "toponymName": "Hamilton Lake",
+      "fcl": "H",
+      "continentCode": "NA"
+    }
+  ]
+}

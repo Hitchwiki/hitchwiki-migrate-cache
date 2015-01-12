@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berthierville",
+               "short_name" : "Berthierville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "D'Autray Regional County Municipality",
+               "short_name" : "D'Autray Regional County Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berthierville, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0957771,
+                  "lng" : -73.16508759999999
+               },
+               "southwest" : {
+                  "lat" : 46.065524,
+                  "lng" : -73.20624590000001
+               }
+            },
+            "location" : {
+               "lat" : 46.083474,
+               "lng" : -73.1847588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0957771,
+                  "lng" : -73.16508759999999
+               },
+               "southwest" : {
+                  "lat" : 46.065524,
+                  "lng" : -73.20624590000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

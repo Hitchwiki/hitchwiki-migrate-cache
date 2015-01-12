@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A952",
+               "short_name" : "A952",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Starnberg",
+               "short_name" : "Starnberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82319",
+               "short_name" : "82319",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A952, 82319 Starnberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.013408,
+                  "lng" : 11.411856
+               },
+               "southwest" : {
+                  "lat" : 48.0010471,
+                  "lng" : 11.3627664
+               }
+            },
+            "location" : {
+               "lat" : 48.003932,
+               "lng" : 11.3874532
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.013408,
+                  "lng" : 11.411856
+               },
+               "southwest" : {
+                  "lat" : 48.0010471,
+                  "lng" : 11.3627664
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

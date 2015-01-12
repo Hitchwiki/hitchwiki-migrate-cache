@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A404",
+               "short_name" : "A404",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ain",
+               "short_name" : "01",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A404, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2849691,
+                  "lng" : 5.6619687
+               },
+               "southwest" : {
+                  "lat" : 46.1385661,
+                  "lng" : 5.5415266
+               }
+            },
+            "location" : {
+               "lat" : 46.2115356,
+               "lng" : 5.6020881
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2849691,
+                  "lng" : 5.6619687
+               },
+               "southwest" : {
+                  "lat" : 46.1385661,
+                  "lng" : 5.5415266
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

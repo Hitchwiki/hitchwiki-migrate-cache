@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trollhättan",
+               "short_name" : "Trollhättan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trollhättan",
+               "short_name" : "Trollhättan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västra Götaland County",
+               "short_name" : "Västra Götaland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trollhättan, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.332091,
+                  "lng" : 12.3647059
+               },
+               "southwest" : {
+                  "lat" : 58.244792,
+                  "lng" : 12.2400791
+               }
+            },
+            "location" : {
+               "lat" : 58.28348939999999,
+               "lng" : 12.2858206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.332091,
+                  "lng" : 12.3647059
+               },
+               "southwest" : {
+                  "lat" : 58.244792,
+                  "lng" : 12.2400791
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

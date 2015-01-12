@@ -1,0 +1,89 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "countryId": "6697173",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Hisarya_Cove",
+        "lang": "link"
+      }],
+      "countryName": "Antarctica",
+      "fclName": "stream, lake, ...",
+      "score": 27.99418067932129,
+      "countryCode": "AQ",
+      "lng": "-62.58833",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "cove(s)",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -3,
+        "timeZoneId": "Antarctica/Palmer"
+      },
+      "toponymName": "Hisarya Cove",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "AN",
+      "name": "Hisarya Cove",
+      "fcode": "COVE",
+      "asciiName": "Hisarya Cove",
+      "geonameId": 8521182,
+      "lat": "-63.05861",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "adminCode2": "PDV37",
+      "alternateNames": [
+        {
+          "name": "Хисаря",
+          "lang": "bg"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Hisarya%2C_Bulgaria",
+          "lang": "link"
+        },
+        {
+          "name": "4180",
+          "lang": "post"
+        }
+      ],
+      "countryName": "Bulgaria",
+      "adminCode1": "51",
+      "score": 15.996674537658691,
+      "lng": "24.7",
+      "adminName2": "Obshtina Khisarya",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 42.488985074816995,
+        "east": 24.714942635865157,
+        "north": 42.511014925183005,
+        "west": 24.685057364134842
+      },
+      "name": "Khisarya",
+      "fcode": "PPL",
+      "geonameId": 730419,
+      "asciiName": "Khisarya",
+      "lat": "42.5",
+      "population": 7903,
+      "adminName1": "Plovdiv",
+      "adminId1": "728194",
+      "countryId": "732800",
+      "fclName": "city, village,...",
+      "countryCode": "BG",
+      "adminId2": "730418",
+      "toponymName": "Khisarya",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

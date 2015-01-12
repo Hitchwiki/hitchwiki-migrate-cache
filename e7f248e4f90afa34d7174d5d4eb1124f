@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alabama, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.007889,
+                  "lng" : -84.888246
+               },
+               "southwest" : {
+                  "lat" : 30.1941334,
+                  "lng" : -88.4732269
+               }
+            },
+            "location" : {
+               "lat" : 32.3182314,
+               "lng" : -86.902298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.007889,
+                  "lng" : -84.888246
+               },
+               "southwest" : {
+                  "lat" : 30.1941334,
+                  "lng" : -88.4732269
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

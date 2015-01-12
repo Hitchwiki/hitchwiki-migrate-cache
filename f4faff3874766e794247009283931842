@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A21",
+               "short_name" : "A21",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liesing",
+               "short_name" : "Liesing",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1230",
+               "short_name" : "1230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A21, 1230 Wien, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1515648,
+                  "lng" : 16.3187084
+               },
+               "southwest" : {
+                  "lat" : 48.05653299999999,
+                  "lng" : 15.9719714
+               }
+            },
+            "location" : {
+               "lat" : 48.0723109,
+               "lng" : 16.1726228
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1515648,
+                  "lng" : 16.3187084
+               },
+               "southwest" : {
+                  "lat" : 48.05653299999999,
+                  "lng" : 15.9719714
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

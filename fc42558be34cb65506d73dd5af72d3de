@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnarvon",
+               "short_name" : "Carnarvon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6701",
+               "short_name" : "6701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carnarvon WA 6701, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.8676488,
+                  "lng" : 113.6846522
+               },
+               "southwest" : {
+                  "lat" : -24.8958108,
+                  "lng" : 113.6526374
+               }
+            },
+            "location" : {
+               "lat" : -24.8826946,
+               "lng" : 113.6570204
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.8676488,
+                  "lng" : 113.6846522
+               },
+               "southwest" : {
+                  "lat" : -24.8958108,
+                  "lng" : 113.6526374
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnarvon",
+               "short_name" : "Carnarvon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carnarvon",
+               "short_name" : "Carnarvon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bo-Karoo",
+               "short_name" : "Bo-Karoo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Cape",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carnarvon, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.885605,
+                  "lng" : 22.219868
+               },
+               "southwest" : {
+                  "lat" : -31.042006,
+                  "lng" : 22.0558669
+               }
+            },
+            "location" : {
+               "lat" : -30.966667,
+               "lng" : 22.133333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.885605,
+                  "lng" : 22.219868
+               },
+               "southwest" : {
+                  "lat" : -31.042006,
+                  "lng" : 22.0558669
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnarvon",
+               "short_name" : "Carnarvon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minden Hills",
+               "short_name" : "Minden Hills",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Haliburton County",
+               "short_name" : "Haliburton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K0M",
+               "short_name" : "K0M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carnarvon, ON K0M, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.045479,
+               "lng" : -78.69838399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0468279802915,
+                  "lng" : -78.69703501970848
+               },
+               "southwest" : {
+                  "lat" : 45.0441300197085,
+                  "lng" : -78.69973298029149
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnarvon",
+               "short_name" : "Carnarvon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viola",
+               "short_name" : "Viola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sac County",
+               "short_name" : "Sac County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "51450",
+               "short_name" : "51450",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carnarvon, IA 51450, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.253595,
+               "lng" : -95.02165680000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.25494398029149,
+                  "lng" : -95.02030781970852
+               },
+               "southwest" : {
+                  "lat" : 42.2522460197085,
+                  "lng" : -95.02300578029153
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

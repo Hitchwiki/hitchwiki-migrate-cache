@@ -1,0 +1,355 @@
+{
+  "totalResultsCount": 14,
+  "geonames": [
+    {
+      "lng": "-15",
+      "geonameId": 3358844,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Fortaleza",
+        "dstOffset": -3
+      },
+      "bbox": {
+        "east": 20.000425338745117,
+        "south": -83.02047729492188,
+        "north": 0,
+        "west": -83.21609497070312
+      },
+      "toponymName": "South Atlantic Ocean",
+      "asciiName": "South Atlantic Ocean",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 123.64024353027344,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/South_Atlantic_Ocean",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "South Atlantic Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "-45",
+      "fcode": "OCN"
+    },
+    {
+      "lng": "-40",
+      "geonameId": 3411923,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "America/Danmarkshavn",
+        "dstOffset": 0
+      },
+      "bbox": {
+        "east": 6.608027458190918,
+        "south": -0.883809149265289,
+        "north": 64.3974533081055,
+        "west": -83
+      },
+      "toponymName": "North Atlantic Ocean",
+      "asciiName": "North Atlantic Ocean",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 122.5162582397461,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Océan Atlantique Nord",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/North_Atlantic_Ocean",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "North Atlantic Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "40",
+      "fcode": "OCN"
+    },
+    {
+      "lng": "-25",
+      "geonameId": 3373405,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Recife",
+        "dstOffset": -3
+      },
+      "toponymName": "Atlantic Ocean",
+      "asciiName": "Atlantic Ocean",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 91.88719177246094,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Oceano Atlantico",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Atlantic_Ocean",
+          "lang": "link"
+        },
+        {
+          "name": "大西洋",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Atlantic Ocean",
+      "fclName": "stream, lake, ...",
+      "countryName": "",
+      "fcodeName": "ocean",
+      "adminName1": "",
+      "lat": "10",
+      "fcode": "OCN"
+    },
+    {
+      "lng": "-20",
+      "geonameId": 2522578,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "America/Recife",
+        "dstOffset": -3
+      },
+      "toponymName": "Mid-Atlantic Ridge",
+      "asciiName": "Mid-Atlantic Ridge",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 19.85999298095703,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Kesk-Atlandi Mäestik",
+          "lang": "et"
+        },
+        {
+          "name": "Keski-Atlantin Selänne",
+          "lang": "fi"
+        },
+        {
+          "name": "大西洋中央海嶺",
+          "lang": "ja"
+        },
+        {
+          "name": "Dorsal do Atlântico Norte",
+          "lang": "pt"
+        },
+        {
+          "name": "Срединно-Атлантический Хребет",
+          "lang": "ru"
+        },
+        {
+          "name": "Atlantiska Centralryggen",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "Mid-Atlantic Ridge",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "cordillera",
+      "adminName1": "",
+      "lat": "0",
+      "fcode": "CDAU"
+    },
+    {
+      "lng": "-48",
+      "geonameId": 3424982,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "America/Danmarkshavn",
+        "dstOffset": 0
+      },
+      "toponymName": "Northwest Atlantic Mid-Ocean Canyon",
+      "asciiName": "Northwest Atlantic Mid-Ocean Canyon",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 19.318788528442383,
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Northwest Atlantic Mid-Ocean Canyon",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "seachannel",
+      "adminName1": "",
+      "lat": "54",
+      "fcode": "SCNU"
+    },
+    {
+      "lng": "-24",
+      "geonameId": 3424991,
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "America/Danmarkshavn",
+        "dstOffset": 0
+      },
+      "toponymName": "Maury Seachannel",
+      "asciiName": "Maury Seachannel",
+      "fcl": "U",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 13.197619438171387,
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Maury Seachannel",
+      "fclName": "undersea",
+      "countryName": "",
+      "fcodeName": "seachannel",
+      "adminName1": "",
+      "lat": "56.55",
+      "fcode": "SCNU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -74.57574993790718,
+        "south": 39.320288951248244,
+        "north": 39.338276248751754,
+        "west": -74.59900686209284
+      },
+      "asciiName": "Ocean Heights",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 5.980682849884033,
+      "adminId2": "4500561",
+      "countryCode": "US",
+      "adminId1": "5101760",
+      "lat": "39.32928",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 6,
+      "adminCode2": "001",
+      "adminCode1": "NJ",
+      "lng": "-74.58738",
+      "geonameId": 4503364,
+      "toponymName": "Ocean Heights",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Atlantic County",
+      "name": "Ocean Heights",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "New Jersey"
+    },
+    {
+      "adminCode1": "FL",
+      "lng": "-80.9726",
+      "geonameId": 6528913,
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "toponymName": "Atlantic Ocean Palm Inn",
+      "asciiName": "ATLANTIC OCEAN PALM INN",
+      "countryId": "6252001",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 2.886979103088379,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "US",
+      "name": "Atlantic Ocean Palm Inn",
+      "fclName": "spot, building, farm",
+      "countryName": "United States",
+      "fcodeName": "hotel",
+      "adminId1": "4155751",
+      "adminName1": "Florida",
+      "lat": "29.1575",
+      "fcode": "HTL",
+      "continentCode": "NA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "Atlantic Resort Ocean Palms",
+      "countryId": "6252001",
+      "fcl": "S",
+      "score": 2.0621280670166016,
+      "adminId2": "4176559",
+      "countryCode": "US",
+      "adminId1": "4155751",
+      "lat": "29.19132",
+      "fcode": "HTL",
+      "continentCode": "NA",
+      "adminCode2": "127",
+      "adminCode1": "FL",
+      "lng": "-80.99008",
+      "geonameId": 9855038,
+      "toponymName": "Atlantic Resort Ocean Palms",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Volusia County",
+      "name": "Atlantic Resort Ocean Palms",
+      "fclName": "spot, building, farm",
+      "countryName": "United States",
+      "fcodeName": "hotel",
+      "adminName1": "Florida"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "WIBG-AM (Ocean City-Somers Point)",
+      "countryId": "6252001",
+      "fcl": "S",
+      "score": 1.993561029434204,
+      "adminId2": "4500561",
+      "countryCode": "US",
+      "adminId1": "5101760",
+      "lat": "39.31817",
+      "fcode": "TOWR",
+      "continentCode": "NA",
+      "elevation": 2,
+      "adminCode2": "001",
+      "adminCode1": "NJ",
+      "lng": "-74.61877",
+      "geonameId": 4504655,
+      "toponymName": "WIBG-AM (Ocean City-Somers Point)",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Atlantic County",
+      "name": "WIBG-AM (Ocean City-Somers Point)",
+      "fclName": "spot, building, farm",
+      "countryName": "United States",
+      "fcodeName": "tower",
+      "adminName1": "New Jersey"
+    }
+  ]
+}

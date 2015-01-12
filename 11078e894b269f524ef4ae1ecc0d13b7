@@ -1,0 +1,954 @@
+{
+  "totalResultsCount": 9546,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": 174.06337951693897,
+        "south": -45.08090436677935,
+        "north": -41.907383266515374,
+        "west": 169.54249753384963
+      },
+      "asciiName": "Canterbury",
+      "countryId": "2186224",
+      "fcl": "A",
+      "score": 45.4322624206543,
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-43.5",
+      "fcode": "ADM1",
+      "continentCode": "OC",
+      "adminCode1": "E9",
+      "lng": "171.5",
+      "geonameId": 2192628,
+      "toponymName": "Canterbury",
+      "population": 559200,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Кентърбъри",
+          "lang": "bg"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "en"
+        },
+        {
+          "name": "Kanterburio",
+          "lang": "eo"
+        },
+        {
+          "name": "Región de Canterbury",
+          "lang": "es"
+        },
+        {
+          "name": "Canterbury ringkond",
+          "lang": "et"
+        },
+        {
+          "name": "Canterbury eskualdea",
+          "lang": "eu"
+        },
+        {
+          "name": "ناحیه کانتربوری",
+          "lang": "fa"
+        },
+        {
+          "name": "קנטרברי",
+          "lang": "he"
+        },
+        {
+          "name": "カンタベリー地方",
+          "lang": "ja"
+        },
+        {
+          "name": "კენტერბერის რეგიონი",
+          "lang": "ka"
+        },
+        {
+          "name": "캔터베리 지방",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Canterbury_Region",
+          "lang": "link"
+        },
+        {
+          "name": "Waitaha",
+          "lang": "mi"
+        },
+        {
+          "name": "Кантербери",
+          "lang": "mk"
+        },
+        {
+          "name": "Wilayah Canterbury",
+          "lang": "ms"
+        },
+        {
+          "name": "Canterbury på New Zealand",
+          "lang": "nn"
+        },
+        {
+          "name": "Кентербери",
+          "lang": "ru"
+        },
+        {
+          "name": "坎特伯雷區",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Canterbury",
+      "fclName": "country, state, region,...",
+      "countryName": "New Zealand",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": 172.74116390486594,
+        "south": -43.61160905057578,
+        "north": -43.455057549424225,
+        "west": 172.52550269513407
+      },
+      "asciiName": "Christchurch",
+      "countryId": "2186224",
+      "fcl": "P",
+      "score": 44.866241455078125,
+      "adminId2": "7910036",
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-43.53333",
+      "fcode": "PPLA",
+      "continentCode": "OC",
+      "adminCode2": "060",
+      "adminCode1": "E9",
+      "lng": "172.63333",
+      "geonameId": 2192362,
+      "toponymName": "Christchurch",
+      "population": 363926,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Crīstcirice",
+          "lang": "ang"
+        },
+        {
+          "name": "كرايستشرش",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Крайстчэрч",
+          "lang": "be"
+        },
+        {
+          "name": "Крайстчърч",
+          "lang": "bg"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "da"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "de"
+        },
+        {
+          "name": "Κράισττσερτς",
+          "lang": "el"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "en"
+        },
+        {
+          "name": "Kristkirko",
+          "lang": "eo"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "es"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "eu"
+        },
+        {
+          "name": "کرایست‌چرچ",
+          "lang": "fa"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "fi"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "fr"
+        },
+        {
+          "name": "קרייסטצרץ",
+          "lang": "he"
+        },
+        {
+          "name": "क्राइस्टचर्च",
+          "lang": "hi"
+        },
+        {
+          "name": "CHC",
+          "lang": "iata"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "id"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "it"
+        },
+        {
+          "name": "クライストチャーチ",
+          "lang": "ja"
+        },
+        {
+          "name": "კრაისტჩერჩი",
+          "lang": "ka"
+        },
+        {
+          "name": "크라이스트처치",
+          "lang": "ko"
+        },
+        {
+          "name": "Christopolis",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Christchurch",
+          "lang": "link"
+        },
+        {
+          "name": "Kraistčerčas",
+          "lang": "lt"
+        },
+        {
+          "name": "Kraistčērča",
+          "lang": "lv"
+        },
+        {
+          "name": "Ōtautahi",
+          "lang": "mi"
+        },
+        {
+          "name": "क्राइस्टचर्च",
+          "lang": "mr"
+        },
+        {
+          "name": "ခရစ်ချပ်ချ်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "nl"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "no"
+        },
+        {
+          "name": "Крайстчёрч",
+          "lang": "os"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "pl"
+        },
+        {
+          "name": "کرائسٹ چرچ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "pt"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "ro"
+        },
+        {
+          "name": "Крайстчёрч",
+          "lang": "ru"
+        },
+        {
+          "name": "Крајстчерч",
+          "lang": "sr"
+        },
+        {
+          "name": "Christchurch",
+          "lang": "sv"
+        },
+        {
+          "name": "கிறைஸ்ட்சேர்ச்",
+          "lang": "ta"
+        },
+        {
+          "name": "ไครสต์เชิร์ช",
+          "lang": "th"
+        },
+        {
+          "name": "Крайстчерч",
+          "lang": "uk"
+        },
+        {
+          "name": "CHC",
+          "lang": "unlc"
+        },
+        {
+          "name": "基督城",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Christchurch City",
+      "name": "Christchurch",
+      "fclName": "city, village,...",
+      "countryName": "New Zealand",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "asciiName": "Mount Dampier",
+      "countryId": "2186224",
+      "fcl": "T",
+      "score": 33.649681091308594,
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-43.58333",
+      "fcode": "MT",
+      "continentCode": "OC",
+      "elevation": 3440,
+      "adminCode1": "E9",
+      "lng": "170.15",
+      "geonameId": 2191932,
+      "toponymName": "Mount Dampier",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Mount Dampier",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "New Zealand",
+      "fcodeName": "mountain",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "asciiName": "Malte Brun",
+      "countryId": "2186224",
+      "fcl": "T",
+      "score": 28.041400909423828,
+      "cc2": "NZ",
+      "adminId2": "7910050",
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-43.56295",
+      "fcode": "PK",
+      "continentCode": "OC",
+      "elevation": 3198,
+      "adminCode2": "065",
+      "adminCode1": "E9",
+      "lng": "170.30375",
+      "geonameId": 2187843,
+      "toponymName": "Malte Brun",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Malte_Brun_%28mountain%29",
+        "lang": "link"
+      }],
+      "adminName2": "Mackenzie District",
+      "name": "Malte Brun",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "New Zealand",
+      "fcodeName": "peak",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "asciiName": "Mount Cook",
+      "countryId": "2186224",
+      "fcl": "T",
+      "score": 28.041400909423828,
+      "cc2": "NZ",
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-43.6",
+      "fcode": "MT",
+      "continentCode": "OC",
+      "elevation": 3754,
+      "adminCode1": "E9",
+      "lng": "170.16667",
+      "geonameId": 2192136,
+      "toponymName": "Mount Cook",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Гара Кука",
+          "lang": "be"
+        },
+        {
+          "name": "Кук",
+          "lang": "bg"
+        },
+        {
+          "name": "Aoraki",
+          "lang": "br"
+        },
+        {
+          "name": "Mont Cook",
+          "lang": "ca"
+        },
+        {
+          "name": "Mount Cook",
+          "lang": "cs"
+        },
+        {
+          "name": "Aoraki",
+          "lang": "cy"
+        },
+        {
+          "name": "Aoraki",
+          "lang": "de"
+        },
+        {
+          "name": "Αοράκι/Όρος Κουκ",
+          "lang": "el"
+        },
+        {
+          "name": "Aoraki/Mount Cook",
+          "lang": "en"
+        },
+        {
+          "name": "Aoraki",
+          "lang": "eo"
+        },
+        {
+          "name": "Monte Cook",
+          "lang": "es"
+        },
+        {
+          "name": "Aoraki",
+          "lang": "et"
+        },
+        {
+          "name": "Cook mendia",
+          "lang": "eu"
+        },
+        {
+          "name": "کوه کوک",
+          "lang": "fa"
+        },
+        {
+          "name": "Aoraki/Mont Cook",
+          "lang": "fr"
+        },
+        {
+          "name": "הר קוק",
+          "lang": "he"
+        },
+        {
+          "name": "Կուկի լեռ",
+          "lang": "hy"
+        },
+        {
+          "name": "Mount Cook",
+          "lang": "is"
+        },
+        {
+          "name": "Aoraki/Monte Cook",
+          "lang": "it"
+        },
+        {
+          "name": "クック山",
+          "lang": "ja"
+        },
+        {
+          "name": "კუკის მთა",
+          "lang": "ka"
+        },
+        {
+          "name": "쿡 산",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Aoraki_%2F_Mount_Cook",
+          "lang": "link"
+        },
+        {
+          "name": "Aoraki",
+          "lang": "mi"
+        },
+        {
+          "name": "Кукова Планина",
+          "lang": "mk"
+        },
+        {
+          "name": "Mount Cook",
+          "lang": "nl"
+        },
+        {
+          "name": "Aoraki/Mount Cook",
+          "lang": "nn"
+        },
+        {
+          "name": "Góra Cooka",
+          "lang": "pl"
+        },
+        {
+          "name": "آوراکی",
+          "lang": "pnb"
+        },
+        {
+          "name": "Monte Cook/Aoraki",
+          "lang": "pt"
+        },
+        {
+          "name": "Aoraki Urqu",
+          "lang": "qu"
+        },
+        {
+          "name": "Aoraki",
+          "lang": "ro"
+        },
+        {
+          "name": "Гора Кука",
+          "lang": "ru"
+        },
+        {
+          "name": "Cookov vrch",
+          "lang": "sk"
+        },
+        {
+          "name": "Maunt Kuk",
+          "lang": "sr"
+        },
+        {
+          "name": "Aoraki/Mount Cook",
+          "lang": "sv"
+        },
+        {
+          "name": "Cook Dağı",
+          "lang": "tr"
+        },
+        {
+          "name": "Гора Кука",
+          "lang": "uk"
+        },
+        {
+          "name": "庫克山",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Aoraki/Mount Cook",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "New Zealand",
+      "fcodeName": "mountain",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": 1.1248435181690732,
+        "south": 51.25096233813242,
+        "north": 51.30712765658338,
+        "west": 1.0349999266551468
+      },
+      "asciiName": "Canterbury",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 27.259357452392578,
+      "adminId2": "3333158",
+      "adminId3": "6945807",
+      "countryCode": "GB",
+      "adminId1": "6269131",
+      "lat": "51.27904",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "G5",
+      "adminCode3": "6945807",
+      "adminCode1": "ENG",
+      "lng": "1.07992",
+      "geonameId": 2653877,
+      "toponymName": "Canterbury",
+      "population": 46978,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "City of Canterbury",
+      "alternateNames": [
+        {
+          "name": "Cantawaraburg",
+          "lang": "ang"
+        },
+        {
+          "name": "كانتربيري",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Кентэрберы",
+          "lang": "be"
+        },
+        {
+          "name": "Кентърбъри",
+          "lang": "bg"
+        },
+        {
+          "name": "Caergaint",
+          "lang": "cy"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "da"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "de"
+        },
+        {
+          "name": "Καντέρμπερι",
+          "lang": "el"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "en"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "eo"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "es"
+        },
+        {
+          "name": "کنتربری",
+          "lang": "fa"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "fi"
+        },
+        {
+          "name": "Cantorbéry",
+          "lang": "fr"
+        },
+        {
+          "name": "Cantorbery",
+          "lang": "hbs"
+        },
+        {
+          "name": "קנטרברי",
+          "lang": "he"
+        },
+        {
+          "name": "Քենթերբերի",
+          "lang": "hy"
+        },
+        {
+          "name": "Kantaraborg",
+          "lang": "is"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "it"
+        },
+        {
+          "name": "カンタベリー",
+          "lang": "ja"
+        },
+        {
+          "name": "캔터베리",
+          "lang": "ko"
+        },
+        {
+          "name": "Durovernum Canticorum",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Canterbury",
+          "lang": "link"
+        },
+        {
+          "name": "Кантербери",
+          "lang": "mk"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "nl"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "no"
+        },
+        {
+          "name": "Cantorbéry",
+          "lang": "nrm"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "pl"
+        },
+        {
+          "name": "Cantuária",
+          "lang": "pt"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "ro"
+        },
+        {
+          "name": "Кентербери",
+          "lang": "ru"
+        },
+        {
+          "name": "Кентербери",
+          "lang": "sr"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "sv"
+        },
+        {
+          "name": "Canterbury",
+          "lang": "tr"
+        },
+        {
+          "name": "Кентербері",
+          "lang": "uk"
+        },
+        {
+          "name": "CNB",
+          "lang": "unlc"
+        },
+        {
+          "name": "坎特伯雷",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Kent",
+      "name": "Canterbury",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "England"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "asciiName": "Lake Ruataniwha",
+      "countryId": "2186224",
+      "fcl": "H",
+      "score": 22.433120727539062,
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-44.27834",
+      "fcode": "LK",
+      "continentCode": "OC",
+      "adminCode1": "E9",
+      "lng": "170.06008",
+      "geonameId": 6209480,
+      "toponymName": "Lake Ruataniwha",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lake_Ruataniwha",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Lake Ruataniwha",
+      "fclName": "stream, lake, ...",
+      "countryName": "New Zealand",
+      "fcodeName": "lake",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "asciiName": "Lake Aviemore",
+      "countryId": "2186224",
+      "fcl": "H",
+      "score": 22.433120727539062,
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-44.61835",
+      "fcode": "LK",
+      "continentCode": "OC",
+      "adminCode1": "E9",
+      "lng": "170.30009",
+      "geonameId": 6211571,
+      "toponymName": "Lake Aviemore",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lake_Aviemore",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Lake Aviemore",
+      "fclName": "stream, lake, ...",
+      "countryName": "New Zealand",
+      "fcodeName": "lake",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": 171.7612987029359,
+        "south": -43.92081929087857,
+        "north": -43.87585104712143,
+        "west": 171.69891587106412
+      },
+      "asciiName": "Ashburton",
+      "countryId": "2186224",
+      "fcl": "P",
+      "score": 22.433120727539062,
+      "adminId2": "2193772",
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-43.89834",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "063",
+      "adminCode1": "E9",
+      "lng": "171.73011",
+      "geonameId": 6217081,
+      "toponymName": "Ashburton",
+      "population": 30100,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Distretto di Ashburton",
+          "lang": "it"
+        },
+        {
+          "name": "アシュバートン",
+          "lang": "ja"
+        },
+        {
+          "name": "애슈버턴",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Ashburton%2C_New_Zealand",
+          "lang": "link"
+        },
+        {
+          "name": "Ashburton på New Zealand",
+          "lang": "nn"
+        },
+        {
+          "name": "ضلع ایشبرٹن",
+          "lang": "pnb"
+        },
+        {
+          "name": "Ашбертон",
+          "lang": "ru"
+        },
+        {
+          "name": "ASG",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Ashburton District",
+      "name": "Ashburton",
+      "fclName": "city, village,...",
+      "countryName": "New Zealand",
+      "fcodeName": "populated place",
+      "adminName1": "Canterbury"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "asciiName": "Lake Sumner",
+      "countryId": "2186224",
+      "fcl": "H",
+      "score": 22.433120727539062,
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-42.6983",
+      "fcode": "LK",
+      "continentCode": "OC",
+      "adminCode1": "E9",
+      "lng": "172.21014",
+      "geonameId": 6217913,
+      "toponymName": "Lake Sumner",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Lake_Sumner",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Lake Sumner",
+      "fclName": "stream, lake, ...",
+      "countryName": "New Zealand",
+      "fcodeName": "lake",
+      "adminName1": "Canterbury"
+    }
+  ]
+}

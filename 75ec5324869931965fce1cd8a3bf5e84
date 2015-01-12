@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pila",
+               "short_name" : "Pila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Piła Voivodeship",
+               "short_name" : "Piła Voivodeship",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Piła County",
+               "short_name" : "Piła County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greater Poland Voivodeship",
+               "short_name" : "Greater Poland Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pila, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.203391,
+                  "lng" : 16.8570003
+               },
+               "southwest" : {
+                  "lat" : 53.06594800000001,
+                  "lng" : 16.6622777
+               }
+            },
+            "location" : {
+               "lat" : 53.1509671,
+               "lng" : 16.7382266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.203391,
+                  "lng" : 16.8570003
+               },
+               "southwest" : {
+                  "lat" : 53.06594800000001,
+                  "lng" : 16.6622777
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "00",
+      "lng": "61.97142",
+      "geonameId": 1218612,
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Ashgabat",
+        "dstOffset": 5
+      },
+      "bbox": {
+        "east": 61.98934976875553,
+        "south": 37.48234179273498,
+        "north": 37.51078220726502,
+        "west": 61.95349623124447
+      },
+      "toponymName": "Murgab",
+      "asciiName": "Murgab",
+      "countryId": "1218197",
+      "fcl": "P",
+      "population": 13199,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 42.774662017822266,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TM",
+      "name": "Murgab",
+      "fclName": "city, village,...",
+      "countryName": "Turkmenistan",
+      "fcodeName": "populated place",
+      "adminName1": "",
+      "lat": "37.49656",
+      "fcode": "PPL",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Dushanbe",
+        "dstOffset": 5
+      },
+      "bbox": {
+        "east": 73.98389874097819,
+        "south": 38.15673752687286,
+        "north": 38.18371847312714,
+        "west": 73.9495732590218
+      },
+      "asciiName": "Murghob",
+      "countryId": "1220409",
+      "fcl": "P",
+      "score": 15.303528785705566,
+      "countryCode": "TJ",
+      "adminId1": "1221692",
+      "lat": "38.17023",
+      "fcode": "PPLA2",
+      "continentCode": "AS",
+      "adminCode1": "01",
+      "lng": "73.96674",
+      "geonameId": 1220962,
+      "toponymName": "Murghob",
+      "population": 10815,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Murghab",
+          "lang": "en"
+        },
+        {
+          "name": "Murghāb",
+          "lang": "fa"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Murghab%2C_Tajikistan",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Murghab",
+      "fclName": "city, village,...",
+      "countryName": "Tajikistan",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Gorno-Badakhshan"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 4.5,
+        "timeZoneId": "Asia/Kabul",
+        "dstOffset": 4.5
+      },
+      "bbox": {
+        "east": 65.93069097762324,
+        "south": 32.71100635124857,
+        "north": 32.72899364875143,
+        "west": 65.90930902237676
+      },
+      "asciiName": "Surkhmurgar",
+      "countryId": "1149361",
+      "fcl": "P",
+      "score": 13.526535987854004,
+      "countryCode": "AF",
+      "adminId1": "1131461",
+      "lat": "32.72",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "39",
+      "lng": "65.92",
+      "geonameId": 1124044,
+      "toponymName": "Surkhmurgar",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Surkhmurgar",
+      "fclName": "city, village,...",
+      "countryName": "Afghanistan",
+      "fcodeName": "populated place",
+      "adminName1": "Orūzgān"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "74.06427",
+      "geonameId": 1220964,
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Dushanbe",
+        "dstOffset": 5
+      },
+      "toponymName": "Murghob",
+      "asciiName": "Murghob",
+      "countryId": "1220409",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 9.564705848693848,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TJ",
+      "name": "Murghob",
+      "fclName": "stream, lake, ...",
+      "countryName": "Tajikistan",
+      "fcodeName": "stream",
+      "adminName1": "",
+      "lat": "38.16308",
+      "fcode": "STM",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "61.2",
+      "geonameId": 1149692,
+      "timezone": {
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Ashgabat",
+        "dstOffset": 5
+      },
+      "toponymName": "Murgap Deryasy",
+      "asciiName": "Murgap Deryasy",
+      "countryId": "1218197",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 9.564705848693848,
+      "adminName3": "",
+      "cc2": "AF",
+      "adminName2": "",
+      "countryCode": "TM",
+      "name": "Murgap Deryasy",
+      "fclName": "stream, lake, ...",
+      "countryName": "Turkmenistan",
+      "fcodeName": "stream",
+      "adminName1": "",
+      "lat": "38.3",
+      "fcode": "STM",
+      "continentCode": "AS"
+    }
+  ]
+}

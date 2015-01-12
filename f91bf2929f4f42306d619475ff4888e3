@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fredericton",
+               "short_name" : "Fredericton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fredericton, NB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.022143,
+                  "lng" : -66.549753
+               },
+               "southwest" : {
+                  "lat" : 45.868781,
+                  "lng" : -66.78334699999999
+               }
+            },
+            "location" : {
+               "lat" : 45.9635895,
+               "lng" : -66.6431151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.022143,
+                  "lng" : -66.549753
+               },
+               "southwest" : {
+                  "lat" : 45.868781,
+                  "lng" : -66.78334699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fredericton",
+               "short_name" : "Fredericton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lot 67",
+               "short_name" : "Lot 67",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prince Edward Island",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "C0A",
+               "short_name" : "C0A",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fredericton, PE C0A, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.36063499999999,
+               "lng" : -63.426179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3619839802915,
+                  "lng" : -63.4248300197085
+               },
+               "southwest" : {
+                  "lat" : 46.3592860197085,
+                  "lng" : -63.42752798029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

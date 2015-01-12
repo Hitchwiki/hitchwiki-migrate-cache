@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maracay",
+               "short_name" : "Maracay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Girardot",
+               "short_name" : "Girardot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragua",
+               "short_name" : "Aragua",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maracay, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.3294132,
+                  "lng" : -67.5422287
+               },
+               "southwest" : {
+                  "lat" : 10.2049546,
+                  "lng" : -67.66859219999999
+               }
+            },
+            "location" : {
+               "lat" : 10.246944,
+               "lng" : -67.59611099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.3294132,
+                  "lng" : -67.5422287
+               },
+               "southwest" : {
+                  "lat" : 10.2049546,
+                  "lng" : -67.66859219999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

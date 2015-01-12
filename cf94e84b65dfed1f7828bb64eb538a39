@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Västmanland County",
+               "short_name" : "Västmanland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Västmanland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.1906571,
+                  "lng" : 16.9458588
+               },
+               "southwest" : {
+                  "lat" : 59.23274860000001,
+                  "lng" : 15.41747
+               }
+            },
+            "location" : {
+               "lat" : 59.6713879,
+               "lng" : 16.2158954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.1906571,
+                  "lng" : 16.9458588
+               },
+               "southwest" : {
+                  "lat" : 59.23274860000001,
+                  "lng" : 15.41747
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

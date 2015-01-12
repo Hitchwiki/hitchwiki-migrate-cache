@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fribourg",
+               "short_name" : "Fribourg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Sarine",
+               "short_name" : "La Sarine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Fribourg",
+               "short_name" : "FR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fribourg, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.82144,
+                  "lng" : 7.1838299
+               },
+               "southwest" : {
+                  "lat" : 46.78489,
+                  "lng" : 7.1357
+               }
+            },
+            "location" : {
+               "lat" : 46.8016663,
+               "lng" : 7.145568300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.82144,
+                  "lng" : 7.1838299
+               },
+               "southwest" : {
+                  "lat" : 46.78489,
+                  "lng" : 7.1357
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

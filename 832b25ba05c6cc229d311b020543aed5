@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fürth",
+               "short_name" : "FÜ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fürth, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5412116,
+                  "lng" : 11.02848
+               },
+               "southwest" : {
+                  "lat" : 49.4361798,
+                  "lng" : 10.8931571
+               }
+            },
+            "location" : {
+               "lat" : 49.4771169,
+               "lng" : 10.988667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5412116,
+                  "lng" : 11.02848
+               },
+               "southwest" : {
+                  "lat" : 49.4361798,
+                  "lng" : 10.8931571
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Furth",
+               "short_name" : "Furth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Niedertaufkirchen",
+               "short_name" : "Niedertaufkirchen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84494",
+               "short_name" : "84494",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Furth, 84494 Niedertaufkirchen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.3480257,
+               "lng" : 12.5836105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3493746802915,
+                  "lng" : 12.5849594802915
+               },
+               "southwest" : {
+                  "lat" : 48.3466767197085,
+                  "lng" : 12.5822615197085
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Furth",
+               "short_name" : "Furth",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Reichertsheim",
+               "short_name" : "Reichertsheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84437",
+               "short_name" : "84437",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Furth, 84437 Reichertsheim, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.1688365,
+               "lng" : 12.2161597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1701854802915,
+                  "lng" : 12.2175086802915
+               },
+               "southwest" : {
+                  "lat" : 48.1674875197085,
+                  "lng" : 12.2148107197085
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,256 @@
+{
+  "totalResultsCount": 6,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Gualeguaychú",
+          "lang": "en"
+        },
+        {
+          "name": "گوالگوایچو",
+          "lang": "fa"
+        },
+        {
+          "name": "Gualeguaychu",
+          "lang": "gn"
+        },
+        {
+          "name": "GHU",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Gualeguaych%C3%BA%2C_Entre_R%C3%ADos",
+          "lang": "link"
+        },
+        {
+          "name": "Gualeguaiču",
+          "lang": "lt"
+        },
+        {
+          "name": "Гуалегуайчу",
+          "lang": "ru"
+        },
+        {
+          "name": "GHU",
+          "lang": "unlc"
+        },
+        {
+          "name": "瓜萊瓜伊丘",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Argentina",
+      "adminCode1": "08",
+      "score": 53.56113815307617,
+      "lng": "-58.51722",
+      "adminName2": "",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": -33.04562955716583,
+        "east": -58.47400455651265,
+        "north": -32.973120442834166,
+        "west": -58.56043544348736
+      },
+      "name": "Gualeguaychú",
+      "fcode": "PPLA2",
+      "geonameId": 3433658,
+      "asciiName": "Gualeguaychu",
+      "lat": "-33.00938",
+      "population": 78676,
+      "adminName1": "Entre Rios",
+      "countryId": "3865483",
+      "adminId1": "3434137",
+      "fclName": "city, village,...",
+      "countryCode": "AR",
+      "toponymName": "Gualeguaychú",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode2": "3433657",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Gualeguaych%C3%BA_Department",
+        "lang": "link"
+      }],
+      "countryName": "Argentina",
+      "adminCode1": "08",
+      "score": 50.24480438232422,
+      "lng": "-59",
+      "adminName2": "Departamento de Gualeguaychú",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Departamento de Gualeguaychú",
+      "fcode": "ADM2",
+      "geonameId": 3433657,
+      "asciiName": "Departamento de Gualeguaychu",
+      "lat": "-33.25",
+      "population": 0,
+      "adminName1": "Entre Rios",
+      "countryId": "3865483",
+      "adminId1": "3434137",
+      "fclName": "country, state, region,...",
+      "countryCode": "AR",
+      "adminId2": "3433657",
+      "toponymName": "Departamento de Gualeguaychú",
+      "fcl": "A",
+      "continentCode": "SA"
+    },
+    {
+      "countryId": "3865483",
+      "alternateNames": [
+        {
+          "name": "Aeropuerto de Gualeguaychú",
+          "lang": "es"
+        },
+        {
+          "name": "GHU",
+          "lang": "iata"
+        },
+        {
+          "name": "SAAG",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Gualeguaych%C3%BA_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Argentina",
+      "fclName": "spot, building, farm",
+      "elevation": 22,
+      "score": 46.38530731201172,
+      "countryCode": "AR",
+      "lng": "-58.61306",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "airport",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba"
+      },
+      "toponymName": "Gualeguaychu Aerodrome",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "SA",
+      "name": "Gualeguaychu Aerodrome",
+      "fcode": "AIRP",
+      "asciiName": "Gualeguaychu Aerodrome",
+      "geonameId": 6300510,
+      "lat": "-33.01028",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Gualeguaych%C3%BA_River",
+        "lang": "link"
+      }],
+      "countryName": "Argentina",
+      "adminCode1": "08",
+      "score": 21.424455642700195,
+      "lng": "-58.41498",
+      "adminName2": "",
+      "fcodeName": "stream",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Río Gualeguaychú",
+      "fcode": "STM",
+      "geonameId": 3433655,
+      "asciiName": "Rio Gualeguaychu",
+      "lat": "-33.07974",
+      "population": 0,
+      "adminName1": "Entre Rios",
+      "countryId": "3865483",
+      "adminId1": "3434137",
+      "fclName": "stream, lake, ...",
+      "countryCode": "AR",
+      "toponymName": "Río Gualeguaychú",
+      "fcl": "H",
+      "continentCode": "SA"
+    },
+    {
+      "adminId1": "3434137",
+      "countryId": "3865483",
+      "adminCode1": "08",
+      "countryName": "Argentina",
+      "fclName": "parks,area, ...",
+      "score": 15.149377822875977,
+      "countryCode": "AR",
+      "lng": "-58.59574",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "agricultural colony",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba"
+      },
+      "toponymName": "Colonia Puntas del Gualeguaychú",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "SA",
+      "name": "Colonia Puntas del Gualeguaychú",
+      "fcode": "AGRC",
+      "asciiName": "Colonia Puntas del Gualeguaychu",
+      "geonameId": 3429679,
+      "lat": "-31.81854",
+      "adminName1": "Entre Rios",
+      "population": 0
+    },
+    {
+      "adminId1": "3434137",
+      "countryId": "3865483",
+      "adminCode1": "08",
+      "countryName": "Argentina",
+      "fclName": "stream, lake, ...",
+      "score": 5.68101692199707,
+      "countryCode": "AR",
+      "lng": "-58.56667",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "stream",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Argentina/Cordoba"
+      },
+      "toponymName": "Río Gualeguaychú",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "SA",
+      "name": "Río Gualeguaychú",
+      "fcode": "STM",
+      "asciiName": "Rio Gualeguaychu",
+      "geonameId": 3433656,
+      "lat": "-32.25",
+      "adminName1": "Entre Rios",
+      "population": 0
+    }
+  ]
+}

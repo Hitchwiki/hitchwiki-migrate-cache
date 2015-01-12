@@ -1,0 +1,169 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 36.48363061658272,
+        "south": 32.51922963512485,
+        "north": 32.52102836487514,
+        "west": 36.481497383417285
+      },
+      "asciiName": "Busra ash Sham",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 42.47968292236328,
+      "countryCode": "SY",
+      "adminId1": "170903",
+      "lat": "32.52013",
+      "fcode": "PPLA3",
+      "continentCode": "AS",
+      "adminCode1": "06",
+      "lng": "36.48256",
+      "geonameId": 171126,
+      "toponymName": "Buşrá ash Shām",
+      "population": 1000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بصرى الشام",
+          "lang": "ar"
+        },
+        {
+          "name": "Bostra",
+          "lang": "de"
+        },
+        {
+          "name": "Bosra",
+          "lang": "en"
+        },
+        {
+          "name": "Bosra",
+          "lang": "fr"
+        },
+        {
+          "name": "Bosra",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bosra",
+          "lang": "link"
+        },
+        {
+          "name": "Bosra",
+          "lang": "nl"
+        },
+        {
+          "name": "Bosra",
+          "lang": "pt"
+        },
+        {
+          "name": "Бусра",
+          "lang": "ru"
+        },
+        {
+          "name": "Bosra",
+          "lang": "sl"
+        },
+        {
+          "name": "Bosra",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "Bosra",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Daraa"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Johannesburg",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 23.097098719030324,
+        "south": -26.96120764875143,
+        "north": -26.943220351248574,
+        "west": 23.076921280969675
+      },
+      "asciiName": "Bosra",
+      "countryId": "953987",
+      "fcl": "P",
+      "score": 15.708992958068848,
+      "countryCode": "ZA",
+      "adminId1": "1085598",
+      "lat": "-26.95221",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "10",
+      "lng": "23.08701",
+      "geonameId": 1016868,
+      "toponymName": "Bosra",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Bosra",
+      "fclName": "city, village,...",
+      "countryName": "South Africa",
+      "fcodeName": "populated place",
+      "adminName1": "North-West"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Damascus",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 36.351477961196906,
+        "south": 32.83556335124825,
+        "north": 32.85355064875176,
+        "west": 36.330066038803096
+      },
+      "asciiName": "Busra al Hariri",
+      "countryId": "163843",
+      "fcl": "P",
+      "score": 13.884918212890625,
+      "countryCode": "SY",
+      "adminId1": "170903",
+      "lat": "32.84456",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "06",
+      "lng": "36.34077",
+      "geonameId": 171127,
+      "toponymName": "Buşrá al Ḩarīrī",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بصرى الحريري",
+          "lang": "ar"
+        },
+        {
+          "name": "Бусра-эль-Харири",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Buşrá al Ḩarīrī",
+      "fclName": "city, village,...",
+      "countryName": "Syria",
+      "fcodeName": "populated place",
+      "adminName1": "Daraa"
+    }
+  ]
+}

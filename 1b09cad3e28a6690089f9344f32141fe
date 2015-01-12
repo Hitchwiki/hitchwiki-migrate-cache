@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sudan",
+               "short_name" : "SD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sudan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2249183,
+                  "lng" : 38.58421920000001
+               },
+               "southwest" : {
+                  "lat" : 9.3472209,
+                  "lng" : 21.814939
+               }
+            },
+            "location" : {
+               "lat" : 12.862807,
+               "lng" : 30.217636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2249183,
+                  "lng" : 38.58421920000001
+               },
+               "southwest" : {
+                  "lat" : 9.3472209,
+                  "lng" : 21.814939
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

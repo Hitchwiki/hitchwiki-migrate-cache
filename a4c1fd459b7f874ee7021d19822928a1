@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Alcarrizos",
+               "short_name" : "Los Alcarrizos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "National District",
+               "short_name" : "National District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santo Domingo, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.5475279,
+                  "lng" : -69.8750532
+               },
+               "southwest" : {
+                  "lat" : 18.4130476,
+                  "lng" : -70.01878739999999
+               }
+            },
+            "location" : {
+               "lat" : 18.466667,
+               "lng" : -69.95
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5475279,
+                  "lng" : -69.8750532
+               },
+               "southwest" : {
+                  "lat" : 18.4130476,
+                  "lng" : -70.01878739999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santo Domingo Oeste",
+               "short_name" : "Santo Domingo Oeste",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santo Domingo, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.6114343,
+                  "lng" : -69.5951271
+               },
+               "southwest" : {
+                  "lat" : 18.4031528,
+                  "lng" : -70.0795555
+               }
+            },
+            "location" : {
+               "lat" : 18.5261268,
+               "lng" : -69.8835651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.6114343,
+                  "lng" : -69.5951271
+               },
+               "southwest" : {
+                  "lat" : 18.4031528,
+                  "lng" : -70.0795555
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santo Domingo",
+               "short_name" : "Santo Domingo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santo Domingo de la Calzada",
+               "short_name" : "Santo Domingo de la Calzada",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Santo Domingo de la Calzada",
+               "short_name" : "Santo Domingo de la Calzada",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "La Rioja",
+               "short_name" : "LO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "La Rioja",
+               "short_name" : "La Rioja",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santo Domingo, La Rioja, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4476199,
+                  "lng" : -2.9305032
+               },
+               "southwest" : {
+                  "lat" : 42.431617,
+                  "lng" : -2.9617529
+               }
+            },
+            "location" : {
+               "lat" : 42.4369439,
+               "lng" : -2.9550619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4476199,
+                  "lng" : -2.9305032
+               },
+               "southwest" : {
+                  "lat" : 42.431617,
+                  "lng" : -2.9617529
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A661",
+               "short_name" : "A661",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A661, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2148336,
+                  "lng" : 8.7409339
+               },
+               "southwest" : {
+                  "lat" : 49.9652476,
+                  "lng" : 8.579089099999999
+               }
+            },
+            "location" : {
+               "lat" : 50.0688277,
+               "lng" : 8.7295958
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2148336,
+                  "lng" : 8.7409339
+               },
+               "southwest" : {
+                  "lat" : 49.9652476,
+                  "lng" : 8.579089099999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A9",
+               "short_name" : "A9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A9, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5944708,
+                  "lng" : 5.0051691
+               },
+               "southwest" : {
+                  "lat" : 52.2859206,
+                  "lng" : 4.6667824
+               }
+            },
+            "location" : {
+               "lat" : 52.4133821,
+               "lng" : 4.6993184
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5944708,
+                  "lng" : 5.0051691
+               },
+               "southwest" : {
+                  "lat" : 52.2859206,
+                  "lng" : 4.6667824
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

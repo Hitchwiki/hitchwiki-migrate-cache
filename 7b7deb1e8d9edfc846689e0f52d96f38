@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middle East",
+               "short_name" : "Middle East",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Middle East",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3667,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 11.7975,
+                  "lng" : 24.6967748
+               }
+            },
+            "location" : {
+               "lat" : 29.2985278,
+               "lng" : 42.5509603
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3667,
+                  "lng" : 63.3333366
+               },
+               "southwest" : {
+                  "lat" : 11.7975,
+                  "lng" : 24.6967748
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

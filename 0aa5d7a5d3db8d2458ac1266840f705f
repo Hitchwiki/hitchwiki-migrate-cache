@@ -1,0 +1,934 @@
+{
+  "totalResultsCount": 169,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -5.8159703690165845,
+        "south": 54.51543274095775,
+        "north": 54.65123385904225,
+        "west": -6.050696230983416
+      },
+      "asciiName": "Belfast",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 128.1117706298828,
+      "adminId2": "3333223",
+      "countryCode": "GB",
+      "adminId1": "2641364",
+      "lat": "54.58333",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "R3",
+      "adminCode1": "NIR",
+      "lng": "-5.93333",
+      "geonameId": 2655984,
+      "toponymName": "Belfast",
+      "population": 274770,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Belfast",
+          "lang": "af"
+        },
+        {
+          "name": "بلفاست",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Белфаст",
+          "lang": "be"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "bg"
+        },
+        {
+          "name": "বেলফাস্ট",
+          "lang": "bn"
+        },
+        {
+          "name": "Béal Feirste",
+          "lang": "br"
+        },
+        {
+          "name": "Belfast",
+          "lang": "ca"
+        },
+        {
+          "name": "Belfast",
+          "lang": "cs"
+        },
+        {
+          "name": "Belffast",
+          "lang": "cy"
+        },
+        {
+          "name": "Belfast",
+          "lang": "da"
+        },
+        {
+          "name": "Belfast",
+          "lang": "de"
+        },
+        {
+          "name": "Μπέλφαστ",
+          "lang": "el"
+        },
+        {
+          "name": "Belfast",
+          "lang": "en"
+        },
+        {
+          "name": "Belfasto",
+          "lang": "eo"
+        },
+        {
+          "name": "Belfast",
+          "lang": "es"
+        },
+        {
+          "name": "Belfast",
+          "lang": "et"
+        },
+        {
+          "name": "Belfast",
+          "lang": "eu"
+        },
+        {
+          "name": "بلفاست",
+          "lang": "fa"
+        },
+        {
+          "name": "Belfast",
+          "lang": "fi"
+        },
+        {
+          "name": "Belfast",
+          "lang": "fr"
+        },
+        {
+          "name": "Béal Feirste",
+          "lang": "ga"
+        },
+        {
+          "name": "Beul-Feirste",
+          "lang": "gd"
+        },
+        {
+          "name": "Beeal Feirshtey",
+          "lang": "gv"
+        },
+        {
+          "name": "בלפאסט",
+          "lang": "he"
+        },
+        {
+          "name": "Bèlfast",
+          "lang": "ht"
+        },
+        {
+          "name": "Belfast",
+          "lang": "hu"
+        },
+        {
+          "name": "Բելֆաստ",
+          "lang": "hy"
+        },
+        {
+          "name": "BFS",
+          "lang": "iata"
+        },
+        {
+          "name": "Belfast",
+          "lang": "id"
+        },
+        {
+          "name": "Belfast",
+          "lang": "io"
+        },
+        {
+          "name": "Belfast",
+          "lang": "it"
+        },
+        {
+          "name": "ベルファスト",
+          "lang": "ja"
+        },
+        {
+          "name": "ბელფასტი",
+          "lang": "ka"
+        },
+        {
+          "name": "ಬೆಲ್‌ಫಾಸ್ಟ್‌",
+          "lang": "kn"
+        },
+        {
+          "name": "벨파스트",
+          "lang": "ko"
+        },
+        {
+          "name": "Belfastum",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Belfast",
+          "lang": "link"
+        },
+        {
+          "name": "Belfastas",
+          "lang": "lt"
+        },
+        {
+          "name": "Belfāsta",
+          "lang": "lv"
+        },
+        {
+          "name": "बेलफास्ट",
+          "lang": "mr"
+        },
+        {
+          "name": "ဗဲလဖတ်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Belfast",
+          "lang": "nl"
+        },
+        {
+          "name": "Belfast",
+          "lang": "nn"
+        },
+        {
+          "name": "Belfast",
+          "lang": "no"
+        },
+        {
+          "name": "Belfast",
+          "lang": "nrm"
+        },
+        {
+          "name": "Belfast",
+          "lang": "oc"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "os"
+        },
+        {
+          "name": "Belfast",
+          "lang": "pl"
+        },
+        {
+          "name": "بیلفاسٹ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Belfast",
+          "lang": "pt"
+        },
+        {
+          "name": "Belfast",
+          "lang": "rmy"
+        },
+        {
+          "name": "Belfast",
+          "lang": "ro"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "ru"
+        },
+        {
+          "name": "Belfast",
+          "lang": "sk"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "sr"
+        },
+        {
+          "name": "Belfast",
+          "lang": "sv"
+        },
+        {
+          "name": "பெல்பாஸ்ட்",
+          "lang": "ta"
+        },
+        {
+          "name": "เบลฟัสต์",
+          "lang": "th"
+        },
+        {
+          "name": "Belpas",
+          "lang": "tl"
+        },
+        {
+          "name": "Belfast",
+          "lang": "tr"
+        },
+        {
+          "name": "Bélfast",
+          "lang": "ug"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "uk"
+        },
+        {
+          "name": "BEL",
+          "lang": "unlc"
+        },
+        {
+          "name": "בעלפאסט",
+          "lang": "yi"
+        },
+        {
+          "name": "貝爾法斯特",
+          "lang": "yue"
+        },
+        {
+          "name": "貝爾法斯特",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Belfast",
+      "name": "Belfast",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Northern Ireland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Belfast",
+      "countryId": "2635167",
+      "fcl": "A",
+      "score": 49.310237884521484,
+      "countryCode": "GB",
+      "adminId1": "2641364",
+      "lat": "54.58333",
+      "fcode": "ADM1H",
+      "continentCode": "EU",
+      "adminCode1": "NIR",
+      "lng": "-5.95",
+      "geonameId": 2655985,
+      "toponymName": "Belfast",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Béal Feirste",
+          "lang": "an"
+        },
+        {
+          "name": "بلفاست",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Белфаст",
+          "lang": "be"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "bg"
+        },
+        {
+          "name": "বেলফাস্ট",
+          "lang": "bn"
+        },
+        {
+          "name": "Béal Feirste",
+          "lang": "br"
+        },
+        {
+          "name": "Belffast",
+          "lang": "cy"
+        },
+        {
+          "name": "Μπέλφαστ",
+          "lang": "el"
+        },
+        {
+          "name": "Belfasto",
+          "lang": "eo"
+        },
+        {
+          "name": "بلفاست",
+          "lang": "fa"
+        },
+        {
+          "name": "Béal Feirste",
+          "lang": "ga"
+        },
+        {
+          "name": "Beul Feirste",
+          "lang": "gd"
+        },
+        {
+          "name": "Beeal Feirshtey",
+          "lang": "gv"
+        },
+        {
+          "name": "בלפאסט",
+          "lang": "he"
+        },
+        {
+          "name": "Bèlfast",
+          "lang": "ht"
+        },
+        {
+          "name": "Բելֆասթ",
+          "lang": "hy"
+        },
+        {
+          "name": "ベルファスト",
+          "lang": "ja"
+        },
+        {
+          "name": "ბელფასტი",
+          "lang": "ka"
+        },
+        {
+          "name": "ಬೆಲ್‌ಫಾಸ್ಟ್‌",
+          "lang": "kn"
+        },
+        {
+          "name": "벨파스트",
+          "lang": "ko"
+        },
+        {
+          "name": "Belfastum",
+          "lang": "la"
+        },
+        {
+          "name": "Belfastas",
+          "lang": "lt"
+        },
+        {
+          "name": "Belfāsta",
+          "lang": "lv"
+        },
+        {
+          "name": "बेलफास्ट",
+          "lang": "mr"
+        },
+        {
+          "name": "ဗဲလဖတ်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "os"
+        },
+        {
+          "name": "بیلفاسٹ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "ru"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "sr"
+        },
+        {
+          "name": "பெல்பாஸ்ட்",
+          "lang": "ta"
+        },
+        {
+          "name": "เบลฟัสต์",
+          "lang": "th"
+        },
+        {
+          "name": "Belpas",
+          "lang": "tl"
+        },
+        {
+          "name": "Bélfast",
+          "lang": "ug"
+        },
+        {
+          "name": "Белфаст",
+          "lang": "uk"
+        },
+        {
+          "name": "בעלפאסט",
+          "lang": "yi"
+        },
+        {
+          "name": "贝尔法斯特",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Belfast",
+      "fclName": "country, state, region,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "historical first-order administrative division",
+      "adminName1": "Northern Ireland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -5.807360476315445,
+        "south": 54.53057643727723,
+        "north": 54.665002732578714,
+        "west": -6.045671031912042
+      },
+      "asciiName": "City of Belfast",
+      "countryId": "2635167",
+      "fcl": "A",
+      "score": 35.87847137451172,
+      "adminId2": "3333223",
+      "countryCode": "GB",
+      "adminId1": "2641364",
+      "lat": "54.58333",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "R3",
+      "adminCode1": "NIR",
+      "lng": "-5.91667",
+      "geonameId": 3333223,
+      "toponymName": "City of Belfast",
+      "population": 281700,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "BFS",
+          "lang": "abbr"
+        },
+        {
+          "name": "Belfast",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/City_of_Belfast",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Belfast",
+      "name": "Belfast",
+      "fclName": "country, state, region,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Northern Ireland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Belfast International Airport",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 31.393661499023438,
+      "adminId2": "2657256",
+      "countryCode": "GB",
+      "adminId1": "2641364",
+      "lat": "54.6575",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 81,
+      "adminCode2": "Q6",
+      "adminCode1": "NIR",
+      "lng": "-6.21583",
+      "geonameId": 6296569,
+      "toponymName": "Belfast International Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Belfast International Airport",
+          "lang": "de"
+        },
+        {
+          "name": "Belfast International Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport international de Belfast",
+          "lang": "fr"
+        },
+        {
+          "name": "BFS",
+          "lang": "iata"
+        },
+        {
+          "name": "EGAA",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Belfast_International_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Antrim",
+      "name": "Belfast International Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "airport",
+      "adminName1": "Northern Ireland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "George Best Belfast City Airport",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 31.393661499023438,
+      "adminId2": "3333223",
+      "countryCode": "GB",
+      "adminId1": "2641364",
+      "lat": "54.61806",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 4,
+      "adminCode2": "R3",
+      "adminCode1": "NIR",
+      "lng": "-5.8725",
+      "geonameId": 6296570,
+      "toponymName": "George Best Belfast City Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "George Best Belfast City Airport",
+          "lang": "en"
+        },
+        {
+          "name": "BHD",
+          "lang": "iata"
+        },
+        {
+          "name": "EGAC",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/George_Best_Belfast_City_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "BHD",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Belfast",
+      "name": "George Best Belfast City Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "airport",
+      "adminName1": "Northern Ireland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "asciiName": "Queen's University Belfast",
+      "countryId": "2635167",
+      "fcl": "S",
+      "score": 25.09311866760254,
+      "adminId2": "3333223",
+      "countryCode": "GB",
+      "adminId1": "2641364",
+      "lat": "54.5844",
+      "fcode": "UNIV",
+      "continentCode": "EU",
+      "adminCode2": "R3",
+      "adminCode1": "NIR",
+      "lng": "-5.93438",
+      "geonameId": 6618737,
+      "toponymName": "Queen's University Belfast",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "جامعة الملكة في بلفاست",
+          "lang": "ar"
+        },
+        {
+          "name": "Queen’s University Belfast",
+          "lang": "de"
+        },
+        {
+          "name": "QUB",
+          "lang": "en"
+        },
+        {
+          "name": "Reĝina Universitato de Belfast",
+          "lang": "eo"
+        },
+        {
+          "name": "Universidad Queen’s de Belfast",
+          "lang": "es"
+        },
+        {
+          "name": "Belfasteko Queen's unibertsitatea",
+          "lang": "eu"
+        },
+        {
+          "name": "دانشگاه کوئینز بلفاست",
+          "lang": "fa"
+        },
+        {
+          "name": "Belfastin yliopisto",
+          "lang": "fi"
+        },
+        {
+          "name": "Université Queen's de Belfast",
+          "lang": "fr"
+        },
+        {
+          "name": "Ollscoil na Banríona",
+          "lang": "ga"
+        },
+        {
+          "name": "クイーンズ大学ベルファスト",
+          "lang": "ja"
+        },
+        {
+          "name": "퀸스 대학교 벨파스트",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Queen%27s_University_Belfast",
+          "lang": "link"
+        },
+        {
+          "name": "Queen's Universiteit van Belfast",
+          "lang": "nl"
+        },
+        {
+          "name": "Queen's University of Belfast",
+          "lang": "pt"
+        },
+        {
+          "name": "Университет Квинс",
+          "lang": "ru"
+        },
+        {
+          "name": "குயின்ஸ் பல்கலைக்கழகம்",
+          "lang": "ta"
+        },
+        {
+          "name": "贝尔法斯特女王大学",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Belfast",
+      "name": "QUB",
+      "fclName": "spot, building, farm",
+      "countryName": "United Kingdom",
+      "fcodeName": "university",
+      "adminName1": "Northern Ireland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/London",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -5.914514634156699,
+        "south": 54.587340751248576,
+        "north": 54.60532804875143,
+        "west": -5.945569765843301
+      },
+      "asciiName": "Belfast City Centre",
+      "countryId": "2635167",
+      "fcl": "P",
+      "score": 23.73137664794922,
+      "countryCode": "GB",
+      "adminId1": "2641364",
+      "lat": "54.59633",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "NIR",
+      "lng": "-5.93004",
+      "geonameId": 7280023,
+      "toponymName": "Belfast City Centre",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Belfast City Centre",
+          "lang": "de"
+        },
+        {
+          "name": "Belfast City Centre",
+          "lang": "en"
+        },
+        {
+          "name": "Belfast City Centre",
+          "lang": "fr"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Belfast_City_Centre",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Belfast City Centre",
+      "fclName": "city, village,...",
+      "countryName": "United Kingdom",
+      "fcodeName": "populated place",
+      "adminName1": "Northern Ireland"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Johannesburg",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 30.05001153528527,
+        "south": -25.70340147312763,
+        "north": -25.676420526872366,
+        "west": 30.02007446471473
+      },
+      "asciiName": "Belfast",
+      "countryId": "953987",
+      "fcl": "P",
+      "score": 20.05667495727539,
+      "adminId2": "8347372",
+      "adminId3": "8347506",
+      "countryCode": "ZA",
+      "adminId1": "1085595",
+      "lat": "-25.68991",
+      "fcode": "PPLA3",
+      "continentCode": "AF",
+      "adminCode2": "DC31",
+      "adminCode3": "MP314",
+      "adminCode1": "07",
+      "lng": "30.03504",
+      "geonameId": 1020340,
+      "toponymName": "Belfast",
+      "population": 11916,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Emakhazeni",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Belfast%2C_Mpumalanga",
+        "lang": "link"
+      }],
+      "adminName2": "Nkangala District Municipality",
+      "name": "Belfast",
+      "fclName": "city, village,...",
+      "countryName": "South Africa",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Mpumalanga"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Havana",
+        "dstOffset": -4
+      },
+      "asciiName": "Belfast",
+      "countryId": "3562981",
+      "fcl": "L",
+      "score": 20.05667495727539,
+      "cc2": "CU",
+      "countryCode": "CU",
+      "adminId1": "3547394",
+      "lat": "22.8",
+      "fcode": "LCTY",
+      "continentCode": "NA",
+      "adminCode1": "03",
+      "lng": "-80.98333",
+      "geonameId": 3567520,
+      "toponymName": "Belfast",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Belfast",
+      "fclName": "parks,area, ...",
+      "countryName": "Cuba",
+      "fcodeName": "locality",
+      "adminName1": "Matanzas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland",
+        "dstOffset": 12
+      },
+      "bbox": {
+        "east": 172.64571983503959,
+        "south": -43.45899364875143,
+        "north": -43.441006351248575,
+        "west": 172.62094676496042
+      },
+      "asciiName": "Belfast",
+      "countryId": "2186224",
+      "fcl": "P",
+      "score": 17.93923568725586,
+      "adminId2": "7910036",
+      "countryCode": "NZ",
+      "adminId1": "2192628",
+      "lat": "-43.45",
+      "fcode": "PPL",
+      "continentCode": "OC",
+      "adminCode2": "060",
+      "adminCode1": "E9",
+      "lng": "172.63333",
+      "geonameId": 2193452,
+      "toponymName": "Belfast",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Belfast%2C_New_Zealand",
+          "lang": "link"
+        },
+        {
+          "name": "BEL",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Christchurch City",
+      "name": "Belfast",
+      "fclName": "city, village,...",
+      "countryName": "New Zealand",
+      "fcodeName": "populated place",
+      "adminName1": "Canterbury"
+    }
+  ]
+}

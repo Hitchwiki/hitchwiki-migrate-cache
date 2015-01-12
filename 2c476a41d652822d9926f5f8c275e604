@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A216",
+               "short_name" : "A216",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Calais",
+               "short_name" : "Calais",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pas-de-Calais",
+               "short_name" : "62",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "62100",
+               "short_name" : "62100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A216, 62100 Calais, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9535607,
+                  "lng" : 1.9070307
+               },
+               "southwest" : {
+                  "lat" : 50.9386825,
+                  "lng" : 1.9046343
+               }
+            },
+            "location" : {
+               "lat" : 50.9460343,
+               "lng" : 1.904805
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9535607,
+                  "lng" : 1.907181480291502
+               },
+               "southwest" : {
+                  "lat" : 50.9386825,
+                  "lng" : 1.904483519708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

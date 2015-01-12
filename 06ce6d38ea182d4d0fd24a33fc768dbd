@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mendoza",
+               "short_name" : "Mendoza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mendoza Province",
+               "short_name" : "MZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mendoza, Mendoza Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.8091398,
+                  "lng" : -68.7269211
+               },
+               "southwest" : {
+                  "lat" : -33.0437567,
+                  "lng" : -68.900637
+               }
+            },
+            "location" : {
+               "lat" : -32.890183,
+               "lng" : -68.84404979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.8091398,
+                  "lng" : -68.7269211
+               },
+               "southwest" : {
+                  "lat" : -33.0437567,
+                  "lng" : -68.900637
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

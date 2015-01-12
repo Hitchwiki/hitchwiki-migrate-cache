@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A126",
+               "short_name" : "A126",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "91",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A126, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7230458,
+                  "lng" : 2.3075103
+               },
+               "southwest" : {
+                  "lat" : 48.7093849,
+                  "lng" : 2.2477635
+               }
+            },
+            "location" : {
+               "lat" : 48.7138229,
+               "lng" : 2.2764705
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7230458,
+                  "lng" : 2.3075103
+               },
+               "southwest" : {
+                  "lat" : 48.7093849,
+                  "lng" : 2.2477635
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

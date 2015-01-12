@@ -1,0 +1,85 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "asciiName": "Saltspring Island",
+      "countryId": "6251999",
+      "fcl": "T",
+      "score": 16.08562469482422,
+      "adminId2": "5916420",
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "48.81161",
+      "fcode": "ISL",
+      "continentCode": "NA",
+      "adminCode2": "5917",
+      "adminCode1": "02",
+      "lng": "-123.49731",
+      "geonameId": 6139826,
+      "toponymName": "Saltspring Island",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Saltspring Island",
+          "lang": "en"
+        },
+        {
+          "name": "YSQ",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Saltspring_Island",
+          "lang": "link"
+        },
+        {
+          "name": "SSI",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Capital Regional District",
+      "name": "Saltspring Island",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Canada",
+      "fcodeName": "island",
+      "adminName1": "British Columbia"
+    },
+    {
+      "adminCode1": "02",
+      "lng": "-123.48594",
+      "geonameId": 6139827,
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "toponymName": "Saltspring Island Land District",
+      "asciiName": "Saltspring Island Land District",
+      "countryId": "6251999",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 7.062612533569336,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Saltspring Island Land District",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "area",
+      "adminId1": "5909050",
+      "adminName1": "British Columbia",
+      "lat": "48.80794",
+      "fcode": "AREA",
+      "continentCode": "NA"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.0599709,
+                  "lng" : 24.1668093
+               },
+               "southwest" : {
+                  "lat" : 55.3367024,
+                  "lng" : 10.9631866
+               }
+            },
+            "location" : {
+               "lat" : 60.12816100000001,
+               "lng" : 18.643501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.0599709,
+                  "lng" : 24.166024
+               },
+               "southwest" : {
+                  "lat" : 55.3367024,
+                  "lng" : 10.9683721
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

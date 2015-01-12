@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amerongen",
+               "short_name" : "Amerongen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Utrechtse Heuvelrug",
+               "short_name" : "Utrechtse Heuvelrug",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3958",
+               "short_name" : "3958",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3958 Amerongen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.031099,
+                  "lng" : 5.5111715
+               },
+               "southwest" : {
+                  "lat" : 51.9707462,
+                  "lng" : 5.378410199999999
+               }
+            },
+            "location" : {
+               "lat" : 52.0025516,
+               "lng" : 5.4604852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.031099,
+                  "lng" : 5.5111715
+               },
+               "southwest" : {
+                  "lat" : 51.9707462,
+                  "lng" : 5.378410199999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

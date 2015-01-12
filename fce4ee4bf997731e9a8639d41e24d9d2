@@ -1,0 +1,66 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "countryId": "614540",
+      "countryName": "Georgia",
+      "fclName": "parks,area, ...",
+      "score": 23.995012283325195,
+      "countryCode": "GE",
+      "lng": "45.63377",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "region",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi"
+      },
+      "toponymName": "Tusheti Region",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "AS",
+      "name": "Tusheti Region",
+      "fcode": "RGN",
+      "asciiName": "Tusheti Region",
+      "geonameId": 8349454,
+      "lat": "42.3626",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "countryId": "614540",
+      "alternateNames": [{
+        "name": "T’ushet’is Nakrdzali",
+        "lang": "ka"
+      }],
+      "adminCode1": "08",
+      "countryName": "Georgia",
+      "fclName": "parks,area, ...",
+      "score": 9.99792194366455,
+      "countryCode": "GE",
+      "lng": "45.55028",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "nature reserve",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi"
+      },
+      "toponymName": "T’ushet’is Nakrdzali",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "AS",
+      "name": "T’ushet’is Nakrdzali",
+      "fcode": "RESN",
+      "asciiName": "T'ushet'is Nakrdzali",
+      "geonameId": 824922,
+      "lat": "42.36583",
+      "adminName1": "Akhmetis Raioni",
+      "population": 0
+    }
+  ]
+}

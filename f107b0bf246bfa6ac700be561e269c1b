@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vitebsk",
+               "short_name" : "Vitebsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vitsebsk District",
+               "short_name" : "Vitsebsk District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Region",
+               "short_name" : "Vitebsk Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vitebsk, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.2464696,
+                  "lng" : 30.3162574
+               },
+               "southwest" : {
+                  "lat" : 55.135764,
+                  "lng" : 30.0744724
+               }
+            },
+            "location" : {
+               "lat" : 55.183333,
+               "lng" : 30.166667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2464696,
+                  "lng" : 30.3162574
+               },
+               "southwest" : {
+                  "lat" : 55.135764,
+                  "lng" : 30.0744724
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

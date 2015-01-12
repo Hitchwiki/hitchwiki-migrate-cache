@@ -1,0 +1,843 @@
+{
+  "totalResultsCount": 213,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 13.882558400027733,
+        "south": 50.960394236096846,
+        "north": 51.141387925862375,
+        "west": 13.594076579220314
+      },
+      "asciiName": "Dresden",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 93.09852600097656,
+      "countryCode": "DE",
+      "adminId1": "2842566",
+      "lat": "51.05089",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode1": "13",
+      "lng": "13.73832",
+      "geonameId": 2935022,
+      "toponymName": "Dresden",
+      "population": 486854,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Dresden",
+          "lang": "af"
+        },
+        {
+          "name": "دريسدن",
+          "lang": "ar"
+        },
+        {
+          "name": "Dresde",
+          "lang": "ast"
+        },
+        {
+          "name": "Drezden",
+          "lang": "az"
+        },
+        {
+          "name": "Dresdn",
+          "lang": "bar"
+        },
+        {
+          "name": "Горад Дрэздэн",
+          "lang": "be"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "bg"
+        },
+        {
+          "name": "Dresden",
+          "lang": "bs"
+        },
+        {
+          "name": "Dresden",
+          "lang": "ca"
+        },
+        {
+          "name": "Dresda",
+          "lang": "co"
+        },
+        {
+          "name": "Drážďany",
+          "lang": "cs"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "cv"
+        },
+        {
+          "name": "Dresden",
+          "lang": "cy"
+        },
+        {
+          "name": "Dresden",
+          "lang": "da"
+        },
+        {
+          "name": "Dresden",
+          "lang": "de"
+        },
+        {
+          "name": "Drježdźany",
+          "lang": "dsb"
+        },
+        {
+          "name": "Δρέσδη",
+          "lang": "el"
+        },
+        {
+          "name": "Dresden",
+          "lang": "en"
+        },
+        {
+          "name": "Dresdeno",
+          "lang": "eo"
+        },
+        {
+          "name": "Dresde",
+          "lang": "es"
+        },
+        {
+          "name": "Dresden",
+          "lang": "et"
+        },
+        {
+          "name": "Dresde",
+          "lang": "ext"
+        },
+        {
+          "name": "درسدن",
+          "lang": "fa"
+        },
+        {
+          "name": "Dresden",
+          "lang": "fi"
+        },
+        {
+          "name": "Dresde",
+          "lang": "fr"
+        },
+        {
+          "name": "Dresde",
+          "lang": "gl"
+        },
+        {
+          "name": "Dresden",
+          "lang": "hbs"
+        },
+        {
+          "name": "דרזדן",
+          "lang": "he"
+        },
+        {
+          "name": "Dresden",
+          "lang": "hr"
+        },
+        {
+          "name": "Drježdźany",
+          "lang": "hsb"
+        },
+        {
+          "name": "Drezda",
+          "lang": "hu"
+        },
+        {
+          "name": "Դրեզդեն",
+          "lang": "hy"
+        },
+        {
+          "name": "DRS",
+          "lang": "iata"
+        },
+        {
+          "name": "Dresden",
+          "lang": "id"
+        },
+        {
+          "name": "Dresda",
+          "lang": "it"
+        },
+        {
+          "name": "ドレスデン",
+          "lang": "ja"
+        },
+        {
+          "name": "დრეზდენი",
+          "lang": "ka"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "kk"
+        },
+        {
+          "name": "드레스덴",
+          "lang": "ko"
+        },
+        {
+          "name": "Dresda",
+          "lang": "la"
+        },
+        {
+          "name": "Dresden",
+          "lang": "lb"
+        },
+        {
+          "name": "Dresda",
+          "lang": "lij"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Dresden",
+          "lang": "link"
+        },
+        {
+          "name": "Dresda",
+          "lang": "lmo"
+        },
+        {
+          "name": "Dresdenas",
+          "lang": "lt"
+        },
+        {
+          "name": "Drēzdene",
+          "lang": "lv"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "mk"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "mn"
+        },
+        {
+          "name": "ड्रेस्डेन",
+          "lang": "mr"
+        },
+        {
+          "name": "Dresden",
+          "lang": "nds"
+        },
+        {
+          "name": "Dresden",
+          "lang": "nl"
+        },
+        {
+          "name": "Dresden",
+          "lang": "nn"
+        },
+        {
+          "name": "Dresden",
+          "lang": "no"
+        },
+        {
+          "name": "Drèsda",
+          "lang": "oc"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "os"
+        },
+        {
+          "name": "Drezno",
+          "lang": "pl"
+        },
+        {
+          "name": "Dresda",
+          "lang": "pms"
+        },
+        {
+          "name": "ڈریسڈن",
+          "lang": "pnb"
+        },
+        {
+          "name": "Dresden",
+          "lang": "pt"
+        },
+        {
+          "name": "Dresda",
+          "lang": "ro"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "ru"
+        },
+        {
+          "name": "Dresda",
+          "lang": "scn"
+        },
+        {
+          "name": "Drážďany",
+          "lang": "sk"
+        },
+        {
+          "name": "Dresden",
+          "lang": "sl"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "sr"
+        },
+        {
+          "name": "Dresden",
+          "lang": "sv"
+        },
+        {
+          "name": "เดรสเดิน",
+          "lang": "th"
+        },
+        {
+          "name": "Drezden",
+          "lang": "tk"
+        },
+        {
+          "name": "Dresde",
+          "lang": "tl"
+        },
+        {
+          "name": "Dresden",
+          "lang": "tr"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "tt"
+        },
+        {
+          "name": "Drézdén",
+          "lang": "ug"
+        },
+        {
+          "name": "Дрезден",
+          "lang": "uk"
+        },
+        {
+          "name": "DRS",
+          "lang": "unlc"
+        },
+        {
+          "name": "Dresda",
+          "lang": "vec"
+        },
+        {
+          "name": "Dresden",
+          "lang": "vi"
+        },
+        {
+          "name": "Dresden",
+          "lang": "vo"
+        },
+        {
+          "name": "დრეზდენი",
+          "lang": "xmf"
+        },
+        {
+          "name": "דרעזדן",
+          "lang": "yi"
+        },
+        {
+          "name": "德累斯顿",
+          "lang": "zh"
+        },
+        {
+          "name": "德累斯顿",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "",
+      "name": "Dresden",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Dresden Airport",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 31.032840728759766,
+      "cc2": "DE",
+      "countryCode": "DE",
+      "adminId1": "2842566",
+      "lat": "51.13277",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 230,
+      "adminCode1": "13",
+      "lng": "13.76716",
+      "geonameId": 3209038,
+      "toponymName": "Dresden Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Flughafen Dresden-Klotzsche",
+          "lang": "de"
+        },
+        {
+          "name": "Dresden Airport",
+          "lang": "en"
+        },
+        {
+          "name": "فرودگاه درسدن",
+          "lang": "fa"
+        },
+        {
+          "name": "Aéroport de Dresde",
+          "lang": "fr"
+        },
+        {
+          "name": "DRS",
+          "lang": "iata"
+        },
+        {
+          "name": "EDDC",
+          "lang": "icao"
+        },
+        {
+          "name": "ドレスデン空港",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Dresden_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "Аэропорт Дрездена",
+          "lang": "ru"
+        },
+        {
+          "name": "德累斯顿机场",
+          "lang": "wuu"
+        }
+      ],
+      "adminName2": "",
+      "name": "Dresden Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "airport",
+      "adminName1": "Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Direktionsbezirk Dresden",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 23.27463150024414,
+      "countryCode": "DE",
+      "adminId1": "2842566",
+      "lat": "51.16667",
+      "fcode": "ADM2H",
+      "continentCode": "EU",
+      "adminCode2": "146",
+      "adminCode1": "13",
+      "lng": "14.08333",
+      "geonameId": 3305799,
+      "toponymName": "Direktionsbezirk Dresden",
+      "population": 1631486,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Direktionsbezirk Dresden",
+          "lang": "de"
+        },
+        {
+          "name": "Dresden",
+          "lang": "en"
+        },
+        {
+          "name": "District de Dresde",
+          "lang": "fr"
+        },
+        {
+          "name": "Direkciski wobwod Drježdźany",
+          "lang": "hsb"
+        },
+        {
+          "name": "Dresda",
+          "lang": "it"
+        },
+        {
+          "name": "Direktiounsbezierk Dresden",
+          "lang": "lb"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Dresden_%28region%29",
+          "lang": "link"
+        },
+        {
+          "name": "Okręg administracyjny Drezno",
+          "lang": "pl"
+        },
+        {
+          "name": "Дирекционный округ Дрезден",
+          "lang": "ru"
+        },
+        {
+          "name": "Дирекційний округ Дрезден",
+          "lang": "uk"
+        }
+      ],
+      "adminName2": "DE.13.146",
+      "name": "Dresden",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "historical second-order administrative division",
+      "adminName1": "Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Dresden",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 21.14531707763672,
+      "adminId3": "2935020",
+      "countryCode": "DE",
+      "adminId4": "6551127",
+      "adminId1": "2842566",
+      "lat": "51.05",
+      "fcode": "ADM4",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode3": "14612",
+      "adminCode1": "13",
+      "lng": "13.75",
+      "geonameId": 6551127,
+      "toponymName": "Dresden",
+      "adminCode4": "14612000",
+      "population": 525105,
+      "adminName5": "",
+      "adminName4": "Dresden",
+      "adminName3": "Kreisfreie Stadt Dresden",
+      "alternateNames": [
+        {
+          "name": "Dresden",
+          "lang": "de"
+        },
+        {
+          "name": "Dresden",
+          "lang": "en"
+        },
+        {
+          "name": "Dresde",
+          "lang": "fr"
+        }
+      ],
+      "adminName2": "",
+      "name": "Dresden",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "fourth-order administrative division",
+      "adminName1": "Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Kreisfreie Stadt Dresden",
+      "countryId": "2921044",
+      "fcl": "A",
+      "score": 20.315763473510742,
+      "adminId3": "2935020",
+      "countryCode": "DE",
+      "adminId1": "2842566",
+      "lat": "51.0833",
+      "fcode": "ADM3",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode3": "14612",
+      "adminCode1": "13",
+      "lng": "13.7666",
+      "geonameId": 2935020,
+      "toponymName": "Kreisfreie Stadt Dresden",
+      "population": 525105,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Kreisfreie Stadt Dresden",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Dresden",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Kreisfreie Stadt Dresden",
+      "fclName": "country, state, region,...",
+      "countryName": "Germany",
+      "fcodeName": "third-order administrative division",
+      "adminName1": "Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -82.17088289235691,
+        "south": 42.574388031248574,
+        "north": 42.59237532875143,
+        "west": -82.19531594364308
+      },
+      "asciiName": "Dresden",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 17.59396743774414,
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "42.58338",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "08",
+      "lng": "-82.1831",
+      "geonameId": 5942576,
+      "toponymName": "Dresden",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Dresden%2C_Ontario",
+          "lang": "link"
+        },
+        {
+          "name": "DRD",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Dresden",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Grosser Garten",
+      "countryId": "2921044",
+      "fcl": "L",
+      "score": 17.59396743774414,
+      "adminId3": "2935020",
+      "countryCode": "DE",
+      "adminId1": "2842566",
+      "lat": "51.03832",
+      "fcode": "PRK",
+      "continentCode": "EU",
+      "adminCode2": "00",
+      "adminCode3": "14612",
+      "adminCode1": "13",
+      "lng": "13.76261",
+      "geonameId": 2916391,
+      "toponymName": "Großer Garten",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Kreisfreie Stadt Dresden",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Gro%C3%9Fer_Garten",
+          "lang": "link"
+        },
+        {
+          "name": "Grosser Garten",
+          "lang": "no"
+        }
+      ],
+      "adminName2": "",
+      "name": "Großer Garten",
+      "fclName": "parks,area, ...",
+      "countryName": "Germany",
+      "fcodeName": "park",
+      "adminName1": "Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Dresden Hauptbahnhof",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 15.516420364379883,
+      "countryCode": "DE",
+      "adminId1": "2842566",
+      "lat": "51.04046",
+      "fcode": "RSTN",
+      "continentCode": "EU",
+      "adminCode1": "13",
+      "lng": "13.73145",
+      "geonameId": 8015333,
+      "toponymName": "Dresden Hauptbahnhof",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Dresden Hauptbahnhof",
+          "lang": "de"
+        },
+        {
+          "name": "Dresden Central Station",
+          "lang": "en"
+        },
+        {
+          "name": "Estación Central de Dresde",
+          "lang": "es"
+        },
+        {
+          "name": "Gare centrale de Dresde",
+          "lang": "fr"
+        },
+        {
+          "name": "Stazione di Dresden Hauptbahnhof",
+          "lang": "it"
+        },
+        {
+          "name": "ドレスデン中央駅",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Dresden_Hauptbahnhof",
+          "lang": "link"
+        },
+        {
+          "name": "德累斯顿中央车站",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Dresden Central Station",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "railroad station",
+      "adminName1": "Saxony"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -82.00481074990664,
+        "south": 40.11696107562429,
+        "north": 40.12595472437572,
+        "west": -82.01657285009337
+      },
+      "asciiName": "Dresden",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 14.661640167236328,
+      "adminId2": "4519300",
+      "countryCode": "US",
+      "adminId1": "5165418",
+      "lat": "40.12146",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 226,
+      "adminCode2": "119",
+      "adminCode1": "OH",
+      "lng": "-82.01069",
+      "geonameId": 5152291,
+      "toponymName": "Dresden",
+      "population": 1529,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Dresden%2C_Ohio",
+          "lang": "link"
+        },
+        {
+          "name": "43821",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Muskingum County",
+      "name": "Dresden",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "Ohio"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Dresden Palace",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 14.365415573120117,
+      "countryCode": "DE",
+      "adminId1": "2842566",
+      "lat": "51.05256",
+      "fcode": "PAL",
+      "continentCode": "EU",
+      "adminCode1": "13",
+      "lng": "13.73716",
+      "geonameId": 7645965,
+      "toponymName": "Dresden Palace",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Residenzschloß Dresden",
+          "lang": "de"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Dresden_Castle",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Dresden Palace",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "palace",
+      "adminName1": "Saxony"
+    }
+  ]
+}

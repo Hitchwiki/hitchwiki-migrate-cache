@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A55",
+               "short_name" : "A55",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A55, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4119695,
+                  "lng" : 5.3686133
+               },
+               "southwest" : {
+                  "lat" : 43.3086993,
+                  "lng" : 5.025481600000001
+               }
+            },
+            "location" : {
+               "lat" : 43.3732838,
+               "lng" : 5.19315
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4119695,
+                  "lng" : 5.3686133
+               },
+               "southwest" : {
+                  "lat" : 43.3086993,
+                  "lng" : 5.025481600000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azores",
+               "short_name" : "Azores",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Azores, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7261497,
+                  "lng" : -25.0131855
+               },
+               "southwest" : {
+                  "lat" : 36.9278178,
+                  "lng" : -31.2687948
+               }
+            },
+            "location" : {
+               "lat" : 37.7412488,
+               "lng" : -25.6755944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9103512,
+                  "lng" : -25.1341749
+               },
+               "southwest" : {
+                  "lat" : 37.703988,
+                  "lng" : -25.8545289
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

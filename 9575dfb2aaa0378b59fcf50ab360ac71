@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.2196808,
+                  "lng" : -82.55265709999999
+               },
+               "southwest" : {
+                  "lat" : 5.4991622,
+                  "lng" : -87.09445909999999
+               }
+            },
+            "location" : {
+               "lat" : 9.748916999999999,
+               "lng" : -83.753428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.2196808,
+                  "lng" : -82.55265709999999
+               },
+               "southwest" : {
+                  "lat" : 8.0406976,
+                  "lng" : -85.9557116
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

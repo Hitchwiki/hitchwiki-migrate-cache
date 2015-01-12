@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stará Ľubovňa",
+               "short_name" : "Stará Ľubovňa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stará Ľubovňa District",
+               "short_name" : "Stará Ľubovňa District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prešov Region",
+               "short_name" : "Prešov Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stará Ľubovňa, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3533284,
+                  "lng" : 20.7336285
+               },
+               "southwest" : {
+                  "lat" : 49.2808831,
+                  "lng" : 20.6470178
+               }
+            },
+            "location" : {
+               "lat" : 49.3022126,
+               "lng" : 20.6905301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3533284,
+                  "lng" : 20.7336285
+               },
+               "southwest" : {
+                  "lat" : 49.2808831,
+                  "lng" : 20.6470178
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stará Ľubovňa",
+               "short_name" : "Stará Ľubovňa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stará Ľubovňa",
+               "short_name" : "Stará Ľubovňa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stará Ľubovňa District",
+               "short_name" : "Stará Ľubovňa District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prešov Region",
+               "short_name" : "Prešov Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stará Ľubovňa, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3200757,
+                  "lng" : 20.704534
+               },
+               "southwest" : {
+                  "lat" : 49.2861787,
+                  "lng" : 20.6616037
+               }
+            },
+            "location" : {
+               "lat" : 49.30082119999999,
+               "lng" : 20.6880632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3200757,
+                  "lng" : 20.704534
+               },
+               "southwest" : {
+                  "lat" : 49.2861787,
+                  "lng" : 20.6616037
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

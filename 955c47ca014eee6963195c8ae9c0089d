@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A75",
+               "short_name" : "A75",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A75, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7757268,
+                  "lng" : 3.4665528
+               },
+               "southwest" : {
+                  "lat" : 43.3410451,
+                  "lng" : 3.0168796
+               }
+            },
+            "location" : {
+               "lat" : 44.5601093,
+               "lng" : 3.2540633
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7757268,
+                  "lng" : 3.4665528
+               },
+               "southwest" : {
+                  "lat" : 43.3410451,
+                  "lng" : 3.0168796
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

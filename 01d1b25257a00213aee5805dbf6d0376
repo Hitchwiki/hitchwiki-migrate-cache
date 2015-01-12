@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dals-Ed",
+               "short_name" : "Dals-Ed",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dals-Ed Municipality",
+               "short_name" : "Dals-Ed Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västra Götalands län",
+               "short_name" : "Västra Götalands län",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dals-Ed, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.237537,
+                  "lng" : 12.1488429
+               },
+               "southwest" : {
+                  "lat" : 58.842611,
+                  "lng" : 11.6525509
+               }
+            },
+            "location" : {
+               "lat" : 58.9743879,
+               "lng" : 11.8651749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.237537,
+                  "lng" : 12.1488429
+               },
+               "southwest" : {
+                  "lat" : 58.842611,
+                  "lng" : 11.6525509
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

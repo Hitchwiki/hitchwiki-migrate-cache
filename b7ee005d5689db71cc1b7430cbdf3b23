@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fethiye",
+               "short_name" : "Fethiye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48300",
+               "short_name" : "48300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48300 Fethiye, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.698903,
+                  "lng" : 29.1760481
+               },
+               "southwest" : {
+                  "lat" : 36.60473700000001,
+                  "lng" : 29.067692
+               }
+            },
+            "location" : {
+               "lat" : 36.650833,
+               "lng" : 29.125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.698903,
+                  "lng" : 29.1760481
+               },
+               "southwest" : {
+                  "lat" : 36.60473700000001,
+                  "lng" : 29.067692
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

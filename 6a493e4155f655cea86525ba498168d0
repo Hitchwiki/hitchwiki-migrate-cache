@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lacolle",
+               "short_name" : "Lacolle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lacolle",
+               "short_name" : "Lacolle",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Le Haut-Richelieu",
+               "short_name" : "Le Haut-Richelieu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "J0J",
+               "short_name" : "J0J",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lacolle, QC J0J, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.08197939999999,
+               "lng" : -73.37286379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0898574,
+                  "lng" : -73.3568564
+               },
+               "southwest" : {
+                  "lat" : 45.0741003,
+                  "lng" : -73.3888712
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

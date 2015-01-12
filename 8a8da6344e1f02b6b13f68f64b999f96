@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santander",
+               "short_name" : "Santander",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santander",
+               "short_name" : "Santander",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Santander",
+               "short_name" : "Santander",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cantabria",
+               "short_name" : "S",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cantabria",
+               "short_name" : "Cantabria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santander, Cantabria, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4863908,
+                  "lng" : -3.7536109
+               },
+               "southwest" : {
+                  "lat" : 43.436298,
+                  "lng" : -3.8686632
+               }
+            },
+            "location" : {
+               "lat" : 43.46230569999999,
+               "lng" : -3.8099803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4863908,
+                  "lng" : -3.7536109
+               },
+               "southwest" : {
+                  "lat" : 43.436298,
+                  "lng" : -3.8686632
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

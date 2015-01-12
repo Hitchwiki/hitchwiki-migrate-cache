@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A74",
+               "short_name" : "A74",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tegelen",
+               "short_name" : "Tegelen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A74, Tegelen, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3476538,
+                  "lng" : 6.169321
+               },
+               "southwest" : {
+                  "lat" : 51.3331269,
+                  "lng" : 6.1572447
+               }
+            },
+            "location" : {
+               "lat" : 51.3398663,
+               "lng" : 6.160016199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3476538,
+                  "lng" : 6.169321
+               },
+               "southwest" : {
+                  "lat" : 51.3331269,
+                  "lng" : 6.1572447
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

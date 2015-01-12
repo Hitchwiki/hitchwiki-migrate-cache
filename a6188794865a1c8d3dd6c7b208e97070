@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kunming",
+               "short_name" : "Kunming",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yunnan",
+               "short_name" : "Yunnan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kunming, Yunnan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5418462,
+                  "lng" : 103.6702502
+               },
+               "southwest" : {
+                  "lat" : 24.3852007,
+                  "lng" : 102.171088
+               }
+            },
+            "location" : {
+               "lat" : 24.880095,
+               "lng" : 102.832892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1775727,
+                  "lng" : 102.9178619
+               },
+               "southwest" : {
+                  "lat" : 24.8652018,
+                  "lng" : 102.5642395
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

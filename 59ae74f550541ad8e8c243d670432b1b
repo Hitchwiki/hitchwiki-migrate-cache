@@ -1,0 +1,86 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinaloa",
+               "short_name" : "Sinaloa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sinaloa",
+               "short_name" : "SIN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sinaloa, SIN, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.825701,
+               "lng" : -108.214302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8357441,
+                  "lng" : -108.1982946
+               },
+               "southwest" : {
+                  "lat" : 25.815657,
+                  "lng" : -108.2303094
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinaloa",
+               "short_name" : "SIN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sinaloa, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0420584,
+                  "lng" : -105.3926634
+               },
+               "southwest" : {
+                  "lat" : 22.4663129,
+                  "lng" : -109.4472773
+               }
+            },
+            "location" : {
+               "lat" : 25.1721091,
+               "lng" : -107.4795173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0420584,
+                  "lng" : -105.3926634
+               },
+               "southwest" : {
+                  "lat" : 22.4663129,
+                  "lng" : -109.4472773
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

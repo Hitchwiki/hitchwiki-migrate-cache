@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corfu",
+               "short_name" : "Corfu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pembroke",
+               "short_name" : "Pembroke",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Genesee County",
+               "short_name" : "Genesee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14036",
+               "short_name" : "14036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Corfu, NY 14036, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9670743,
+                  "lng" : -78.39008269999999
+               },
+               "southwest" : {
+                  "lat" : 42.9543308,
+                  "lng" : -78.4170769
+               }
+            },
+            "location" : {
+               "lat" : 42.9600595,
+               "lng" : -78.4055767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9670743,
+                  "lng" : -78.39008269999999
+               },
+               "southwest" : {
+                  "lat" : 42.9543308,
+                  "lng" : -78.4170769
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

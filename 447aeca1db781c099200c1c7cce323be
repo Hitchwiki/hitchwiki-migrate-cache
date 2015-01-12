@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne Bonn Airport",
+               "short_name" : "Cologne Bonn Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kennedystraße",
+               "short_name" : "Kennedystraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "Köln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "51147",
+               "short_name" : "51147",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cologne Bonn Airport (CGN), Kennedystraße, 51147 Köln, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8871731,
+                  "lng" : 7.178782699999999
+               },
+               "southwest" : {
+                  "lat" : 50.8486912,
+                  "lng" : 7.108331300000001
+               }
+            },
+            "location" : {
+               "lat" : 50.8707168,
+               "lng" : 7.140734399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8871731,
+                  "lng" : 7.178782699999999
+               },
+               "southwest" : {
+                  "lat" : 50.8486912,
+                  "lng" : 7.108331300000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

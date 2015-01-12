@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Van",
+               "short_name" : "Van",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Van",
+               "short_name" : "Van",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Van Province",
+               "short_name" : "Van Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Van/Van Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.580314,
+                  "lng" : 43.447585
+               },
+               "southwest" : {
+                  "lat" : 38.425492,
+                  "lng" : 43.2695239
+               }
+            },
+            "location" : {
+               "lat" : 38.494167,
+               "lng" : 43.38
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.580314,
+                  "lng" : 43.447585
+               },
+               "southwest" : {
+                  "lat" : 38.425492,
+                  "lng" : 43.2695239
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

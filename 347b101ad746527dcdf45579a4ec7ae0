@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almelo",
+               "short_name" : "Almelo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Almelo",
+               "short_name" : "Almelo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almelo, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3993407,
+                  "lng" : 6.7210893
+               },
+               "southwest" : {
+                  "lat" : 52.3226069,
+                  "lng" : 6.5974805
+               }
+            },
+            "location" : {
+               "lat" : 52.3670267,
+               "lng" : 6.668491899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3993407,
+                  "lng" : 6.7210893
+               },
+               "southwest" : {
+                  "lat" : 52.3226069,
+                  "lng" : 6.5974805
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

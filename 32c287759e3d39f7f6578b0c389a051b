@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aland Islands",
+               "short_name" : "AX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aland Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.7411127,
+                  "lng" : 21.4858568
+               },
+               "southwest" : {
+                  "lat" : 59.72722270000001,
+                  "lng" : 19.2633194
+               }
+            },
+            "location" : {
+               "lat" : 60.1785247,
+               "lng" : 19.9156105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.66483599999999,
+                  "lng" : 21.478286
+               },
+               "southwest" : {
+                  "lat" : 59.7342615,
+                  "lng" : 19.2640569
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

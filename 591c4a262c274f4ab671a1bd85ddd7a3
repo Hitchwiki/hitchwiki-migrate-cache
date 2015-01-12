@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A92",
+               "short_name" : "A92",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A92, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8327828,
+                  "lng" : 12.9528528
+               },
+               "southwest" : {
+                  "lat" : 48.23104499999999,
+                  "lng" : 11.5325002
+               }
+            },
+            "location" : {
+               "lat" : 48.5890263,
+               "lng" : 12.2046811
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8327828,
+                  "lng" : 12.9528528
+               },
+               "southwest" : {
+                  "lat" : 48.23104499999999,
+                  "lng" : 11.5325002
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

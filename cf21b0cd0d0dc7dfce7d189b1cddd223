@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saavedra",
+               "short_name" : "Saavedra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saavedra",
+               "short_name" : "Saavedra",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cautín Province",
+               "short_name" : "Cautín Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Araucania",
+               "short_name" : "Araucania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saavedra, Saavedra, Araucanía Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6951824,
+                  "lng" : -73.18710299999999
+               },
+               "southwest" : {
+                  "lat" : -38.9514326,
+                  "lng" : -73.4355082
+               }
+            },
+            "location" : {
+               "lat" : -38.78305599999999,
+               "lng" : -73.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6951824,
+                  "lng" : -73.18710299999999
+               },
+               "southwest" : {
+                  "lat" : -38.9514326,
+                  "lng" : -73.4355082
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

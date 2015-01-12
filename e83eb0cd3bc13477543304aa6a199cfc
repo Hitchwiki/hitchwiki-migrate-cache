@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eshkashem",
+               "short_name" : "Eshkashem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wakhan",
+               "short_name" : "Wakhan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Badakhshan",
+               "short_name" : "Badakhshan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Afghanistan",
+               "short_name" : "AF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eshkashem, Afghanistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7828921,
+                  "lng" : 71.66141499999999
+               },
+               "southwest" : {
+                  "lat" : 36.6293048,
+                  "lng" : 71.4269257
+               }
+            },
+            "location" : {
+               "lat" : 36.709167,
+               "lng" : 71.57388899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7828921,
+                  "lng" : 71.66141499999999
+               },
+               "southwest" : {
+                  "lat" : 36.6293048,
+                  "lng" : 71.4269257
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eshkashem",
+               "short_name" : "Eshkashem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ishkoshim",
+               "short_name" : "Ishkoshim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gorno-Badakhshan Autonomous Province",
+               "short_name" : "Gorno-Badakhshan Autonomous Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eshkashem, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7276374,
+                  "lng" : 71.617856
+               },
+               "southwest" : {
+                  "lat" : 36.7215491,
+                  "lng" : 71.60953049999999
+               }
+            },
+            "location" : {
+               "lat" : 36.727222,
+               "lng" : 71.611667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7276374,
+                  "lng" : 71.617856
+               },
+               "southwest" : {
+                  "lat" : 36.7215491,
+                  "lng" : 71.60953049999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ishkashim",
+               "short_name" : "Ishkashim",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ishkashim Nature Refuge",
+               "short_name" : "Ishkashim Nature Refuge",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ishkoshim",
+               "short_name" : "Ishkoshim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gorno-Badakhshan Autonomous Province",
+               "short_name" : "Gorno-Badakhshan Autonomous Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ishkashim, Ishkashim Nature Refuge, Tajikistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.74551,
+               "lng" : 71.61395999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7468589802915,
+                  "lng" : 71.6153089802915
+               },
+               "southwest" : {
+                  "lat" : 36.7441610197085,
+                  "lng" : 71.6126110197085
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

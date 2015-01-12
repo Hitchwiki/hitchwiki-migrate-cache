@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rzeszow",
+               "short_name" : "Rzeszow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rzeszów",
+               "short_name" : "Rzeszów",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rzeszów County",
+               "short_name" : "Rzeszów County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podkarpackie Voivodeship",
+               "short_name" : "Podkarpackie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rzeszow, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.078273,
+                  "lng" : 22.0941863
+               },
+               "southwest" : {
+                  "lat" : 49.9325869,
+                  "lng" : 21.8827237
+               }
+            },
+            "location" : {
+               "lat" : 50.0411867,
+               "lng" : 21.9991196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.078273,
+                  "lng" : 22.0941863
+               },
+               "southwest" : {
+                  "lat" : 49.9325869,
+                  "lng" : 21.8827237
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,343 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxfordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, Oxford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            },
+            "location" : {
+               "lat" : 51.7520209,
+               "lng" : -1.2577263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lafayette County",
+               "short_name" : "Lafayette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.398561,
+                  "lng" : -89.47525709999999
+               },
+               "southwest" : {
+                  "lat" : 34.3214469,
+                  "lng" : -89.571518
+               }
+            },
+            "location" : {
+               "lat" : 34.3664951,
+               "lng" : -89.5192484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.398561,
+                  "lng" : -89.47525709999999
+               },
+               "southwest" : {
+                  "lat" : 34.3214469,
+                  "lng" : -89.571518
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Butler County",
+               "short_name" : "Butler County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45056",
+               "short_name" : "45056",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford, OH 45056, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5328013,
+                  "lng" : -84.7028035
+               },
+               "southwest" : {
+                  "lat" : 39.483243,
+                  "lng" : -84.78073239999999
+               }
+            },
+            "location" : {
+               "lat" : 39.5069974,
+               "lng" : -84.74523099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5328013,
+                  "lng" : -84.7028035
+               },
+               "southwest" : {
+                  "lat" : 39.483243,
+                  "lng" : -84.78073239999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calhoun County",
+               "short_name" : "Calhoun County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.63627,
+                  "lng" : -85.7422019
+               },
+               "southwest" : {
+                  "lat" : 33.549275,
+                  "lng" : -86.0217409
+               }
+            },
+            "location" : {
+               "lat" : 33.6142714,
+               "lng" : -85.83496479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.63627,
+                  "lng" : -85.7422019
+               },
+               "southwest" : {
+                  "lat" : 33.549275,
+                  "lng" : -86.0217409
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Granville County",
+               "short_name" : "Granville County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27565",
+               "short_name" : "27565",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford, NC 27565, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.354883,
+                  "lng" : -78.55519699999999
+               },
+               "southwest" : {
+                  "lat" : 36.2848689,
+                  "lng" : -78.612161
+               }
+            },
+            "location" : {
+               "lat" : 36.3107004,
+               "lng" : -78.5908345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.354883,
+                  "lng" : -78.55519699999999
+               },
+               "southwest" : {
+                  "lat" : 36.2848689,
+                  "lng" : -78.612161
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford Charter Township",
+               "short_name" : "Oxford Charter Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oakland County",
+               "short_name" : "Oakland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford Charter Township, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8855359,
+                  "lng" : -83.2174539
+               },
+               "southwest" : {
+                  "lat" : 42.7951039,
+                  "lng" : -83.33667799999999
+               }
+            },
+            "location" : {
+               "lat" : 42.84185739999999,
+               "lng" : -83.27465669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8855359,
+                  "lng" : -83.2174539
+               },
+               "southwest" : {
+                  "lat" : 42.7951039,
+                  "lng" : -83.33667799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

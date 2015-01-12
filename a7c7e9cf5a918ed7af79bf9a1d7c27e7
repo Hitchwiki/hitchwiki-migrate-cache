@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gimli",
+               "short_name" : "Gimli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gimli",
+               "short_name" : "Gimli",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 18",
+               "short_name" : "Division No. 18",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manitoba",
+               "short_name" : "MB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gimli, MB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6476692,
+                  "lng" : -96.9738771
+               },
+               "southwest" : {
+                  "lat" : 50.6180579,
+                  "lng" : -97.0066769
+               }
+            },
+            "location" : {
+               "lat" : 50.6320809,
+               "lng" : -96.9886746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6476692,
+                  "lng" : -96.9738771
+               },
+               "southwest" : {
+                  "lat" : 50.6180579,
+                  "lng" : -97.0066769
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

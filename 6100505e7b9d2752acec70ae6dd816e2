@@ -1,0 +1,81 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 21.57387783718452,
+        "south": 47.20045346913661,
+        "north": 47.23288053086339,
+        "west": 21.526122162815483
+      },
+      "asciiName": "Berettyoujfalu",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 34.28573226928711,
+      "countryCode": "HU",
+      "adminId1": "720293",
+      "lat": "47.21667",
+      "fcode": "PPLA2",
+      "continentCode": "EU",
+      "adminCode1": "10",
+      "lng": "21.55",
+      "geonameId": 722324,
+      "toponymName": "Berettyóújfalu",
+      "population": 16090,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Beretty%C3%B3%C3%BAjfalu",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Berettyóújfalu",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Hajdú-Bihar"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 21.538628391232866,
+        "south": 47.196402540499435,
+        "north": 47.20359745950057,
+        "west": 21.528038208767132
+      },
+      "asciiName": "Nyarto",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 3.999168634414673,
+      "countryCode": "HU",
+      "adminId1": "720293",
+      "lat": "47.2",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "10",
+      "lng": "21.53333",
+      "geonameId": 716973,
+      "toponymName": "Nyártó",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Nyártó",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Hajdú-Bihar"
+    }
+  ]
+}

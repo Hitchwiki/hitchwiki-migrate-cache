@@ -1,0 +1,275 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southampton, Southampton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9561354,
+                  "lng" : -1.3219878
+               },
+               "southwest" : {
+                  "lat" : 50.8773718,
+                  "lng" : -1.478998
+               }
+            },
+            "location" : {
+               "lat" : 50.90970040000001,
+               "lng" : -1.4043509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9561354,
+                  "lng" : -1.3219878
+               },
+               "southwest" : {
+                  "lat" : 50.8773718,
+                  "lng" : -1.478998
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southampton, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9004229,
+                  "lng" : -72.35166749999999
+               },
+               "southwest" : {
+                  "lat" : 40.842105,
+                  "lng" : -72.47208189999999
+               }
+            },
+            "location" : {
+               "lat" : 40.884267,
+               "lng" : -72.3895296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9004229,
+                  "lng" : -72.35166749999999
+               },
+               "southwest" : {
+                  "lat" : 40.842105,
+                  "lng" : -72.47208189999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Southampton",
+               "short_name" : "Upper Southampton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bucks County",
+               "short_name" : "Bucks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18966",
+               "short_name" : "18966",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southampton, PA 18966, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.1742759,
+               "lng" : -75.0437814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.17562488029149,
+                  "lng" : -75.0424324197085
+               },
+               "southwest" : {
+                  "lat" : 40.17292691970849,
+                  "lng" : -75.04513038029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southampton Township",
+               "short_name" : "Southampton Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burlington County",
+               "short_name" : "Burlington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southampton Township, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.982245,
+                  "lng" : -74.5965229
+               },
+               "southwest" : {
+                  "lat" : 39.8628819,
+                  "lng" : -74.79128
+               }
+            },
+            "location" : {
+               "lat" : 39.9274288,
+               "lng" : -74.7265791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.982245,
+                  "lng" : -74.5965229
+               },
+               "southwest" : {
+                  "lat" : 39.8628819,
+                  "lng" : -74.79128
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire County",
+               "short_name" : "Hampshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southampton, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.277964,
+                  "lng" : -72.6677349
+               },
+               "southwest" : {
+                  "lat" : 42.1831841,
+                  "lng" : -72.81430209999999
+               }
+            },
+            "location" : {
+               "lat" : 42.2292572,
+               "lng" : -72.7300929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.277964,
+                  "lng" : -72.6677349
+               },
+               "southwest" : {
+                  "lat" : 42.1831841,
+                  "lng" : -72.81430209999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

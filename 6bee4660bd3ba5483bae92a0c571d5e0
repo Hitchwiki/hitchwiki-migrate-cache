@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A516",
+               "short_name" : "A516",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oberhausen",
+               "short_name" : "Oberhausen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A516, Oberhausen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5401326,
+                  "lng" : 6.8635433
+               },
+               "southwest" : {
+                  "lat" : 51.5016072,
+                  "lng" : 6.8297073
+               }
+            },
+            "location" : {
+               "lat" : 51.52485249999999,
+               "lng" : 6.851558799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5401326,
+                  "lng" : 6.8635433
+               },
+               "southwest" : {
+                  "lat" : 51.5016072,
+                  "lng" : 6.8297073
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

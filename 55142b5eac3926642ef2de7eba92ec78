@@ -1,0 +1,119 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "QUA",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Puttgarden",
+          "lang": "link"
+        },
+        {
+          "name": "PUT",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Germany",
+      "adminCode1": "10",
+      "score": 38.47901916503906,
+      "lng": "11.2117",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 54.48599135124857,
+        "east": 11.227191029419034,
+        "north": 54.50397864875143,
+        "west": 11.196212970580968
+      },
+      "name": "Puttgarden",
+      "fcode": "PPL",
+      "geonameId": 2851594,
+      "asciiName": "Puttgarden",
+      "lat": "54.49498",
+      "population": 0,
+      "adminName1": "Schleswig-Holstein",
+      "countryId": "2921044",
+      "adminId1": "2838632",
+      "fclName": "city, village,...",
+      "countryCode": "DE",
+      "toponymName": "Puttgarden",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "alternateNames": [{
+        "name": "Puttgarden Ferry Port",
+        "lang": "en"
+      }],
+      "countryName": "Germany",
+      "adminCode1": "10",
+      "score": 24.049386978149414,
+      "lng": "11.22508",
+      "adminName2": "",
+      "fcodeName": "port",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Puttgarden Ferry Port",
+      "fcode": "PRT",
+      "geonameId": 9798784,
+      "asciiName": "Puttgarden Port",
+      "lat": "54.50187",
+      "population": 0,
+      "adminName1": "Schleswig-Holstein",
+      "countryId": "2921044",
+      "adminId1": "2838632",
+      "fclName": "parks,area, ...",
+      "countryCode": "DE",
+      "toponymName": "Puttgarden Port",
+      "fcl": "L",
+      "continentCode": "EU"
+    },
+    {
+      "adminId1": "2838632",
+      "countryId": "2921044",
+      "adminCode1": "10",
+      "countryName": "Germany",
+      "fclName": "spot, building, farm",
+      "score": 5.890872478485107,
+      "countryCode": "DE",
+      "lng": "11.19895",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "tower",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "toponymName": "Fernmeldeturm Puttgarden",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "EU",
+      "name": "Fernmeldeturm Puttgarden",
+      "fcode": "TOWR",
+      "asciiName": "Fernmeldeturm Puttgarden",
+      "geonameId": 7281616,
+      "lat": "54.4951",
+      "adminName1": "Schleswig-Holstein",
+      "population": 0
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Bahamas",
+               "short_name" : "BS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "The Bahamas",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.263362,
+                  "lng" : -72.71206859999999
+               },
+               "southwest" : {
+                  "lat" : 20.9121311,
+                  "lng" : -80.4749466
+               }
+            },
+            "location" : {
+               "lat" : 25.03428,
+               "lng" : -77.39627999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.263362,
+                  "lng" : -72.71206859999999
+               },
+               "southwest" : {
+                  "lat" : 20.9121311,
+                  "lng" : -80.4749466
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rwanda",
+               "short_name" : "RW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rwanda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.0475717,
+                  "lng" : 30.8994009
+               },
+               "southwest" : {
+                  "lat" : -2.8398397,
+                  "lng" : 28.8617546
+               }
+            },
+            "location" : {
+               "lat" : -1.940278,
+               "lng" : 29.873888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.0475717,
+                  "lng" : 30.8994009
+               },
+               "southwest" : {
+                  "lat" : -2.8398397,
+                  "lng" : 28.8617546
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

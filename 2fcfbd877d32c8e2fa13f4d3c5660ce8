@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M621",
+               "short_name" : "M621",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS11",
+               "short_name" : "LS11",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M621, Leeds, West Yorkshire LS11, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7848503,
+                  "lng" : -1.5136145
+               },
+               "southwest" : {
+                  "lat" : 53.7451954,
+                  "lng" : -1.6517009
+               }
+            },
+            "location" : {
+               "lat" : 53.76853089999999,
+               "lng" : -1.5917494
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7848503,
+                  "lng" : -1.5136145
+               },
+               "southwest" : {
+                  "lat" : 53.7451954,
+                  "lng" : -1.6517009
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

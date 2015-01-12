@@ -1,0 +1,992 @@
+{
+  "totalResultsCount": 268,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 12.813633417614101,
+        "south": 55.53653737163298,
+        "north": 55.81534048292722,
+        "west": 12.3174205069465
+      },
+      "asciiName": "Copenhagen",
+      "countryId": "2623032",
+      "fcl": "P",
+      "score": 81.32135009765625,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.67594",
+      "fcode": "PPLC",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.56553",
+      "geonameId": 2618425,
+      "toponymName": "Copenhagen",
+      "population": 1153615,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Kopenhagen",
+          "lang": "af"
+        },
+        {
+          "name": "ኮፕንሀግ",
+          "lang": "am"
+        },
+        {
+          "name": "Copenaguen",
+          "lang": "an"
+        },
+        {
+          "name": "كوبنهاغن",
+          "lang": "ar"
+        },
+        {
+          "name": "ܟܘܦܢܗܓܢ",
+          "lang": "arc"
+        },
+        {
+          "name": "Капэнгаген",
+          "lang": "be"
+        },
+        {
+          "name": "Копенхаген",
+          "lang": "bg"
+        },
+        {
+          "name": "কোপেনহেগেন",
+          "lang": "bn"
+        },
+        {
+          "name": "ཀའོ་པེན་ཧ་ཀེན",
+          "lang": "bo"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "br"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "bs"
+        },
+        {
+          "name": "Copenhaguen",
+          "lang": "ca"
+        },
+        {
+          "name": "Kodaň",
+          "lang": "cs"
+        },
+        {
+          "name": "Kòpenhaga",
+          "lang": "csb"
+        },
+        {
+          "name": "Копенгаген",
+          "lang": "cv"
+        },
+        {
+          "name": "København",
+          "lang": "da"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "de"
+        },
+        {
+          "name": "Κοπεγχάγη",
+          "lang": "el"
+        },
+        {
+          "name": "Copenhagen",
+          "lang": "en"
+        },
+        {
+          "name": "Kopenhago",
+          "lang": "eo"
+        },
+        {
+          "name": "Copenhague",
+          "lang": "es"
+        },
+        {
+          "name": "Kopenhaagen",
+          "lang": "et"
+        },
+        {
+          "name": "Kopenhage",
+          "lang": "eu"
+        },
+        {
+          "name": "Kööpenhamina",
+          "lang": "fi"
+        },
+        {
+          "name": "Keypmannahavn",
+          "lang": "fo"
+        },
+        {
+          "name": "Copenhague",
+          "lang": "fr"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "fy"
+        },
+        {
+          "name": "Cóbanhávan",
+          "lang": "ga"
+        },
+        {
+          "name": "Copenhaguen - København",
+          "lang": "gl"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "hbs"
+        },
+        {
+          "name": "קופנהאגן",
+          "lang": "he"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "hr"
+        },
+        {
+          "name": "Koppenhága",
+          "lang": "hu"
+        },
+        {
+          "name": "Կոպենհագեն",
+          "lang": "hy"
+        },
+        {
+          "name": "CPH",
+          "lang": "iata"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "id"
+        },
+        {
+          "name": "København",
+          "lang": "io"
+        },
+        {
+          "name": "Kaupmannahöfn",
+          "lang": "is"
+        },
+        {
+          "name": "Copenaghen",
+          "lang": "it"
+        },
+        {
+          "name": "コペンハーゲン",
+          "lang": "ja"
+        },
+        {
+          "name": "კოპენჰაგენი",
+          "lang": "ka"
+        },
+        {
+          "name": "København",
+          "lang": "kl"
+        },
+        {
+          "name": "코펜하겐",
+          "lang": "ko"
+        },
+        {
+          "name": "Hafnia",
+          "lang": "la"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "lb"
+        },
+        {
+          "name": "Copenaghen",
+          "lang": "lij"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Copenhagen",
+          "lang": "link"
+        },
+        {
+          "name": "Kopenhaga",
+          "lang": "lt"
+        },
+        {
+          "name": "Kopenhāgena",
+          "lang": "lv"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "nds"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "nl"
+        },
+        {
+          "name": "København",
+          "lang": "nn"
+        },
+        {
+          "name": "København",
+          "lang": "no"
+        },
+        {
+          "name": "København",
+          "lang": "nov"
+        },
+        {
+          "name": "København",
+          "lang": "oc"
+        },
+        {
+          "name": "Kopenhaga",
+          "lang": "pl"
+        },
+        {
+          "name": "Copenhaga",
+          "lang": "pt"
+        },
+        {
+          "name": "København",
+          "lang": "qu"
+        },
+        {
+          "name": "Copenhaga",
+          "lang": "ro"
+        },
+        {
+          "name": "Копенгаген",
+          "lang": "ru"
+        },
+        {
+          "name": "कोपनहागन",
+          "lang": "sa"
+        },
+        {
+          "name": "Copenaghen",
+          "lang": "sc"
+        },
+        {
+          "name": "Københámman",
+          "lang": "se"
+        },
+        {
+          "name": "Kodaň",
+          "lang": "sk"
+        },
+        {
+          "name": "Köbenhavn",
+          "lang": "sl"
+        },
+        {
+          "name": "Копенхаген",
+          "lang": "sr"
+        },
+        {
+          "name": "Köpenhamn",
+          "lang": "sv"
+        },
+        {
+          "name": "Kopenhagen",
+          "lang": "sw"
+        },
+        {
+          "name": "โคเปนเฮเกน",
+          "lang": "th"
+        },
+        {
+          "name": "Kopenhag",
+          "lang": "tr"
+        },
+        {
+          "name": "كوپېنھاگېن",
+          "lang": "ug"
+        },
+        {
+          "name": "Копенгаген",
+          "lang": "uk"
+        },
+        {
+          "name": "CPH",
+          "lang": "unlc"
+        },
+        {
+          "name": "Köbenhavn",
+          "lang": "vo"
+        },
+        {
+          "name": "哥本哈根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Copenhagen municipality",
+      "name": "Copenhagen",
+      "fclName": "city, village,...",
+      "countryName": "Denmark",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "asciiName": "Copenhagen Airport",
+      "countryId": "2623032",
+      "fcl": "S",
+      "score": 26.62420654296875,
+      "adminId2": "2611861",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.61792",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 5,
+      "adminCode2": "185",
+      "adminCode1": "17",
+      "lng": "12.65597",
+      "geonameId": 2619034,
+      "toponymName": "Copenhagen Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "مطار كوبنهاغن",
+          "lang": "ar"
+        },
+        {
+          "name": "Aeroport de Copenhaguen",
+          "lang": "ca"
+        },
+        {
+          "name": "Letiště Kodaň",
+          "lang": "cs"
+        },
+        {
+          "name": "Københavns Lufthavn",
+          "lang": "da"
+        },
+        {
+          "name": "Flughafen Kopenhagen-Kastrup",
+          "lang": "de"
+        },
+        {
+          "name": "Copenhagen Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aeropuerto de Copenhague-Kastrup",
+          "lang": "es"
+        },
+        {
+          "name": "Kopenhaageni lennujaam",
+          "lang": "et"
+        },
+        {
+          "name": "Kopenhageko aireportua",
+          "lang": "eu"
+        },
+        {
+          "name": "فرودگاه کپنهاگ",
+          "lang": "fa"
+        },
+        {
+          "name": "Kööpenhaminan lentoasema",
+          "lang": "fi"
+        },
+        {
+          "name": "Kastrup Flogvøllur",
+          "lang": "fo"
+        },
+        {
+          "name": "Aéroport de Copenhague",
+          "lang": "fr"
+        },
+        {
+          "name": "נמל התעופה קופנהגן קסטרופ",
+          "lang": "he"
+        },
+        {
+          "name": "कोपनहेगन विमानक्षेत्र",
+          "lang": "hi"
+        },
+        {
+          "name": "Koppenhágai repülőtér",
+          "lang": "hu"
+        },
+        {
+          "name": "CPH",
+          "lang": "iata"
+        },
+        {
+          "name": "EKCH",
+          "lang": "icao"
+        },
+        {
+          "name": "Bandar Udara Kopenhagen",
+          "lang": "id"
+        },
+        {
+          "name": "Kastrupflugvöllur",
+          "lang": "is"
+        },
+        {
+          "name": "Aeroporto di Copenaghen",
+          "lang": "it"
+        },
+        {
+          "name": "コペンハーゲン国際空港",
+          "lang": "ja"
+        },
+        {
+          "name": "코펜하겐 공항",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Copenhagen_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "Аеродром Копенхаген",
+          "lang": "mk"
+        },
+        {
+          "name": "Lapangan Terbang Kastrup",
+          "lang": "ms"
+        },
+        {
+          "name": "Luchthaven van Kopenhagen",
+          "lang": "nl"
+        },
+        {
+          "name": "Københavns Lufthavn",
+          "lang": "nn"
+        },
+        {
+          "name": "Københavns lufthavn",
+          "lang": "no"
+        },
+        {
+          "name": "Port lotniczy Kopenhaga-Kastrup",
+          "lang": "pl"
+        },
+        {
+          "name": "Aeroporto de Copenhaga",
+          "lang": "pt"
+        },
+        {
+          "name": "Aeroportul Copenhaga",
+          "lang": "ro"
+        },
+        {
+          "name": "Каструп",
+          "lang": "ru"
+        },
+        {
+          "name": "Kodanské letisko",
+          "lang": "sk"
+        },
+        {
+          "name": "Aeroporti i Kastrupit",
+          "lang": "sq"
+        },
+        {
+          "name": "Аеродром Копенхаген",
+          "lang": "sr"
+        },
+        {
+          "name": "Kastrups flygplats",
+          "lang": "sv"
+        },
+        {
+          "name": "ท่าอากาศยานโคเปนเฮเกน",
+          "lang": "th"
+        },
+        {
+          "name": "Kopenhag Havalimanı",
+          "lang": "tr"
+        },
+        {
+          "name": "Sân bay Copenhagen",
+          "lang": "vi"
+        },
+        {
+          "name": "哥本哈根凯斯楚普机场",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Tårnby Kommune",
+      "name": "Copenhagen Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Denmark",
+      "fcodeName": "airport",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 12.7344594404708,
+        "south": 55.6154867087748,
+        "north": 55.7328007355611,
+        "west": 12.4529951005291
+      },
+      "asciiName": "Kobenhavn",
+      "countryId": "2623032",
+      "fcl": "A",
+      "score": 19.91958236694336,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.6711",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.56529",
+      "geonameId": 2618424,
+      "toponymName": "København",
+      "population": 541011,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Københavns Kommune",
+          "lang": "da"
+        },
+        {
+          "name": "Copenhagen municipality",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Copenhagen_Municipality",
+          "lang": "link"
+        },
+        {
+          "name": "København kommune",
+          "lang": "no"
+        },
+        {
+          "name": "Köpenhamn",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "Copenhagen municipality",
+      "name": "Copenhagen municipality",
+      "fclName": "country, state, region,...",
+      "countryName": "Denmark",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 12.617968515270093,
+        "south": 55.66110905996051,
+        "north": 55.68654694003949,
+        "west": 12.572843484729908
+      },
+      "asciiName": "Christianshavn",
+      "countryId": "2623032",
+      "fcl": "P",
+      "score": 19.91958236694336,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.67383",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.59541",
+      "geonameId": 2623181,
+      "toponymName": "Christianshavn",
+      "population": 10140,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Christianshavn",
+        "lang": "link"
+      }],
+      "adminName2": "Copenhagen municipality",
+      "name": "Christianshavn",
+      "fclName": "city, village,...",
+      "countryName": "Denmark",
+      "fcodeName": "populated place",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 12.530846378967912,
+        "south": 55.658980878522826,
+        "north": 55.70824112147717,
+        "west": 12.44341362103209
+      },
+      "asciiName": "Vanlose",
+      "countryId": "2623032",
+      "fcl": "P",
+      "score": 16.264270782470703,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.68361",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.48713",
+      "geonameId": 2610734,
+      "toponymName": "Vanløse",
+      "population": 37115,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Vanl%C3%B8se",
+        "lang": "link"
+      }],
+      "adminName2": "Copenhagen municipality",
+      "name": "Vanløse",
+      "fclName": "city, village,...",
+      "countryName": "Denmark",
+      "fcodeName": "section of populated place",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "asciiName": "Copenhagen Port",
+      "countryId": "2623032",
+      "fcl": "L",
+      "score": 16.264270782470703,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.68279",
+      "fcode": "PRT",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.59364",
+      "geonameId": 9828855,
+      "toponymName": "Copenhagen Port",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Copenhagen Ferry Port",
+        "lang": "en"
+      }],
+      "adminName2": "Copenhagen municipality",
+      "name": "Copenhagen Ferry Port",
+      "fclName": "parks,area, ...",
+      "countryName": "Denmark",
+      "fcodeName": "port",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "asciiName": "Copenhagen Central Station",
+      "countryId": "2623032",
+      "fcl": "S",
+      "score": 15.21383285522461,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.6727",
+      "fcode": "RSTN",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.56467",
+      "geonameId": 2618422,
+      "toponymName": "Copenhagen Central Station",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Københavns Hovedbanegård",
+          "lang": "da"
+        },
+        {
+          "name": "Kopenhagen Hauptbahnhof",
+          "lang": "de"
+        },
+        {
+          "name": "Copenhagen Central Station",
+          "lang": "en"
+        },
+        {
+          "name": "Gare centrale de Copenhague",
+          "lang": "fr"
+        },
+        {
+          "name": "ZGH",
+          "lang": "iata"
+        },
+        {
+          "name": "コペンハーゲン中央駅",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Copenhagen_Central_Station",
+          "lang": "link"
+        },
+        {
+          "name": "Kopenhag Merkez İstasyonu",
+          "lang": "tr"
+        },
+        {
+          "name": "哥本哈根中央车站",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Copenhagen municipality",
+      "name": "Copenhagen Central Station",
+      "fclName": "spot, building, farm",
+      "countryName": "Denmark",
+      "fcodeName": "railroad station",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "asciiName": "Copenhagen Admiral Hotel",
+      "countryId": "2623032",
+      "fcl": "S",
+      "score": 15.21383285522461,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.6825",
+      "fcode": "HTL",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.5936",
+      "geonameId": 6485458,
+      "toponymName": "Copenhagen Admiral Hotel",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Copenhagen_Admiral_Hotel",
+        "lang": "link"
+      }],
+      "adminName2": "Copenhagen municipality",
+      "name": "Copenhagen Admiral Hotel",
+      "fclName": "spot, building, farm",
+      "countryName": "Denmark",
+      "fcodeName": "hotel",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 12.60403009484117,
+        "south": 55.66986254049943,
+        "north": 55.67705745950057,
+        "west": 12.59126990515883
+      },
+      "asciiName": "Christiania",
+      "countryId": "2623032",
+      "fcl": "P",
+      "score": 14.93968677520752,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.67346",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.59765",
+      "geonameId": 2623186,
+      "toponymName": "Christiania",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Christiania",
+          "lang": "da"
+        },
+        {
+          "name": "Freistadt Christiania",
+          "lang": "de"
+        },
+        {
+          "name": "Κριστιάνια",
+          "lang": "el"
+        },
+        {
+          "name": "Freetown Christiania",
+          "lang": "en"
+        },
+        {
+          "name": "Christiania",
+          "lang": "eo"
+        },
+        {
+          "name": "Christiania",
+          "lang": "es"
+        },
+        {
+          "name": "Kristiania",
+          "lang": "fi"
+        },
+        {
+          "name": "Christiania",
+          "lang": "fr"
+        },
+        {
+          "name": "Kristijanija",
+          "lang": "hbs"
+        },
+        {
+          "name": "Kristjanía",
+          "lang": "is"
+        },
+        {
+          "name": "Christiania",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Freetown_Christiania",
+          "lang": "link"
+        },
+        {
+          "name": "Vrijstad Christiania",
+          "lang": "nl"
+        },
+        {
+          "name": "Fristaden Christiania",
+          "lang": "nn"
+        },
+        {
+          "name": "Christiania",
+          "lang": "no"
+        },
+        {
+          "name": "Christiania",
+          "lang": "pl"
+        },
+        {
+          "name": "Свободный город Христиания",
+          "lang": "ru"
+        },
+        {
+          "name": "Kristijanija",
+          "lang": "sr"
+        },
+        {
+          "name": "Christiania",
+          "lang": "sv"
+        },
+        {
+          "name": "Christiania",
+          "lang": "vec"
+        }
+      ],
+      "adminName2": "Copenhagen municipality",
+      "name": "Freetown Christiania",
+      "fclName": "city, village,...",
+      "countryName": "Denmark",
+      "fcodeName": "section of populated place",
+      "adminName1": "Capital Region"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 12.564957165636525,
+        "south": 55.68453576203854,
+        "north": 55.69173068103968,
+        "west": 12.552192187390819
+      },
+      "asciiName": "Norrebro",
+      "countryId": "2623032",
+      "fcl": "P",
+      "score": 14.93968677520752,
+      "adminId2": "2618424",
+      "countryCode": "DK",
+      "adminId1": "6418538",
+      "lat": "55.68813",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode2": "101",
+      "adminCode1": "17",
+      "lng": "12.55857",
+      "geonameId": 6615301,
+      "toponymName": "Nørrebro",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/N%C3%B8rrebro",
+        "lang": "link"
+      }],
+      "adminName2": "Copenhagen municipality",
+      "name": "Nørrebro",
+      "fclName": "city, village,...",
+      "countryName": "Denmark",
+      "fcodeName": "section of populated place",
+      "adminName1": "Capital Region"
+    }
+  ]
+}

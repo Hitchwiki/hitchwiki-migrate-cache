@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "D2",
+               "short_name" : "D2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Moravian Region",
+               "short_name" : "South Moravian Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "D2, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1624005,
+                  "lng" : 16.9876353
+               },
+               "southwest" : {
+                  "lat" : 48.686208,
+                  "lng" : 16.6300251
+               }
+            },
+            "location" : {
+               "lat" : 48.9086473,
+               "lng" : 16.7815599
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1624005,
+                  "lng" : 16.9876353
+               },
+               "southwest" : {
+                  "lat" : 48.686208,
+                  "lng" : 16.6300251
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

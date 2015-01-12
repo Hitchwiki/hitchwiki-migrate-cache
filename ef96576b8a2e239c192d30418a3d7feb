@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boryspil'",
+               "short_name" : "Boryspil'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boryspil's'ka city council",
+               "short_name" : "Boryspil's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boryspil', Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.412232,
+                  "lng" : 31.0049181
+               },
+               "southwest" : {
+                  "lat" : 50.32678199999999,
+                  "lng" : 30.9019579
+               }
+            },
+            "location" : {
+               "lat" : 50.3482,
+               "lng" : 30.95615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.412232,
+                  "lng" : 31.0049181
+               },
+               "southwest" : {
+                  "lat" : 50.32678199999999,
+                  "lng" : 30.9019579
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

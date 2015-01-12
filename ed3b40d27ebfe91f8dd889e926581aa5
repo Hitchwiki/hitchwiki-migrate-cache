@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Passau",
+               "short_name" : "PA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Passau, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6134314,
+                  "lng" : 13.514393
+               },
+               "southwest" : {
+                  "lat" : 48.5404502,
+                  "lng" : 13.3023388
+               }
+            },
+            "location" : {
+               "lat" : 48.5667364,
+               "lng" : 13.4319466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6134314,
+                  "lng" : 13.514393
+               },
+               "southwest" : {
+                  "lat" : 48.5404502,
+                  "lng" : 13.3023388
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

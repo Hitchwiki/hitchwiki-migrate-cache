@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jonkoping County",
+               "short_name" : "Jonkoping County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jonkoping County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.153372,
+                  "lng" : 15.6562501
+               },
+               "southwest" : {
+                  "lat" : 56.885171,
+                  "lng" : 13.0688452
+               }
+            },
+            "location" : {
+               "lat" : 57.3708434,
+               "lng" : 14.3439173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.153372,
+                  "lng" : 15.6562501
+               },
+               "southwest" : {
+                  "lat" : 56.885171,
+                  "lng" : 13.0688452
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

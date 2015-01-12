@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Murmansk",
+               "short_name" : "Murmansk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Murmansk",
+               "short_name" : "g. Murmansk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Murmansk Oblast",
+               "short_name" : "Murmansk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Murmansk, Murmansk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.05182400000001,
+                  "lng" : 33.1785369
+               },
+               "southwest" : {
+                  "lat" : 68.88308889999999,
+                  "lng" : 32.9930478
+               }
+            },
+            "location" : {
+               "lat" : 68.9585244,
+               "lng" : 33.0826598
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.05182400000001,
+                  "lng" : 33.1785369
+               },
+               "southwest" : {
+                  "lat" : 68.88308889999999,
+                  "lng" : 32.9930478
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A28",
+               "short_name" : "A28",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A28, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3612426,
+                  "lng" : 0.8354138
+               },
+               "southwest" : {
+                  "lat" : 47.4673391,
+                  "lng" : 0.0962697
+               }
+            },
+            "location" : {
+               "lat" : 48.4273411,
+               "lng" : 0.1383864
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3612426,
+                  "lng" : 0.8354138
+               },
+               "southwest" : {
+                  "lat" : 47.4673391,
+                  "lng" : 0.0962697
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

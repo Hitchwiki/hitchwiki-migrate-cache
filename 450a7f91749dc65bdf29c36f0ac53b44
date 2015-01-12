@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A86",
+               "short_name" : "A86",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A86, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9391155,
+                  "lng" : 2.4942372
+               },
+               "southwest" : {
+                  "lat" : 48.7532694,
+                  "lng" : 2.1440695
+               }
+            },
+            "location" : {
+               "lat" : 48.9227623,
+               "lng" : 2.3453473
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9391155,
+                  "lng" : 2.4942372
+               },
+               "southwest" : {
+                  "lat" : 48.7532694,
+                  "lng" : 2.1440695
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

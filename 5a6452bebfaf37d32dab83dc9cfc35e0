@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S16",
+               "short_name" : "S16",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bludenz",
+               "short_name" : "Bludenz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bludenz",
+               "short_name" : "Bludenz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vorarlberg",
+               "short_name" : "Vorarlberg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S16, Bludenz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1707362,
+                  "lng" : 10.5949156
+               },
+               "southwest" : {
+                  "lat" : 47.1219913,
+                  "lng" : 9.837441399999999
+               }
+            },
+            "location" : {
+               "lat" : 47.1253493,
+               "lng" : 10.2229289
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1707362,
+                  "lng" : 10.5949156
+               },
+               "southwest" : {
+                  "lat" : 47.1219913,
+                  "lng" : 9.837441399999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

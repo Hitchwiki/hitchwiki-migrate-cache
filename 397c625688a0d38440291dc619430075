@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guilin",
+               "short_name" : "Guilin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangxi",
+               "short_name" : "Guangxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guilin, Guangxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.3855658,
+                  "lng" : 111.4920741
+               },
+               "southwest" : {
+                  "lat" : 24.2588303,
+                  "lng" : 109.6176849
+               }
+            },
+            "location" : {
+               "lat" : 25.273566,
+               "lng" : 110.290195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.372462,
+                  "lng" : 110.3954315
+               },
+               "southwest" : {
+                  "lat" : 25.2029577,
+                  "lng" : 110.1873779
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

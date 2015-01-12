@@ -1,0 +1,728 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The University of Georgia",
+               "short_name" : "The University of Georgia",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clarke County",
+               "short_name" : "Clarke County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30602",
+               "short_name" : "30602",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denmark, The University of Georgia, Athens, GA 30602, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9547044,
+               "lng" : -83.37564239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.95605338029149,
+                  "lng" : -83.37429341970848
+               },
+               "southwest" : {
+                  "lat" : 33.9533554197085,
+                  "lng" : -83.3769913802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Somerset House",
+               "short_name" : "Somerset House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC2R",
+               "short_name" : "WC2R",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Somerset House, London WC2R, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5112501,
+                  "lng" : -0.1161678
+               },
+               "southwest" : {
+                  "lat" : 51.5102719,
+                  "lng" : -0.1187196
+               }
+            },
+            "location" : {
+               "lat" : 51.510761,
+               "lng" : -0.1174437
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5121099802915,
+                  "lng" : -0.116094719708498
+               },
+               "southwest" : {
+                  "lat" : 51.5094120197085,
+                  "lng" : -0.118792680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark Cottage",
+               "short_name" : "Denmark Cottage",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ferry Road",
+               "short_name" : "Ferry Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Millport",
+               "short_name" : "Millport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isle of Cumbrae",
+               "short_name" : "Isle of Cumbrae",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "KA28 0DZ",
+               "short_name" : "KA28 0DZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denmark Cottage, 8 Ferry Road, Millport, Isle of Cumbrae, North Ayrshire KA28 0DZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.75623659999999,
+               "lng" : -4.9157627
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.75758558029149,
+                  "lng" : -4.914413719708498
+               },
+               "southwest" : {
+                  "lat" : 55.7548876197085,
+                  "lng" : -4.917111680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Roebuck Road",
+               "short_name" : "Roebuck Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clonskeagh",
+               "short_name" : "Clonskeagh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dublin 14",
+               "short_name" : "Dublin 14",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dun Laoghaire-Rathdown",
+               "short_name" : "Dun Laoghaire-Rathdown",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Roebuck Road, Dublin 14, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.30203239999999,
+               "lng" : -6.229580599999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3033813802915,
+                  "lng" : -6.228231619708497
+               },
+               "southwest" : {
+                  "lat" : 53.3006834197085,
+                  "lng" : -6.230929580291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark Street",
+               "short_name" : "Denmark Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Petah Tikva",
+               "short_name" : "פ\"ת",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Petach Tikva",
+               "short_name" : "Petach Tikva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Center District",
+               "short_name" : "Center District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denmark Street, Petah Tikva, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0918087,
+                  "lng" : 34.8643159
+               },
+               "southwest" : {
+                  "lat" : 32.081956,
+                  "lng" : 34.862652
+               }
+            },
+            "location" : {
+               "lat" : 32.0866022,
+               "lng" : 34.8633721
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0918087,
+                  "lng" : 34.8648329302915
+               },
+               "southwest" : {
+                  "lat" : 32.081956,
+                  "lng" : 34.8621349697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hellat Scoral Lawatiya",
+               "short_name" : "Hellat Scoral Lawatiya",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mutrah",
+               "short_name" : "Mutrah",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Muscat",
+               "short_name" : "Muscat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muscat Governorate",
+               "short_name" : "Muscat Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Muscat, Oman",
+         "geometry" : {
+            "location" : {
+               "lat" : 23.6204921,
+               "lng" : 58.56360249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.6218410802915,
+                  "lng" : 58.5649514802915
+               },
+               "southwest" : {
+                  "lat" : 23.6191431197085,
+                  "lng" : 58.56225351970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Alemania",
+               "short_name" : "Alemania",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Carolina",
+               "short_name" : "La Carolina",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Carolina",
+               "short_name" : "La Carolina",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quito",
+               "short_name" : "Quito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito Metropolitano de Quito",
+               "short_name" : "Distrito Metropolitano de Quito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pichincha",
+               "short_name" : "Pichincha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "170135",
+               "short_name" : "170135",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Alemania, Quito 170135, Ecuador",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.1864688,
+               "lng" : -78.48773829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.185119819708498,
+                  "lng" : -78.48638931970849
+               },
+               "southwest" : {
+                  "lat" : -0.187817780291502,
+                  "lng" : -78.4890872802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Quartier Bastos",
+               "short_name" : "Quartier Bastos",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Yaounde",
+               "short_name" : "Yaounde",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mfoundi",
+               "short_name" : "Mfoundi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central",
+               "short_name" : "Central",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cameroon",
+               "short_name" : "CM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Yaounde, Cameroon",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8850566,
+               "lng" : 11.5173578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.886405580291503,
+                  "lng" : 11.5187067802915
+               },
+               "southwest" : {
+                  "lat" : 3.883707619708498,
+                  "lng" : 11.5160088197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dasmariñas City",
+               "short_name" : "Dasmariñas City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cavite",
+               "short_name" : "Cavite",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Calabarzon",
+               "short_name" : "Calabarzon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Dasmariñas City, Cavite, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.3275511,
+                  "lng" : 120.9771018
+               },
+               "southwest" : {
+                  "lat" : 14.3255296,
+                  "lng" : 120.9758879
+               }
+            },
+            "location" : {
+               "lat" : 14.3266386,
+               "lng" : 120.9764319
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.3278893302915,
+                  "lng" : 120.9778438302915
+               },
+               "southwest" : {
+                  "lat" : 14.3251913697085,
+                  "lng" : 120.9751458697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Matandang Balara",
+               "short_name" : "Brgy. Matandang Balara",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Quezon City",
+               "short_name" : "QC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Quezon City, Metro Manila, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.6591329,
+                  "lng" : 121.0907675
+               },
+               "southwest" : {
+                  "lat" : 14.6565795,
+                  "lng" : 121.0884226
+               }
+            },
+            "location" : {
+               "lat" : 14.6570197,
+               "lng" : 121.0886631
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.6592051802915,
+                  "lng" : 121.0909440302915
+               },
+               "southwest" : {
+                  "lat" : 14.6565072197085,
+                  "lng" : 121.0882460697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lodi Estate",
+               "short_name" : "Lodi Estate",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Khan Market",
+               "short_name" : "Khan Market",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aurangzeb Road",
+               "short_name" : "Aurangzeb Road",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110011",
+               "short_name" : "110011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Lodi Estate, Khan Market, Aurangzeb Road, New Delhi, Haryana 110011, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6001971,
+               "lng" : 77.21843799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6015460802915,
+                  "lng" : 77.21978698029149
+               },
+               "southwest" : {
+                  "lat" : 28.5988481197085,
+                  "lng" : 77.21708901970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denmark",
+               "short_name" : "Denmark",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parañaque",
+               "short_name" : "Parañaque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denmark, Parañaque, Metro Manila, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.4825491,
+                  "lng" : 121.0354616
+               },
+               "southwest" : {
+                  "lat" : 14.4822298,
+                  "lng" : 121.0347076
+               }
+            },
+            "location" : {
+               "lat" : 14.4823299,
+               "lng" : 121.0352133
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.4837384302915,
+                  "lng" : 121.0364335802915
+               },
+               "southwest" : {
+                  "lat" : 14.4810404697085,
+                  "lng" : 121.0337356197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

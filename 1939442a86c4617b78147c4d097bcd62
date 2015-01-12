@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iași",
+               "short_name" : "Iași",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iași County",
+               "short_name" : "IS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iași, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2274375,
+                  "lng" : 27.6969839
+               },
+               "southwest" : {
+                  "lat" : 47.08483709999999,
+                  "lng" : 27.4769569
+               }
+            },
+            "location" : {
+               "lat" : 47.156944,
+               "lng" : 27.590278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2274375,
+                  "lng" : 27.6969839
+               },
+               "southwest" : {
+                  "lat" : 47.08483709999999,
+                  "lng" : 27.4769569
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

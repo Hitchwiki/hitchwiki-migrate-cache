@@ -1,0 +1,965 @@
+{
+  "totalResultsCount": 778,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.51356268564581,
+        "south": 40.34312441457063,
+        "north": 41.085413785429374,
+        "west": -74.4983831143542
+      },
+      "asciiName": "New York City",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 93.76466369628906,
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "40.71427",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 10,
+      "adminCode1": "NY",
+      "lng": "-74.00597",
+      "geonameId": 5128581,
+      "toponymName": "New York City",
+      "population": 8175133,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "NYC",
+          "lang": "abbr"
+        },
+        {
+          "name": "New York Stad",
+          "lang": "af"
+        },
+        {
+          "name": "Nueva York",
+          "lang": "an"
+        },
+        {
+          "name": "نيويورك",
+          "lang": "ar"
+        },
+        {
+          "name": "Нью-Ёрк",
+          "lang": "be"
+        },
+        {
+          "name": "Ню Йорк",
+          "lang": "bg"
+        },
+        {
+          "name": "নিউ ইয়র্ক সিটি",
+          "lang": "bn"
+        },
+        {
+          "name": "New York",
+          "lang": "br"
+        },
+        {
+          "name": "New York City",
+          "lang": "bs"
+        },
+        {
+          "name": "Nova York",
+          "lang": "ca"
+        },
+        {
+          "name": "New York",
+          "lang": "cs"
+        },
+        {
+          "name": "Efrog Newydd",
+          "lang": "cy"
+        },
+        {
+          "name": "New York",
+          "lang": "da"
+        },
+        {
+          "name": "New York City",
+          "lang": "de"
+        },
+        {
+          "name": "Νέα Υόρκη",
+          "lang": "el"
+        },
+        {
+          "name": "New York",
+          "lang": "en"
+        },
+        {
+          "name": "Novjorko",
+          "lang": "eo"
+        },
+        {
+          "name": "Nueva York",
+          "lang": "es"
+        },
+        {
+          "name": "New York",
+          "lang": "et"
+        },
+        {
+          "name": "York Berri",
+          "lang": "eu"
+        },
+        {
+          "name": "نیویورک",
+          "lang": "fa"
+        },
+        {
+          "name": "New York",
+          "lang": "fi"
+        },
+        {
+          "name": "New York",
+          "lang": "fr"
+        },
+        {
+          "name": "New York",
+          "lang": "frp"
+        },
+        {
+          "name": "Cathair Nua Eabhraic",
+          "lang": "ga"
+        },
+        {
+          "name": "Eabhraig Nuadh",
+          "lang": "gd"
+        },
+        {
+          "name": "Nova Iorque",
+          "lang": "gl"
+        },
+        {
+          "name": "New York",
+          "lang": "hbs"
+        },
+        {
+          "name": "ניו יורק",
+          "lang": "he"
+        },
+        {
+          "name": "न्यूयॉर्क",
+          "lang": "hi"
+        },
+        {
+          "name": "New York",
+          "lang": "hr"
+        },
+        {
+          "name": "New York",
+          "lang": "hu"
+        },
+        {
+          "name": "New York",
+          "lang": "ia"
+        },
+        {
+          "name": "NYC",
+          "lang": "iata"
+        },
+        {
+          "name": "New York City",
+          "lang": "id"
+        },
+        {
+          "name": "Nova-York",
+          "lang": "io"
+        },
+        {
+          "name": "New York borg",
+          "lang": "is"
+        },
+        {
+          "name": "New York",
+          "lang": "it"
+        },
+        {
+          "name": "マンハッタン",
+          "lang": "ja"
+        },
+        {
+          "name": "ნიუ-იორკი",
+          "lang": "ka"
+        },
+        {
+          "name": "뉴욕",
+          "lang": "ko"
+        },
+        {
+          "name": "New York City",
+          "lang": "ku"
+        },
+        {
+          "name": "Evrek Nowydh",
+          "lang": "kw"
+        },
+        {
+          "name": "Novum Eboracum",
+          "lang": "la"
+        },
+        {
+          "name": "New York City",
+          "lang": "lb"
+        },
+        {
+          "name": "New York",
+          "lang": "li"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/New_York_City",
+          "lang": "link"
+        },
+        {
+          "name": "Niujorkas",
+          "lang": "lt"
+        },
+        {
+          "name": "Ņujorka",
+          "lang": "lv"
+        },
+        {
+          "name": "Њу Јорк",
+          "lang": "mk"
+        },
+        {
+          "name": "Bandar Raya New York",
+          "lang": "ms"
+        },
+        {
+          "name": "New York",
+          "lang": "nb"
+        },
+        {
+          "name": "New York",
+          "lang": "nds"
+        },
+        {
+          "name": "New York",
+          "lang": "nl"
+        },
+        {
+          "name": "New York",
+          "lang": "nn"
+        },
+        {
+          "name": "New York",
+          "lang": "no"
+        },
+        {
+          "name": "Nouvieau York",
+          "lang": "nrm"
+        },
+        {
+          "name": "Nòva York",
+          "lang": "oc"
+        },
+        {
+          "name": "Нью-Йорк",
+          "lang": "os"
+        },
+        {
+          "name": "Nei Yarrick Schtadt",
+          "lang": "pdc"
+        },
+        {
+          "name": "Nowy Jork",
+          "lang": "pl"
+        },
+        {
+          "name": "New York",
+          "lang": "pms"
+        },
+        {
+          "name": "10098",
+          "lang": "post"
+        },
+        {
+          "name": "Nova Iorque",
+          "lang": "pt"
+        },
+        {
+          "name": "New York",
+          "lang": "qu"
+        },
+        {
+          "name": "New York City",
+          "lang": "ro"
+        },
+        {
+          "name": "Нью-Йорк",
+          "lang": "ru"
+        },
+        {
+          "name": "Nova York",
+          "lang": "scn"
+        },
+        {
+          "name": "New York",
+          "lang": "sk"
+        },
+        {
+          "name": "New York",
+          "lang": "sl"
+        },
+        {
+          "name": "New York City",
+          "lang": "sq"
+        },
+        {
+          "name": "Њујорк",
+          "lang": "sr"
+        },
+        {
+          "name": "New York",
+          "lang": "sv"
+        },
+        {
+          "name": "நியூயார்க் நகரம்",
+          "lang": "ta"
+        },
+        {
+          "name": "นครนิวยอร์ก",
+          "lang": "th"
+        },
+        {
+          "name": "Lungsod ng New York",
+          "lang": "tl"
+        },
+        {
+          "name": "New York",
+          "lang": "tr"
+        },
+        {
+          "name": "Nyu York Shehiri",
+          "lang": "ug"
+        },
+        {
+          "name": "Нью-Йорк",
+          "lang": "uk"
+        },
+        {
+          "name": "NYC",
+          "lang": "unlc"
+        },
+        {
+          "name": "نیویارک شہر",
+          "lang": "ur"
+        },
+        {
+          "name": "Thành phố New York",
+          "lang": "vi"
+        },
+        {
+          "name": "ניו־יאָרק",
+          "lang": "yi"
+        },
+        {
+          "name": "纽约",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "New York",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.8111589143474,
+        "south": 40.61280830749144,
+        "north": 40.72073209250856,
+        "west": -73.95355768565261
+      },
+      "asciiName": "East New York",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 20.076295852661133,
+      "adminId2": "6941775",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "40.66677",
+      "fcode": "PPLX",
+      "continentCode": "NA",
+      "elevation": 6,
+      "adminCode2": "047",
+      "adminCode1": "NY",
+      "lng": "-73.88236",
+      "geonameId": 5115985,
+      "toponymName": "East New York",
+      "population": 173198,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/East_New_York%2C_Brooklyn",
+          "lang": "link"
+        },
+        {
+          "name": "5EN",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Kings County",
+      "name": "East New York",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "section of populated place",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.95826494666707,
+        "south": 41.12422921512565,
+        "north": 41.17096158487435,
+        "west": -74.02034725333291
+      },
+      "asciiName": "New City",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 16.926345825195312,
+      "adminId2": "5134189",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "41.1476",
+      "fcode": "PPLA2",
+      "continentCode": "NA",
+      "elevation": 48,
+      "adminCode2": "087",
+      "adminCode1": "NY",
+      "lng": "-73.98931",
+      "geonameId": 5128481,
+      "toponymName": "New City",
+      "population": 33559,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "نيو سيتي، نيويورك",
+          "lang": "ar"
+        },
+        {
+          "name": "ニュー・シティ",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/New_City%2C_New_York",
+          "lang": "link"
+        },
+        {
+          "name": "10956",
+          "lang": "post"
+        },
+        {
+          "name": "Њу Сити",
+          "lang": "sr"
+        },
+        {
+          "name": "NJY",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Rockland County",
+      "name": "New City",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.92154110642838,
+        "south": 40.724217061911375,
+        "north": 40.76543113808863,
+        "west": -73.97595709357162
+      },
+      "asciiName": "Long Island City",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 16.370716094970703,
+      "adminId2": "5133268",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "40.74482",
+      "fcode": "PPLX",
+      "continentCode": "NA",
+      "elevation": 4,
+      "adminCode2": "081",
+      "adminCode1": "NY",
+      "lng": "-73.94875",
+      "geonameId": 5125125,
+      "toponymName": "Long Island City",
+      "population": 25595,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "롱아일랜드시티",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Long_Island_City",
+          "lang": "link"
+        },
+        {
+          "name": "11101",
+          "lang": "post"
+        },
+        {
+          "name": "Лонг-Айленд-Сити",
+          "lang": "ru"
+        },
+        {
+          "name": "لانگ آئلینڈ سٹی",
+          "lang": "ur"
+        },
+        {
+          "name": "לאנג איילענד סיטי",
+          "lang": "yi"
+        },
+        {
+          "name": "長島市",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Queens",
+      "name": "Long Island City",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "section of populated place",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.60911321209133,
+        "south": 40.70768978994077,
+        "north": 40.74584661005923,
+        "west": -73.65947778790866
+      },
+      "asciiName": "Garden City",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 16.370716094970703,
+      "adminId2": "5128316",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "40.72677",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 27,
+      "adminCode2": "059",
+      "adminCode1": "NY",
+      "lng": "-73.6343",
+      "geonameId": 5118226,
+      "toponymName": "Garden City",
+      "population": 22371,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "غاردين سيتي، نيويورك",
+          "lang": "ar"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Garden_City%2C_New_York",
+          "lang": "link"
+        },
+        {
+          "name": "11531",
+          "lang": "post"
+        },
+        {
+          "name": "Гарден Сити",
+          "lang": "sr"
+        }
+      ],
+      "adminName2": "Nassau County",
+      "name": "Garden City",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -75.93780429749765,
+        "south": 42.100053343417095,
+        "north": 42.1312082565829,
+        "west": -75.97981410250236
+      },
+      "asciiName": "Johnson City",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 14.324377059936523,
+      "adminId2": "5110365",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "42.11563",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 266,
+      "adminCode2": "007",
+      "adminCode1": "NY",
+      "lng": "-75.95881",
+      "geonameId": 5122794,
+      "toponymName": "Johnson City",
+      "population": 15174,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Johnson_City%2C_New_York",
+          "lang": "link"
+        },
+        {
+          "name": "13790",
+          "lang": "post"
+        },
+        {
+          "name": "Джонсон Сити",
+          "lang": "ru"
+        },
+        {
+          "name": "Џонсон Сити",
+          "lang": "sr"
+        },
+        {
+          "name": "JOY",
+          "lang": "unlc"
+        },
+        {
+          "name": "約翰遜城",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Broome County",
+      "name": "Johnson City",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.99486771343453,
+        "south": 40.71881531204381,
+        "north": 40.726010231044945,
+        "west": -74.00436171771781
+      },
+      "asciiName": "SoHo",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 13.798901557922363,
+      "adminId2": "5128594",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "40.72241",
+      "fcode": "PPLX",
+      "continentCode": "NA",
+      "elevation": 9,
+      "adminCode2": "061",
+      "adminCode1": "NY",
+      "lng": "-73.99961",
+      "geonameId": 5138691,
+      "toponymName": "SoHo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "سوهو، نيويورك",
+          "lang": "ar"
+        },
+        {
+          "name": "СоХо",
+          "lang": "bg"
+        },
+        {
+          "name": "Σόχο",
+          "lang": "el"
+        },
+        {
+          "name": "SoHo",
+          "lang": "en"
+        },
+        {
+          "name": "سوهو",
+          "lang": "fa"
+        },
+        {
+          "name": "סוהו",
+          "lang": "he"
+        },
+        {
+          "name": "ソーホー",
+          "lang": "ja"
+        },
+        {
+          "name": "სოჰო",
+          "lang": "ka"
+        },
+        {
+          "name": "소호",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/SoHo%2C_Manhattan",
+          "lang": "link"
+        },
+        {
+          "name": "Сохо",
+          "lang": "ru"
+        },
+        {
+          "name": "Сохо",
+          "lang": "uk"
+        },
+        {
+          "name": "סאהא",
+          "lang": "yi"
+        },
+        {
+          "name": "紐約蘇豪區",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "New York County",
+      "name": "SoHo",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "section of populated place",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.95951575619674,
+        "south": 40.73961745124857,
+        "north": 40.757604748751426,
+        "west": -73.98326204380325
+      },
+      "asciiName": "Tudor City",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 12.9816255569458,
+      "adminId2": "5128594",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "40.74861",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 18,
+      "adminCode2": "061",
+      "adminCode1": "NY",
+      "lng": "-73.97139",
+      "geonameId": 6332416,
+      "toponymName": "Tudor City",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Tudor_City",
+        "lang": "link"
+      }],
+      "adminName2": "New York County",
+      "name": "Tudor City",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "New York City Hall",
+      "countryId": "6252001",
+      "fcl": "S",
+      "score": 12.287383079528809,
+      "adminId2": "5128594",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "40.7126",
+      "fcode": "BLDG",
+      "continentCode": "NA",
+      "elevation": 10,
+      "adminCode2": "061",
+      "adminCode1": "NY",
+      "lng": "-74.00597",
+      "geonameId": 4833132,
+      "toponymName": "New York City Hall",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "City Hall",
+          "lang": "de"
+        },
+        {
+          "name": "Ayuntamiento de Nueva York",
+          "lang": "es"
+        },
+        {
+          "name": "New Yorkeko udaletxea",
+          "lang": "eu"
+        },
+        {
+          "name": "New Yorkin kaupungintalo",
+          "lang": "fi"
+        },
+        {
+          "name": "בניין העירייה של ניו יורק",
+          "lang": "he"
+        },
+        {
+          "name": "ニューヨーク市庁舎",
+          "lang": "ja"
+        },
+        {
+          "name": "뉴욕 시청",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/New_York_City_Hall",
+          "lang": "link"
+        },
+        {
+          "name": "Niujorko miesto rotušė",
+          "lang": "lt"
+        },
+        {
+          "name": "Stadhuis van New York",
+          "lang": "nl"
+        },
+        {
+          "name": "Ратуша Нью-Йорка",
+          "lang": "ru"
+        },
+        {
+          "name": "New Yorks stadshus",
+          "lang": "sv"
+        },
+        {
+          "name": "纽约市政厅",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "New York County",
+      "name": "New York City Hall",
+      "fclName": "spot, building, farm",
+      "countryName": "United States",
+      "fcodeName": "building(s)",
+      "adminName1": "New York"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -73.90475729774279,
+        "south": 43.05302525124857,
+        "north": 43.071012548751426,
+        "west": -73.9293803022572
+      },
+      "asciiName": "Rock City Falls",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 12.278038024902344,
+      "adminId2": "5136325",
+      "countryCode": "US",
+      "adminId1": "5128638",
+      "lat": "43.06202",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "elevation": 138,
+      "adminCode2": "091",
+      "adminCode1": "NY",
+      "lng": "-73.91707",
+      "geonameId": 5134105,
+      "toponymName": "Rock City Falls",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Rock_City_Falls%2C_New_York",
+          "lang": "link"
+        },
+        {
+          "name": "12863",
+          "lang": "post"
+        },
+        {
+          "name": "OYA",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Saratoga County",
+      "name": "Rock City Falls",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "populated place",
+      "adminName1": "New York"
+    }
+  ]
+}

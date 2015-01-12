@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4500406,
+                  "lng" : 9.654087199999999
+               },
+               "southwest" : {
+                  "lat" : 46.2193316,
+                  "lng" : 9.0381553
+               }
+            },
+            "location" : {
+               "lat" : 46.820367,
+               "lng" : 9.406096999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4500406,
+                  "lng" : 9.654087199999999
+               },
+               "southwest" : {
+                  "lat" : 46.2193316,
+                  "lng" : 9.0381553
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Locarno",
+               "short_name" : "Locarno",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ticino",
+               "short_name" : "TI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1855206,
+                  "lng" : 8.8850064
+               },
+               "southwest" : {
+                  "lat" : 46.1622204,
+                  "lng" : 8.7819029
+               }
+            },
+            "location" : {
+               "lat" : 46.1795969,
+               "lng" : 8.840593500000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1855206,
+                  "lng" : 8.8850064
+               },
+               "southwest" : {
+                  "lat" : 46.1622204,
+                  "lng" : 8.7819029
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

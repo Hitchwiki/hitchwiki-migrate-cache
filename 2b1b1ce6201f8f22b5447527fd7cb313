@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A6",
+               "short_name" : "A6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Szczecin",
+               "short_name" : "Szczecin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Szczecin",
+               "short_name" : "Szczecin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Szczecin",
+               "short_name" : "Szczecin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Województwo zachodniopomorskie",
+               "short_name" : "Województwo zachodniopomorskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A6, Szczecin, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4041407,
+                  "lng" : 14.7234271
+               },
+               "southwest" : {
+                  "lat" : 53.3329044,
+                  "lng" : 14.4083915
+               }
+            },
+            "location" : {
+               "lat" : 53.3557727,
+               "lng" : 14.6061321
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4041407,
+                  "lng" : 14.7234271
+               },
+               "southwest" : {
+                  "lat" : 53.3329044,
+                  "lng" : 14.4083915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

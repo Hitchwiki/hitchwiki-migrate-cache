@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Walbrzych",
+               "short_name" : "Walbrzych",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wałbrzych",
+               "short_name" : "Wałbrzych",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wałbrzych County",
+               "short_name" : "Wałbrzych County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Walbrzych, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8543347,
+                  "lng" : 16.356594
+               },
+               "southwest" : {
+                  "lat" : 50.7177512,
+                  "lng" : 16.22695
+               }
+            },
+            "location" : {
+               "lat" : 50.7840092,
+               "lng" : 16.2843553
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8543347,
+                  "lng" : 16.356594
+               },
+               "southwest" : {
+                  "lat" : 50.7177512,
+                  "lng" : 16.22695
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

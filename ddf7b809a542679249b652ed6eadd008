@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ariamsvlei",
+               "short_name" : "Ariamsvlei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karas",
+               "short_name" : "Karas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ariamsvlei, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.1051652,
+                  "lng" : 19.8507285
+               },
+               "southwest" : {
+                  "lat" : -28.1306597,
+                  "lng" : 19.822417
+               }
+            },
+            "location" : {
+               "lat" : -28.1166141,
+               "lng" : 19.8365586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.1051652,
+                  "lng" : 19.8507285
+               },
+               "southwest" : {
+                  "lat" : -28.1306597,
+                  "lng" : 19.822417
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

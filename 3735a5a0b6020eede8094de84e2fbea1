@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warendorf",
+               "short_name" : "Warendorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warendorf",
+               "short_name" : "WAF",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warendorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0518668,
+                  "lng" : 8.1022497
+               },
+               "southwest" : {
+                  "lat" : 51.8517912,
+                  "lng" : 7.8570189
+               }
+            },
+            "location" : {
+               "lat" : 51.9538685,
+               "lng" : 7.9908987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0518668,
+                  "lng" : 8.1022497
+               },
+               "southwest" : {
+                  "lat" : 51.8517912,
+                  "lng" : 7.8570189
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

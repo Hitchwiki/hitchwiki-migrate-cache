@@ -1,0 +1,409 @@
+{
+  "totalResultsCount": 24,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -119.23879137039357,
+        "south": 50.29304463891516,
+        "north": 50.43467676108483,
+        "west": -119.46114862960643
+      },
+      "asciiName": "Okanagan",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 38.39593505859375,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "50.36386",
+      "fcode": "PPLQ",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.34997",
+      "geonameId": 7281931,
+      "toponymName": "Okanagan",
+      "population": 297601,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Okanagan",
+          "lang": "en"
+        },
+        {
+          "name": "オカナガン",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Okanagan",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Okanagan",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "abandoned populated place",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -118.1626941569999,
+        "south": 49.81209967400008,
+        "north": 50.934572650000064,
+        "west": -119.76294417199993
+      },
+      "asciiName": "Regional District of North Okanagan",
+      "countryId": "6251999",
+      "fcl": "A",
+      "score": 21.243831634521484,
+      "adminId2": "6119136",
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "50.41651",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "adminCode2": "5937",
+      "adminCode1": "02",
+      "lng": "-118.75232",
+      "geonameId": 6119136,
+      "toponymName": "Regional District of North Okanagan",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Regional_District_of_North_Okanagan",
+        "lang": "link"
+      }],
+      "adminName2": "Regional District of North Okanagan",
+      "name": "Regional District of North Okanagan",
+      "fclName": "country, state, region,...",
+      "countryName": "Canada",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -119.17503755999992,
+        "south": 49.000001789000066,
+        "north": 49.91201160900005,
+        "west": -121.1017733249999
+      },
+      "asciiName": "Regional District of Okanagan-Similkameen",
+      "countryId": "6251999",
+      "fcl": "A",
+      "score": 21.243831634521484,
+      "adminId2": "6119137",
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.41647",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "adminCode2": "5907",
+      "adminCode1": "02",
+      "lng": "-120.00245",
+      "geonameId": 6119137,
+      "toponymName": "Regional District of Okanagan-Similkameen",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Regional_District_of_Okanagan-Similkameen",
+        "lang": "link"
+      }],
+      "adminName2": "Regional District of Okanagan-Similkameen",
+      "name": "Regional District of Okanagan-Similkameen",
+      "fclName": "country, state, region,...",
+      "countryName": "Canada",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "asciiName": "Okanagan Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.345516204833984,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.92083",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.5",
+      "geonameId": 6092893,
+      "toponymName": "Okanagan Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Okanagan_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Okanagan Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -118.79755740899992,
+        "south": 49.67527462200008,
+        "north": 50.235324938000076,
+        "west": -120.0568079709999
+      },
+      "asciiName": "Regional District of Central Okanagan",
+      "countryId": "6251999",
+      "fcl": "A",
+      "score": 16.995065689086914,
+      "adminId2": "6119128",
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.99978",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "adminCode2": "5935",
+      "adminCode1": "02",
+      "lng": "-119.41908",
+      "geonameId": 6119128,
+      "toponymName": "Regional District of Central Okanagan",
+      "population": 106707,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Regional_District_of_Central_Okanagan",
+        "lang": "link"
+      }],
+      "adminName2": "Regional District of Central Okanagan",
+      "name": "Regional District of Central Okanagan",
+      "fclName": "country, state, region,...",
+      "countryName": "Canada",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -119.43599114777676,
+        "south": 50.04100632684757,
+        "north": 50.05899362435043,
+        "west": -119.46400881161763
+      },
+      "asciiName": "Okanagan Centre",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 12.141860961914062,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "50.05",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.45",
+      "geonameId": 6092887,
+      "toponymName": "Okanagan Centre",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Okanagan_Centre%2C_British_Columbia",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Okanagan Centre",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -119.55286164083144,
+        "south": 49.34100635180757,
+        "north": 49.35899364931043,
+        "west": -119.58047843291796
+      },
+      "asciiName": "Okanagan Falls",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 12.141860961914062,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.35",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.56667",
+      "geonameId": 6092889,
+      "toponymName": "Okanagan Falls",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Okanagan_Falls%2C_British_Columbia",
+          "lang": "link"
+        },
+        {
+          "name": "OFL",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Okanagan Falls",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "asciiName": "Okanagan Highland",
+      "countryId": "6251999",
+      "fcl": "T",
+      "score": 12.141860961914062,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.58307",
+      "fcode": "MT",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.00235",
+      "geonameId": 6092891,
+      "toponymName": "Okanagan Highland",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Okanagan_Highland",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Okanagan Highland",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Canada",
+      "fcodeName": "mountain",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -119.469388885878,
+        "south": 49.80767333711057,
+        "north": 49.82566063461343,
+        "west": -119.4972711759732
+      },
+      "asciiName": "Okanagan Mission",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 12.141860961914062,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.81667",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.48333",
+      "geonameId": 6092896,
+      "toponymName": "Okanagan Mission",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Okanagan_Mission%2C_British_Columbia",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Okanagan Mission",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -8,
+        "timeZoneId": "America/Vancouver",
+        "dstOffset": -7
+      },
+      "asciiName": "Okanagan Mountain",
+      "countryId": "6251999",
+      "fcl": "T",
+      "score": 12.141860961914062,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "49.71647",
+      "fcode": "MT",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-119.61908",
+      "geonameId": 6092897,
+      "toponymName": "Okanagan Mountain",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Okanagan_Mountain",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Okanagan Mountain",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Canada",
+      "fcodeName": "mountain",
+      "adminName1": "British Columbia"
+    }
+  ]
+}

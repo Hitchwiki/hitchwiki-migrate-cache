@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Cristóbal de Las Casas",
+               "short_name" : "San Cristóbal de Las Casas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiapas",
+               "short_name" : "CHIS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Cristóbal de Las Casas, CHIS, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.7644581,
+                  "lng" : -92.60076149999999
+               },
+               "southwest" : {
+                  "lat" : 16.6981205,
+                  "lng" : -92.68407479999999
+               }
+            },
+            "location" : {
+               "lat" : 16.7370359,
+               "lng" : -92.6376186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.7644581,
+                  "lng" : -92.60076149999999
+               },
+               "southwest" : {
+                  "lat" : 16.6981205,
+                  "lng" : -92.68407479999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

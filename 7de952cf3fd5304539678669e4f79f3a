@@ -1,0 +1,153 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Cairo",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 25.53117287416149,
+        "south": 29.193140086552468,
+        "north": 29.213250496526413,
+        "west": 25.508131859114876
+      },
+      "asciiName": "Siwa Oasis",
+      "countryId": "357994",
+      "fcl": "P",
+      "score": 42.52072525024414,
+      "countryCode": "EG",
+      "adminId1": "352603",
+      "lat": "29.2032",
+      "fcode": "PPL",
+      "continentCode": "AF",
+      "adminCode1": "22",
+      "lng": "25.51965",
+      "geonameId": 347863,
+      "toponymName": "Siwa Oasis",
+      "population": 7000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "واحة سيوة",
+          "lang": "ar"
+        },
+        {
+          "name": "Oase Siwa",
+          "lang": "de"
+        },
+        {
+          "name": "Sīwah",
+          "lang": "en"
+        },
+        {
+          "name": "Siwa",
+          "lang": "fr"
+        },
+        {
+          "name": "SEW",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Siwa_Oasis",
+          "lang": "link"
+        },
+        {
+          "name": "Сива",
+          "lang": "ru"
+        },
+        {
+          "name": "Isiwan",
+          "lang": "siz"
+        },
+        {
+          "name": "SEW",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "",
+      "name": "Sīwah",
+      "fclName": "city, village,...",
+      "countryName": "Egypt",
+      "fcodeName": "populated place",
+      "adminName1": "Muḩāfaz̧at Maţrūḩ"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Cairo",
+        "dstOffset": 3
+      },
+      "asciiName": "Siwa Oasis",
+      "countryId": "357994",
+      "fcl": "L",
+      "score": 30.10541343688965,
+      "countryCode": "EG",
+      "adminId1": "352603",
+      "lat": "29.19226",
+      "fcode": "OAS",
+      "continentCode": "AF",
+      "adminCode1": "22",
+      "lng": "25.52753",
+      "geonameId": 347860,
+      "toponymName": "Siwa Oasis",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Siwa Oasis",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Siwa Oasis",
+      "fclName": "parks,area, ...",
+      "countryName": "Egypt",
+      "fcodeName": "oasis(-es)",
+      "adminName1": "Muḩāfaz̧at Maţrūḩ"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Cairo",
+        "dstOffset": 3
+      },
+      "asciiName": "Siwa Oasis North Airport",
+      "countryId": "357994",
+      "fcl": "S",
+      "score": 27.482357025146484,
+      "countryCode": "EG",
+      "adminId1": "352603",
+      "lat": "29.34687",
+      "fcode": "AIRP",
+      "continentCode": "AF",
+      "adminCode1": "22",
+      "lng": "25.50528",
+      "geonameId": 7730609,
+      "toponymName": "Siwa Oasis North Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Siwa Oasis North Airport",
+          "lang": "en"
+        },
+        {
+          "name": "SEW",
+          "lang": "iata"
+        }
+      ],
+      "adminName2": "",
+      "name": "Siwa Oasis North Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Egypt",
+      "fcodeName": "airport",
+      "adminName1": "Muḩāfaz̧at Maţrūḩ"
+    }
+  ]
+}

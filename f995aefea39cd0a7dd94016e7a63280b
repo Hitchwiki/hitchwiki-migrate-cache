@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campeche",
+               "short_name" : "Campeche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campeche",
+               "short_name" : "CAMP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campeche, CAMP, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8763407,
+                  "lng" : -90.4777941
+               },
+               "southwest" : {
+                  "lat" : 19.7848441,
+                  "lng" : -90.6223751
+               }
+            },
+            "location" : {
+               "lat" : 19.8301251,
+               "lng" : -90.5349087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8763407,
+                  "lng" : -90.4777941
+               },
+               "southwest" : {
+                  "lat" : 19.7848441,
+                  "lng" : -90.6223751
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

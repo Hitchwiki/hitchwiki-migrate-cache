@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A11",
+               "short_name" : "A11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A11, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3357731,
+                  "lng" : 14.4084247
+               },
+               "southwest" : {
+                  "lat" : 52.6215904,
+                  "lng" : 13.5401015
+               }
+            },
+            "location" : {
+               "lat" : 52.9868737,
+               "lng" : 13.8204393
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3357731,
+                  "lng" : 14.4084247
+               },
+               "southwest" : {
+                  "lat" : 52.6215904,
+                  "lng" : 13.5401015
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

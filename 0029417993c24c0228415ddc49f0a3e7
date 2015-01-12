@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tierra del Fuego Province",
+               "short_name" : "TF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tierra del Fuego Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -52.658766,
+                  "lng" : -64.11057989999999
+               },
+               "southwest" : {
+                  "lat" : -55.0577157,
+                  "lng" : -68.611864
+               }
+            },
+            "location" : {
+               "lat" : -54.3083548,
+               "lng" : -67.74515649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -52.658766,
+                  "lng" : -65.1153832
+               },
+               "southwest" : {
+                  "lat" : -55.0577157,
+                  "lng" : -68.611864
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

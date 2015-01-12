@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Angren",
+               "short_name" : "Angren",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ahangaran District",
+               "short_name" : "Ahangaran District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tashkent Province",
+               "short_name" : "Tashkent Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Angren, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0682868,
+                  "lng" : 70.16324039999999
+               },
+               "southwest" : {
+                  "lat" : 40.963632,
+                  "lng" : 69.99449730000001
+               }
+            },
+            "location" : {
+               "lat" : 41.016667,
+               "lng" : 70.13333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0682868,
+                  "lng" : 70.16324039999999
+               },
+               "southwest" : {
+                  "lat" : 40.963632,
+                  "lng" : 69.99449730000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

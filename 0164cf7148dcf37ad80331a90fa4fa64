@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A540",
+               "short_name" : "A540",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grevenbroich",
+               "short_name" : "Grevenbroich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41515",
+               "short_name" : "41515",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A540, 41515 Grevenbroich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0996451,
+                  "lng" : 6.6211661
+               },
+               "southwest" : {
+                  "lat" : 51.0739725,
+                  "lng" : 6.5373803
+               }
+            },
+            "location" : {
+               "lat" : 51.07918180000001,
+               "lng" : 6.577007099999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0996451,
+                  "lng" : 6.6211661
+               },
+               "southwest" : {
+                  "lat" : 51.0739725,
+                  "lng" : 6.5373803
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

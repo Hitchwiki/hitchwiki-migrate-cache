@@ -1,0 +1,487 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftan",
+               "short_name" : "Taftan",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taftan, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6551939,
+                  "lng" : 61.21496209999999
+               },
+               "southwest" : {
+                  "lat" : 28.5125951,
+                  "lng" : 61.00982680000001
+               }
+            },
+            "location" : {
+               "lat" : 28.5715395,
+               "lng" : 61.1170184
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6551939,
+                  "lng" : 61.21496209999999
+               },
+               "southwest" : {
+                  "lat" : 28.5125951,
+                  "lng" : 61.00982680000001
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftan",
+               "short_name" : "Taftan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chagai",
+               "short_name" : "Chagai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Balochistan",
+               "short_name" : "Balochistan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taftan, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9660963,
+                  "lng" : 61.5985394
+               },
+               "southwest" : {
+                  "lat" : 28.930308,
+                  "lng" : 61.56779049999999
+               }
+            },
+            "location" : {
+               "lat" : 28.9490678,
+               "lng" : 61.5866106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9660963,
+                  "lng" : 61.5985394
+               },
+               "southwest" : {
+                  "lat" : 28.930308,
+                  "lng" : 61.56779049999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftan",
+               "short_name" : "Taftan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shanb Ghazan",
+               "short_name" : "Shanb Ghazan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tabriz",
+               "short_name" : "Tabriz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tabriz",
+               "short_name" : "Tabriz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "East Azerbaijan",
+               "short_name" : "East Azerbaijan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Azerbaijan, Tabriz, Shanb Ghazan, Taftan, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0866133,
+                  "lng" : 46.2419197
+               },
+               "southwest" : {
+                  "lat" : 38.0810471,
+                  "lng" : 46.240323
+               }
+            },
+            "location" : {
+               "lat" : 38.0838212,
+               "lng" : 46.24155700000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0866133,
+                  "lng" : 46.2424703302915
+               },
+               "southwest" : {
+                  "lat" : 38.0810471,
+                  "lng" : 46.2397723697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftan",
+               "short_name" : "Taftan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zāhedān",
+               "short_name" : "Zāhedān",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zahedan",
+               "short_name" : "Zahedan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sistan Va Baluchestan",
+               "short_name" : "Sistan Va Baluchestan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sistan Va Baluchestan, Zāhedān, Taftan, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5154367,
+                  "lng" : 60.8458538
+               },
+               "southwest" : {
+                  "lat" : 29.5105287,
+                  "lng" : 60.8450759
+               }
+            },
+            "location" : {
+               "lat" : 29.5126584,
+               "lng" : 60.84551199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5154367,
+                  "lng" : 60.84681383029151
+               },
+               "southwest" : {
+                  "lat" : 29.5105287,
+                  "lng" : 60.8441158697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftan",
+               "short_name" : "Taftan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chābahār",
+               "short_name" : "Chābahār",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chabahar",
+               "short_name" : "Chabahar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sistan Va Baluchestan",
+               "short_name" : "Sistan Va Baluchestan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sistan Va Baluchestan, Chābahār, Taftan, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.3017043,
+                  "lng" : 60.64107389999999
+               },
+               "southwest" : {
+                  "lat" : 25.2979297,
+                  "lng" : 60.6399956
+               }
+            },
+            "location" : {
+               "lat" : 25.2997166,
+               "lng" : 60.6402047
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.3017043,
+                  "lng" : 60.64188373029151
+               },
+               "southwest" : {
+                  "lat" : 25.2979297,
+                  "lng" : 60.6391857697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuh-i-Taftan",
+               "short_name" : "Kuh-i-Taftan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chagai",
+               "short_name" : "Chagai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Balochistan",
+               "short_name" : "Balochistan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuh-i-Taftan, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9850184,
+                  "lng" : 61.5720176
+               },
+               "southwest" : {
+                  "lat" : 28.9597132,
+                  "lng" : 61.5371703
+               }
+            },
+            "location" : {
+               "lat" : 28.9743763,
+               "lng" : 61.55740400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9850184,
+                  "lng" : 61.5720176
+               },
+               "southwest" : {
+                  "lat" : 28.9597132,
+                  "lng" : 61.5371703
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftan",
+               "short_name" : "Taftan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Qazvin",
+               "short_name" : "Qazvin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Qazvin",
+               "short_name" : "Qazvin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qazvin, Qazvin, Taftan, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2967351,
+                  "lng" : 50.0109726
+               },
+               "southwest" : {
+                  "lat" : 36.2956996,
+                  "lng" : 50.01093780000001
+               }
+            },
+            "location" : {
+               "lat" : 36.2962314,
+               "lng" : 50.0109699
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2975663302915,
+                  "lng" : 50.0123041802915
+               },
+               "southwest" : {
+                  "lat" : 36.2948683697085,
+                  "lng" : 50.0096062197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftãn",
+               "short_name" : "Taftãn",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Najafabad",
+               "short_name" : "Najafabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Najaf Abad",
+               "short_name" : "Najaf Abad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Isfahan",
+               "short_name" : "Isfahan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isfahan, Najafabad, Taftãn، Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6437475,
+                  "lng" : 51.29151820000001
+               },
+               "southwest" : {
+                  "lat" : 32.6379113,
+                  "lng" : 51.2902415
+               }
+            },
+            "location" : {
+               "lat" : 32.6404771,
+               "lng" : 51.2907887
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6437475,
+                  "lng" : 51.29222883029151
+               },
+               "southwest" : {
+                  "lat" : 32.6379113,
+                  "lng" : 51.28953086970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taftan",
+               "short_name" : "Taftan",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "تفتان",
+               "short_name" : "تفتان",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khash",
+               "short_name" : "Khash",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taftan, تفتان، Iran",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6,
+               "lng" : 61.13
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6013489802915,
+                  "lng" : 61.13134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.5986510197085,
+                  "lng" : 61.1286510197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

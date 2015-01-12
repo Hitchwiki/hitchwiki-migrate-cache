@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S33",
+               "short_name" : "S33",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sankt Pölten",
+               "short_name" : "St. Pölten",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niederösterreich",
+               "short_name" : "Niederösterreich",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "S33, Sankt Pölten, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4087734,
+                  "lng" : 15.7486779
+               },
+               "southwest" : {
+                  "lat" : 48.1952509,
+                  "lng" : 15.6604855
+               }
+            },
+            "location" : {
+               "lat" : 48.3010047,
+               "lng" : 15.7074285
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4087734,
+                  "lng" : 15.7486779
+               },
+               "southwest" : {
+                  "lat" : 48.1952509,
+                  "lng" : 15.6604855
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

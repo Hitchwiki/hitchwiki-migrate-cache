@@ -1,0 +1,394 @@
+{
+  "totalResultsCount": 195,
+  "geonames": [
+    {
+      "elevation": 654,
+      "lng": "-120.183",
+      "geonameId": 6296177,
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Dawson_Creek",
+        "dstOffset": -7
+      },
+      "toponymName": "Dawson Creek Airport",
+      "asciiName": "Dawson Creek Airport",
+      "countryId": "6251999",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 30.95370864868164,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "YDQ",
+          "lang": "iata"
+        },
+        {
+          "name": "CYDQ",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Dawson_Creek_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Dawson Creek Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "55.74233",
+      "fcode": "AIRP",
+      "continentCode": "NA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Dawson_Creek",
+        "dstOffset": -7
+      },
+      "bbox": {
+        "east": -120.21217133562594,
+        "south": 55.753112186872855,
+        "north": 55.78009313312714,
+        "west": -120.26014849437406
+      },
+      "asciiName": "Dawson Creek",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 12.897377967834473,
+      "countryCode": "CA",
+      "adminId1": "5909050",
+      "lat": "55.7666",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "02",
+      "lng": "-120.23616",
+      "geonameId": 5935804,
+      "toponymName": "Dawson Creek",
+      "population": 10802,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "دوسن كريك",
+          "lang": "ar"
+        },
+        {
+          "name": "YDQ",
+          "lang": "iata"
+        },
+        {
+          "name": "도슨크릭",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Dawson_Creek",
+          "lang": "link"
+        },
+        {
+          "name": "ڈاسنکریک",
+          "lang": "pnb"
+        },
+        {
+          "name": "Досон-Крик",
+          "lang": "ru"
+        },
+        {
+          "name": "Досон Крик",
+          "lang": "sr"
+        },
+        {
+          "name": "ดอว์สันครีก",
+          "lang": "th"
+        },
+        {
+          "name": "YDQ",
+          "lang": "unlc"
+        },
+        {
+          "name": "道森克里克",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Dawson Creek",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "British Columbia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "Toto Creek Access Point",
+      "countryId": "6252001",
+      "fcl": "T",
+      "score": 9.413801193237305,
+      "adminId2": "4190959",
+      "countryCode": "US",
+      "adminId1": "4197000",
+      "lat": "34.39315",
+      "fcode": "CAPE",
+      "continentCode": "NA",
+      "elevation": 335,
+      "adminCode2": "085",
+      "adminCode1": "GA",
+      "lng": "-83.98491",
+      "geonameId": 4226828,
+      "toponymName": "Toto Creek Access Point",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Dawson County",
+      "name": "Toto Creek Access Point",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "United States",
+      "fcodeName": "cape",
+      "adminName1": "Georgia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Chicago",
+        "dstOffset": -5
+      },
+      "asciiName": "Plum Creek Park",
+      "countryId": "6252001",
+      "fcl": "L",
+      "score": 6.849686145782471,
+      "adminId2": "5066750",
+      "countryCode": "US",
+      "adminId1": "5073708",
+      "lat": "40.78556",
+      "fcode": "PRK",
+      "continentCode": "NA",
+      "elevation": 730,
+      "adminCode2": "047",
+      "adminCode1": "NE",
+      "lng": "-99.75095",
+      "geonameId": 5075535,
+      "toponymName": "Plum Creek Park",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Dawson County",
+      "name": "Plum Creek Park",
+      "fclName": "parks,area, ...",
+      "countryName": "United States",
+      "fcodeName": "park",
+      "adminName1": "Nebraska"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -7,
+        "timeZoneId": "America/Denver",
+        "dstOffset": -6
+      },
+      "bbox": {
+        "east": -105.3070493398122,
+        "south": 47.44710147024984,
+        "north": 47.45069892975015,
+        "west": -105.3123692601878
+      },
+      "asciiName": "Corral Creek (historical)",
+      "countryId": "6252001",
+      "fcl": "P",
+      "score": 5.137264728546143,
+      "adminId2": "5647905",
+      "countryCode": "US",
+      "adminId1": "5667009",
+      "lat": "47.4489",
+      "fcode": "PPLQ",
+      "continentCode": "NA",
+      "elevation": 780,
+      "adminCode2": "021",
+      "adminCode1": "MT",
+      "lng": "-105.30971",
+      "geonameId": 5646451,
+      "toponymName": "Corral Creek (historical)",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Dawson County",
+      "name": "Corral Creek (historical)",
+      "fclName": "city, village,...",
+      "countryName": "United States",
+      "fcodeName": "abandoned populated place",
+      "adminName1": "Montana"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "-88.63993",
+      "geonameId": 3582221,
+      "timezone": {
+        "gmtOffset": -6,
+        "timeZoneId": "America/Belize",
+        "dstOffset": -6
+      },
+      "toponymName": "Dawson Creek",
+      "asciiName": "Dawson Creek",
+      "countryId": "3582678",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 3.869213581085205,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "BZ",
+      "name": "Dawson Creek",
+      "fclName": "stream, lake, ...",
+      "countryName": "Belize",
+      "fcodeName": "stream",
+      "adminId1": "3581511",
+      "adminName1": "Orange Walk",
+      "lat": "17.76127",
+      "fcode": "STM",
+      "continentCode": "NA"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 11,
+        "timeZoneId": "Australia/Hobart",
+        "dstOffset": 10
+      },
+      "asciiName": "Dawson Creek",
+      "countryId": "2077456",
+      "fcl": "H",
+      "score": 3.604926824569702,
+      "countryCode": "AU",
+      "adminId1": "2147291",
+      "lat": "-41.28529",
+      "fcode": "STM",
+      "continentCode": "OC",
+      "adminCode1": "06",
+      "lng": "144.72373",
+      "geonameId": 8723081,
+      "toponymName": "Dawson Creek",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Dawson Creek",
+        "lang": "en"
+      }],
+      "adminName2": "",
+      "name": "Dawson Creek",
+      "fclName": "stream, lake, ...",
+      "countryName": "Australia",
+      "fcodeName": "stream",
+      "adminName1": "Tasmania"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "Cochrans Creek",
+      "countryId": "6252001",
+      "fcl": "H",
+      "score": 3.294830322265625,
+      "adminId2": "4190959",
+      "countryCode": "US",
+      "adminId1": "4197000",
+      "lat": "34.47009",
+      "fcode": "STM",
+      "continentCode": "NA",
+      "elevation": 405,
+      "adminCode2": "085",
+      "adminCode1": "GA",
+      "lng": "-84.22464",
+      "geonameId": 4188610,
+      "toponymName": "Cochrans Creek",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Dawson County",
+      "name": "Cochrans Creek",
+      "fclName": "stream, lake, ...",
+      "countryName": "United States",
+      "fcodeName": "stream",
+      "adminName1": "Georgia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "Fall Creek",
+      "countryId": "6252001",
+      "fcl": "H",
+      "score": 3.294830322265625,
+      "adminId2": "4190959",
+      "countryCode": "US",
+      "adminId1": "4197000",
+      "lat": "34.50981",
+      "fcode": "STM",
+      "continentCode": "NA",
+      "elevation": 500,
+      "adminCode2": "085",
+      "adminCode1": "GA",
+      "lng": "-84.29714",
+      "geonameId": 4194354,
+      "toponymName": "Fall Creek",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Dawson County",
+      "name": "Fall Creek",
+      "fclName": "stream, lake, ...",
+      "countryName": "United States",
+      "fcodeName": "stream",
+      "adminName1": "Georgia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/New_York",
+        "dstOffset": -4
+      },
+      "asciiName": "Flat Creek",
+      "countryId": "6252001",
+      "fcl": "H",
+      "score": 3.294830322265625,
+      "adminId2": "4190959",
+      "countryCode": "US",
+      "adminId1": "4197000",
+      "lat": "34.41871",
+      "fcode": "STM",
+      "continentCode": "NA",
+      "elevation": 353,
+      "adminCode2": "085",
+      "adminCode1": "GA",
+      "lng": "-84.14547",
+      "geonameId": 4195273,
+      "toponymName": "Flat Creek",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Dawson County",
+      "name": "Flat Creek",
+      "fclName": "stream, lake, ...",
+      "countryName": "United States",
+      "fcodeName": "stream",
+      "adminName1": "Georgia"
+    }
+  ]
+}

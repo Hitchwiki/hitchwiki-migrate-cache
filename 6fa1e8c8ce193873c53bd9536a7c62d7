@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A5",
+               "short_name" : "A5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A5, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.63517820000001,
+                  "lng" : 5.223056400000001
+               },
+               "southwest" : {
+                  "lat" : 47.9056891,
+                  "lng" : 2.5353258
+               }
+            },
+            "location" : {
+               "lat" : 48.2730848,
+               "lng" : 3.879219899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.63517820000001,
+                  "lng" : 5.223056400000001
+               },
+               "southwest" : {
+                  "lat" : 47.9056891,
+                  "lng" : 2.5353258
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

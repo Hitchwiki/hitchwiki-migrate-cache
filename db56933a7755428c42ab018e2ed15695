@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A30",
+               "short_name" : "A30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A30, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0361346,
+                  "lng" : 14.7889344
+               },
+               "southwest" : {
+                  "lat" : 40.6972442,
+                  "lng" : 14.3251165
+               }
+            },
+            "location" : {
+               "lat" : 40.86391,
+               "lng" : 14.5373858
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0361346,
+                  "lng" : 14.7889344
+               },
+               "southwest" : {
+                  "lat" : 40.6972442,
+                  "lng" : 14.3251165
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

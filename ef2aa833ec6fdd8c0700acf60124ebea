@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chillán",
+               "short_name" : "Chillán",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chillán",
+               "short_name" : "Chillán",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ñuble Province",
+               "short_name" : "Ñuble Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bio-Bio",
+               "short_name" : "Bio-Bio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chillán, Chillán, Bío Bío Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.5109495,
+                  "lng" : -71.892892
+               },
+               "southwest" : {
+                  "lat" : -36.7520196,
+                  "lng" : -72.4683972
+               }
+            },
+            "location" : {
+               "lat" : -36.609354,
+               "lng" : -72.102423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.5109495,
+                  "lng" : -71.892892
+               },
+               "southwest" : {
+                  "lat" : -36.7520196,
+                  "lng" : -72.4683972
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

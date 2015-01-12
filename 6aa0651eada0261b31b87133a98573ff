@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Louvain-la-Neuve",
+               "short_name" : "Louvain-la-Neuve",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ottignies-Louvain-la-Neuve",
+               "short_name" : "Ottignies-Louvain-la-Neuve",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Walloon Brabant",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Walloon Region",
+               "short_name" : "Walloon Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1348",
+               "short_name" : "1348",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Louvain-la-Neuve, 1348 Ottignies-Louvain-la-Neuve, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.66808100000001,
+               "lng" : 4.6118324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6751525,
+                  "lng" : 4.627839799999999
+               },
+               "southwest" : {
+                  "lat" : 50.6610084,
+                  "lng" : 4.595825
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charleroi",
+               "short_name" : "Charleroi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Walloon Region",
+               "short_name" : "Walloon Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charleroi, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4929701,
+                  "lng" : 4.5074999
+               },
+               "southwest" : {
+                  "lat" : 50.3529,
+                  "lng" : 4.34772
+               }
+            },
+            "location" : {
+               "lat" : 50.4108095,
+               "lng" : 4.444643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4929701,
+                  "lng" : 4.5074999
+               },
+               "southwest" : {
+                  "lat" : 50.3529,
+                  "lng" : 4.34772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charleroi",
+               "short_name" : "Charleroi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Charleroi",
+               "short_name" : "Charleroi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Région wallonne",
+               "short_name" : "Région wallonne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6000",
+               "short_name" : "6000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Charleroi, 6000 Charleroi, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4108998,
+               "lng" : 4.4446709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.41224878029149,
+                  "lng" : 4.446019880291503
+               },
+               "southwest" : {
+                  "lat" : 50.40955081970849,
+                  "lng" : 4.443321919708498
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charleroi",
+               "short_name" : "Charleroi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15022",
+               "short_name" : "15022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Charleroi, PA 15022, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1486469,
+                  "lng" : -79.8886011
+               },
+               "southwest" : {
+                  "lat" : 40.129128,
+                  "lng" : -79.912122
+               }
+            },
+            "location" : {
+               "lat" : 40.1378499,
+               "lng" : -79.89810349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1486469,
+                  "lng" : -79.8886011
+               },
+               "southwest" : {
+                  "lat" : 40.129128,
+                  "lng" : -79.912122
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

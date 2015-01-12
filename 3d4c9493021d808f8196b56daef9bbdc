@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ko Lanta District",
+               "short_name" : "Ko Lanta District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krabi",
+               "short_name" : "จ.กระบี่",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ko Lanta District, Krabi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.856763399999999,
+                  "lng" : 99.2244613
+               },
+               "southwest" : {
+                  "lat" : 7.3999017,
+                  "lng" : 99.0163766
+               }
+            },
+            "location" : {
+               "lat" : 7.624367699999999,
+               "lng" : 99.0792263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.856763399999999,
+                  "lng" : 99.15216679999999
+               },
+               "southwest" : {
+                  "lat" : 7.467293000000001,
+                  "lng" : 99.0163766
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ko Lanta",
+               "short_name" : "Ko Lanta",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ko Lanta, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.688007700000001,
+                  "lng" : 99.13058869999999
+               },
+               "southwest" : {
+                  "lat" : 7.467232300000001,
+                  "lng" : 99.0186209
+               }
+            },
+            "location" : {
+               "lat" : 7.624367699999999,
+               "lng" : 99.0792263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.688007700000001,
+                  "lng" : 99.13058869999999
+               },
+               "southwest" : {
+                  "lat" : 7.467232300000001,
+                  "lng" : 99.0186209
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago de Querétaro",
+               "short_name" : "Santiago de Querétaro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Querétaro",
+               "short_name" : "QRO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago de Querétaro, Querétaro, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.6854032,
+                  "lng" : -100.3285436
+               },
+               "southwest" : {
+                  "lat" : 20.5434421,
+                  "lng" : -100.482931
+               }
+            },
+            "location" : {
+               "lat" : 20.5887932,
+               "lng" : -100.3898881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.6854032,
+                  "lng" : -100.3285436
+               },
+               "southwest" : {
+                  "lat" : 20.5434421,
+                  "lng" : -100.482931
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

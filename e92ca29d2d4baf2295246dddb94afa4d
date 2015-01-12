@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akhaltsikhe",
+               "short_name" : "Akhaltsikhe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Samtskhe-Javakheti",
+               "short_name" : "Samtskhe-Javakheti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akhaltsikhe, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6593829,
+                  "lng" : 43.0404426
+               },
+               "southwest" : {
+                  "lat" : 41.6258046,
+                  "lng" : 42.9591608
+               }
+            },
+            "location" : {
+               "lat" : 41.638889,
+               "lng" : 42.986111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6593829,
+                  "lng" : 43.0404426
+               },
+               "southwest" : {
+                  "lat" : 41.6258046,
+                  "lng" : 42.9591608
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

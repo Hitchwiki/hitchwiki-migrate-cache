@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bodrum",
+               "short_name" : "Bodrum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48400",
+               "short_name" : "48400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48000 Bodrum, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.051266,
+                  "lng" : 27.446548
+               },
+               "southwest" : {
+                  "lat" : 37.020315,
+                  "lng" : 27.3790001
+               }
+            },
+            "location" : {
+               "lat" : 37.035339,
+               "lng" : 27.43029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.051266,
+                  "lng" : 27.446548
+               },
+               "southwest" : {
+                  "lat" : 37.020315,
+                  "lng" : 27.3790001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

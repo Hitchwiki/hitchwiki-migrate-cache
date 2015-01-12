@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Region of Murcia",
+               "short_name" : "Region of Murcia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Region of Murcia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7550852,
+                  "lng" : -0.6479828999999999
+               },
+               "southwest" : {
+                  "lat" : 37.3737526,
+                  "lng" : -2.3444114
+               }
+            },
+            "location" : {
+               "lat" : 38.1398141,
+               "lng" : -1.366216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7550852,
+                  "lng" : -0.6479828999999999
+               },
+               "southwest" : {
+                  "lat" : 37.3737526,
+                  "lng" : -2.3444114
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

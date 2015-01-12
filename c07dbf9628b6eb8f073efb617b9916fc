@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lanzhou",
+               "short_name" : "Lanzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gansu",
+               "short_name" : "Gansu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lanzhou, Gansu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9991552,
+                  "lng" : 104.5772687
+               },
+               "southwest" : {
+                  "lat" : 35.5711357,
+                  "lng" : 102.6012756
+               }
+            },
+            "location" : {
+               "lat" : 36.061089,
+               "lng" : 103.834304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2582568,
+                  "lng" : 104.0432739
+               },
+               "southwest" : {
+                  "lat" : 35.8984926,
+                  "lng" : 103.4788513
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

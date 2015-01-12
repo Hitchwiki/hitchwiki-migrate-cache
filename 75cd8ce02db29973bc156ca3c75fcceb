@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hat Yai",
+               "short_name" : "Hat Yai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hat Yai District",
+               "short_name" : "อ.หาดใหญ่",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Songkhla",
+               "short_name" : "จ.สงขลา",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90110",
+               "short_name" : "90110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hat Yai, Hat Yai District, Songkhla 90110, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.037111299999999,
+                  "lng" : 100.506932
+               },
+               "southwest" : {
+                  "lat" : 6.981751099999999,
+                  "lng" : 100.450519
+               }
+            },
+            "location" : {
+               "lat" : 7.0086472,
+               "lng" : 100.4746879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.037111299999999,
+                  "lng" : 100.506932
+               },
+               "southwest" : {
+                  "lat" : 6.981751099999999,
+                  "lng" : 100.450519
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

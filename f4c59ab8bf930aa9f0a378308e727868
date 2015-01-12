@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alba Iulia",
+               "short_name" : "Alba Iulia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alba Iulia",
+               "short_name" : "Alba Iulia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alba County",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alba Iulia, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1125306,
+                  "lng" : 23.6107135
+               },
+               "southwest" : {
+                  "lat" : 46.0107187,
+                  "lng" : 23.505292
+               }
+            },
+            "location" : {
+               "lat" : 46.066944,
+               "lng" : 23.57
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1125306,
+                  "lng" : 23.6107135
+               },
+               "southwest" : {
+                  "lat" : 46.0107187,
+                  "lng" : 23.505292
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

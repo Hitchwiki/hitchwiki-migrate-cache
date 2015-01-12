@@ -1,0 +1,169 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A12",
+               "short_name" : "A12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A12, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3440342,
+                  "lng" : 14.577765
+               },
+               "southwest" : {
+                  "lat" : 52.3102498,
+                  "lng" : 13.7343516
+               }
+            },
+            "location" : {
+               "lat" : 52.3370583,
+               "lng" : 14.1509958
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3440342,
+                  "lng" : 14.577765
+               },
+               "southwest" : {
+                  "lat" : 52.3102498,
+                  "lng" : 13.7343516
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A12",
+               "short_name" : "A12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Biberbach",
+               "short_name" : "Biberbach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86485",
+               "short_name" : "86485",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A12, 86485 Biberbach, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5246429,
+                  "lng" : 10.8224261
+               },
+               "southwest" : {
+                  "lat" : 48.4736335,
+                  "lng" : 10.7162508
+               }
+            },
+            "location" : {
+               "lat" : 48.4944122,
+               "lng" : 10.7725983
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5246429,
+                  "lng" : 10.8224261
+               },
+               "southwest" : {
+                  "lat" : 48.4736335,
+                  "lng" : 10.7162508
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A12",
+               "short_name" : "A12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Welden",
+               "short_name" : "Welden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A12, Welden, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4723125,
+                  "lng" : 10.7054149
+               },
+               "southwest" : {
+                  "lat" : 48.4446725,
+                  "lng" : 10.6074359
+               }
+            },
+            "location" : {
+               "lat" : 48.4577898,
+               "lng" : 10.6572902
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4723125,
+                  "lng" : 10.7054149
+               },
+               "southwest" : {
+                  "lat" : 48.4446725,
+                  "lng" : 10.6074359
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yukon Territory",
+               "short_name" : "YT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yukon Territory, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.6464981,
+                  "lng" : -123.8009179
+               },
+               "southwest" : {
+                  "lat" : 59.996889,
+                  "lng" : -141.00187
+               }
+            },
+            "location" : {
+               "lat" : 64.2823274,
+               "lng" : -135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.6464981,
+                  "lng" : -123.8009179
+               },
+               "southwest" : {
+                  "lat" : 59.996889,
+                  "lng" : -141.00187
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yukon",
+               "short_name" : "Yukon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canadian County",
+               "short_name" : "Canadian County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yukon, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5511591,
+                  "lng" : -97.70663189999999
+               },
+               "southwest" : {
+                  "lat" : 35.4788959,
+                  "lng" : -97.83973399999999
+               }
+            },
+            "location" : {
+               "lat" : 35.5067215,
+               "lng" : -97.76254410000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5511591,
+                  "lng" : -97.70663189999999
+               },
+               "southwest" : {
+                  "lat" : 35.4788959,
+                  "lng" : -97.83973399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calama",
+               "short_name" : "Calama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calama",
+               "short_name" : "Calama",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "El Loa",
+               "short_name" : "El Loa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Antofagasta Region",
+               "short_name" : "Antofagasta Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calama, Calama, Antofagasta Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.0666326,
+                  "lng" : -67.9234975
+               },
+               "southwest" : {
+                  "lat" : -23.1597998,
+                  "lng" : -69.1947732
+               }
+            },
+            "location" : {
+               "lat" : -22.453712,
+               "lng" : -68.925307
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.0666326,
+                  "lng" : -67.9234975
+               },
+               "southwest" : {
+                  "lat" : -23.1597998,
+                  "lng" : -69.1947732
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

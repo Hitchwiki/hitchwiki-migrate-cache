@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Cuenca de Pamplona - Pamplona",
+               "short_name" : "Cuenca de Pamplona - Pamplona",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Navarre",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Navarre",
+               "short_name" : "Navarre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pamplona, Navarre, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8381176,
+                  "lng" : -1.6046592
+               },
+               "southwest" : {
+                  "lat" : 42.7934144,
+                  "lng" : -1.695384
+               }
+            },
+            "location" : {
+               "lat" : 42.812526,
+               "lng" : -1.6457745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8381176,
+                  "lng" : -1.6046592
+               },
+               "southwest" : {
+                  "lat" : 42.7934144,
+                  "lng" : -1.695384
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rheine",
+               "short_name" : "Rheine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Steinfurt",
+               "short_name" : "ST",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rheine, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3417975,
+                  "lng" : 7.586315699999999
+               },
+               "southwest" : {
+                  "lat" : 52.1917882,
+                  "lng" : 7.3655282
+               }
+            },
+            "location" : {
+               "lat" : 52.2815691,
+               "lng" : 7.443409200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3417975,
+                  "lng" : 7.586315699999999
+               },
+               "southwest" : {
+                  "lat" : 52.1917882,
+                  "lng" : 7.3655282
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

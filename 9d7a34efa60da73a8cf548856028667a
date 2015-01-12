@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colon",
+               "short_name" : "Colon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colon",
+               "short_name" : "Colon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colon",
+               "short_name" : "Colon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Panama",
+               "short_name" : "PA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colon, Panama",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.373023399999999,
+                  "lng" : -79.8455429
+               },
+               "southwest" : {
+                  "lat" : 9.320684099999999,
+                  "lng" : -79.91561249999999
+               }
+            },
+            "location" : {
+               "lat" : 9.333333,
+               "lng" : -79.89999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.373023399999999,
+                  "lng" : -79.8455429
+               },
+               "southwest" : {
+                  "lat" : 9.320684099999999,
+                  "lng" : -79.91561249999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

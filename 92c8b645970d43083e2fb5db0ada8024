@@ -1,0 +1,115 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode3": "08315",
+      "alternateNames": [
+        {
+          "name": "لوفینگن",
+          "lang": "fa"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/L%C3%B6ffingen",
+          "lang": "link"
+        },
+        {
+          "name": "Лёффинген",
+          "lang": "ru"
+        },
+        {
+          "name": "Лефинген",
+          "lang": "sr"
+        },
+        {
+          "name": "LFF",
+          "lang": "unlc"
+        },
+        {
+          "name": "勒芬根",
+          "lang": "zh"
+        }
+      ],
+      "adminCode2": "083",
+      "countryName": "Germany",
+      "adminCode1": "01",
+      "score": 25.481857299804688,
+      "lng": "8.34384",
+      "adminCode4": "08315070",
+      "adminName2": "Freiburg Region",
+      "fcodeName": "populated place",
+      "adminName3": "Landkreis Breisgau-Hochschwarzwald",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Löffingen",
+      "adminName5": "",
+      "bbox": {
+        "south": 47.87303507481659,
+        "east": 8.360267160482936,
+        "north": 47.89506492518341,
+        "west": 8.327410839517063
+      },
+      "name": "Löffingen",
+      "fcode": "PPL",
+      "geonameId": 2876461,
+      "asciiName": "Loffingen",
+      "lat": "47.88405",
+      "population": 7939,
+      "adminName1": "Baden-Württemberg",
+      "adminId1": "2953481",
+      "countryId": "2921044",
+      "fclName": "city, village,...",
+      "countryCode": "DE",
+      "adminId4": "6558089",
+      "adminId3": "2944796",
+      "adminId2": "2925180",
+      "toponymName": "Löffingen",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "08315",
+      "adminCode2": "083",
+      "countryName": "Germany",
+      "adminCode1": "01",
+      "score": 17.118894577026367,
+      "lng": "8.3438",
+      "adminCode4": "08315070",
+      "adminName2": "Freiburg Region",
+      "fcodeName": "fourth-order administrative division",
+      "adminName3": "Landkreis Breisgau-Hochschwarzwald",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Löffingen",
+      "adminName5": "",
+      "bbox": {
+        "south": 47.838986096998454,
+        "east": 8.44019200404226,
+        "north": 47.94384851453459,
+        "west": 8.267584431565021
+      },
+      "name": "Löffingen",
+      "fcode": "ADM4",
+      "geonameId": 6558089,
+      "asciiName": "Loeffingen",
+      "lat": "47.8838",
+      "population": 7505,
+      "adminName1": "Baden-Württemberg",
+      "adminId1": "2953481",
+      "countryId": "2921044",
+      "fclName": "country, state, region,...",
+      "countryCode": "DE",
+      "adminId4": "6558089",
+      "adminId3": "2944796",
+      "adminId2": "2925180",
+      "toponymName": "Löffingen",
+      "fcl": "A",
+      "continentCode": "EU"
+    }
+  ]
+}

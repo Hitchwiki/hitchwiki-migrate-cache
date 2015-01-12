@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siirt",
+               "short_name" : "Siirt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siirt",
+               "short_name" : "Siirt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Siirt",
+               "short_name" : "Siirt",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Siirt/Siirt, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.949366,
+                  "lng" : 41.9638651
+               },
+               "southwest" : {
+                  "lat" : 37.911382,
+                  "lng" : 41.9029088
+               }
+            },
+            "location" : {
+               "lat" : 37.93554710000001,
+               "lng" : 41.9368268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.949366,
+                  "lng" : 41.9638651
+               },
+               "southwest" : {
+                  "lat" : 37.911382,
+                  "lng" : 41.9029088
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

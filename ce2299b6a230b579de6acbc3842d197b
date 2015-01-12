@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S36",
+               "short_name" : "S36",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Judenburg",
+               "short_name" : "Judenburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Judenburg",
+               "short_name" : "Judenburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Judenburg",
+               "short_name" : "Judenburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Steiermark",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8750",
+               "short_name" : "8750",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S36, 8750 Judenburg, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3366967,
+                  "lng" : 15.0031429
+               },
+               "southwest" : {
+                  "lat" : 47.1722975,
+                  "lng" : 14.6272677
+               }
+            },
+            "location" : {
+               "lat" : 47.2363311,
+               "lng" : 14.8385288
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3366967,
+                  "lng" : 15.0031429
+               },
+               "southwest" : {
+                  "lat" : 47.1722975,
+                  "lng" : 14.6272677
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

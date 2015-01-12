@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A22",
+               "short_name" : "A22",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A22, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.00336979999999,
+                  "lng" : 11.6488347
+               },
+               "southwest" : {
+                  "lat" : 44.671971,
+                  "lng" : 10.7797088
+               }
+            },
+            "location" : {
+               "lat" : 45.92901819999999,
+               "lng" : 11.0814107
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.00336979999999,
+                  "lng" : 11.6488347
+               },
+               "southwest" : {
+                  "lat" : 44.671971,
+                  "lng" : 10.7797088
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

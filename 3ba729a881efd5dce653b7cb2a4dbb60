@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaikoura",
+               "short_name" : "Kaikoura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaikoura District",
+               "short_name" : "Kaikoura District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaikoura, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.37547,
+                  "lng" : 173.7245099
+               },
+               "southwest" : {
+                  "lat" : -42.4616647,
+                  "lng" : 173.5574635
+               }
+            },
+            "location" : {
+               "lat" : -42.4008174,
+               "lng" : 173.681386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.37547,
+                  "lng" : 173.7245099
+               },
+               "southwest" : {
+                  "lat" : -42.4374299,
+                  "lng" : 173.653131
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

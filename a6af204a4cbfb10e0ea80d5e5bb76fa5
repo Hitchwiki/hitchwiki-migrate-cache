@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6342433,
+                  "lng" : 92.68011540000001
+               },
+               "southwest" : {
+                  "lat" : 20.7543802,
+                  "lng" : 88.00858869999999
+               }
+            },
+            "location" : {
+               "lat" : 23.684994,
+               "lng" : 90.356331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6342433,
+                  "lng" : 92.68011540000001
+               },
+               "southwest" : {
+                  "lat" : 20.7543802,
+                  "lng" : 88.00858869999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

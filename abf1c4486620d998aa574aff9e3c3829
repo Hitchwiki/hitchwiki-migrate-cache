@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Encarnacion",
+               "short_name" : "Encarnacion",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Itapua",
+               "short_name" : "Itapua",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Encarnacion, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.162419,
+                  "lng" : -55.7758714
+               },
+               "southwest" : {
+                  "lat" : -27.4298327,
+                  "lng" : -56.0186004
+               }
+            },
+            "location" : {
+               "lat" : -27.2522918,
+               "lng" : -55.9135867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.162419,
+                  "lng" : -55.7758714
+               },
+               "southwest" : {
+                  "lat" : -27.4298327,
+                  "lng" : -56.0186004
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

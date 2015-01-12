@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lapseki",
+               "short_name" : "Lapseki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lapseki, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.348625,
+                  "lng" : 26.691322
+               },
+               "southwest" : {
+                  "lat" : 40.334799,
+                  "lng" : 26.666618
+               }
+            },
+            "location" : {
+               "lat" : 40.343889,
+               "lng" : 26.683611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.348625,
+                  "lng" : 26.691322
+               },
+               "southwest" : {
+                  "lat" : 40.334799,
+                  "lng" : 26.666618
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

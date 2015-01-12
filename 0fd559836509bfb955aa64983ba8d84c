@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Konstanz",
+               "short_name" : "KN",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Konstanz",
+               "short_name" : "KN",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Konstanz, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7626926,
+                  "lng" : 9.2180099
+               },
+               "southwest" : {
+                  "lat" : 47.653987,
+                  "lng" : 9.085403099999999
+               }
+            },
+            "location" : {
+               "lat" : 47.6779496,
+               "lng" : 9.173238399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7626926,
+                  "lng" : 9.2180099
+               },
+               "southwest" : {
+                  "lat" : 47.653987,
+                  "lng" : 9.085403099999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

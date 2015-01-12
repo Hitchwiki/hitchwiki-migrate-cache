@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taos",
+               "short_name" : "Taos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taos County",
+               "short_name" : "Taos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taos, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4239248,
+                  "lng" : -105.5571651
+               },
+               "southwest" : {
+                  "lat" : 36.354985,
+                  "lng" : -105.605881
+               }
+            },
+            "location" : {
+               "lat" : 36.4072485,
+               "lng" : -105.5730665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4239248,
+                  "lng" : -105.5571651
+               },
+               "southwest" : {
+                  "lat" : 36.354985,
+                  "lng" : -105.605881
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taos",
+               "short_name" : "Taos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liberty",
+               "short_name" : "Liberty",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cole County",
+               "short_name" : "Cole County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65101",
+               "short_name" : "65101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taos, MO 65101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.514333,
+                  "lng" : -92.062243
+               },
+               "southwest" : {
+                  "lat" : 38.486476,
+                  "lng" : -92.100516
+               }
+            },
+            "location" : {
+               "lat" : 38.506426,
+               "lng" : -92.07101329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.514333,
+                  "lng" : -92.062243
+               },
+               "southwest" : {
+                  "lat" : 38.486476,
+                  "lng" : -92.100516
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

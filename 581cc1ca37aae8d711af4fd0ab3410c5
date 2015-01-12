@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Congo",
+               "short_name" : "CG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Congo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.707791,
+                  "lng" : 18.6436111
+               },
+               "southwest" : {
+                  "lat" : -5.0289487,
+                  "lng" : 11.1495478
+               }
+            },
+            "location" : {
+               "lat" : -0.228021,
+               "lng" : 15.827659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.707791,
+                  "lng" : 18.6436111
+               },
+               "southwest" : {
+                  "lat" : -5.0289487,
+                  "lng" : 11.1495478
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

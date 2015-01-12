@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amersfoort",
+               "short_name" : "Amersfoort",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amersfoort",
+               "short_name" : "Amersfoort",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amersfoort, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2092219,
+                  "lng" : 5.4487028
+               },
+               "southwest" : {
+                  "lat" : 52.1086799,
+                  "lng" : 5.306943299999999
+               }
+            },
+            "location" : {
+               "lat" : 52.1561113,
+               "lng" : 5.387826599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2092219,
+                  "lng" : 5.4487028
+               },
+               "southwest" : {
+                  "lat" : 52.1086799,
+                  "lng" : 5.306943299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

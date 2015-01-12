@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A64",
+               "short_name" : "A64",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rheinland-Pfalz",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A64, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.79875970000001,
+                  "lng" : 6.6551144
+               },
+               "southwest" : {
+                  "lat" : 49.7332145,
+                  "lng" : 6.5018422
+               }
+            },
+            "location" : {
+               "lat" : 49.76362,
+               "lng" : 6.5825818
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.79875970000001,
+                  "lng" : 6.6551144
+               },
+               "southwest" : {
+                  "lat" : 49.7332145,
+                  "lng" : 6.5018422
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

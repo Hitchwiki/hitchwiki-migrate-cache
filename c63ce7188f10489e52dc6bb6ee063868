@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A557",
+               "short_name" : "A557",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhône",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A557, Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3236623,
+                  "lng" : 5.3781484
+               },
+               "southwest" : {
+                  "lat" : 43.3147121,
+                  "lng" : 5.363922899999999
+               }
+            },
+            "location" : {
+               "lat" : 43.3199498,
+               "lng" : 5.3710958
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3236623,
+                  "lng" : 5.3781484
+               },
+               "southwest" : {
+                  "lat" : 43.3147121,
+                  "lng" : 5.363922899999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

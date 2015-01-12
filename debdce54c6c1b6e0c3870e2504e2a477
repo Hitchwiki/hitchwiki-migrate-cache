@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emden",
+               "short_name" : "EMD",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Emden, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4085169,
+                  "lng" : 7.311350299999999
+               },
+               "southwest" : {
+                  "lat" : 53.3203344,
+                  "lng" : 6.9993579
+               }
+            },
+            "location" : {
+               "lat" : 53.35940290000001,
+               "lng" : 7.2060095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4085169,
+                  "lng" : 7.311350299999999
+               },
+               "southwest" : {
+                  "lat" : 53.3203344,
+                  "lng" : 6.9993579
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

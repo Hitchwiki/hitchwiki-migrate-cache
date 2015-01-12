@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wakkanai",
+               "short_name" : "Wakkanai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido Prefecture",
+               "short_name" : "Hokkaido Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wakkanai, Hokkaido Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5230216,
+                  "lng" : 142.0536905
+               },
+               "southwest" : {
+                  "lat" : 45.1690047,
+                  "lng" : 141.5682712
+               }
+            },
+            "location" : {
+               "lat" : 45.4156641,
+               "lng" : 141.6730822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5230216,
+                  "lng" : 142.0536905
+               },
+               "southwest" : {
+                  "lat" : 45.1690047,
+                  "lng" : 141.5682712
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

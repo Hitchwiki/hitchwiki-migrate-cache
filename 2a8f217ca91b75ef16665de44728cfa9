@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-26",
+               "short_name" : "A-26",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Girona",
+               "short_name" : "Girona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-26, Girona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2219527,
+                  "lng" : 2.7010447
+               },
+               "southwest" : {
+                  "lat" : 42.1923178,
+                  "lng" : 2.5015032
+               }
+            },
+            "location" : {
+               "lat" : 42.2146841,
+               "lng" : 2.6063485
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2219527,
+                  "lng" : 2.7010447
+               },
+               "southwest" : {
+                  "lat" : 42.1923178,
+                  "lng" : 2.5015032
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

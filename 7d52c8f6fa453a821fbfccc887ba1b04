@@ -1,0 +1,348 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Paul, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.992016,
+                  "lng" : -93.00431979999999
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.207787
+               }
+            },
+            "location" : {
+               "lat" : 44.9537029,
+               "lng" : -93.08995779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.992016,
+                  "lng" : -93.00431979999999
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.207787
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Collin County",
+               "short_name" : "Collin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75098",
+               "short_name" : "75098",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Paul, TX 75098, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.0567339,
+                  "lng" : -96.53269
+               },
+               "southwest" : {
+                  "lat" : 33.0301749,
+                  "lng" : -96.568428
+               }
+            },
+            "location" : {
+               "lat" : 33.0412307,
+               "lng" : -96.5502681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0567339,
+                  "lng" : -96.53269
+               },
+               "southwest" : {
+                  "lat" : 33.0301749,
+                  "lng" : -96.568428
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Howard County",
+               "short_name" : "Howard County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68873",
+               "short_name" : "68873",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Paul, NE 68873, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2220439,
+                  "lng" : -98.44686109999999
+               },
+               "southwest" : {
+                  "lat" : 41.2064891,
+                  "lng" : -98.47045
+               }
+            },
+            "location" : {
+               "lat" : 41.2147347,
+               "lng" : -98.4581247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2220439,
+                  "lng" : -98.44686109999999
+               },
+               "southwest" : {
+                  "lat" : 41.2064891,
+                  "lng" : -98.47045
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wise County",
+               "short_name" : "Wise County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Paul, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9173269,
+                  "lng" : -82.2985939
+               },
+               "southwest" : {
+                  "lat" : 36.893497,
+                  "lng" : -82.34486099999999
+               }
+            },
+            "location" : {
+               "lat" : 36.9063513,
+               "lng" : -82.31234379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9173269,
+                  "lng" : -82.2985939
+               },
+               "southwest" : {
+                  "lat" : 36.893497,
+                  "lng" : -82.34486099999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wentzville",
+               "short_name" : "Wentzville",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "St. Charles County",
+               "short_name" : "St Charles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Paul, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.882351,
+                  "lng" : -90.708219
+               },
+               "southwest" : {
+                  "lat" : 38.816927,
+                  "lng" : -90.772227
+               }
+            },
+            "location" : {
+               "lat" : 38.8614405,
+               "lng" : -90.741793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.882351,
+                  "lng" : -90.708219
+               },
+               "southwest" : {
+                  "lat" : 38.816927,
+                  "lng" : -90.772227
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marion County",
+               "short_name" : "Marion County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97137",
+               "short_name" : "97137",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint Paul, OR 97137, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.217535,
+                  "lng" : -122.9701689
+               },
+               "southwest" : {
+                  "lat" : 45.206392,
+                  "lng" : -122.9842611
+               }
+            },
+            "location" : {
+               "lat" : 45.21122949999999,
+               "lng" : -122.9767662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.217535,
+                  "lng" : -122.9701689
+               },
+               "southwest" : {
+                  "lat" : 45.206392,
+                  "lng" : -122.9842611
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

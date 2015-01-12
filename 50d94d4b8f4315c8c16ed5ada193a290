@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A2",
+               "short_name" : "A2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A2, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4556234,
+                  "lng" : 28.5705203
+               },
+               "southwest" : {
+                  "lat" : 44.13259970000001,
+                  "lng" : 26.2177536
+               }
+            },
+            "location" : {
+               "lat" : 44.4019286,
+               "lng" : 27.4178298
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4556234,
+                  "lng" : 28.5705203
+               },
+               "southwest" : {
+                  "lat" : 44.13259970000001,
+                  "lng" : 26.2177536
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

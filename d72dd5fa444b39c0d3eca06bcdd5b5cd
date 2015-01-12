@@ -1,0 +1,134 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shum",
+               "short_name" : "Shum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Municipality of Struga",
+               "short_name" : "Municipality of Struga",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Macedonia (FYROM)",
+               "short_name" : "MK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shum, Macedonia (FYROM)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1899718,
+                  "lng" : 20.6375582
+               },
+               "southwest" : {
+                  "lat" : 41.1772685,
+                  "lng" : 20.6304299
+               }
+            },
+            "location" : {
+               "lat" : 41.184386,
+               "lng" : 20.635064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1899718,
+                  "lng" : 20.6375582
+               },
+               "southwest" : {
+                  "lat" : 41.1772685,
+                  "lng" : 20.6304299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Choum",
+               "short_name" : "Choum",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Choum",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.3333333,
+               "lng" : -11.7666667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3346822802915,
+                  "lng" : -11.7653177197085
+               },
+               "southwest" : {
+                  "lat" : 27.3319843197085,
+                  "lng" : -11.76801568029151
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Choum",
+               "short_name" : "Choum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atar",
+               "short_name" : "Atar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adrar",
+               "short_name" : "Adrar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Choum, Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.3069675,
+                  "lng" : -13.055191
+               },
+               "southwest" : {
+                  "lat" : 21.2927332,
+                  "lng" : -13.0810262
+               }
+            },
+            "location" : {
+               "lat" : 21.2985046,
+               "lng" : -13.0673833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.3069675,
+                  "lng" : -13.055191
+               },
+               "southwest" : {
+                  "lat" : 21.2927332,
+                  "lng" : -13.0810262
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

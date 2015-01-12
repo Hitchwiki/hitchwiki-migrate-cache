@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A31",
+               "short_name" : "A31",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Friesland",
+               "short_name" : "Frater",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A31, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2072017,
+                  "lng" : 5.7190955
+               },
+               "southwest" : {
+                  "lat" : 53.1827655,
+                  "lng" : 5.4556741
+               }
+            },
+            "location" : {
+               "lat" : 53.1982412,
+               "lng" : 5.5892271
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2072017,
+                  "lng" : 5.7190955
+               },
+               "southwest" : {
+                  "lat" : 53.1827655,
+                  "lng" : 5.4556741
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

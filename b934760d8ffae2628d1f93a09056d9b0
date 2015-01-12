@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irbid",
+               "short_name" : "Irbid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Habaka",
+               "short_name" : "Habaka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irbid, Jordan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.5454418,
+               "lng" : 35.8571532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5548471,
+                  "lng" : 35.8731606
+               },
+               "southwest" : {
+                  "lat" : 32.5360355,
+                  "lng" : 35.8411458
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

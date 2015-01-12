@@ -1,0 +1,318 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga County",
+               "short_name" : "Cuyahoga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5992572,
+                  "lng" : -81.5327439
+               },
+               "southwest" : {
+                  "lat" : 41.390628,
+                  "lng" : -81.87897599999999
+               }
+            },
+            "location" : {
+               "lat" : 41.49932,
+               "lng" : -81.6943605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5992572,
+                  "lng" : -81.5327439
+               },
+               "southwest" : {
+                  "lat" : 41.390628,
+                  "lng" : -81.87897599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bradley County",
+               "short_name" : "Bradley County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2419491,
+                  "lng" : -84.8043539
+               },
+               "southwest" : {
+                  "lat" : 35.1189749,
+                  "lng" : -84.95899489999999
+               }
+            },
+            "location" : {
+               "lat" : 35.1595182,
+               "lng" : -84.8766115
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2419491,
+                  "lng" : -84.8043539
+               },
+               "southwest" : {
+                  "lat" : 35.1189749,
+                  "lng" : -84.95899489999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liberty County",
+               "short_name" : "Liberty County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.371038,
+                  "lng" : -95.005889
+               },
+               "southwest" : {
+                  "lat" : 30.3149541,
+                  "lng" : -95.1210421
+               }
+            },
+            "location" : {
+               "lat" : 30.34132,
+               "lng" : -95.0854885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.371038,
+                  "lng" : -95.005889
+               },
+               "southwest" : {
+                  "lat" : 30.3149541,
+                  "lng" : -95.1210421
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "White County",
+               "short_name" : "White County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30528",
+               "short_name" : "30528",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, GA 30528, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.613912,
+                  "lng" : -83.7342369
+               },
+               "southwest" : {
+                  "lat" : 34.5799419,
+                  "lng" : -83.780884
+               }
+            },
+            "location" : {
+               "lat" : 34.5970402,
+               "lng" : -83.7632366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.613912,
+                  "lng" : -83.7342369
+               },
+               "southwest" : {
+                  "lat" : 34.5799419,
+                  "lng" : -83.780884
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pawnee County",
+               "short_name" : "Pawnee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.3257761,
+                  "lng" : -96.42949
+               },
+               "southwest" : {
+                  "lat" : 36.2675149,
+                  "lng" : -96.4857349
+               }
+            },
+            "location" : {
+               "lat" : 36.3100688,
+               "lng" : -96.4641886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3257761,
+                  "lng" : -96.42949
+               },
+               "southwest" : {
+                  "lat" : 36.2675149,
+                  "lng" : -96.4857349
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greenville County",
+               "short_name" : "Greenville County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, SC, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0715404,
+               "lng" : -82.5215721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0728893802915,
+                  "lng" : -82.52022311970849
+               },
+               "southwest" : {
+                  "lat" : 35.0701914197085,
+                  "lng" : -82.52292108029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Travemünde",
+               "short_name" : "Travemünde",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lübeck",
+               "short_name" : "Lübeck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Travemünde, Lübeck, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9938391,
+                  "lng" : 10.90358
+               },
+               "southwest" : {
+                  "lat" : 53.928292,
+                  "lng" : 10.8163191
+               }
+            },
+            "location" : {
+               "lat" : 53.966667,
+               "lng" : 10.866667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9938391,
+                  "lng" : 10.90358
+               },
+               "southwest" : {
+                  "lat" : 53.928292,
+                  "lng" : 10.8163191
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

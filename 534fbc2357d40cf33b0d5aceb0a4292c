@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A480",
+               "short_name" : "A480",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Isère",
+               "short_name" : "38",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A480, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.21804410000001,
+                  "lng" : 5.7029553
+               },
+               "southwest" : {
+                  "lat" : 45.116469,
+                  "lng" : 5.6758426
+               }
+            },
+            "location" : {
+               "lat" : 45.167056,
+               "lng" : 5.701738
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.21804410000001,
+                  "lng" : 5.7029553
+               },
+               "southwest" : {
+                  "lat" : 45.116469,
+                  "lng" : 5.6758426
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

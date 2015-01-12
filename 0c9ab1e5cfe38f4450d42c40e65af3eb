@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paderborn",
+               "short_name" : "Paderborn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paderborn",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Detmold",
+               "short_name" : "Detmold",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paderborn, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8009578,
+                  "lng" : 8.900563699999999
+               },
+               "southwest" : {
+                  "lat" : 51.654255,
+                  "lng" : 8.636301399999999
+               }
+            },
+            "location" : {
+               "lat" : 51.7189205,
+               "lng" : 8.757509299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8009578,
+                  "lng" : 8.900563699999999
+               },
+               "southwest" : {
+                  "lat" : 51.654255,
+                  "lng" : 8.636301399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

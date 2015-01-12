@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A8",
+               "short_name" : "A8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A8, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4947011,
+                  "lng" : 12.9433134
+               },
+               "southwest" : {
+                  "lat" : 47.7660152,
+                  "lng" : 6.3682384
+               }
+            },
+            "location" : {
+               "lat" : 48.60775539999999,
+               "lng" : 9.631489799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4947011,
+                  "lng" : 12.9433134
+               },
+               "southwest" : {
+                  "lat" : 47.7660152,
+                  "lng" : 6.3682384
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

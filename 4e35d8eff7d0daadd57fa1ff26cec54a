@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A49",
+               "short_name" : "A49",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kassel",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A49, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2873254,
+                  "lng" : 9.5293878
+               },
+               "southwest" : {
+                  "lat" : 51.0025366,
+                  "lng" : 9.2012204
+               }
+            },
+            "location" : {
+               "lat" : 51.17370769999999,
+               "lng" : 9.342980499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2873254,
+                  "lng" : 9.5293878
+               },
+               "southwest" : {
+                  "lat" : 51.0025366,
+                  "lng" : 9.2012204
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

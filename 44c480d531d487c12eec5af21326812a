@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M10",
+               "short_name" : "M10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M10, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.9343274,
+                  "lng" : 37.5662406
+               },
+               "southwest" : {
+                  "lat" : 55.7858126,
+                  "lng" : 30.33511369999999
+               }
+            },
+            "location" : {
+               "lat" : 57.8028249,
+               "lng" : 33.8621722
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.9343274,
+                  "lng" : 37.5662406
+               },
+               "southwest" : {
+                  "lat" : 55.7858126,
+                  "lng" : 30.33511369999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

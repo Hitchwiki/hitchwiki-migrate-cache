@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Asia",
+               "short_name" : "Central Asia",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Asia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.441984,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 35.12876,
+                  "lng" : 46.493672
+               }
+            },
+            "location" : {
+               "lat" : 45.4506875,
+               "lng" : 68.8319005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.441984,
+                  "lng" : 87.315415
+               },
+               "southwest" : {
+                  "lat" : 35.12876,
+                  "lng" : 46.493672
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

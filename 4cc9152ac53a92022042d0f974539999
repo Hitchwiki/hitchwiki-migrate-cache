@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Pedro",
+               "short_name" : "San Pedro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belize",
+               "short_name" : "BZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Pedro, Belize",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.9303907,
+                  "lng" : -87.95702829999999
+               },
+               "southwest" : {
+                  "lat" : 17.8978654,
+                  "lng" : -87.99671169999999
+               }
+            },
+            "location" : {
+               "lat" : 17.9213664,
+               "lng" : -87.9610905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.9303907,
+                  "lng" : -87.95702829999999
+               },
+               "southwest" : {
+                  "lat" : 17.8978654,
+                  "lng" : -87.99671169999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

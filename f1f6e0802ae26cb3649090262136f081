@@ -1,0 +1,265 @@
+{
+  "totalResultsCount": 6,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "Terceira",
+          "lang": "ca"
+        },
+        {
+          "name": "Terceira",
+          "lang": "de"
+        },
+        {
+          "name": "Terceira Island",
+          "lang": "en"
+        },
+        {
+          "name": "Terceira",
+          "lang": "es"
+        },
+        {
+          "name": "Terceira",
+          "lang": "et"
+        },
+        {
+          "name": "Terceira",
+          "lang": "fi"
+        },
+        {
+          "name": "Île de Terceira",
+          "lang": "fr"
+        },
+        {
+          "name": "TER",
+          "lang": "iata"
+        },
+        {
+          "name": "Terceira",
+          "lang": "it"
+        },
+        {
+          "name": "テルセイラ島",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Terceira_Island",
+          "lang": "link"
+        },
+        {
+          "name": "Terceira",
+          "lang": "nl"
+        },
+        {
+          "name": "Ilha Terceira",
+          "lang": "pt"
+        },
+        {
+          "name": "Terceira",
+          "lang": "sv"
+        }
+      ],
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 64.27239990234375,
+      "lng": "-27.21667",
+      "adminName2": "",
+      "fcodeName": "island",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 38.6389856484009,
+        "east": -27.0412065000529,
+        "north": 38.8034312814906,
+        "west": -27.3794528389003
+      },
+      "name": "Terceira Island",
+      "fcode": "ISL",
+      "geonameId": 3372530,
+      "asciiName": "Terceira Island",
+      "lat": "38.71667",
+      "population": 0,
+      "adminName1": "Azores",
+      "countryId": "2264397",
+      "adminId1": "3411865",
+      "fclName": "mountain,hill,rock,... ",
+      "countryCode": "PT",
+      "toponymName": "Terceira Island",
+      "fcl": "T",
+      "continentCode": "EU"
+    },
+    {
+      "countryId": "2300660",
+      "adminCode1": "00",
+      "countryName": "Ghana",
+      "cc2": "GH",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 27.830766677856445,
+      "countryCode": "GH",
+      "lng": "-2.2",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "point",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Accra"
+      },
+      "toponymName": "Terceira Point",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "AF",
+      "name": "Terceira Point",
+      "fcode": "PT",
+      "asciiName": "Terceira Point",
+      "geonameId": 2294670,
+      "lat": "4.83333",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "adminId1": "3411865",
+      "countryId": "2264397",
+      "adminCode1": "23",
+      "countryName": "Portugal",
+      "fclName": "country, state, region,...",
+      "score": 26.51101303100586,
+      "countryCode": "PT",
+      "lng": "-27.20901",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "administrative division",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "toponymName": "Terceira (Azoren)",
+      "adminName5": "",
+      "fcl": "A",
+      "continentCode": "EU",
+      "name": "Terceira (Azoren)",
+      "fcode": "ADMD",
+      "asciiName": "Terceira (Azoren)",
+      "geonameId": 6692428,
+      "lat": "38.72623",
+      "adminName1": "Azores",
+      "population": 0
+    },
+    {
+      "adminCode2": "3530102",
+      "countryName": "Brazil",
+      "adminCode1": "27",
+      "score": 15.149149894714355,
+      "lng": "-51.05",
+      "adminName2": "Mirandópolis",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -3,
+        "gmtOffset": -2,
+        "timeZoneId": "America/Sao_Paulo"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": -20.94232694875143,
+        "east": -51.0403713703748,
+        "north": -20.924339651248573,
+        "west": -51.059628629625195
+      },
+      "name": "Terceira Aliança",
+      "fcode": "PPL",
+      "geonameId": 3446620,
+      "asciiName": "Terceira Alianca",
+      "lat": "-20.93333",
+      "population": 0,
+      "adminName1": "São Paulo",
+      "countryId": "3469034",
+      "adminId1": "3448433",
+      "fclName": "city, village,...",
+      "countryCode": "BR",
+      "adminId2": "6322381",
+      "toponymName": "Terceira Aliança",
+      "fcl": "P",
+      "continentCode": "SA"
+    },
+    {
+      "adminCode3": "430112",
+      "adminCode2": "4301",
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 3.3138766288757324,
+      "lng": "-27.19953",
+      "adminName2": "Angra do Heroísmo Municipality",
+      "fcodeName": "hotel",
+      "adminName3": "Ribeirinha",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Terceira Mar",
+      "fcode": "HTL",
+      "geonameId": 6469743,
+      "asciiName": "Terceira Mar",
+      "lat": "38.65432",
+      "population": 0,
+      "adminName1": "Azores",
+      "countryId": "2264397",
+      "adminId1": "3411865",
+      "fclName": "spot, building, farm",
+      "countryCode": "PT",
+      "adminId3": "8013476",
+      "adminId2": "8010691",
+      "toponymName": "Terceira Mar",
+      "fcl": "S",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "430104",
+      "adminCode2": "4301",
+      "countryName": "Portugal",
+      "adminCode1": "23",
+      "score": 3.3138766288757324,
+      "lng": "-27.2293",
+      "adminName2": "Angra do Heroísmo Municipality",
+      "fcodeName": "hotel",
+      "adminName3": "Angra (São Pedro)",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": -1,
+        "timeZoneId": "Atlantic/Azores"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Terceira Mar Hotel",
+      "fcode": "HTL",
+      "geonameId": 6498527,
+      "asciiName": "Terceira Mar Hotel",
+      "lat": "38.6614",
+      "population": 0,
+      "adminName1": "Azores",
+      "countryId": "2264397",
+      "adminId1": "3411865",
+      "fclName": "spot, building, farm",
+      "countryCode": "PT",
+      "adminId3": "8013468",
+      "adminId2": "8010691",
+      "toponymName": "Terceira Mar Hotel",
+      "fcl": "S",
+      "continentCode": "EU"
+    }
+  ]
+}

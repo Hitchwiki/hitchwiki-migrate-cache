@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bamberg",
+               "short_name" : "BA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Franconia",
+               "short_name" : "Upper Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bamberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9286322,
+                  "lng" : 10.9607048
+               },
+               "southwest" : {
+                  "lat" : 49.84264590000001,
+                  "lng" : 10.8265043
+               }
+            },
+            "location" : {
+               "lat" : 49.8988135,
+               "lng" : 10.9027636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9286322,
+                  "lng" : 10.9607048
+               },
+               "southwest" : {
+                  "lat" : 49.84264590000001,
+                  "lng" : 10.8265043
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

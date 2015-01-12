@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaliningrad Oblast",
+               "short_name" : "Kaliningrad Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaliningrad Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.2944458,
+                  "lng" : 22.886888
+               },
+               "southwest" : {
+                  "lat" : 54.318845,
+                  "lng" : 19.6388526
+               }
+            },
+            "location" : {
+               "lat" : 54.8235292,
+               "lng" : 21.4816163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2944458,
+                  "lng" : 22.886888
+               },
+               "southwest" : {
+                  "lat" : 54.318845,
+                  "lng" : 19.6388526
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

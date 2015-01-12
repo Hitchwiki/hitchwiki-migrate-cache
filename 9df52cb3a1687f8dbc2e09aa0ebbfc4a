@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geraldton",
+               "short_name" : "Geraldton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6530",
+               "short_name" : "6530",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Geraldton WA 6530, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.764014,
+                  "lng" : 114.6261147
+               },
+               "southwest" : {
+                  "lat" : -28.7887551,
+                  "lng" : 114.6017753
+               }
+            },
+            "location" : {
+               "lat" : -28.7732192,
+               "lng" : 114.6096326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.764014,
+                  "lng" : 114.6261147
+               },
+               "southwest" : {
+                  "lat" : -28.7887551,
+                  "lng" : 114.6017753
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geraldton",
+               "short_name" : "Geraldton",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Geraldton WA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.6618538,
+                  "lng" : 114.7274
+               },
+               "southwest" : {
+                  "lat" : -28.8817976,
+                  "lng" : 114.5773201
+               }
+            },
+            "location" : {
+               "lat" : -28.7685035,
+               "lng" : 114.6549185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.6618538,
+                  "lng" : 114.7274
+               },
+               "southwest" : {
+                  "lat" : -28.8817976,
+                  "lng" : 114.5773201
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

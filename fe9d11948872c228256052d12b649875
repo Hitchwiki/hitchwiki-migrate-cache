@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A270",
+               "short_name" : "A270",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bremen",
+               "short_name" : "Bremen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A270, Bremen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.19473139999999,
+                  "lng" : 8.709513099999999
+               },
+               "southwest" : {
+                  "lat" : 53.1717835,
+                  "lng" : 8.562004
+               }
+            },
+            "location" : {
+               "lat" : 53.1788181,
+               "lng" : 8.6297511
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.19473139999999,
+                  "lng" : 8.709513099999999
+               },
+               "southwest" : {
+                  "lat" : 53.1717835,
+                  "lng" : 8.562004
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

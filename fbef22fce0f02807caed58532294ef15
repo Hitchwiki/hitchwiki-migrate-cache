@@ -1,0 +1,92 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "adminCode1": "00",
+      "lng": "35.45",
+      "geonameId": 269583,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Beirut",
+        "dstOffset": 3
+      },
+      "toponymName": "Qal‘at al Aqwā‘",
+      "asciiName": "Qal`at al Aqwa`",
+      "countryId": "272103",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 13.884918212890625,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "LB",
+      "name": "Qal‘at al Aqwā‘",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Lebanon",
+      "fcodeName": "hill",
+      "adminName1": "",
+      "lat": "33.48333",
+      "fcode": "HLL",
+      "continentCode": "AS"
+    },
+    {
+      "lng": "41.03394",
+      "geonameId": 7648634,
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi",
+        "dstOffset": 4
+      },
+      "toponymName": "Aqwa Mediumwave Transmitter",
+      "asciiName": "Aqwa Mediumwave Transmitter",
+      "countryId": "614540",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 6.872684478759766,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "GE",
+      "name": "Aqwa Mediumwave Transmitter",
+      "fclName": "spot, building, farm",
+      "countryName": "Georgia",
+      "fcodeName": "tower",
+      "adminName1": "",
+      "lat": "43.01082",
+      "fcode": "TOWR",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode1": "13",
+      "lng": "27.83344",
+      "geonameId": 361654,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Cairo",
+        "dstOffset": 3
+      },
+      "toponymName": "‘Ayn al ‘Akwah",
+      "asciiName": "`Ayn al `Akwah",
+      "countryId": "357994",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 4.909060478210449,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "EG",
+      "name": "‘Ayn al ‘Akwah",
+      "fclName": "stream, lake, ...",
+      "countryName": "Egypt",
+      "fcodeName": "spring(s)",
+      "adminId1": "360483",
+      "adminName1": "Muḩāfaz̧at al Wādī al Jadīd",
+      "lat": "26.77652",
+      "fcode": "SPNG",
+      "continentCode": "AF"
+    }
+  ]
+}

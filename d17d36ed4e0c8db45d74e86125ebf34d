@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caldas",
+               "short_name" : "Caldas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manizales, Caldas, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.165890000000001,
+                  "lng" : -75.31775999999999
+               },
+               "southwest" : {
+                  "lat" : 4.98224,
+                  "lng" : -75.67757999999999
+               }
+            },
+            "location" : {
+               "lat" : 5.067132,
+               "lng" : -75.518288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.165890000000001,
+                  "lng" : -75.31775999999999
+               },
+               "southwest" : {
+                  "lat" : 4.98224,
+                  "lng" : -75.67757999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caldas",
+               "short_name" : "Caldas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manizales, Manizales, Caldas, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.067979999999999,
+               "lng" : -75.51738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.069328980291502,
+                  "lng" : -75.51603101970851
+               },
+               "southwest" : {
+                  "lat" : 5.066631019708497,
+                  "lng" : -75.51872898029151
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

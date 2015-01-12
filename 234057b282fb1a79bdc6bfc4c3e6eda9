@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7488784,
+                  "lng" : 29.6451476
+               },
+               "southwest" : {
+                  "lat" : 34.8010211,
+                  "lng" : 19.3724227
+               }
+            },
+            "location" : {
+               "lat" : 39.074208,
+               "lng" : 21.824312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7488784,
+                  "lng" : 28.2469559
+               },
+               "southwest" : {
+                  "lat" : 34.8010211,
+                  "lng" : 19.3735874
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laredo",
+               "short_name" : "Laredo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Webb County",
+               "short_name" : "Webb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laredo, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7250191,
+                  "lng" : -99.33003989999999
+               },
+               "southwest" : {
+                  "lat" : 27.366739,
+                  "lng" : -99.740377
+               }
+            },
+            "location" : {
+               "lat" : 27.5305671,
+               "lng" : -99.48032409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7250191,
+                  "lng" : -99.33003989999999
+               },
+               "southwest" : {
+                  "lat" : 27.366739,
+                  "lng" : -99.740377
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laredo",
+               "short_name" : "Laredo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilson",
+               "short_name" : "Wilson",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Grundy County",
+               "short_name" : "Grundy County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64652",
+               "short_name" : "64652",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laredo, MO 64652, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.031023,
+                  "lng" : -93.44238
+               },
+               "southwest" : {
+                  "lat" : 40.020371,
+                  "lng" : -93.455254
+               }
+            },
+            "location" : {
+               "lat" : 40.0255722,
+               "lng" : -93.4466027
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.031023,
+                  "lng" : -93.44238
+               },
+               "southwest" : {
+                  "lat" : 40.020371,
+                  "lng" : -93.455254
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

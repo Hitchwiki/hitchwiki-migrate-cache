@@ -1,0 +1,212 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Fe County",
+               "short_name" : "Santa Fe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Fe, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7540089,
+                  "lng" : -105.894186
+               },
+               "southwest" : {
+                  "lat" : 35.6109779,
+                  "lng" : -106.0718861
+               }
+            },
+            "location" : {
+               "lat" : 35.6869752,
+               "lng" : -105.937799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7540089,
+                  "lng" : -105.894186
+               },
+               "southwest" : {
+                  "lat" : 35.6109779,
+                  "lng" : -106.0718861
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galveston County",
+               "short_name" : "Galveston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Fe, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4296259,
+                  "lng" : -95.049268
+               },
+               "southwest" : {
+                  "lat" : 29.349821,
+                  "lng" : -95.192341
+               }
+            },
+            "location" : {
+               "lat" : 29.3780129,
+               "lng" : -95.1057625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4296259,
+                  "lng" : -95.049268
+               },
+               "southwest" : {
+                  "lat" : 29.349821,
+                  "lng" : -95.192341
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Fork",
+               "short_name" : "South Fork",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65282",
+               "short_name" : "65282",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Santa Fe, MO 65282, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.36892890000001,
+               "lng" : -91.8190537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.37027788029151,
+                  "lng" : -91.81770471970849
+               },
+               "southwest" : {
+                  "lat" : 39.36757991970851,
+                  "lng" : -91.82040268029149
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maury County",
+               "short_name" : "Maury County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38482",
+               "short_name" : "38482",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Santa Fe, TN 38482, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.735069,
+               "lng" : -87.12806259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7364179802915,
+                  "lng" : -87.1267136197085
+               },
+               "southwest" : {
+                  "lat" : 35.7337200197085,
+                  "lng" : -87.1294115802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

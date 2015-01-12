@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A22",
+               "short_name" : "A22",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A22, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4842647,
+                  "lng" : 4.687285699999999
+               },
+               "southwest" : {
+                  "lat" : 52.4497623,
+                  "lng" : 4.6516974
+               }
+            },
+            "location" : {
+               "lat" : 52.4645132,
+               "lng" : 4.6537859
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4842647,
+                  "lng" : 4.687285699999999
+               },
+               "southwest" : {
+                  "lat" : 52.4497623,
+                  "lng" : 4.6516974
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

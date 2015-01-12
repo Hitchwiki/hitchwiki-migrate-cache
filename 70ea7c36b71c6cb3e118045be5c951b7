@@ -1,0 +1,98 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Montreal-Pierre Elliott Trudeau International Airport",
+      "countryId": "6251999",
+      "fcl": "S",
+      "score": 39.574676513671875,
+      "adminId2": "6077246",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "45.46106",
+      "fcode": "AIRP",
+      "continentCode": "NA",
+      "elevation": 35,
+      "adminCode2": "06",
+      "adminCode1": "10",
+      "lng": "-73.75019",
+      "geonameId": 6296296,
+      "toponymName": "Montréal-Pierre Elliott Trudeau International Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Aéroport international Pierre-Elliott-Trudeau de Montréal",
+          "lang": "de"
+        },
+        {
+          "name": "Montréal-Trudeau Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport international Pierre-Elliott-Trudeau de Montréal",
+          "lang": "fr"
+        },
+        {
+          "name": "YUL",
+          "lang": "iata"
+        },
+        {
+          "name": "CYUL",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Pierre_Elliott_Trudeau_International_Airport",
+          "lang": "link"
+        },
+        {
+          "name": "YUL",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Montréal",
+      "name": "Montréal-Trudeau Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Canada",
+      "fcodeName": "airport",
+      "adminName1": "Quebec"
+    },
+    {
+      "adminCode1": "10",
+      "lng": "-73.86586",
+      "geonameId": 6098072,
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "toponymName": "Parc Pierre-Elliott-Trudeau",
+      "asciiName": "Parc Pierre-Elliott-Trudeau",
+      "countryId": "6251999",
+      "fcl": "L",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 16.998851776123047,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "CA",
+      "name": "Parc Pierre-Elliott-Trudeau",
+      "fclName": "parks,area, ...",
+      "countryName": "Canada",
+      "fcodeName": "park",
+      "adminId1": "6115047",
+      "adminName1": "Quebec",
+      "lat": "45.48341",
+      "fcode": "PRK",
+      "continentCode": "NA"
+    }
+  ]
+}

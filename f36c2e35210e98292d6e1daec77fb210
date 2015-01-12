@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lorca",
+               "short_name" : "Lorca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lorca",
+               "short_name" : "Lorca",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Alto Guadalentín",
+               "short_name" : "Alto Guadalentín",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Murcia",
+               "short_name" : "MU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de Murcia",
+               "short_name" : "Región de Murcia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lorca, Murcia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.6940707,
+                  "lng" : -1.6769387
+               },
+               "southwest" : {
+                  "lat" : 37.659529,
+                  "lng" : -1.71202
+               }
+            },
+            "location" : {
+               "lat" : 37.6735925,
+               "lng" : -1.6968357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6940707,
+                  "lng" : -1.6769387
+               },
+               "southwest" : {
+                  "lat" : 37.659529,
+                  "lng" : -1.71202
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

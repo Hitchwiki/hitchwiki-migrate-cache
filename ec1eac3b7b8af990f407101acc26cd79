@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B54",
+               "short_name" : "B54",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "B54, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1961987,
+                  "lng" : 8.274691499999999
+               },
+               "southwest" : {
+                  "lat" : 50.0641213,
+                  "lng" : 6.9621446
+               }
+            },
+            "location" : {
+               "lat" : 51.1299424,
+               "lng" : 7.617408499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1961987,
+                  "lng" : 8.274691499999999
+               },
+               "southwest" : {
+                  "lat" : 50.0641213,
+                  "lng" : 6.9621446
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

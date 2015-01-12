@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liepāja",
+               "short_name" : "Liepāja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liepājas pilsēta",
+               "short_name" : "Liepājas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Liepājas pilsēta",
+               "short_name" : "Liepājas pilsēta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liepāja, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.60919999999999,
+                  "lng" : 21.1057334
+               },
+               "southwest" : {
+                  "lat" : 56.464691,
+                  "lng" : 20.971237
+               }
+            },
+            "location" : {
+               "lat" : 56.5056345,
+               "lng" : 21.0119058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.60919999999999,
+                  "lng" : 21.1057334
+               },
+               "southwest" : {
+                  "lat" : 56.464691,
+                  "lng" : 20.971237
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

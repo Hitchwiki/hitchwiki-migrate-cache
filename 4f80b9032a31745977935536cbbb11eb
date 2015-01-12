@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazanluk",
+               "short_name" : "Kazanluk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kazanlak",
+               "short_name" : "Kazanlak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Stara Zagora",
+               "short_name" : "Stara Zagora",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kazanluk, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6472598,
+                  "lng" : 25.4634554
+               },
+               "southwest" : {
+                  "lat" : 42.6031658,
+                  "lng" : 25.3637544
+               }
+            },
+            "location" : {
+               "lat" : 42.6194408,
+               "lng" : 25.3929576
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6472598,
+                  "lng" : 25.4634554
+               },
+               "southwest" : {
+                  "lat" : 42.6031658,
+                  "lng" : 25.3637544
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

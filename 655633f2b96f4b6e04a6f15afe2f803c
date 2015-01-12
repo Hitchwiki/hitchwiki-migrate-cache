@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South America",
+               "short_name" : "South America",
+               "types" : [ "continent", "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "South America",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.0771914,
+                  "lng" : -32.5854
+               },
+               "southwest" : {
+                  "lat" : -56.5474,
+                  "lng" : -93.97709999999999
+               }
+            },
+            "location" : {
+               "lat" : -8.783194999999999,
+               "lng" : -55.491477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0771914,
+                  "lng" : -32.5854
+               },
+               "southwest" : {
+                  "lat" : -56.5474,
+                  "lng" : -93.97709999999999
+               }
+            }
+         },
+         "types" : [ "continent", "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

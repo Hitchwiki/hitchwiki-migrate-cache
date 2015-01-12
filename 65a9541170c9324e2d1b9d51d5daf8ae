@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A210",
+               "short_name" : "A210",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A210, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3199568,
+                  "lng" : 10.0493253
+               },
+               "southwest" : {
+                  "lat" : 54.2935629,
+                  "lng" : 9.716654499999999
+               }
+            },
+            "location" : {
+               "lat" : 54.3140144,
+               "lng" : 9.8847003
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3199568,
+                  "lng" : 10.0493253
+               },
+               "southwest" : {
+                  "lat" : 54.2935629,
+                  "lng" : 9.716654499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A20",
+               "short_name" : "A20",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A20, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0251293,
+                  "lng" : 4.6653006
+               },
+               "southwest" : {
+                  "lat" : 51.9174049,
+                  "lng" : 4.230767999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.9398652,
+               "lng" : 4.4655941
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0251293,
+                  "lng" : 4.6653006
+               },
+               "southwest" : {
+                  "lat" : 51.9174049,
+                  "lng" : 4.230767999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

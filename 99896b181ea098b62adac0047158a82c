@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A502",
+               "short_name" : "A502",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aubagne",
+               "short_name" : "Aubagne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhône",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13400",
+               "short_name" : "13400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A502, 13400 Aubagne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2840844,
+                  "lng" : 5.593635600000001
+               },
+               "southwest" : {
+                  "lat" : 43.2825251,
+                  "lng" : 5.574029299999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2835578,
+               "lng" : 5.5837943
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2846537302915,
+                  "lng" : 5.593635600000001
+               },
+               "southwest" : {
+                  "lat" : 43.2819557697085,
+                  "lng" : 5.574029299999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

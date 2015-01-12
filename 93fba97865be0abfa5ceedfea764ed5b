@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pitești",
+               "short_name" : "Pitești",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pitesti",
+               "short_name" : "Pitesti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Argeș County",
+               "short_name" : "AG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pitești, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8945678,
+                  "lng" : 24.9402094
+               },
+               "southwest" : {
+                  "lat" : 44.8173722,
+                  "lng" : 24.8067963
+               }
+            },
+            "location" : {
+               "lat" : 44.860556,
+               "lng" : 24.867778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8945678,
+                  "lng" : 24.9402094
+               },
+               "southwest" : {
+                  "lat" : 44.8173722,
+                  "lng" : 24.8067963
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

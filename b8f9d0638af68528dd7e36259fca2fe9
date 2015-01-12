@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Europe",
+               "short_name" : "Northern Europe",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Europe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 80.92842569999999,
+                  "lng" : 34.8046879
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -26.2572999
+               }
+            },
+            "location" : {
+               "lat" : 62.27864750000001,
+               "lng" : 12.3401708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 80.92842569999999,
+                  "lng" : 34.8046879
+               },
+               "southwest" : {
+                  "lat" : 49.1582,
+                  "lng" : -26.2572999
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

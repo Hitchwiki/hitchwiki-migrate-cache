@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parassapuszta",
+               "short_name" : "Parassapuszta",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hont",
+               "short_name" : "Hont",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Balassagyarmati",
+               "short_name" : "Balassagyarmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nógrád County",
+               "short_name" : "Nógrád County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hont, Parassapuszta, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.058355,
+                  "lng" : 18.970784
+               },
+               "southwest" : {
+                  "lat" : 48.054923,
+                  "lng" : 18.9635759
+               }
+            },
+            "location" : {
+               "lat" : 48.0566409,
+               "lng" : 18.967171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.058355,
+                  "lng" : 18.970784
+               },
+               "southwest" : {
+                  "lat" : 48.054923,
+                  "lng" : 18.9635759
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

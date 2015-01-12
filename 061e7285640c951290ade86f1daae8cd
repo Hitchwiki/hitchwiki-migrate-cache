@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lübeck",
+               "short_name" : "Lübeck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lübeck, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9939619,
+                  "lng" : 10.9686269
+               },
+               "southwest" : {
+                  "lat" : 53.7680394,
+                  "lng" : 10.5541229
+               }
+            },
+            "location" : {
+               "lat" : 53.8654673,
+               "lng" : 10.6865593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9939619,
+                  "lng" : 10.9686269
+               },
+               "southwest" : {
+                  "lat" : 53.7680394,
+                  "lng" : 10.5541229
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

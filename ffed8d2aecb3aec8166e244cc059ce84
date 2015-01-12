@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meghri",
+               "short_name" : "Meghri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Syunik",
+               "short_name" : "Syunik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meghri, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9228919,
+                  "lng" : 46.2931252
+               },
+               "southwest" : {
+                  "lat" : 38.88283190000001,
+                  "lng" : 46.2297392
+               }
+            },
+            "location" : {
+               "lat" : 38.90222199999999,
+               "lng" : 46.238333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9228919,
+                  "lng" : 46.2931252
+               },
+               "southwest" : {
+                  "lat" : 38.88283190000001,
+                  "lng" : 46.2297392
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

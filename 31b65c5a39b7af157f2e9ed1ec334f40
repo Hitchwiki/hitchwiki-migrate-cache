@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zielona Gora",
+               "short_name" : "Zielona Gora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Zielona Góra",
+               "short_name" : "Gmina Zielona Góra",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Zielona Gora",
+               "short_name" : "Zielona Gora",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zielona Gora, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9867939,
+                  "lng" : 15.585374
+               },
+               "southwest" : {
+                  "lat" : 51.888703,
+                  "lng" : 15.4381793
+               }
+            },
+            "location" : {
+               "lat" : 51.9356214,
+               "lng" : 15.5061862
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9867939,
+                  "lng" : 15.585374
+               },
+               "southwest" : {
+                  "lat" : 51.888703,
+                  "lng" : 15.4381793
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

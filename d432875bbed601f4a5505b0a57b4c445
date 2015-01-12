@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sylt",
+               "short_name" : "Sylt",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sylt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.058347,
+                  "lng" : 8.4898197
+               },
+               "southwest" : {
+                  "lat" : 54.7400959,
+                  "lng" : 8.2785115
+               }
+            },
+            "location" : {
+               "lat" : 54.90827909999999,
+               "lng" : 8.3179854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.058347,
+                  "lng" : 8.4898197
+               },
+               "southwest" : {
+                  "lat" : 54.7400959,
+                  "lng" : 8.2785115
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

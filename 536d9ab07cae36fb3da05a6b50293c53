@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ryazan",
+               "short_name" : "Ryazan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Ryazan'",
+               "short_name" : "g. Ryazan'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ryazan, Ryazan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.807206,
+                  "lng" : 39.8542769
+               },
+               "southwest" : {
+                  "lat" : 54.5286759,
+                  "lng" : 39.533484
+               }
+            },
+            "location" : {
+               "lat" : 54.6095418,
+               "lng" : 39.7125857
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.701468,
+                  "lng" : 39.853053
+               },
+               "southwest" : {
+                  "lat" : 54.5286759,
+                  "lng" : 39.533484
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

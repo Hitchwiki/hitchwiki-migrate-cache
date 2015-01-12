@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chelyabinsk",
+               "short_name" : "Chelyabinsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Chelyabinsk",
+               "short_name" : "g. Chelyabinsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chelyabinsk Oblast",
+               "short_name" : "Chelyabinsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chelyabinsk, Chelyabinsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.31864599999999,
+                  "lng" : 61.59090599999999
+               },
+               "southwest" : {
+                  "lat" : 54.98581369999999,
+                  "lng" : 61.2262351
+               }
+            },
+            "location" : {
+               "lat" : 55.1644419,
+               "lng" : 61.4368431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.31864599999999,
+                  "lng" : 61.59090599999999
+               },
+               "southwest" : {
+                  "lat" : 54.98581369999999,
+                  "lng" : 61.2262351
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

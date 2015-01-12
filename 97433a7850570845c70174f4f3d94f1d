@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alghero",
+               "short_name" : "Alghero",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alghero",
+               "short_name" : "Alghero",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sassari",
+               "short_name" : "SS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sardegna",
+               "short_name" : "Sardegna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alghero SS, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5909388,
+                  "lng" : 8.338674599999999
+               },
+               "southwest" : {
+                  "lat" : 40.5410121,
+                  "lng" : 8.305165299999999
+               }
+            },
+            "location" : {
+               "lat" : 40.5579517,
+               "lng" : 8.319294900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5909388,
+                  "lng" : 8.338674599999999
+               },
+               "southwest" : {
+                  "lat" : 40.5410121,
+                  "lng" : 8.305165299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

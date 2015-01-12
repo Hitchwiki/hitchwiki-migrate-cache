@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gdańsk",
+               "short_name" : "Gdańsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gdańsk",
+               "short_name" : "Gdańsk",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gdańsk",
+               "short_name" : "Gdańsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pomeranian Voivodeship",
+               "short_name" : "Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gdańsk, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.44721879999999,
+                  "lng" : 18.9512795
+               },
+               "southwest" : {
+                  "lat" : 54.27495589999999,
+                  "lng" : 18.4287748
+               }
+            },
+            "location" : {
+               "lat" : 54.35202520000001,
+               "lng" : 18.6466384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.44721879999999,
+                  "lng" : 18.9512795
+               },
+               "southwest" : {
+                  "lat" : 54.27495589999999,
+                  "lng" : 18.4287748
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Vega de Granada",
+               "short_name" : "Vega de Granada",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Granada, Granada, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2124648,
+                  "lng" : -3.5505714
+               },
+               "southwest" : {
+                  "lat" : 37.1494277,
+                  "lng" : -3.6338351
+               }
+            },
+            "location" : {
+               "lat" : 37.1773363,
+               "lng" : -3.5985571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2124648,
+                  "lng" : -3.5505714
+               },
+               "southwest" : {
+                  "lat" : 37.1494277,
+                  "lng" : -3.6338351
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

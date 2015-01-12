@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A672",
+               "short_name" : "A672",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A672, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8714086,
+                  "lng" : 8.6177607
+               },
+               "southwest" : {
+                  "lat" : 49.8666288,
+                  "lng" : 8.587712099999999
+               }
+            },
+            "location" : {
+               "lat" : 49.8698027,
+               "lng" : 8.6031548
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8714086,
+                  "lng" : 8.6177607
+               },
+               "southwest" : {
+                  "lat" : 49.8666288,
+                  "lng" : 8.587712099999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

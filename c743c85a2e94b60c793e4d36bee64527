@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A71",
+               "short_name" : "A71",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A71, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.440469,
+                  "lng" : 11.3331147
+               },
+               "southwest" : {
+                  "lat" : 50.0203064,
+                  "lng" : 10.136716
+               }
+            },
+            "location" : {
+               "lat" : 50.70624129999999,
+               "lng" : 10.7599003
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.440469,
+                  "lng" : 11.3331147
+               },
+               "southwest" : {
+                  "lat" : 50.0203064,
+                  "lng" : 10.136716
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

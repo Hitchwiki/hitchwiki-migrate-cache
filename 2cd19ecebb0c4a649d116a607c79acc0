@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spodnji Brnik",
+               "short_name" : "Spodnji Brnik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cerklje na Gorenjskem",
+               "short_name" : "Cerklje na Gorenjskem",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Municipality of Cerklje na Gorenjskem",
+               "short_name" : "Municipality of Cerklje na Gorenjskem",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kranj",
+               "short_name" : "Kranj",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4207",
+               "short_name" : "4207",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4207 Spodnji Brnik, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2359555,
+                  "lng" : 14.5024324
+               },
+               "southwest" : {
+                  "lat" : 46.2031541,
+                  "lng" : 14.457949
+               }
+            },
+            "location" : {
+               "lat" : 46.2284946,
+               "lng" : 14.4846217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2359555,
+                  "lng" : 14.5024324
+               },
+               "southwest" : {
+                  "lat" : 46.2031541,
+                  "lng" : 14.457949
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

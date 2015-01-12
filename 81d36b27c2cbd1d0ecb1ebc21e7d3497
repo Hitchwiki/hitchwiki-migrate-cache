@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faroe Islands",
+               "short_name" : "FO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faroe Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.39409939999999,
+                  "lng" : -6.254035699999999
+               },
+               "southwest" : {
+                  "lat" : 61.3909051,
+                  "lng" : -7.691904999999999
+               }
+            },
+            "location" : {
+               "lat" : 61.89263500000001,
+               "lng" : -6.911805999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.39409939999999,
+                  "lng" : -6.254035699999999
+               },
+               "southwest" : {
+                  "lat" : 61.3909051,
+                  "lng" : -7.691904999999999
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

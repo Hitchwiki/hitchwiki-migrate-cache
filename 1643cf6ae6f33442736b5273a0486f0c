@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salzburg Airport",
+               "short_name" : "Salzburg Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "95",
+               "short_name" : "95",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Innsbrucker Bundesstraße",
+               "short_name" : "Innsbrucker Bundesstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salzburg",
+               "short_name" : "Salzburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salzburg",
+               "short_name" : "Salzburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Land Salzburg",
+               "short_name" : "Salzburg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5020",
+               "short_name" : "5020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salzburg Airport, Innsbrucker Bundesstraße 95, 5020 Salzburg, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8082797,
+                  "lng" : 13.013834
+               },
+               "southwest" : {
+                  "lat" : 47.7786963,
+                  "lng" : 12.9935031
+               }
+            },
+            "location" : {
+               "lat" : 47.7926466,
+               "lng" : 13.0029274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8082797,
+                  "lng" : 13.013834
+               },
+               "southwest" : {
+                  "lat" : 47.7786963,
+                  "lng" : 12.9935031
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

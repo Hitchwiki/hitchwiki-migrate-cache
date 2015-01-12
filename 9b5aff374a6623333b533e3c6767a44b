@@ -1,0 +1,171 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 15",
+               "short_name" : "Autoroute 15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 15, Québec, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0631836,
+                  "lng" : -73.4526448
+               },
+               "southwest" : {
+                  "lat" : 45.00874229999999,
+                  "lng" : -74.298523
+               }
+            },
+            "location" : {
+               "lat" : 45.5915004,
+               "lng" : -73.80094989999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0631836,
+                  "lng" : -73.4526448
+               },
+               "southwest" : {
+                  "lat" : 45.00874229999999,
+                  "lng" : -74.298523
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa 15",
+               "short_name" : "15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa 15, Ottawa, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.38123849999999,
+                  "lng" : -75.71164690000001
+               },
+               "southwest" : {
+                  "lat" : 45.2640847,
+                  "lng" : -75.7772026
+               }
+            },
+            "location" : {
+               "lat" : 45.3224599,
+               "lng" : -75.7449639
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.38123849999999,
+                  "lng" : -75.71164690000001
+               },
+               "southwest" : {
+                  "lat" : 45.2640847,
+                  "lng" : -75.7772026
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stormont, Dundas and Glengarry 15",
+               "short_name" : "15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stormont, Dundas and Glengarry United Counties",
+               "short_name" : "Stormont, Dundas and Glengarry United Counties",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K0C",
+               "short_name" : "K0C",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stormont, Dundas and Glengarry 15, Ontario K0C, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2740065,
+                  "lng" : -74.8578438
+               },
+               "southwest" : {
+                  "lat" : 45.0325425,
+                  "lng" : -75.01447039999999
+               }
+            },
+            "location" : {
+               "lat" : 45.1488732,
+               "lng" : -74.9474376
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2740065,
+                  "lng" : -74.8578438
+               },
+               "southwest" : {
+                  "lat" : 45.0325425,
+                  "lng" : -75.01447039999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

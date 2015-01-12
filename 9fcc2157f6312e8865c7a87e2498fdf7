@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alanya",
+               "short_name" : "Alanya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07400",
+               "short_name" : "07400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "07400 Alanya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.571276,
+                  "lng" : 32.0674061
+               },
+               "southwest" : {
+                  "lat" : 36.51633,
+                  "lng" : 31.957898
+               }
+            },
+            "location" : {
+               "lat" : 36.560139,
+               "lng" : 32.002121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.571276,
+                  "lng" : 32.0674061
+               },
+               "southwest" : {
+                  "lat" : 36.51633,
+                  "lng" : 31.957898
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

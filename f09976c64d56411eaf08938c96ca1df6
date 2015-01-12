@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huancayo",
+               "short_name" : "Huancayo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Junin",
+               "short_name" : "Junin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huancayo, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.0182137,
+                  "lng" : -75.17789789999999
+               },
+               "southwest" : {
+                  "lat" : -12.1093896,
+                  "lng" : -75.26436219999999
+               }
+            },
+            "location" : {
+               "lat" : -12.0686357,
+               "lng" : -75.21029759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.0182137,
+                  "lng" : -75.17789789999999
+               },
+               "southwest" : {
+                  "lat" : -12.1093896,
+                  "lng" : -75.26436219999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

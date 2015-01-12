@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riobamba",
+               "short_name" : "Riobamba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chimborazo",
+               "short_name" : "Chimborazo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riobamba, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.6193237,
+                  "lng" : -78.6159753
+               },
+               "southwest" : {
+                  "lat" : -1.7128395,
+                  "lng" : -78.6992741
+               }
+            },
+            "location" : {
+               "lat" : -1.6635508,
+               "lng" : -78.654646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.6193237,
+                  "lng" : -78.6159753
+               },
+               "southwest" : {
+                  "lat" : -1.7128395,
+                  "lng" : -78.6992741
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

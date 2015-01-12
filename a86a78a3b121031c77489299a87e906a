@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Astana",
+               "short_name" : "Astana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tselinograd District",
+               "short_name" : "Tselinograd District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Akmola Province",
+               "short_name" : "Akmola Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "020000",
+               "short_name" : "020000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Astana 020000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2903453,
+                  "lng" : 71.7427397
+               },
+               "southwest" : {
+                  "lat" : 51.0055461,
+                  "lng" : 71.2160397
+               }
+            },
+            "location" : {
+               "lat" : 51.166667,
+               "lng" : 71.43333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2903453,
+                  "lng" : 71.7427397
+               },
+               "southwest" : {
+                  "lat" : 51.0055461,
+                  "lng" : 71.2160397
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

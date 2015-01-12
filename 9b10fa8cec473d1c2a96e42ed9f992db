@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Ceiba",
+               "short_name" : "La Ceiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlantida",
+               "short_name" : "Atlantida",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Honduras",
+               "short_name" : "HN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Ceiba, Honduras",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.800292,
+                  "lng" : -86.72661070000001
+               },
+               "southwest" : {
+                  "lat" : 15.7197256,
+                  "lng" : -86.89011939999999
+               }
+            },
+            "location" : {
+               "lat" : 15.766667,
+               "lng" : -86.833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.800292,
+                  "lng" : -86.72661070000001
+               },
+               "southwest" : {
+                  "lat" : 15.7197256,
+                  "lng" : -86.89011939999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

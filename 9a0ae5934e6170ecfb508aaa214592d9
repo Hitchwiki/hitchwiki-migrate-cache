@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 11.931588234751901,
+        "south": 54.575540426197854,
+        "north": 54.577339155948145,
+        "west": 11.928484854847698
+      },
+      "asciiName": "Gedser",
+      "countryId": "2623032",
+      "fcl": "P",
+      "score": 25.305831909179688,
+      "cc2": "DK",
+      "adminId2": "6543949",
+      "countryCode": "DK",
+      "adminId1": "6418541",
+      "lat": "54.57644",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "376",
+      "adminCode1": "20",
+      "lng": "11.93004",
+      "geonameId": 2621551,
+      "toponymName": "Gedser",
+      "population": 832,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Gedser",
+          "lang": "link"
+        },
+        {
+          "name": "Гедсер",
+          "lang": "ru"
+        },
+        {
+          "name": "GED",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Guldborgsund Kommune",
+      "name": "Gedser",
+      "fclName": "city, village,...",
+      "countryName": "Denmark",
+      "fcodeName": "populated place",
+      "adminName1": "Zealand"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "11.96975",
+      "geonameId": 2621549,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "toponymName": "Gedser Odde",
+      "asciiName": "Gedser Odde",
+      "countryId": "2623032",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 17.109865188598633,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "DK",
+      "name": "Gedser Odde",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Denmark",
+      "fcodeName": "cape",
+      "adminId1": "6418541",
+      "adminName1": "Zealand",
+      "lat": "54.56063",
+      "fcode": "CAPE",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "asciiName": "Gedser Port",
+      "countryId": "2623032",
+      "fcl": "L",
+      "score": 14.05718994140625,
+      "adminId2": "6543949",
+      "countryCode": "DK",
+      "adminId1": "6418541",
+      "lat": "54.57359",
+      "fcode": "PRT",
+      "continentCode": "EU",
+      "adminCode2": "376",
+      "adminCode1": "20",
+      "lng": "11.92798",
+      "geonameId": 9828900,
+      "toponymName": "Gedser Port",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Gedser Ferry Port",
+        "lang": "en"
+      }],
+      "adminName2": "Guldborgsund Kommune",
+      "name": "Gedser Ferry Port",
+      "fclName": "parks,area, ...",
+      "countryName": "Denmark",
+      "fcodeName": "port",
+      "adminName1": "Zealand"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "asciiName": "Gedser Rev",
+      "countryId": "2623032",
+      "fcl": "H",
+      "score": 7.485566139221191,
+      "cc2": "DK",
+      "countryCode": "DK",
+      "adminId1": "6418541",
+      "lat": "54.5",
+      "fcode": "SHOL",
+      "continentCode": "EU",
+      "adminCode1": "20",
+      "lng": "12.08333",
+      "geonameId": 2621548,
+      "toponymName": "Gedser Rev",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Gedser Rev",
+      "fclName": "stream, lake, ...",
+      "countryName": "Denmark",
+      "fcodeName": "shoal(s)",
+      "adminName1": "Zealand"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "11.9776",
+      "geonameId": 3229241,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Copenhagen",
+        "dstOffset": 2
+      },
+      "toponymName": "Gedser Landrev",
+      "asciiName": "Gedser Landrev",
+      "countryId": "2623032",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 3.347646951675415,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "DK",
+      "name": "Gedser Landrev",
+      "fclName": "stream, lake, ...",
+      "countryName": "Denmark",
+      "fcodeName": "shoal(s)",
+      "adminId1": "6418541",
+      "adminName1": "Zealand",
+      "lat": "54.55462",
+      "fcode": "SHOL",
+      "continentCode": "EU"
+    }
+  ]
+}

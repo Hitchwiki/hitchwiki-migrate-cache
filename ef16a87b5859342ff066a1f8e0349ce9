@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M898",
+               "short_name" : "M898",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Erskine",
+               "short_name" : "Erskine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renfrewshire",
+               "short_name" : "Renfrewshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA8",
+               "short_name" : "PA8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M898, Erskine, Renfrewshire PA8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9103979,
+                  "lng" : -4.4724492
+               },
+               "southwest" : {
+                  "lat" : 55.9018031,
+                  "lng" : -4.4818514
+               }
+            },
+            "location" : {
+               "lat" : 55.9055462,
+               "lng" : -4.4746922
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9103979,
+                  "lng" : -4.4724492
+               },
+               "southwest" : {
+                  "lat" : 55.9018031,
+                  "lng" : -4.4818514
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

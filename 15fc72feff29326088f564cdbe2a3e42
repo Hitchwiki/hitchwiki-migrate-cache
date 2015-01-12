@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igoumenitsa",
+               "short_name" : "Igoumenitsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Igoumenitsa",
+               "short_name" : "Igoumenitsa",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Igoumenitsa",
+               "short_name" : "Igoumenitsa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Thesprotia",
+               "short_name" : "Thesprotia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Epirus",
+               "short_name" : "Epirus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ipiros Ditiki Makedonia",
+               "short_name" : "Ipiros Ditiki Makedonia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Igoumenitsa, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5142653,
+                  "lng" : 20.2744777
+               },
+               "southwest" : {
+                  "lat" : 39.4957331,
+                  "lng" : 20.2554579
+               }
+            },
+            "location" : {
+               "lat" : 39.5061499,
+               "lng" : 20.2655339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5142653,
+                  "lng" : 20.2744777
+               },
+               "southwest" : {
+                  "lat" : 39.4957331,
+                  "lng" : 20.2554579
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

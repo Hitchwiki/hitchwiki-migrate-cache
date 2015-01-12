@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A1, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1688037,
+                  "lng" : -8.477330199999999
+               },
+               "southwest" : {
+                  "lat" : 38.7876602,
+                  "lng" : -9.1170875
+               }
+            },
+            "location" : {
+               "lat" : 39.9396052,
+               "lng" : -8.6791242
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1688037,
+                  "lng" : -8.477330199999999
+               },
+               "southwest" : {
+                  "lat" : 38.7876602,
+                  "lng" : -9.1170875
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

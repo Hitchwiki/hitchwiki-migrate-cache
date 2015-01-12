@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A99",
+               "short_name" : "A99",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A99, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.228957,
+                  "lng" : 11.7593799
+               },
+               "southwest" : {
+                  "lat" : 48.026622,
+                  "lng" : 11.3871712
+               }
+            },
+            "location" : {
+               "lat" : 48.2045508,
+               "lng" : 11.656156
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.228957,
+                  "lng" : 11.7593799
+               },
+               "southwest" : {
+                  "lat" : 48.026622,
+                  "lng" : 11.3871712
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

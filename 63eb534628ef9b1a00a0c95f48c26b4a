@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cádiz",
+               "short_name" : "Cádiz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cádiz",
+               "short_name" : "Cádiz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Bay of Cádiz",
+               "short_name" : "Bay of Cádiz",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cádiz",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cádiz, Cádiz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5432066,
+                  "lng" : -6.255334599999999
+               },
+               "southwest" : {
+                  "lat" : 36.4895662,
+                  "lng" : -6.3095997
+               }
+            },
+            "location" : {
+               "lat" : 36.5270612,
+               "lng" : -6.2885962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5432066,
+                  "lng" : -6.255334599999999
+               },
+               "southwest" : {
+                  "lat" : 36.4895662,
+                  "lng" : -6.3095997
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

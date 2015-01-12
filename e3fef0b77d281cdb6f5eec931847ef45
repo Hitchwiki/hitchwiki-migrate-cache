@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imst",
+               "short_name" : "Imst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imst",
+               "short_name" : "Imst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Imst District",
+               "short_name" : "Imst District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tyrol",
+               "short_name" : "Tirol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Imst, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.34083,
+                  "lng" : 10.7757499
+               },
+               "southwest" : {
+                  "lat" : 47.2105999,
+                  "lng" : 10.53858
+               }
+            },
+            "location" : {
+               "lat" : 47.24013,
+               "lng" : 10.73954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.34083,
+                  "lng" : 10.7757499
+               },
+               "southwest" : {
+                  "lat" : 47.2105999,
+                  "lng" : 10.53858
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

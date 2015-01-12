@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swaziland",
+               "short_name" : "SZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swaziland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.7185195,
+                  "lng" : 32.1348445
+               },
+               "southwest" : {
+                  "lat" : -27.3173633,
+                  "lng" : 30.7910943
+               }
+            },
+            "location" : {
+               "lat" : -26.522503,
+               "lng" : 31.465866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.7185195,
+                  "lng" : 32.1348445
+               },
+               "southwest" : {
+                  "lat" : -27.3173633,
+                  "lng" : 30.7910943
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

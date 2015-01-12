@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atâr",
+               "short_name" : "Atâr",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atar",
+               "short_name" : "Atar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adrar",
+               "short_name" : "Adrar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mauritania",
+               "short_name" : "MR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Atâr, Mauritania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5308574,
+                  "lng" : -13.0284547
+               },
+               "southwest" : {
+                  "lat" : 20.4743808,
+                  "lng" : -13.0736446
+               }
+            },
+            "location" : {
+               "lat" : 20.516667,
+               "lng" : -13.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5308574,
+                  "lng" : -13.0284547
+               },
+               "southwest" : {
+                  "lat" : 20.4743808,
+                  "lng" : -13.0736446
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samara",
+               "short_name" : "Samara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Samara",
+               "short_name" : "g. Samara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Samara Oblast",
+               "short_name" : "Samara Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samara, Samara Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.43131899999999,
+                  "lng" : 50.39000009999999
+               },
+               "southwest" : {
+                  "lat" : 53.090497,
+                  "lng" : 50.006154
+               }
+            },
+            "location" : {
+               "lat" : 53.202778,
+               "lng" : 50.140833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.43131899999999,
+                  "lng" : 50.39000009999999
+               },
+               "southwest" : {
+                  "lat" : 53.090497,
+                  "lng" : 50.006154
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

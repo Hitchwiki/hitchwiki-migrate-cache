@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Foz do Iguaçu",
+               "short_name" : "Foz do Iguaçu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Foz do Iguaçu",
+               "short_name" : "Foz do Iguaçu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Foz do Iguaçu - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.44221,
+                  "lng" : -54.4949173
+               },
+               "southwest" : {
+                  "lat" : -25.5923556,
+                  "lng" : -54.5990097
+               }
+            },
+            "location" : {
+               "lat" : -25.5163356,
+               "lng" : -54.58537639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.44221,
+                  "lng" : -54.4949173
+               },
+               "southwest" : {
+                  "lat" : -25.5923556,
+                  "lng" : -54.5990097
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

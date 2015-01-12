@@ -1,0 +1,33 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaza",
+               "short_name" : "Gaza",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaza",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.522561,
+               "lng" : 34.453593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.532072,
+                  "lng" : 34.4696004
+               },
+               "southwest" : {
+                  "lat" : 31.5130491,
+                  "lng" : 34.4375856
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

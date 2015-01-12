@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A8",
+               "short_name" : "A8",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A8, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.98071969999999,
+                  "lng" : 8.307589199999999
+               },
+               "southwest" : {
+                  "lat" : 46.6514718,
+                  "lng" : 7.6474758
+               }
+            },
+            "location" : {
+               "lat" : 46.73915,
+               "lng" : 8.035409999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.98071969999999,
+                  "lng" : 8.307589199999999
+               },
+               "southwest" : {
+                  "lat" : 46.6514718,
+                  "lng" : 7.6474758
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

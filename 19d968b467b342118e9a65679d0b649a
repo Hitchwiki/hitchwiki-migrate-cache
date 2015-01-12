@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Luxembourg, Luxembourg",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5852324,
+                  "lng" : 6.1337686
+               },
+               "southwest" : {
+                  "lat" : 49.5812573,
+                  "lng" : 6.1281895
+               }
+            },
+            "location" : {
+               "lat" : 49.5832334,
+               "lng" : 6.1311012
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5852324,
+                  "lng" : 6.1337686
+               },
+               "southwest" : {
+                  "lat" : 49.5812573,
+                  "lng" : 6.1281895
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

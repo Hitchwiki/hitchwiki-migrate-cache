@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vatican City",
+               "short_name" : "VA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vatican City",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9075614,
+                  "lng" : 12.4584798
+               },
+               "southwest" : {
+                  "lat" : 41.9001977,
+                  "lng" : 12.445687
+               }
+            },
+            "location" : {
+               "lat" : 41.902916,
+               "lng" : 12.453389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9075614,
+                  "lng" : 12.4584798
+               },
+               "southwest" : {
+                  "lat" : 41.9001977,
+                  "lng" : 12.445687
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

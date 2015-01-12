@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baden-Baden",
+               "short_name" : "Baden-Baden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karlsruhe",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baden-Baden, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8479124,
+                  "lng" : 8.3209935
+               },
+               "southwest" : {
+                  "lat" : 48.6667475,
+                  "lng" : 8.1078226
+               }
+            },
+            "location" : {
+               "lat" : 48.76564,
+               "lng" : 8.228524199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8479124,
+                  "lng" : 8.3209935
+               },
+               "southwest" : {
+                  "lat" : 48.6667475,
+                  "lng" : 8.1078226
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

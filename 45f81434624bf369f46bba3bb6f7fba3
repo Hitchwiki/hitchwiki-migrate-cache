@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Varmland County",
+               "short_name" : "Varmland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Varmland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.06945409999999,
+                  "lng" : 14.48975
+               },
+               "southwest" : {
+                  "lat" : 58.83082580000001,
+                  "lng" : 11.681877
+               }
+            },
+            "location" : {
+               "lat" : 59.7294065,
+               "lng" : 13.2354024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.06945409999999,
+                  "lng" : 14.48975
+               },
+               "southwest" : {
+                  "lat" : 58.8308591,
+                  "lng" : 11.681877
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

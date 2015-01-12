@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slubice",
+               "short_name" : "Slubice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Słubice",
+               "short_name" : "Gmina Słubice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Słubice County",
+               "short_name" : "Słubice County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lubusz Voivodeship",
+               "short_name" : "Lubusz Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Slubice, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3876297,
+                  "lng" : 14.6284232
+               },
+               "southwest" : {
+                  "lat" : 52.330354,
+                  "lng" : 14.5497429
+               }
+            },
+            "location" : {
+               "lat" : 52.351065,
+               "lng" : 14.5604649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3876297,
+                  "lng" : 14.6284232
+               },
+               "southwest" : {
+                  "lat" : 52.330354,
+                  "lng" : 14.5497429
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

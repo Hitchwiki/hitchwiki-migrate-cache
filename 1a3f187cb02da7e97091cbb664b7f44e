@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uruapan",
+               "short_name" : "Uruapan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Michoacán",
+               "short_name" : "MICH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uruapan, Michoacán, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.4506059,
+                  "lng" : -101.9950414
+               },
+               "southwest" : {
+                  "lat" : 19.3627855,
+                  "lng" : -102.0910992
+               }
+            },
+            "location" : {
+               "lat" : 19.420833,
+               "lng" : -102.062778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4506059,
+                  "lng" : -101.9950414
+               },
+               "southwest" : {
+                  "lat" : 19.3627855,
+                  "lng" : -102.0910992
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

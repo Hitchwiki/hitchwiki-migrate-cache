@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moers",
+               "short_name" : "Moers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wesel",
+               "short_name" : "Wesel",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moers, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5237803,
+                  "lng" : 6.6787223
+               },
+               "southwest" : {
+                  "lat" : 51.3908363,
+                  "lng" : 6.5582948
+               }
+            },
+            "location" : {
+               "lat" : 51.4516041,
+               "lng" : 6.640814799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5237803,
+                  "lng" : 6.6787223
+               },
+               "southwest" : {
+                  "lat" : 51.3908363,
+                  "lng" : 6.5582948
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

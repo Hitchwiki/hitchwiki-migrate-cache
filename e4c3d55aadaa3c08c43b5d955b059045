@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ulan-Ude",
+               "short_name" : "Ulan-Ude",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Ulan-Ude",
+               "short_name" : "g. Ulan-Ude",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buryatia",
+               "short_name" : "Buryatia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ulan-Ude, Buryatia, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.902436,
+                  "lng" : 107.823321
+               },
+               "southwest" : {
+                  "lat" : 51.75737900000001,
+                  "lng" : 107.4090071
+               }
+            },
+            "location" : {
+               "lat" : 51.8238785,
+               "lng" : 107.607338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.902436,
+                  "lng" : 107.823321
+               },
+               "southwest" : {
+                  "lat" : 51.75737900000001,
+                  "lng" : 107.4090071
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

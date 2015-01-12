@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kartli Street",
+               "short_name" : "Kartli St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gldani-Nadzaladevi",
+               "short_name" : "Gldani-Nadzaladevi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tbilisi",
+               "short_name" : "Tbilisi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Didi digomi",
+               "short_name" : "Didi digomi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tbilisi",
+               "short_name" : "Tbilisi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kartli Street, Tbilisi, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7503999,
+                  "lng" : 44.7968261
+               },
+               "southwest" : {
+                  "lat" : 41.7481597,
+                  "lng" : 44.79478960000001
+               }
+            },
+            "location" : {
+               "lat" : 41.7489231,
+               "lng" : 44.7954333
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.75062878029149,
+                  "lng" : 44.79715683029151
+               },
+               "southwest" : {
+                  "lat" : 41.74793081970849,
+                  "lng" : 44.79445886970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kartli Street",
+               "short_name" : "Kartli Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gori",
+               "short_name" : "Gori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shida Kartli",
+               "short_name" : "Shida Kartli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kartli Street, Gori, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.984729,
+                  "lng" : 44.1073369
+               },
+               "southwest" : {
+                  "lat" : 41.9841418,
+                  "lng" : 44.1053291
+               }
+            },
+            "location" : {
+               "lat" : 41.9845142,
+               "lng" : 44.1064188
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9857843802915,
+                  "lng" : 44.1076819802915
+               },
+               "southwest" : {
+                  "lat" : 41.9830864197085,
+                  "lng" : 44.1049840197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

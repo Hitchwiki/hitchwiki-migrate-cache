@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4053947,
+                  "lng" : 59.83939739999999
+               },
+               "southwest" : {
+                  "lat" : 16.650336,
+                  "lng" : 52.0000018
+               }
+            },
+            "location" : {
+               "lat" : 21.512583,
+               "lng" : 55.923255
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4053947,
+                  "lng" : 59.83939739999999
+               },
+               "southwest" : {
+                  "lat" : 16.650336,
+                  "lng" : 52.0000018
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

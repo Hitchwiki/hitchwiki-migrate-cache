@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lecce",
+               "short_name" : "Lecce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lecce",
+               "short_name" : "Lecce",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lecce",
+               "short_name" : "LE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puglia",
+               "short_name" : "Puglia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lecce LE, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3777911,
+                  "lng" : 18.2285949
+               },
+               "southwest" : {
+                  "lat" : 40.3304703,
+                  "lng" : 18.1199941
+               }
+            },
+            "location" : {
+               "lat" : 40.3515155,
+               "lng" : 18.1750161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3777911,
+                  "lng" : 18.2285949
+               },
+               "southwest" : {
+                  "lat" : 40.3304703,
+                  "lng" : 18.1199941
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

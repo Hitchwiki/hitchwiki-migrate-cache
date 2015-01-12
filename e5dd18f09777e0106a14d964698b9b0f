@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R10",
+               "short_name" : "R10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R10, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5964305,
+                  "lng" : 15.1247884
+               },
+               "southwest" : {
+                  "lat" : 50.1102831,
+                  "lng" : 14.5878147
+               }
+            },
+            "location" : {
+               "lat" : 50.3526057,
+               "lng" : 14.8715841
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5964305,
+                  "lng" : 15.1247884
+               },
+               "southwest" : {
+                  "lat" : 50.1102831,
+                  "lng" : 14.5878147
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

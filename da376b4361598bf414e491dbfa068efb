@@ -1,0 +1,103 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "adminCode3": "411",
+      "alternateNames": [
+        {
+          "name": "Dié",
+          "lang": "fr_1793"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Saint-Dy%C3%A9-sur-Loire",
+          "lang": "link"
+        },
+        {
+          "name": "41500",
+          "lang": "post"
+        }
+      ],
+      "adminCode2": "41",
+      "countryName": "France",
+      "adminCode1": "A3",
+      "score": 31.523618698120117,
+      "lng": "1.48847",
+      "adminCode4": "41207",
+      "adminName2": "Loir-et-Cher",
+      "fcodeName": "populated place",
+      "adminName3": "Arrondissement de Blois",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris"
+      },
+      "adminName4": "Saint-Dyé-sur-Loire",
+      "adminName5": "",
+      "bbox": {
+        "south": 47.655052635124854,
+        "east": 1.4898032225223385,
+        "north": 47.656851364875145,
+        "west": 1.4871327774776613
+      },
+      "name": "Saint-Dyé-sur-Loire",
+      "fcode": "PPL",
+      "geonameId": 2980796,
+      "asciiName": "Saint-Dye-sur-Loire",
+      "lat": "47.65595",
+      "population": 1089,
+      "adminName1": "Centre",
+      "adminId1": "3027939",
+      "countryId": "3017382",
+      "fclName": "city, village,...",
+      "countryCode": "FR",
+      "adminId4": "6434104",
+      "adminId3": "3032212",
+      "adminId2": "2997856",
+      "toponymName": "Saint-Dyé-sur-Loire",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "411",
+      "adminCode2": "41",
+      "countryName": "France",
+      "adminCode1": "A3",
+      "score": 18.36025047302246,
+      "lng": "1.48861",
+      "adminCode4": "41207",
+      "adminName2": "Loir-et-Cher",
+      "fcodeName": "fourth-order administrative division",
+      "adminName3": "Arrondissement de Blois",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Paris"
+      },
+      "adminName4": "Saint-Dyé-sur-Loire",
+      "adminName5": "",
+      "bbox": {
+        "south": 47.63959717958865,
+        "east": 1.5222816814279905,
+        "north": 47.662110574427885,
+        "west": 1.470314877099015
+      },
+      "name": "Saint-Dyé-sur-Loire",
+      "fcode": "ADM4",
+      "geonameId": 6434104,
+      "asciiName": "Saint-Dye-sur-Loire",
+      "lat": "47.65583",
+      "population": 1115,
+      "adminName1": "Centre",
+      "adminId1": "3027939",
+      "countryId": "3017382",
+      "fclName": "country, state, region,...",
+      "countryCode": "FR",
+      "adminId4": "6434104",
+      "adminId3": "3032212",
+      "adminId2": "2997856",
+      "toponymName": "Saint-Dyé-sur-Loire",
+      "fcl": "A",
+      "continentCode": "EU"
+    }
+  ]
+}

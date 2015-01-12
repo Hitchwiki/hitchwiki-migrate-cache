@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gniezno",
+               "short_name" : "Gniezno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Gniezno",
+               "short_name" : "Gmina Gniezno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gniezno County",
+               "short_name" : "Gniezno County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greater Poland Voivodeship",
+               "short_name" : "Greater Poland Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gniezno, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5667681,
+                  "lng" : 17.6589545
+               },
+               "southwest" : {
+                  "lat" : 52.4830066,
+                  "lng" : 17.5474815
+               }
+            },
+            "location" : {
+               "lat" : 52.5349253,
+               "lng" : 17.5826575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5667681,
+                  "lng" : 17.6589545
+               },
+               "southwest" : {
+                  "lat" : 52.4830066,
+                  "lng" : 17.5474815
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

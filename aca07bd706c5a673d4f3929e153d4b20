@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syros",
+               "short_name" : "Syros",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syros, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.514594,
+                  "lng" : 24.9733272
+               },
+               "southwest" : {
+                  "lat" : 37.3623264,
+                  "lng" : 24.8545536
+               }
+            },
+            "location" : {
+               "lat" : 37.4234105,
+               "lng" : 24.916088
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.514594,
+                  "lng" : 24.9733272
+               },
+               "southwest" : {
+                  "lat" : 37.3623264,
+                  "lng" : 24.8545536
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

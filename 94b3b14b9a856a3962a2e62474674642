@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Besianë",
+               "short_name" : "Besianë",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Besianë",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9339798,
+                  "lng" : 21.21643
+               },
+               "southwest" : {
+                  "lat" : 42.88571109999999,
+                  "lng" : 21.1748643
+               }
+            },
+            "location" : {
+               "lat" : 42.9107754,
+               "lng" : 21.1956273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9339798,
+                  "lng" : 21.21643
+               },
+               "southwest" : {
+                  "lat" : 42.88571109999999,
+                  "lng" : 21.1748643
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

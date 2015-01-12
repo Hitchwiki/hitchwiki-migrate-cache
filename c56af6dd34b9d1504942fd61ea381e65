@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "D5",
+               "short_name" : "D5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "D5, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.04899830000001,
+                  "lng" : 14.2692876
+               },
+               "southwest" : {
+                  "lat" : 49.6424923,
+                  "lng" : 12.5221253
+               }
+            },
+            "location" : {
+               "lat" : 49.7271549,
+               "lng" : 13.477663
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.04899830000001,
+                  "lng" : 14.2692876
+               },
+               "southwest" : {
+                  "lat" : 49.6424923,
+                  "lng" : 12.5221253
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

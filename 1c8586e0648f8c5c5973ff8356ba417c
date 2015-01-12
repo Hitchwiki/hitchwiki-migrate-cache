@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grenada",
+               "short_name" : "GD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grenada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.5301829,
+                  "lng" : -61.3779974
+               },
+               "southwest" : {
+                  "lat" : 11.9848781,
+                  "lng" : -61.8023128
+               }
+            },
+            "location" : {
+               "lat" : 12.1165,
+               "lng" : -61.67899999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2350589,
+                  "lng" : -61.5847206
+               },
+               "southwest" : {
+                  "lat" : 11.9848781,
+                  "lng" : -61.8023128
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

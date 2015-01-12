@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pamukkale",
+               "short_name" : "Pamukkale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denizli Province",
+               "short_name" : "Denizli Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20000",
+               "short_name" : "20000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20000 Pamukkale/Denizli Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.922886,
+                  "lng" : 29.1149179
+               },
+               "southwest" : {
+                  "lat" : 37.914332,
+                  "lng" : 29.1046072
+               }
+            },
+            "location" : {
+               "lat" : 37.9193037,
+               "lng" : 29.1114396
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.922886,
+                  "lng" : 29.1149179
+               },
+               "southwest" : {
+                  "lat" : 37.914332,
+                  "lng" : 29.1046072
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

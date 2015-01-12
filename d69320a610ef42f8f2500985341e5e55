@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nicaragua",
+               "short_name" : "NI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nicaragua",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 15.0302755,
+                  "lng" : -82.5920715
+               },
+               "southwest" : {
+                  "lat" : 10.708055,
+                  "lng" : -87.6903076
+               }
+            },
+            "location" : {
+               "lat" : 12.865416,
+               "lng" : -85.207229
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 15.0302755,
+                  "lng" : -82.5920715
+               },
+               "southwest" : {
+                  "lat" : 10.708055,
+                  "lng" : -87.6903076
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

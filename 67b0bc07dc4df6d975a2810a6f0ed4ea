@@ -1,0 +1,33 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jericho",
+               "short_name" : "Jericho",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Jericho",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.856982,
+               "lng" : 35.460567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8759345,
+                  "lng" : 35.4925818
+               },
+               "southwest" : {
+                  "lat" : 31.8380256,
+                  "lng" : 35.4285522
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

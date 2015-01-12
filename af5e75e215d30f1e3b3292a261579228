@@ -1,0 +1,663 @@
+{
+  "totalResultsCount": 781,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.545758937364916,
+        "south": 42.44864638965018,
+        "north": 42.56346961034983,
+        "west": 27.389861062635084
+      },
+      "asciiName": "Burgas",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 167.01641845703125,
+      "adminId2": "732769",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.50606",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode1": "39",
+      "lng": "27.46781",
+      "geonameId": 732770,
+      "toponymName": "Burgas",
+      "population": 195966,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Boergas",
+          "lang": "af"
+        },
+        {
+          "name": "بورغاس",
+          "lang": "ar"
+        },
+        {
+          "name": "Burgas",
+          "lang": "ast"
+        },
+        {
+          "name": "Burqas",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Бургас",
+          "lang": "be"
+        },
+        {
+          "name": "Бургас",
+          "lang": "bg"
+        },
+        {
+          "name": "Burgas",
+          "lang": "br"
+        },
+        {
+          "name": "بورگاس",
+          "lang": "ckb"
+        },
+        {
+          "name": "Burgas",
+          "lang": "cs"
+        },
+        {
+          "name": "Пѷргъ",
+          "lang": "cu"
+        },
+        {
+          "name": "Burgas",
+          "lang": "cy"
+        },
+        {
+          "name": "Burgas",
+          "lang": "da"
+        },
+        {
+          "name": "Burgas",
+          "lang": "de"
+        },
+        {
+          "name": "Μπουργκας",
+          "lang": "el"
+        },
+        {
+          "name": "Burgas",
+          "lang": "en"
+        },
+        {
+          "name": "Burgaso",
+          "lang": "eo"
+        },
+        {
+          "name": "Burgas",
+          "lang": "es"
+        },
+        {
+          "name": "بورگاس",
+          "lang": "fa"
+        },
+        {
+          "name": "Burgas",
+          "lang": "fi"
+        },
+        {
+          "name": "Bourgas",
+          "lang": "fr"
+        },
+        {
+          "name": "בורגס",
+          "lang": "he"
+        },
+        {
+          "name": "Burgasz",
+          "lang": "hu"
+        },
+        {
+          "name": "Բուրգաս",
+          "lang": "hy"
+        },
+        {
+          "name": "BOJ",
+          "lang": "iata"
+        },
+        {
+          "name": "Burgas",
+          "lang": "id"
+        },
+        {
+          "name": "ブルガス",
+          "lang": "ja"
+        },
+        {
+          "name": "ბურგასი",
+          "lang": "ka"
+        },
+        {
+          "name": "Бургас",
+          "lang": "kk"
+        },
+        {
+          "name": "부르가스",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Burgas",
+          "lang": "link"
+        },
+        {
+          "name": "Burgasas",
+          "lang": "lt"
+        },
+        {
+          "name": "Burgasa",
+          "lang": "lv"
+        },
+        {
+          "name": "Бургас",
+          "lang": "mk"
+        },
+        {
+          "name": "Бургас хот",
+          "lang": "mn"
+        },
+        {
+          "name": "बुर्गास",
+          "lang": "mr"
+        },
+        {
+          "name": "Boergas",
+          "lang": "nl"
+        },
+        {
+          "name": "Бургас",
+          "lang": "os"
+        },
+        {
+          "name": "Burgas",
+          "lang": "pl"
+        },
+        {
+          "name": "برگاس",
+          "lang": "pnb"
+        },
+        {
+          "name": "8000",
+          "lang": "post"
+        },
+        {
+          "name": "Burgas",
+          "lang": "pt"
+        },
+        {
+          "name": "Burgas",
+          "lang": "ro"
+        },
+        {
+          "name": "Бургас",
+          "lang": "ru"
+        },
+        {
+          "name": "Burgas",
+          "lang": "sk"
+        },
+        {
+          "name": "Бургас",
+          "lang": "sr"
+        },
+        {
+          "name": "Burgas",
+          "lang": "sv"
+        },
+        {
+          "name": "Burgaz",
+          "lang": "tr"
+        },
+        {
+          "name": "Бургас",
+          "lang": "uk"
+        },
+        {
+          "name": "BOJ",
+          "lang": "unlc"
+        },
+        {
+          "name": "布爾加斯",
+          "lang": "yue"
+        },
+        {
+          "name": "布爾加斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Obshtina Burgas",
+      "name": "Burgas",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Burgas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 28.022220611572266,
+        "south": 41.895263671875,
+        "north": 43.01221466064453,
+        "west": 25.811664581298828
+      },
+      "asciiName": "Burgas",
+      "countryId": "732800",
+      "fcl": "A",
+      "score": 60.556617736816406,
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.6",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "39",
+      "lng": "27.3",
+      "geonameId": 732771,
+      "toponymName": "Burgas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Област Бургас",
+          "lang": "bg"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Burgas_Province",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Burgas",
+      "fclName": "country, state, region,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Burgas"
+    },
+    {
+      "elevation": 41,
+      "lng": "27.51524",
+      "geonameId": 6299305,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "toponymName": "Burgas Airport",
+      "asciiName": "Burgas Airport",
+      "countryId": "732800",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 44.26530456542969,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Бургас",
+          "lang": "bg"
+        },
+        {
+          "name": "BOJ",
+          "lang": "iata"
+        },
+        {
+          "name": "LBBG",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Burgas_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "countryCode": "BG",
+      "name": "Burgas Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Bulgaria",
+      "fcodeName": "airport",
+      "adminName1": "",
+      "lat": "42.56958",
+      "fcode": "AIRP",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "asciiName": "Obshtina Burgas",
+      "countryId": "732800",
+      "fcl": "A",
+      "score": 43.01814270019531,
+      "cc2": "BG",
+      "adminId2": "732769",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.5",
+      "fcode": "ADM2",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode1": "39",
+      "lng": "27.46667",
+      "geonameId": 732769,
+      "toponymName": "Obshtina Burgas",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Община Бургас",
+        "lang": "bg"
+      }],
+      "adminName2": "Obshtina Burgas",
+      "name": "Obshtina Burgas",
+      "fclName": "country, state, region,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Burgas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.396771850800302,
+        "south": 42.59644135124857,
+        "north": 42.61442864875143,
+        "west": 27.372330149199694
+      },
+      "asciiName": "Vetren",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 29.510202407836914,
+      "adminId2": "732769",
+      "adminId3": "6460024",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.60543",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode3": "BGS04-06",
+      "adminCode1": "39",
+      "lng": "27.38455",
+      "geonameId": 725350,
+      "toponymName": "Vetren",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Vetren",
+      "alternateNames": [
+        {
+          "name": "Ветрен",
+          "lang": "bg"
+        },
+        {
+          "name": "8127",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Obshtina Burgas",
+      "name": "Vetren",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "populated place",
+      "adminName1": "Burgas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.47889958530441,
+        "south": 42.65767305124857,
+        "north": 42.67566034875143,
+        "west": 27.45443381469559
+      },
+      "asciiName": "Bryastovets",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 29.510202407836914,
+      "cc2": "BG",
+      "adminId2": "732769",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.66667",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode1": "39",
+      "lng": "27.46667",
+      "geonameId": 732845,
+      "toponymName": "Bryastovets",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Брястовец",
+          "lang": "bg"
+        },
+        {
+          "name": "8113",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Obshtina Burgas",
+      "name": "Bryastovets",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "populated place",
+      "adminName1": "Burgas"
+    },
+    {
+      "lng": "-59.91667",
+      "geonameId": 6629206,
+      "timezone": {
+        "gmtOffset": -3,
+        "timeZoneId": "Antarctica/Palmer",
+        "dstOffset": -4
+      },
+      "toponymName": "Burgas Peninsula",
+      "asciiName": "Burgas Peninsula",
+      "countryId": "6697173",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 26.083581924438477,
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Burgas_Peninsula",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "countryCode": "AQ",
+      "name": "Burgas Peninsula",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Antarctica",
+      "fcodeName": "cape",
+      "adminName1": "",
+      "lat": "-62.63333",
+      "fcode": "CAPE",
+      "continentCode": "AN"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.469265089755737,
+        "south": 42.40306035124857,
+        "north": 42.421047648751426,
+        "west": 27.444898910244262
+      },
+      "asciiName": "Tvurditsa",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 25.821426391601562,
+      "adminId2": "732769",
+      "adminId3": "6460029",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.41205",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode3": "BGS04-12",
+      "adminCode1": "39",
+      "lng": "27.45708",
+      "geonameId": 726131,
+      "toponymName": "Tvŭrditsa",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Tvurdica",
+      "alternateNames": [
+        {
+          "name": "Твърдица",
+          "lang": "bg"
+        },
+        {
+          "name": "8155",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Obshtina Burgas",
+      "name": "Tvŭrditsa",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "populated place",
+      "adminName1": "Burgas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.53416568341021,
+        "south": 42.55179989096258,
+        "north": 42.56978718846543,
+        "west": 27.509741482117132
+      },
+      "asciiName": "Sarafovo",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 25.821426391601562,
+      "cc2": "BG",
+      "adminId2": "732769",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.56079",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode1": "39",
+      "lng": "27.52195",
+      "geonameId": 727434,
+      "toponymName": "Sarafovo",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Сарафово",
+          "lang": "bg"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Sarafovo",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Obshtina Burgas",
+      "name": "Sarafovo",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "populated place",
+      "adminName1": "Burgas"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Sofia",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 27.49839828214172,
+        "south": 42.61901035124857,
+        "north": 42.636997648751425,
+        "west": 27.47394771785828
+      },
+      "asciiName": "Rudnik",
+      "countryId": "732800",
+      "fcl": "P",
+      "score": 25.821426391601562,
+      "adminId2": "732769",
+      "adminId3": "6460028",
+      "countryCode": "BG",
+      "adminId1": "732771",
+      "lat": "42.628",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "BGS04",
+      "adminCode3": "BGS04-11",
+      "adminCode1": "39",
+      "lng": "27.48617",
+      "geonameId": 727555,
+      "toponymName": "Rudnik",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Rudnik",
+      "alternateNames": [
+        {
+          "name": "Рудник",
+          "lang": "bg"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Rudnik%2C_Burgas_Province",
+          "lang": "link"
+        },
+        {
+          "name": "8112",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Obshtina Burgas",
+      "name": "Rudnik",
+      "fclName": "city, village,...",
+      "countryName": "Bulgaria",
+      "fcodeName": "populated place",
+      "adminName1": "Burgas"
+    }
+  ]
+}

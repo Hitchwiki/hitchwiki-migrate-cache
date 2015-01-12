@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rhode Island, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.1205471
+               },
+               "southwest" : {
+                  "lat" : 41.1466563,
+                  "lng" : -71.8923425
+               }
+            },
+            "location" : {
+               "lat" : 41.5800945,
+               "lng" : -71.47742909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0188,
+                  "lng" : -71.1205592
+               },
+               "southwest" : {
+                  "lat" : 41.1466563,
+                  "lng" : -71.8923425
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

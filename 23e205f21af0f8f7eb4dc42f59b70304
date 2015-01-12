@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amberg",
+               "short_name" : "AM",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amberg-Sulzbach",
+               "short_name" : "Amberg-Sulzbach",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Upper Palatinate",
+               "short_name" : "Upper Palatinate",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4967525,
+                  "lng" : 11.9143678
+               },
+               "southwest" : {
+                  "lat" : 49.4116884,
+                  "lng" : 11.776817
+               }
+            },
+            "location" : {
+               "lat" : 49.4403198,
+               "lng" : 11.8633445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4967525,
+                  "lng" : 11.9143678
+               },
+               "southwest" : {
+                  "lat" : 49.4116884,
+                  "lng" : 11.776817
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amberg",
+               "short_name" : "Amberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Unterallgäu",
+               "short_name" : "Unterallgäu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Swabia",
+               "short_name" : "Swabia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0989016,
+                  "lng" : 10.7080636
+               },
+               "southwest" : {
+                  "lat" : 48.0474192,
+                  "lng" : 10.663798
+               }
+            },
+            "location" : {
+               "lat" : 48.0609613,
+               "lng" : 10.6816354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0989016,
+                  "lng" : 10.7080636
+               },
+               "southwest" : {
+                  "lat" : 48.0474192,
+                  "lng" : 10.663798
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

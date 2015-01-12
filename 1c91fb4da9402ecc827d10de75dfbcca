@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bauska",
+               "short_name" : "Bauska",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bauskas pilsēta",
+               "short_name" : "Bauskas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bauska Municipality",
+               "short_name" : "Bauska Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bauska, Bauskas pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.42047489999999,
+                  "lng" : 24.2428069
+               },
+               "southwest" : {
+                  "lat" : 56.39424409999999,
+                  "lng" : 24.1570958
+               }
+            },
+            "location" : {
+               "lat" : 56.4102879,
+               "lng" : 24.1999989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.42047489999999,
+                  "lng" : 24.2428069
+               },
+               "southwest" : {
+                  "lat" : 56.39424409999999,
+                  "lng" : 24.1570958
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

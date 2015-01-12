@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prešov",
+               "short_name" : "Prešov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prešov District",
+               "short_name" : "Prešov District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prešov Region",
+               "short_name" : "Prešov Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prešov, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0468521,
+                  "lng" : 21.3351195
+               },
+               "southwest" : {
+                  "lat" : 48.9448156,
+                  "lng" : 21.1569882
+               }
+            },
+            "location" : {
+               "lat" : 48.9979058,
+               "lng" : 21.2396073
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0468521,
+                  "lng" : 21.3351195
+               },
+               "southwest" : {
+                  "lat" : 48.9448156,
+                  "lng" : 21.1569882
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prešov",
+               "short_name" : "Prešov",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Prešov",
+               "short_name" : "Prešov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prešov District",
+               "short_name" : "Prešov District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prešov Region",
+               "short_name" : "Prešov Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prešov, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.039894,
+                  "lng" : 21.2618117
+               },
+               "southwest" : {
+                  "lat" : 48.96959640000001,
+                  "lng" : 21.2025972
+               }
+            },
+            "location" : {
+               "lat" : 49.0032156,
+               "lng" : 21.2334118
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.039894,
+                  "lng" : 21.2618117
+               },
+               "southwest" : {
+                  "lat" : 48.96959640000001,
+                  "lng" : 21.2025972
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

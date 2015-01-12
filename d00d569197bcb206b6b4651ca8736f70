@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey",
+               "short_name" : "JE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jersey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.2621314,
+                  "lng" : -2.0104646
+               },
+               "southwest" : {
+                  "lat" : 49.1601217,
+                  "lng" : -2.2548011
+               }
+            },
+            "location" : {
+               "lat" : 49.214439,
+               "lng" : -2.13125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2621314,
+                  "lng" : -2.0104646
+               },
+               "southwest" : {
+                  "lat" : 49.1601217,
+                  "lng" : -2.2548011
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rovaniemi",
+               "short_name" : "Rovaniemi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rovaniemi",
+               "short_name" : "Rovaniemi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lapland",
+               "short_name" : "Lapland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96100",
+               "short_name" : "96100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "96100 Rovaniemi, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 66.4970216,
+               "lng" : 25.724999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.501471,
+                  "lng" : 25.7410064
+               },
+               "southwest" : {
+                  "lat" : 66.4925714,
+                  "lng" : 25.7089916
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

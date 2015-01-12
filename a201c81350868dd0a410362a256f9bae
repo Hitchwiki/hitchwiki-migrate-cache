@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borne",
+               "short_name" : "Borne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borne",
+               "short_name" : "Borne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Borne, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3151634,
+                  "lng" : 6.801415299999999
+               },
+               "southwest" : {
+                  "lat" : 52.2832527,
+                  "lng" : 6.6886589
+               }
+            },
+            "location" : {
+               "lat" : 52.3002366,
+               "lng" : 6.7537258
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3151634,
+                  "lng" : 6.801415299999999
+               },
+               "southwest" : {
+                  "lat" : 52.2832527,
+                  "lng" : 6.6886589
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terceira",
+               "short_name" : "Terceira",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Terceira, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8031709,
+                  "lng" : -27.0415699
+               },
+               "southwest" : {
+                  "lat" : 38.6389865,
+                  "lng" : -27.3794525
+               }
+            },
+            "location" : {
+               "lat" : 38.7216415,
+               "lng" : -27.2205771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8031709,
+                  "lng" : -27.0415699
+               },
+               "southwest" : {
+                  "lat" : 38.6389865,
+                  "lng" : -27.3794525
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

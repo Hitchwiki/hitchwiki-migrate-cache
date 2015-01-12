@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Togo",
+               "short_name" : "TG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Togo",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.1394957,
+                  "lng" : 1.8090501
+               },
+               "southwest" : {
+                  "lat" : 6.1123578,
+                  "lng" : -0.1440419
+               }
+            },
+            "location" : {
+               "lat" : 8.619543,
+               "lng" : 0.824782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.1394957,
+                  "lng" : 1.8090501
+               },
+               "southwest" : {
+                  "lat" : 6.1123578,
+                  "lng" : -0.1440419
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

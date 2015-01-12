@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuala Lumpur",
+               "short_name" : "Kuala Lumpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal Territory of Kuala Lumpur",
+               "short_name" : "Federal Territory of Kuala Lumpur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.245252,
+                  "lng" : 101.758509
+               },
+               "southwest" : {
+                  "lat" : 3.0327539,
+                  "lng" : 101.6152019
+               }
+            },
+            "location" : {
+               "lat" : 3.139003,
+               "lng" : 101.686855
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.245252,
+                  "lng" : 101.758509
+               },
+               "southwest" : {
+                  "lat" : 3.0327539,
+                  "lng" : 101.6152019
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuala Lumpur",
+               "short_name" : "Kuala Lumpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kuala Lumpur",
+               "short_name" : "Kuala Lumpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bandar Kuala Lumpur",
+               "short_name" : "Bandar Kuala Lumpur",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wilayah Persekutuan Kuala Lumpur",
+               "short_name" : "Wilayah Persekutuan Kuala Lumpur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuala Lumpur, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.160578,
+                  "lng" : 101.7232081
+               },
+               "southwest" : {
+                  "lat" : 3.1471451,
+                  "lng" : 101.6978041
+               }
+            },
+            "location" : {
+               "lat" : 3.1525238,
+               "lng" : 101.7110995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.160578,
+                  "lng" : 101.7232081
+               },
+               "southwest" : {
+                  "lat" : 3.1471451,
+                  "lng" : 101.6978041
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

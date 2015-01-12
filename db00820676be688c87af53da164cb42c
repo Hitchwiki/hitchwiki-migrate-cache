@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Offenburg",
+               "short_name" : "Offenburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ortenaukreis",
+               "short_name" : "Ortenaukreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Offenburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5526926,
+                  "lng" : 8.0284841
+               },
+               "southwest" : {
+                  "lat" : 48.3968244,
+                  "lng" : 7.861641
+               }
+            },
+            "location" : {
+               "lat" : 48.473451,
+               "lng" : 7.9498017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5526926,
+                  "lng" : 8.0284841
+               },
+               "southwest" : {
+                  "lat" : 48.3968244,
+                  "lng" : 7.861641
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

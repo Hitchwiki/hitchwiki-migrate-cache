@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A114",
+               "short_name" : "A114",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Pankow",
+               "short_name" : "Bezirk Pankow",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A114, Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6390488,
+                  "lng" : 13.4494646
+               },
+               "southwest" : {
+                  "lat" : 52.5828222,
+                  "lng" : 13.4266766
+               }
+            },
+            "location" : {
+               "lat" : 52.6145988,
+               "lng" : 13.444739
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6390488,
+                  "lng" : 13.4494646
+               },
+               "southwest" : {
+                  "lat" : 52.5828222,
+                  "lng" : 13.4266766
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

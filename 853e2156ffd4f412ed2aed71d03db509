@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ceduna",
+               "short_name" : "Ceduna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Australia",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5690",
+               "short_name" : "5690",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ceduna SA 5690, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.9496661,
+                  "lng" : 133.7573751
+               },
+               "southwest" : {
+                  "lat" : -32.2076901,
+                  "lng" : 133.4571768
+               }
+            },
+            "location" : {
+               "lat" : -32.1267343,
+               "lng" : 133.6737784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.9496661,
+                  "lng" : 133.7573751
+               },
+               "southwest" : {
+                  "lat" : -32.2076901,
+                  "lng" : 133.4571768
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

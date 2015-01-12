@@ -1,0 +1,201 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "adminCode1": "00",
+      "lng": "40.33667",
+      "geonameId": 874584,
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi",
+        "dstOffset": 4
+      },
+      "toponymName": "Ozero Pitsunda",
+      "asciiName": "Ozero Pitsunda",
+      "countryId": "614540",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 34.219730377197266,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "GE",
+      "name": "Ozero Pitsunda",
+      "fclName": "stream, lake, ...",
+      "countryName": "Georgia",
+      "fcodeName": "lake",
+      "adminName1": "",
+      "lat": "43.16472",
+      "fcode": "LK",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "40.31806",
+      "geonameId": 823843,
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi",
+        "dstOffset": 4
+      },
+      "toponymName": "Stantsiya Pitsunda",
+      "asciiName": "Stantsiya Pitsunda",
+      "countryId": "614540",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 20.244665145874023,
+      "adminName3": "",
+      "cc2": "GE",
+      "adminName2": "",
+      "countryCode": "GE",
+      "name": "Stantsiya Pitsunda",
+      "fclName": "spot, building, farm",
+      "countryName": "Georgia",
+      "fcodeName": "railroad station",
+      "adminName1": "",
+      "lat": "43.22972",
+      "fcode": "RSTN",
+      "continentCode": "AS"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi",
+        "dstOffset": 4
+      },
+      "bbox": {
+        "east": 40.35733199197216,
+        "south": 43.15007752101233,
+        "north": 43.17387247898767,
+        "west": 40.32470400802784
+      },
+      "asciiName": "Bich'vinta",
+      "countryId": "614540",
+      "fcl": "P",
+      "score": 16.56655502319336,
+      "countryCode": "GE",
+      "adminId1": "6643410",
+      "lat": "43.16197",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "40.34102",
+      "geonameId": 615460,
+      "toponymName": "Bich’vinta",
+      "population": 8401,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Pitsunda",
+          "lang": "en"
+        },
+        {
+          "name": "ביצווינתה",
+          "lang": "he"
+        },
+        {
+          "name": "Bichvinta",
+          "lang": "hr"
+        },
+        {
+          "name": "Bich’vinta",
+          "lang": "ka"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Pitsunda",
+          "lang": "link"
+        },
+        {
+          "name": "Pitsoenda",
+          "lang": "nl"
+        },
+        {
+          "name": "Picunda",
+          "lang": "pl"
+        },
+        {
+          "name": "Pițunda",
+          "lang": "ro"
+        },
+        {
+          "name": "Пицунда",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "",
+      "name": "Pitsunda",
+      "fclName": "city, village,...",
+      "countryName": "Georgia",
+      "fcodeName": "populated place",
+      "adminName1": "Abkhazia"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi",
+        "dstOffset": 4
+      },
+      "asciiName": "Konts'khi Bichvint'a",
+      "countryId": "614540",
+      "fcl": "T",
+      "score": 7.651764392852783,
+      "countryCode": "GE",
+      "adminId1": "6643410",
+      "lat": "43.14667",
+      "fcode": "CAPE",
+      "continentCode": "AS",
+      "adminCode1": "02",
+      "lng": "40.34361",
+      "geonameId": 612384,
+      "toponymName": "Konts’khi Bichvint’a",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "Konts’khi Bichvint’a",
+        "lang": "ka"
+      }],
+      "adminName2": "",
+      "name": "Konts’khi Bichvint’a",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Georgia",
+      "fcodeName": "cape",
+      "adminName1": "Abkhazia"
+    },
+    {
+      "adminCode1": "00",
+      "lng": "40.34913",
+      "geonameId": 612383,
+      "timezone": {
+        "gmtOffset": 4,
+        "timeZoneId": "Asia/Tbilisi",
+        "dstOffset": 4
+      },
+      "toponymName": "Pitsundskiy Reyd",
+      "asciiName": "Pitsundskiy Reyd",
+      "countryId": "614540",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 5.738823413848877,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "GE",
+      "name": "Pitsundskiy Reyd",
+      "fclName": "stream, lake, ...",
+      "countryName": "Georgia",
+      "fcodeName": "roadstead",
+      "adminName1": "",
+      "lat": "43.15581",
+      "fcode": "RDST",
+      "continentCode": "AS"
+    }
+  ]
+}

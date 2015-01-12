@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fulda",
+               "short_name" : "Fulda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fulda",
+               "short_name" : "FD",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kassel",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fulda, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6293786,
+                  "lng" : 9.7331007
+               },
+               "southwest" : {
+                  "lat" : 50.49947239999999,
+                  "lng" : 9.5659712
+               }
+            },
+            "location" : {
+               "lat" : 50.5558095,
+               "lng" : 9.6808449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6293786,
+                  "lng" : 9.7331007
+               },
+               "southwest" : {
+                  "lat" : 50.49947239999999,
+                  "lng" : 9.5659712
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

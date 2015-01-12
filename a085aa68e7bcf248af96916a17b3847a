@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A645",
+               "short_name" : "A645",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Haute-Garonne",
+               "short_name" : "31",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A645, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1021326,
+                  "lng" : 0.6094816
+               },
+               "southwest" : {
+                  "lat" : 43.0598275,
+                  "lng" : 0.5929000999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0818671,
+               "lng" : 0.6030985
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1021326,
+                  "lng" : 0.6094816
+               },
+               "southwest" : {
+                  "lat" : 43.0598275,
+                  "lng" : 0.5929000999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

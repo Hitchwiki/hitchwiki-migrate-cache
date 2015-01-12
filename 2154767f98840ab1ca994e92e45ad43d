@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.4866941,
+                  "lng" : -59.805666
+               },
+               "southwest" : {
+                  "lat" : 0.647529,
+                  "lng" : -73.351558
+               }
+            },
+            "location" : {
+               "lat" : 6.42375,
+               "lng" : -66.58973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.470409,
+                  "lng" : -59.80378
+               },
+               "southwest" : {
+                  "lat" : -4.1438179,
+                  "lng" : -79.0255611
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

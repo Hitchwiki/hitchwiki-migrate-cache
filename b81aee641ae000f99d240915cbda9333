@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baia Mare",
+               "short_name" : "Baia Mare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baia Mare",
+               "short_name" : "Baia Mare",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maramureș County",
+               "short_name" : "MM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baia Mare, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7109166,
+                  "lng" : 23.6485862
+               },
+               "southwest" : {
+                  "lat" : 47.6268616,
+                  "lng" : 23.4931469
+               }
+            },
+            "location" : {
+               "lat" : 47.666667,
+               "lng" : 23.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7109166,
+                  "lng" : 23.6485862
+               },
+               "southwest" : {
+                  "lat" : 47.6268616,
+                  "lng" : 23.4931469
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

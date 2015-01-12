@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wolfenbüttel",
+               "short_name" : "Wolfenbüttel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wolfenbüttel",
+               "short_name" : "WF",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wolfenbüttel, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.22338329999999,
+                  "lng" : 10.6448941
+               },
+               "southwest" : {
+                  "lat" : 52.1209633,
+                  "lng" : 10.4317722
+               }
+            },
+            "location" : {
+               "lat" : 52.16404130000001,
+               "lng" : 10.5408484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.22338329999999,
+                  "lng" : 10.6448941
+               },
+               "southwest" : {
+                  "lat" : 52.1209633,
+                  "lng" : 10.4317722
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

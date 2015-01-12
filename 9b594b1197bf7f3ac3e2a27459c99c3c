@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "TAMPS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tamaulipas, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6787903,
+                  "lng" : -97.14426089999999
+               },
+               "southwest" : {
+                  "lat" : 22.2082569,
+                  "lng" : -100.1438967
+               }
+            },
+            "location" : {
+               "lat" : 24.26694,
+               "lng" : -98.8362755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6787903,
+                  "lng" : -97.14426089999999
+               },
+               "southwest" : {
+                  "lat" : 22.2082569,
+                  "lng" : -100.1438967
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

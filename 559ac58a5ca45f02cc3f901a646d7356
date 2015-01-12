@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A104",
+               "short_name" : "A104",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A104, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.976314,
+                  "lng" : 2.6709471
+               },
+               "southwest" : {
+                  "lat" : 48.8318761,
+                  "lng" : 2.4867151
+               }
+            },
+            "location" : {
+               "lat" : 48.9169005,
+               "lng" : 2.6331113
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.976314,
+                  "lng" : 2.6709471
+               },
+               "southwest" : {
+                  "lat" : 48.8318761,
+                  "lng" : 2.4867151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

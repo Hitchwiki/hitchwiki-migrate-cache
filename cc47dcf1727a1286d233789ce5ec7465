@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A95",
+               "short_name" : "A95",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A95, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.10135349999999,
+                  "lng" : 11.4994041
+               },
+               "southwest" : {
+                  "lat" : 47.5870101,
+                  "lng" : 11.174675
+               }
+            },
+            "location" : {
+               "lat" : 47.8322315,
+               "lng" : 11.3666415
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.10135349999999,
+                  "lng" : 11.4994041
+               },
+               "southwest" : {
+                  "lat" : 47.5870101,
+                  "lng" : 11.174675
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

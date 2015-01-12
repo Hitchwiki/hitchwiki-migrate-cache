@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liberia",
+               "short_name" : "LR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liberia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.551985999999999,
+                  "lng" : -7.369255000000001
+               },
+               "southwest" : {
+                  "lat" : 4.3154139,
+                  "lng" : -11.4742481
+               }
+            },
+            "location" : {
+               "lat" : 6.428055,
+               "lng" : -9.429499000000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.551985999999999,
+                  "lng" : -7.369255000000001
+               },
+               "southwest" : {
+                  "lat" : 4.3154139,
+                  "lng" : -11.4742481
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

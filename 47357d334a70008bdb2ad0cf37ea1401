@@ -1,0 +1,179 @@
+{
+  "totalResultsCount": 5,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Ta%C5%9Fucu",
+          "lang": "link"
+        },
+        {
+          "name": "TAS",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "32",
+      "score": 23.428298950195312,
+      "lng": "33.86023",
+      "adminName2": "",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 36.306897702497146,
+        "east": 33.88256301376604,
+        "north": 36.34287229750286,
+        "west": 33.83790098623397
+      },
+      "name": "Taşucu",
+      "fcode": "PPLA3",
+      "geonameId": 299643,
+      "asciiName": "Tasucu",
+      "lat": "36.32488",
+      "population": 0,
+      "adminName1": "Mersin",
+      "countryId": "298795",
+      "adminId1": "311728",
+      "fclName": "city, village,...",
+      "countryCode": "TR",
+      "toponymName": "Taşucu",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "Taşucu Bucağı",
+        "lang": "tr"
+      }],
+      "countryName": "Turkey",
+      "adminCode1": "32",
+      "score": 23.428298950195312,
+      "lng": "33.84863",
+      "adminName2": "",
+      "fcodeName": "third-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Taşucu Bucağı",
+      "fcode": "ADM3",
+      "geonameId": 8693733,
+      "asciiName": "Tasucu Bucagi",
+      "lat": "36.33583",
+      "population": 0,
+      "adminName1": "Mersin",
+      "countryId": "298795",
+      "adminId1": "311728",
+      "fclName": "country, state, region,...",
+      "countryCode": "TR",
+      "toponymName": "Taşucu Bucağı",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "alternateNames": [{
+        "name": "Tasucu Ferry Port",
+        "lang": "en"
+      }],
+      "countryName": "Turkey",
+      "adminCode1": "32",
+      "score": 16.399808883666992,
+      "lng": "33.88114",
+      "adminName2": "",
+      "fcodeName": "port",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Tasucu Ferry Port",
+      "fcode": "PRT",
+      "geonameId": 9828988,
+      "asciiName": "Tasucu Port",
+      "lat": "36.31785",
+      "population": 0,
+      "adminName1": "Mersin",
+      "countryId": "298795",
+      "adminId1": "311728",
+      "fclName": "parks,area, ...",
+      "countryCode": "TR",
+      "toponymName": "Tasucu Port",
+      "fcl": "L",
+      "continentCode": "AS"
+    },
+    {
+      "adminId1": "311728",
+      "countryId": "298795",
+      "adminCode1": "32",
+      "countryName": "Turkey",
+      "fclName": "stream, lake, ...",
+      "score": 5.410533428192139,
+      "countryCode": "TR",
+      "lng": "33.9",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "bay",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "toponymName": "Agha Liman",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "AS",
+      "name": "Agha Liman",
+      "fcode": "BAY",
+      "asciiName": "Agha Liman",
+      "geonameId": 299642,
+      "lat": "36.25",
+      "adminName1": "Mersin",
+      "population": 0
+    },
+    {
+      "adminId1": "311728",
+      "countryId": "298795",
+      "adminCode1": "32",
+      "countryName": "Turkey",
+      "fclName": "stream, lake, ...",
+      "score": 3.8258249759674072,
+      "countryCode": "TR",
+      "lng": "33.93333",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "bay",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "toponymName": "Taşucu Körfezi",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "AS",
+      "name": "Taşucu Körfezi",
+      "fcode": "BAY",
+      "asciiName": "Tasucu Korfezi",
+      "geonameId": 388143,
+      "lat": "36.26667",
+      "adminName1": "Mersin",
+      "population": 0
+    }
+  ]
+}

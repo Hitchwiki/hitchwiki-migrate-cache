@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marshall Islands",
+               "short_name" : "MH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marshall Islands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.673255,
+                  "lng" : 172.1701812
+               },
+               "southwest" : {
+                  "lat" : 4.5729556,
+                  "lng" : 160.7979585
+               }
+            },
+            "location" : {
+               "lat" : 11.6040209,
+               "lng" : 165.3133111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.7155321,
+                  "lng" : 165.4334164
+               },
+               "southwest" : {
+                  "lat" : 11.4925097,
+                  "lng" : 165.1932058
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

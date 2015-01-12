@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Târgu Mureș",
+               "short_name" : "Târgu Mureș",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Targu Mures",
+               "short_name" : "Targu Mures",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mureș County",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Târgu Mureș, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5790997,
+                  "lng" : 24.6134519
+               },
+               "southwest" : {
+                  "lat" : 46.5071064,
+                  "lng" : 24.491744
+               }
+            },
+            "location" : {
+               "lat" : 46.545556,
+               "lng" : 24.5625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5790997,
+                  "lng" : 24.6134519
+               },
+               "southwest" : {
+                  "lat" : 46.5071064,
+                  "lng" : 24.491744
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

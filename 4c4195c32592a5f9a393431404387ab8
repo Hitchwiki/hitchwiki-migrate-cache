@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A38",
+               "short_name" : "A38",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A38, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4904271,
+                  "lng" : 12.5500331
+               },
+               "southwest" : {
+                  "lat" : 51.2344746,
+                  "lng" : 9.866723499999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4523959,
+               "lng" : 11.2130681
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4904271,
+                  "lng" : 12.5500331
+               },
+               "southwest" : {
+                  "lat" : 51.2344746,
+                  "lng" : 9.866723499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

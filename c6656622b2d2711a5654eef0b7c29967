@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Novi Sad",
+               "short_name" : "NS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Backa District",
+               "short_name" : "South Backa District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vojvodina",
+               "short_name" : "Vojvodina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Novi Sad, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3219787,
+                  "lng" : 19.9314308
+               },
+               "southwest" : {
+                  "lat" : 45.2224793,
+                  "lng" : 19.7674513
+               }
+            },
+            "location" : {
+               "lat" : 45.2671352,
+               "lng" : 19.8335496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3219787,
+                  "lng" : 19.9314308
+               },
+               "southwest" : {
+                  "lat" : 45.2224793,
+                  "lng" : 19.7674513
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

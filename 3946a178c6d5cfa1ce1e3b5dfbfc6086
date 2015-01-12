@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budva",
+               "short_name" : "Budva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montenegro",
+               "short_name" : "ME",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budva, Montenegro",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3027695,
+                  "lng" : 18.8609076
+               },
+               "southwest" : {
+                  "lat" : 42.2734745,
+                  "lng" : 18.8220477
+               }
+            },
+            "location" : {
+               "lat" : 42.288056,
+               "lng" : 18.8425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3027695,
+                  "lng" : 18.8609076
+               },
+               "southwest" : {
+                  "lat" : 42.2734745,
+                  "lng" : 18.8220477
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

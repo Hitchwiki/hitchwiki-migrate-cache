@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redding",
+               "short_name" : "Redding",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shasta County",
+               "short_name" : "Shasta County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redding, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6794979,
+                  "lng" : -122.2715971
+               },
+               "southwest" : {
+                  "lat" : 40.468919,
+                  "lng" : -122.4538641
+               }
+            },
+            "location" : {
+               "lat" : 40.5865396,
+               "lng" : -122.3916754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6794979,
+                  "lng" : -122.2715971
+               },
+               "southwest" : {
+                  "lat" : 40.468919,
+                  "lng" : -122.4538641
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redding",
+               "short_name" : "Redding",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairfield County",
+               "short_name" : "Fairfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redding, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.350095,
+                  "lng" : -73.3049608
+               },
+               "southwest" : {
+                  "lat" : 41.2542951,
+                  "lng" : -73.47006700000001
+               }
+            },
+            "location" : {
+               "lat" : 41.30453989999999,
+               "lng" : -73.392898
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.350095,
+                  "lng" : -73.3049608
+               },
+               "southwest" : {
+                  "lat" : 41.2542951,
+                  "lng" : -73.47006700000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redding",
+               "short_name" : "Redding",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clinton",
+               "short_name" : "Clinton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ringgold County",
+               "short_name" : "Ringgold County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50860",
+               "short_name" : "50860",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Redding, IA 50860, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.61415410000001,
+                  "lng" : -94.37665
+               },
+               "southwest" : {
+                  "lat" : 40.5995449,
+                  "lng" : -94.3958519
+               }
+            },
+            "location" : {
+               "lat" : 40.6047134,
+               "lng" : -94.38773599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.61415410000001,
+                  "lng" : -94.37665
+               },
+               "southwest" : {
+                  "lat" : 40.5995449,
+                  "lng" : -94.3958519
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

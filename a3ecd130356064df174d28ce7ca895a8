@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isle of Man",
+               "short_name" : "IM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isle of Man",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4179031,
+                  "lng" : -4.3088273
+               },
+               "southwest" : {
+                  "lat" : 54.04463999999999,
+                  "lng" : -4.8301808
+               }
+            },
+            "location" : {
+               "lat" : 54.236107,
+               "lng" : -4.548056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4179031,
+                  "lng" : -4.3088273
+               },
+               "southwest" : {
+                  "lat" : 54.04463999999999,
+                  "lng" : -4.8301808
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

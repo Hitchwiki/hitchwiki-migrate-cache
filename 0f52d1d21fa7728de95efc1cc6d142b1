@@ -1,0 +1,185 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Vienna",
+        "dstOffset": 2
+      },
+      "asciiName": "Salzburg Airport",
+      "countryId": "2782113",
+      "fcl": "S",
+      "score": 37.25672912597656,
+      "adminId2": "2766818",
+      "adminId3": "7871495",
+      "countryCode": "AT",
+      "adminId1": "2766823",
+      "lat": "47.7933",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 430,
+      "adminCode2": "501",
+      "adminCode3": "50101",
+      "adminCode1": "05",
+      "lng": "13.00433",
+      "geonameId": 6299671,
+      "toponymName": "Salzburg Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Salzburg",
+      "alternateNames": [
+        {
+          "name": "airport Salzburg",
+          "lang": "en"
+        },
+        {
+          "name": "SZG",
+          "lang": "iata"
+        },
+        {
+          "name": "LOWS",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Salzburg_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Salzburg Stadt",
+      "name": "airport Salzburg",
+      "fclName": "spot, building, farm",
+      "countryName": "Austria",
+      "fcodeName": "airport",
+      "adminName1": "Salzburg"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Vienna",
+        "dstOffset": 2
+      },
+      "asciiName": "Mauterndorf Airport",
+      "countryId": "2782113",
+      "fcl": "S",
+      "score": 18.641464233398438,
+      "adminId2": "2763928",
+      "adminId3": "7872231",
+      "countryCode": "AT",
+      "adminId1": "2766823",
+      "lat": "47.13201",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "adminCode2": "505",
+      "adminCode3": "50504",
+      "adminCode1": "05",
+      "lng": "13.69583",
+      "geonameId": 9034542,
+      "toponymName": "Mauterndorf Airport",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Mauterndorf",
+      "alternateNames": [
+        {
+          "name": "Flugplatz Mauterndorf",
+          "lang": "de"
+        },
+        {
+          "name": "LOSM",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Mauterndorf_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Politischer Bezirk Tamsweg",
+      "name": "Mauterndorf Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Austria",
+      "fcodeName": "airport",
+      "adminName1": "Salzburg"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Vienna",
+        "dstOffset": 2
+      },
+      "asciiName": "Zell Am See",
+      "countryId": "2782113",
+      "fcl": "S",
+      "score": 6.869363784790039,
+      "adminId2": "2760633",
+      "adminId3": "7873334",
+      "countryCode": "AT",
+      "adminId1": "2766823",
+      "lat": "47.2925",
+      "fcode": "AIRF",
+      "continentCode": "EU",
+      "elevation": 754,
+      "adminCode2": "506",
+      "adminCode3": "50628",
+      "adminCode1": "05",
+      "lng": "12.7875",
+      "geonameId": 6299672,
+      "toponymName": "Zell Am See",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Zell am See",
+      "alternateNames": [
+        {
+          "name": "LOWZ",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Zell_am_See_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Politischer Bezirk Zell am See",
+      "name": "Zell Am See",
+      "fclName": "spot, building, farm",
+      "countryName": "Austria",
+      "fcodeName": "airfield",
+      "adminName1": "Salzburg"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Vienna",
+        "dstOffset": 2
+      },
+      "asciiName": "Star Inn Hotel Salzburg Airport Messe",
+      "countryId": "2782113",
+      "fcl": "S",
+      "score": 3.856367588043213,
+      "adminId2": "2766817",
+      "adminId3": "7872218",
+      "countryCode": "AT",
+      "adminId1": "2766823",
+      "lat": "47.79262",
+      "fcode": "HTL",
+      "continentCode": "EU",
+      "adminCode2": "503",
+      "adminCode3": "50338",
+      "adminCode1": "05",
+      "lng": "12.98476",
+      "geonameId": 9257072,
+      "toponymName": "Star Inn Hotel Salzburg Airport Messe",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Wals-Siezenheim",
+      "adminName2": "Politischer Bezirk Salzburg-Umgebung",
+      "name": "Star Inn Hotel Salzburg Airport Messe",
+      "fclName": "spot, building, farm",
+      "countryName": "Austria",
+      "fcodeName": "hotel",
+      "adminName1": "Salzburg"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Asturias",
+               "short_name" : "O",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Principado de Asturias",
+               "short_name" : "Principado de Asturias",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oviedo, Asturias, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.39203860000001,
+                  "lng" : -5.8121272
+               },
+               "southwest" : {
+                  "lat" : 43.3469351,
+                  "lng" : -5.8851884
+               }
+            },
+            "location" : {
+               "lat" : 43.3619145,
+               "lng" : -5.8493887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.39203860000001,
+                  "lng" : -5.8121272
+               },
+               "southwest" : {
+                  "lat" : 43.3469351,
+                  "lng" : -5.8851884
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oviedo",
+               "short_name" : "Oviedo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seminole County",
+               "short_name" : "Seminole County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oviedo, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6921191,
+                  "lng" : -81.13415309999999
+               },
+               "southwest" : {
+                  "lat" : 28.6265691,
+                  "lng" : -81.2416228
+               }
+            },
+            "location" : {
+               "lat" : 28.669997,
+               "lng" : -81.20812029999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6921191,
+                  "lng" : -81.13415309999999
+               },
+               "southwest" : {
+                  "lat" : 28.6265691,
+                  "lng" : -81.2416228
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

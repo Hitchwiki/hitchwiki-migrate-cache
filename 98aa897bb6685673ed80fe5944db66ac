@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shenzhen",
+               "short_name" : "Shenzhen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangdong",
+               "short_name" : "Guangdong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shenzhen, Guangdong, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.8617484,
+                  "lng" : 114.627296
+               },
+               "southwest" : {
+                  "lat" : 22.4450271,
+                  "lng" : 113.7569184
+               }
+            },
+            "location" : {
+               "lat" : 22.543099,
+               "lng" : 114.057868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7809313,
+                  "lng" : 114.3553162
+               },
+               "southwest" : {
+                  "lat" : 22.3293893,
+                  "lng" : 113.7524414
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alsfeld",
+               "short_name" : "Alsfeld",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vogelsbergkreis",
+               "short_name" : "Vogelsbergkreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Giessen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alsfeld, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8265776,
+                  "lng" : 9.4608755
+               },
+               "southwest" : {
+                  "lat" : 50.6979765,
+                  "lng" : 9.170960599999999
+               }
+            },
+            "location" : {
+               "lat" : 50.750828,
+               "lng" : 9.2691602
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8265776,
+                  "lng" : 9.4608755
+               },
+               "southwest" : {
+                  "lat" : 50.6979765,
+                  "lng" : 9.170960599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

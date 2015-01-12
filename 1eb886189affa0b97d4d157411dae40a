@@ -1,0 +1,1557 @@
+{
+  "totalResultsCount": 3831,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "asciiName": "Canary Islands",
+      "countryId": "2510769",
+      "fcl": "T",
+      "score": 32.950401306152344,
+      "cc2": "ES",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28",
+      "fcode": "ISLS",
+      "continentCode": "EU",
+      "adminCode1": "53",
+      "lng": "-15.5",
+      "geonameId": 2520308,
+      "toponymName": "Canary Islands",
+      "population": 1968280,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Kanariske Øer",
+          "lang": "da"
+        },
+        {
+          "name": "Canary Islands",
+          "lang": "en"
+        },
+        {
+          "name": "Kanariaj Insuloj",
+          "lang": "eo"
+        },
+        {
+          "name": "Archipiélago Canario",
+          "lang": "es"
+        },
+        {
+          "name": "Kanariansaaret",
+          "lang": "fi"
+        },
+        {
+          "name": "Canarie",
+          "lang": "it"
+        },
+        {
+          "name": "Canarische Eilanden",
+          "lang": "nl"
+        },
+        {
+          "name": "Kanariøyene",
+          "lang": "no"
+        },
+        {
+          "name": "Kanarieöarna",
+          "lang": "sv"
+        }
+      ],
+      "adminName2": "",
+      "name": "Canary Islands",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Spain",
+      "fcodeName": "islands",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -13.3337183394951,
+        "south": 27.6377894797159,
+        "north": 29.4165070701164,
+        "west": -18.1574885778138
+      },
+      "asciiName": "Canary Islands",
+      "countryId": "2510769",
+      "fcl": "A",
+      "score": 21.308168411254883,
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "53",
+      "lng": "-15.5",
+      "geonameId": 2593110,
+      "toponymName": "Canary Islands",
+      "population": 2103992,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Kanariese Eilande",
+          "lang": "af"
+        },
+        {
+          "name": "Kanarische Inseln",
+          "lang": "als"
+        },
+        {
+          "name": "Fortunatus iegland",
+          "lang": "ang"
+        },
+        {
+          "name": "جزر الكناري",
+          "lang": "ar"
+        },
+        {
+          "name": "جزر الكنارى",
+          "lang": "arz"
+        },
+        {
+          "name": "Canaries",
+          "lang": "ast"
+        },
+        {
+          "name": "Kanar adaları",
+          "lang": "az"
+        },
+        {
+          "name": "Канарскія астравы",
+          "lang": "be"
+        },
+        {
+          "name": "Канарски острови",
+          "lang": "bg"
+        },
+        {
+          "name": "কানারি দ্বীপপুঞ্জ",
+          "lang": "bn"
+        },
+        {
+          "name": "Kanariez",
+          "lang": "br"
+        },
+        {
+          "name": "Kanarska ostrva",
+          "lang": "bs"
+        },
+        {
+          "name": "Illes Canàries",
+          "lang": "ca"
+        },
+        {
+          "name": "Канаран гӀайреш",
+          "lang": "ce"
+        },
+        {
+          "name": "Kanárské ostrovy",
+          "lang": "cs"
+        },
+        {
+          "name": "Yr Ynysoedd Dedwydd",
+          "lang": "cy"
+        },
+        {
+          "name": "Kanariske Øer",
+          "lang": "da"
+        },
+        {
+          "name": "Kanarische Inseln",
+          "lang": "de"
+        },
+        {
+          "name": "Κανάριες Νήσοι",
+          "lang": "el"
+        },
+        {
+          "name": "Canary Islands",
+          "lang": "en"
+        },
+        {
+          "name": "Kanariaj Insuloj",
+          "lang": "eo"
+        },
+        {
+          "name": "Canarias",
+          "lang": "es"
+        },
+        {
+          "name": "Kanaari saared",
+          "lang": "et"
+        },
+        {
+          "name": "Kanariak",
+          "lang": "eu"
+        },
+        {
+          "name": "Canárias",
+          "lang": "ext"
+        },
+        {
+          "name": "جزایر قناری",
+          "lang": "fa"
+        },
+        {
+          "name": "Kanaria",
+          "lang": "fi"
+        },
+        {
+          "name": "Kanarisku oyggjarnar",
+          "lang": "fo"
+        },
+        {
+          "name": "Canaries",
+          "lang": "fr"
+        },
+        {
+          "name": "Canaries",
+          "lang": "frp"
+        },
+        {
+          "name": "Kanaaren",
+          "lang": "frr"
+        },
+        {
+          "name": "Kanaryske Eilannen",
+          "lang": "fy"
+        },
+        {
+          "name": "Na hOileáin Chanáracha",
+          "lang": "ga"
+        },
+        {
+          "name": "Kanariya adaları",
+          "lang": "gag"
+        },
+        {
+          "name": "Na h-Eileanan Canàrach",
+          "lang": "gd"
+        },
+        {
+          "name": "Illas Canarias",
+          "lang": "gl"
+        },
+        {
+          "name": "Canary Islands",
+          "lang": "ha"
+        },
+        {
+          "name": "Kanari",
+          "lang": "hbs"
+        },
+        {
+          "name": "האיים הקנריים",
+          "lang": "he"
+        },
+        {
+          "name": "कैनरी द्वीपसमूह",
+          "lang": "hi"
+        },
+        {
+          "name": "Canary Islands",
+          "lang": "hif"
+        },
+        {
+          "name": "Kanari",
+          "lang": "hr"
+        },
+        {
+          "name": "Kanariske kupy",
+          "lang": "hsb"
+        },
+        {
+          "name": "Canaries",
+          "lang": "ht"
+        },
+        {
+          "name": "Kanári-szigetek",
+          "lang": "hu"
+        },
+        {
+          "name": "Կանարյան կղզիներ",
+          "lang": "hy"
+        },
+        {
+          "name": "Kepulauan Canaria",
+          "lang": "id"
+        },
+        {
+          "name": "Kanarii",
+          "lang": "io"
+        },
+        {
+          "name": "Kanaríeyjar",
+          "lang": "is"
+        },
+        {
+          "name": "Isole Canarie",
+          "lang": "it"
+        },
+        {
+          "name": "カナリアス",
+          "lang": "ja"
+        },
+        {
+          "name": "Kapuloan Canary",
+          "lang": "jv"
+        },
+        {
+          "name": "კანარის კუნძულები",
+          "lang": "ka"
+        },
+        {
+          "name": "Канар хы тӀыгухэр",
+          "lang": "kbd"
+        },
+        {
+          "name": "Канар аралдары",
+          "lang": "kk"
+        },
+        {
+          "name": "카나리아 제도",
+          "lang": "ko"
+        },
+        {
+          "name": "Giravên Qenariyê",
+          "lang": "ku"
+        },
+        {
+          "name": "Canariae Insulae",
+          "lang": "la"
+        },
+        {
+          "name": "Kanarias",
+          "lang": "lad"
+        },
+        {
+          "name": "Kanaresch Inselen",
+          "lang": "lb"
+        },
+        {
+          "name": "Isoe Canaïe",
+          "lang": "lij"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Canary_Islands",
+          "lang": "link"
+        },
+        {
+          "name": "Kanarų salos",
+          "lang": "lt"
+        },
+        {
+          "name": "Kanāriju Salas",
+          "lang": "lv"
+        },
+        {
+          "name": "Islas Canarias",
+          "lang": "mi"
+        },
+        {
+          "name": "Канарски Острови",
+          "lang": "mk"
+        },
+        {
+          "name": "कॅनरी द्वीपसमूह",
+          "lang": "mr"
+        },
+        {
+          "name": "Kepulauan Canary",
+          "lang": "ms"
+        },
+        {
+          "name": "ကနေရီကျွန်းစု",
+          "lang": "my"
+        },
+        {
+          "name": "Canaria Kûn-tó",
+          "lang": "nan"
+        },
+        {
+          "name": "Canarische Eilanden",
+          "lang": "nl"
+        },
+        {
+          "name": "Kanariøyane",
+          "lang": "nn"
+        },
+        {
+          "name": "Kanariøyene",
+          "lang": "no"
+        },
+        {
+          "name": "Isles Kanarias",
+          "lang": "nov"
+        },
+        {
+          "name": "Canary Islands",
+          "lang": "nso"
+        },
+        {
+          "name": "Illas Canàrias",
+          "lang": "oc"
+        },
+        {
+          "name": "Канары сакъадæхтæ",
+          "lang": "os"
+        },
+        {
+          "name": "Wyspy Kanaryjskie",
+          "lang": "pl"
+        },
+        {
+          "name": "Ìsole Canarie",
+          "lang": "pms"
+        },
+        {
+          "name": "کناری جزیرے",
+          "lang": "pnb"
+        },
+        {
+          "name": "Canárias",
+          "lang": "pt"
+        },
+        {
+          "name": "Kanarya watakuna",
+          "lang": "qu"
+        },
+        {
+          "name": "Insulele Canare",
+          "lang": "ro"
+        },
+        {
+          "name": "Канарские Острова",
+          "lang": "ru"
+        },
+        {
+          "name": "Канар арыылара",
+          "lang": "sah"
+        },
+        {
+          "name": "Isulas Canarias",
+          "lang": "sc"
+        },
+        {
+          "name": "Isuli Canarii",
+          "lang": "scn"
+        },
+        {
+          "name": "Canary Islands",
+          "lang": "sco"
+        },
+        {
+          "name": "Kanáriasullot",
+          "lang": "se"
+        },
+        {
+          "name": "Kanárske ostrovy",
+          "lang": "sk"
+        },
+        {
+          "name": "Kanarski otoki",
+          "lang": "sl"
+        },
+        {
+          "name": "Ishujt Kanare",
+          "lang": "sq"
+        },
+        {
+          "name": "Канарска острва",
+          "lang": "sr"
+        },
+        {
+          "name": "Kanariske Ailounde",
+          "lang": "stq"
+        },
+        {
+          "name": "Kapuloan Kanaria",
+          "lang": "su"
+        },
+        {
+          "name": "Kanarieöarna",
+          "lang": "sv"
+        },
+        {
+          "name": "Visiwa vya Kanari",
+          "lang": "sw"
+        },
+        {
+          "name": "கேனரி தீவுகள்",
+          "lang": "ta"
+        },
+        {
+          "name": "కానరీ ద్వీపములు",
+          "lang": "te"
+        },
+        {
+          "name": "หมู่เกาะคะเนรี",
+          "lang": "th"
+        },
+        {
+          "name": "Kanarya Adaları",
+          "lang": "tr"
+        },
+        {
+          "name": "Канарські острови",
+          "lang": "uk"
+        },
+        {
+          "name": "جزائر کناری",
+          "lang": "ur"
+        },
+        {
+          "name": "Kanar orollari",
+          "lang": "uz"
+        },
+        {
+          "name": "Ìxołe Canarie",
+          "lang": "vec"
+        },
+        {
+          "name": "Quần đảo Canaria",
+          "lang": "vi"
+        },
+        {
+          "name": "Islas Canarias",
+          "lang": "war"
+        },
+        {
+          "name": "Duni Kanaari",
+          "lang": "wo"
+        },
+        {
+          "name": "კანარიშ კოკეფი",
+          "lang": "xmf"
+        },
+        {
+          "name": "קאנארישע אינזלען",
+          "lang": "yi"
+        },
+        {
+          "name": "Àwọn Erékùṣù Kánárì",
+          "lang": "yo"
+        },
+        {
+          "name": "加那利群岛",
+          "lang": "zh"
+        },
+        {
+          "name": "Iziqhingi iKhaneli",
+          "lang": "zu"
+        }
+      ],
+      "adminName2": "",
+      "name": "Canary Islands",
+      "fclName": "country, state, region,...",
+      "countryName": "Spain",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -15.322457016427574,
+        "south": 28.01953713424259,
+        "north": 28.179916865757413,
+        "west": -15.504402983572426
+      },
+      "asciiName": "Las Palmas de Gran Canaria",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 19.94472312927246,
+      "adminId2": "2515271",
+      "adminId3": "6360186",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28.09973",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "GC",
+      "adminCode3": "35016",
+      "adminCode1": "53",
+      "lng": "-15.41343",
+      "geonameId": 2515270,
+      "toponymName": "Las Palmas de Gran Canaria",
+      "population": 381847,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Las Palmas",
+      "alternateNames": [
+        {
+          "name": "Les Palmes de Gran Canària",
+          "lang": "ca"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "cs"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "da"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "de"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "en"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "eo"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "es"
+        },
+        {
+          "name": "Kanaria Handiko Las Palmas",
+          "lang": "eu"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "fi"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "fr"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "hr"
+        },
+        {
+          "name": "LPA",
+          "lang": "iata"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "id"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "it"
+        },
+        {
+          "name": "ラス・パルマス・デ・グラン・カナリア",
+          "lang": "ja"
+        },
+        {
+          "name": "http://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81-%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0%D1%81-%D0%B4%D0%B5-%D0%93%D1%80%D0%B0%D0%BD-%D0%9A%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%8F",
+          "lang": "link"
+        },
+        {
+          "name": "Laspalmasa",
+          "lang": "lv"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "nl"
+        },
+        {
+          "name": "Las Palmas",
+          "lang": "no"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "pl"
+        },
+        {
+          "name": "35004",
+          "lang": "post"
+        },
+        {
+          "name": "Las Palmas",
+          "lang": "pt"
+        },
+        {
+          "name": "Лас-Пальмас-де-Гран-Канария",
+          "lang": "ru"
+        },
+        {
+          "name": "Las Palmas",
+          "lang": "se"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "sk"
+        },
+        {
+          "name": "Лас Палмас де Гран Канариа",
+          "lang": "sr"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "sv"
+        },
+        {
+          "name": "Las Palmas de Gran Canaria",
+          "lang": "sw"
+        },
+        {
+          "name": "LPA",
+          "lang": "unlc"
+        },
+        {
+          "name": "拉斯帕尔马斯",
+          "lang": "zh-CN"
+        }
+      ],
+      "adminName2": "Las Palmas",
+      "name": "Las Palmas de Gran Canaria",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -15.372739455476202,
+        "south": 27.951456980207986,
+        "north": 28.033393019792015,
+        "west": -15.465566544523798
+      },
+      "asciiName": "Telde",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 14.958541870117188,
+      "adminId2": "2515271",
+      "adminId3": "6360196",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "27.99243",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "adminCode2": "GC",
+      "adminCode3": "35026",
+      "adminCode1": "53",
+      "lng": "-15.41915",
+      "geonameId": 2510542,
+      "toponymName": "Telde",
+      "population": 100015,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Telde",
+      "alternateNames": [
+        {
+          "name": "تيلدي",
+          "lang": "ar"
+        },
+        {
+          "name": "Телде",
+          "lang": "bg"
+        },
+        {
+          "name": "Telde",
+          "lang": "de"
+        },
+        {
+          "name": "Telde",
+          "lang": "en"
+        },
+        {
+          "name": "Telde",
+          "lang": "es"
+        },
+        {
+          "name": "Telde",
+          "lang": "fr"
+        },
+        {
+          "name": "Telde",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Telde",
+          "lang": "link"
+        },
+        {
+          "name": "Telde",
+          "lang": "nl"
+        },
+        {
+          "name": "35218",
+          "lang": "post"
+        },
+        {
+          "name": "Telde",
+          "lang": "pt"
+        },
+        {
+          "name": "Тельде",
+          "lang": "ru"
+        },
+        {
+          "name": "Телде",
+          "lang": "sr"
+        },
+        {
+          "name": "Тельде",
+          "lang": "uk"
+        },
+        {
+          "name": "TEL",
+          "lang": "unlc"
+        },
+        {
+          "name": "特尔德",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Las Palmas",
+      "name": "Telde",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -16.184998932317356,
+        "south": 28.40707516117347,
+        "north": 28.52940200943193,
+        "west": -16.324232635065442
+      },
+      "asciiName": "Santa Cruz de Tenerife",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 14.958541870117188,
+      "adminId2": "2511173",
+      "adminId3": "6360638",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28.46824",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "elevation": 10,
+      "adminCode2": "TF",
+      "adminCode3": "38038",
+      "adminCode1": "53",
+      "lng": "-16.25462",
+      "geonameId": 2511174,
+      "toponymName": "Santa Cruz de Tenerife",
+      "population": 222417,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Santa Cruz de Tenerife",
+      "alternateNames": [
+        {
+          "name": "سانتا كروث دي تينيريفه",
+          "lang": "ar"
+        },
+        {
+          "name": "سانتا كروس دى تينيريفا",
+          "lang": "arz"
+        },
+        {
+          "name": "Santa Kruz de Tenerife",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Санта-Крус-дэ-Тэнэрыфэ",
+          "lang": "be"
+        },
+        {
+          "name": "Санта Крус де Тенерифе",
+          "lang": "bg"
+        },
+        {
+          "name": "সান্টা ক্রুজ দে তেনেরিফে",
+          "lang": "bn"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "ca"
+        },
+        {
+          "name": "Санта-Крус-де-Тенерифе",
+          "lang": "ce"
+        },
+        {
+          "name": "Teneriffa",
+          "lang": "de"
+        },
+        {
+          "name": "Σάντα Κρουθ ντε Τενερίφε",
+          "lang": "el"
+        },
+        {
+          "name": "Tenerife",
+          "lang": "en"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "eo"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "es"
+        },
+        {
+          "name": "Santa Cruz Tenerifekoa",
+          "lang": "eu"
+        },
+        {
+          "name": "سانتا کروس",
+          "lang": "fa"
+        },
+        {
+          "name": "Teneriffa",
+          "lang": "fi"
+        },
+        {
+          "name": "Santa Cruz de Ténérife",
+          "lang": "fr"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "gl"
+        },
+        {
+          "name": "סנטה קרוס דה טנריפה",
+          "lang": "he"
+        },
+        {
+          "name": "सान्ता क्रूस दे तेनरीफ़",
+          "lang": "hi"
+        },
+        {
+          "name": "TCI",
+          "lang": "iata"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "id"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "it"
+        },
+        {
+          "name": "サンタ・クルス・デ・テネリフェ",
+          "lang": "ja"
+        },
+        {
+          "name": "სანტა-კრუს-დე-ტენერიფე",
+          "lang": "ka"
+        },
+        {
+          "name": "산타크루스데테네리페",
+          "lang": "ko"
+        },
+        {
+          "name": "Sancta Crux Nivariae",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Santa_Cruz_de_Tenerife",
+          "lang": "link"
+        },
+        {
+          "name": "Tenerifės Santa Krusas",
+          "lang": "lt"
+        },
+        {
+          "name": "Santakrusa de Tenerife",
+          "lang": "lv"
+        },
+        {
+          "name": "Санта Круз де Тенерифе",
+          "lang": "mn"
+        },
+        {
+          "name": "सांता क्रुझ दे तेनेरीफ",
+          "lang": "mr"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "nl"
+        },
+        {
+          "name": "Tenerife",
+          "lang": "no"
+        },
+        {
+          "name": "Санта-Крус-де-Тенерифе",
+          "lang": "os"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "pl"
+        },
+        {
+          "name": "سانتا کروز دی تینیرف",
+          "lang": "pnb"
+        },
+        {
+          "name": "38071",
+          "lang": "post"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "pt"
+        },
+        {
+          "name": "Санта-Крус-де-Тенерифе",
+          "lang": "ru"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "sk"
+        },
+        {
+          "name": "Санта Круз де Тенерифе",
+          "lang": "sr"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "sv"
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "lang": "sw"
+        },
+        {
+          "name": "ซานตากรุซเดเตเนรีเฟ",
+          "lang": "th"
+        },
+        {
+          "name": "Санта-Крус-де-Тенеріфе",
+          "lang": "uk"
+        },
+        {
+          "name": "SCT",
+          "lang": "unlc"
+        },
+        {
+          "name": "سانتا کروز ٹینرائف",
+          "lang": "ur"
+        },
+        {
+          "name": "סאנטא קרוז דע טענעריפע",
+          "lang": "yi"
+        },
+        {
+          "name": "圣克鲁斯-德特内里费",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Santa Cruz de Tenerife",
+      "name": "Tenerife",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -16.26291394907998,
+        "south": 28.435021975065133,
+        "north": 28.535574024934867,
+        "west": -16.37737005092002
+      },
+      "asciiName": "La Laguna",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 14.958541870117188,
+      "adminId2": "2511173",
+      "adminId3": "2515819",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28.4853",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "TF",
+      "adminCode3": "38023",
+      "adminCode1": "53",
+      "lng": "-16.32014",
+      "geonameId": 2511401,
+      "toponymName": "La Laguna",
+      "population": 150661,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "San Cristóbal de La Laguna",
+      "alternateNames": [
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "de"
+        },
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "en"
+        },
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "es"
+        },
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "fi"
+        },
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "fr"
+        },
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_La_Laguna",
+          "lang": "link"
+        },
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "nl"
+        },
+        {
+          "name": "38204",
+          "lang": "post"
+        },
+        {
+          "name": "San Cristóbal de La Laguna",
+          "lang": "pt"
+        },
+        {
+          "name": "Ла-Лагуна",
+          "lang": "ru"
+        },
+        {
+          "name": "La Laguna",
+          "lang": "sv"
+        },
+        {
+          "name": "UNA",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Santa Cruz de Tenerife",
+      "name": "San Cristóbal de La Laguna",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "populated place",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -16.49328116846052,
+        "south": 28.36453779802403,
+        "north": 28.41697933125274,
+        "west": -16.552907186031668
+      },
+      "asciiName": "La Orotava",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 12.465452194213867,
+      "adminId2": "2511173",
+      "adminId3": "6360633",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28.39076",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "TF",
+      "adminCode3": "38026",
+      "adminCode1": "53",
+      "lng": "-16.52309",
+      "geonameId": 2515692,
+      "toponymName": "La Orotava",
+      "population": 41171,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Orotava, La",
+      "alternateNames": [
+        {
+          "name": "لا أوروتافا",
+          "lang": "ar"
+        },
+        {
+          "name": "Оротава",
+          "lang": "bg"
+        },
+        {
+          "name": "La Orotava",
+          "lang": "de"
+        },
+        {
+          "name": "La Orotava",
+          "lang": "en"
+        },
+        {
+          "name": "Orotava",
+          "lang": "es"
+        },
+        {
+          "name": "La Orotava",
+          "lang": "fr"
+        },
+        {
+          "name": "La Orotava",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/La_Orotava",
+          "lang": "link"
+        },
+        {
+          "name": "La Orotava",
+          "lang": "nl"
+        },
+        {
+          "name": "38311",
+          "lang": "post"
+        },
+        {
+          "name": "La Orotava",
+          "lang": "pt"
+        },
+        {
+          "name": "Ла-Оротава",
+          "lang": "ru"
+        },
+        {
+          "name": "Ла-Оротава",
+          "lang": "uk"
+        },
+        {
+          "name": "ZHL",
+          "lang": "unlc"
+        },
+        {
+          "name": "劳罗塔瓦",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Santa Cruz de Tenerife",
+      "name": "La Orotava",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "populated place",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -15.539909098097377,
+        "south": 27.89531799336215,
+        "north": 27.95429329215665,
+        "west": -15.60667445903153
+      },
+      "asciiName": "San Bartolome",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 12.465452194213867,
+      "adminId2": "2515271",
+      "adminId3": "6360189",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "27.92481",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "GC",
+      "adminCode3": "35019",
+      "adminCode1": "53",
+      "lng": "-15.57329",
+      "geonameId": 2511440,
+      "toponymName": "San Bartolomé",
+      "population": 52161,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "San Bartolomé de Tirajana",
+      "alternateNames": [
+        {
+          "name": "San Bartolomé de Tirajana",
+          "lang": "de"
+        },
+        {
+          "name": "San Bartolomé de Tirajana",
+          "lang": "en"
+        },
+        {
+          "name": "San Bartolomé de Tirajana",
+          "lang": "es"
+        },
+        {
+          "name": "San Bartolomé de Tirajana",
+          "lang": "fr"
+        },
+        {
+          "name": "San Bartolomé de Tirajana",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/San_Bartolom%C3%A9_de_Tirajana",
+          "lang": "link"
+        },
+        {
+          "name": "San Bartolomé de Tirajana",
+          "lang": "nl"
+        },
+        {
+          "name": "35108",
+          "lang": "post"
+        },
+        {
+          "name": "San Bartolomé de Tirajana",
+          "lang": "pt"
+        }
+      ],
+      "adminName2": "Las Palmas",
+      "name": "San Bartolomé de Tirajana",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "populated place",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -13.511699208769516,
+        "south": 28.931539704943766,
+        "north": 28.994495246203755,
+        "west": -13.58367585226564
+      },
+      "asciiName": "Arrecife",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 12.465452194213867,
+      "adminId2": "2515271",
+      "adminId3": "6360174",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28.96302",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "adminCode2": "GC",
+      "adminCode3": "35004",
+      "adminCode1": "53",
+      "lng": "-13.54769",
+      "geonameId": 2521570,
+      "toponymName": "Arrecife",
+      "population": 59127,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Arrecife",
+      "alternateNames": [
+        {
+          "name": "Arrecife",
+          "lang": "de"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "en"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "es"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "fi"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "fr"
+        },
+        {
+          "name": "ACE",
+          "lang": "iata"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "it"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "nl"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "no"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "pl"
+        },
+        {
+          "name": "35500",
+          "lang": "post"
+        },
+        {
+          "name": "Arrecife",
+          "lang": "pt"
+        },
+        {
+          "name": "Аресифе",
+          "lang": "ru"
+        }
+      ],
+      "adminName2": "Las Palmas",
+      "name": "Arrecife",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Canary Islands"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 0,
+        "timeZoneId": "Atlantic/Canary",
+        "dstOffset": 1
+      },
+      "bbox": {
+        "east": -16.639909861699945,
+        "south": 28.063364848474347,
+        "north": 28.135873962808656,
+        "west": -16.722135426386057
+      },
+      "asciiName": "Arona",
+      "countryId": "2510769",
+      "fcl": "P",
+      "score": 12.465452194213867,
+      "adminId2": "2511173",
+      "adminId3": "6360622",
+      "countryCode": "ES",
+      "adminId1": "2593110",
+      "lat": "28.09962",
+      "fcode": "PPLA3",
+      "continentCode": "EU",
+      "adminCode2": "TF",
+      "adminCode3": "38006",
+      "adminCode1": "53",
+      "lng": "-16.68102",
+      "geonameId": 2521582,
+      "toponymName": "Arona",
+      "population": 78614,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Arona",
+      "alternateNames": [
+        {
+          "name": "أرونا، إسبانيا",
+          "lang": "ar"
+        },
+        {
+          "name": "Арона",
+          "lang": "bg"
+        },
+        {
+          "name": "Arona",
+          "lang": "de"
+        },
+        {
+          "name": "Arona",
+          "lang": "en"
+        },
+        {
+          "name": "Arona",
+          "lang": "es"
+        },
+        {
+          "name": "Arona",
+          "lang": "fr"
+        },
+        {
+          "name": "Arona",
+          "lang": "it"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Arona%2C_Tenerife",
+          "lang": "link"
+        },
+        {
+          "name": "Arona",
+          "lang": "nl"
+        },
+        {
+          "name": "Arona på Tenerife",
+          "lang": "nn"
+        },
+        {
+          "name": "38649",
+          "lang": "post"
+        },
+        {
+          "name": "Arona",
+          "lang": "pt"
+        },
+        {
+          "name": "Арона",
+          "lang": "ru"
+        },
+        {
+          "name": "Арона",
+          "lang": "sr"
+        },
+        {
+          "name": "Arona",
+          "lang": "sv"
+        },
+        {
+          "name": "Арона",
+          "lang": "uk"
+        },
+        {
+          "name": "AAO",
+          "lang": "unlc"
+        },
+        {
+          "name": "阿罗纳",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Santa Cruz de Tenerife",
+      "name": "Arona",
+      "fclName": "city, village,...",
+      "countryName": "Spain",
+      "fcodeName": "seat of a third-order administrative division",
+      "adminName1": "Canary Islands"
+    }
+  ]
+}

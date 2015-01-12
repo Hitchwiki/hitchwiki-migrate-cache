@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A15",
+               "short_name" : "A15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A15, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8463235,
+                  "lng" : 14.7527118
+               },
+               "southwest" : {
+                  "lat" : 51.6662597,
+                  "lng" : 13.9187641
+               }
+            },
+            "location" : {
+               "lat" : 51.7215044,
+               "lng" : 14.3121577
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8463235,
+                  "lng" : 14.7527118
+               },
+               "southwest" : {
+                  "lat" : 51.6662597,
+                  "lng" : 13.9187641
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A15",
+               "short_name" : "A15",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A15, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5131558,
+                  "lng" : 10.8275281
+               },
+               "southwest" : {
+                  "lat" : 48.4377441,
+                  "lng" : 10.8142192
+               }
+            },
+            "location" : {
+               "lat" : 48.4748051,
+               "lng" : 10.8157196
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5131558,
+                  "lng" : 10.8275281
+               },
+               "southwest" : {
+                  "lat" : 48.4377441,
+                  "lng" : 10.8142192
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

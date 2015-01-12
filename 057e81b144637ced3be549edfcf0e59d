@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salzbergen",
+               "short_name" : "Salzbergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Emsland",
+               "short_name" : "Emsland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salzbergen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3517527,
+                  "lng" : 7.438178100000001
+               },
+               "southwest" : {
+                  "lat" : 52.2801646,
+                  "lng" : 7.257495899999999
+               }
+            },
+            "location" : {
+               "lat" : 52.3216445,
+               "lng" : 7.343625200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3517527,
+                  "lng" : 7.438178100000001
+               },
+               "southwest" : {
+                  "lat" : 52.2801646,
+                  "lng" : 7.257495899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

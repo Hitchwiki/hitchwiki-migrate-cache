@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A11",
+               "short_name" : "A11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A11, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9149752,
+                  "lng" : 11.2017719
+               },
+               "southwest" : {
+                  "lat" : 43.7802255,
+                  "lng" : 10.2644097
+               }
+            },
+            "location" : {
+               "lat" : 43.8501635,
+               "lng" : 10.7312344
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9149752,
+                  "lng" : 11.2017719
+               },
+               "southwest" : {
+                  "lat" : 43.7802255,
+                  "lng" : 10.2644097
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

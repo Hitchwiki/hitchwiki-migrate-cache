@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tekirdağ",
+               "short_name" : "Tekirdağ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tekirdağ, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.99954400000001,
+                  "lng" : 27.6462518
+               },
+               "southwest" : {
+                  "lat" : 40.920071,
+                  "lng" : 27.469809
+               }
+            },
+            "location" : {
+               "lat" : 40.977778,
+               "lng" : 27.515278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.99954400000001,
+                  "lng" : 27.6462518
+               },
+               "southwest" : {
+                  "lat" : 40.920071,
+                  "lng" : 27.469809
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

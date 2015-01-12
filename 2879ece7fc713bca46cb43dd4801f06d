@@ -1,0 +1,255 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Sonora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "SON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonora, SON, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.0621992,
+               "lng" : -114.9719221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1378166,
+                  "lng" : -114.8438627
+               },
+               "southwest" : {
+                  "lat" : 31.9865192,
+                  "lng" : -115.0999815
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "SON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonora, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5167576,
+                  "lng" : -108.42369
+               },
+               "southwest" : {
+                  "lat" : 26.2968371,
+                  "lng" : -115.0525135
+               }
+            },
+            "location" : {
+               "lat" : 29.2972247,
+               "lng" : -110.3308814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5167576,
+                  "lng" : -108.42369
+               },
+               "southwest" : {
+                  "lat" : 26.2968371,
+                  "lng" : -115.0525135
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Sonora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuolumne County",
+               "short_name" : "Tuolumne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95370",
+               "short_name" : "95370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonora, CA 95370, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.003293,
+                  "lng" : -120.3589231
+               },
+               "southwest" : {
+                  "lat" : 37.9647949,
+                  "lng" : -120.396741
+               }
+            },
+            "location" : {
+               "lat" : 37.9829496,
+               "lng" : -120.3821724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.003293,
+                  "lng" : -120.3589231
+               },
+               "southwest" : {
+                  "lat" : 37.9647949,
+                  "lng" : -120.396741
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Sonora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sutton County",
+               "short_name" : "Sutton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76950",
+               "short_name" : "76950",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonora, TX 76950, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.59151009999999,
+                  "lng" : -100.626741
+               },
+               "southwest" : {
+                  "lat" : 30.554381,
+                  "lng" : -100.6610011
+               }
+            },
+            "location" : {
+               "lat" : 30.5668484,
+               "lng" : -100.6434273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.59151009999999,
+                  "lng" : -100.626741
+               },
+               "southwest" : {
+                  "lat" : 30.554381,
+                  "lng" : -100.6610011
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Sonora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hardin County",
+               "short_name" : "Hardin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonora, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.543931,
+                  "lng" : -85.8791069
+               },
+               "southwest" : {
+                  "lat" : 37.51701389999999,
+                  "lng" : -85.90691190000001
+               }
+            },
+            "location" : {
+               "lat" : 37.524226,
+               "lng" : -85.8930192
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.543931,
+                  "lng" : -85.8791069
+               },
+               "southwest" : {
+                  "lat" : 37.51701389999999,
+                  "lng" : -85.90691190000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

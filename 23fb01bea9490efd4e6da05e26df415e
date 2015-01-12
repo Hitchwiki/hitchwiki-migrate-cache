@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Batman",
+               "short_name" : "Batman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Batman",
+               "short_name" : "Batman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Batman Province",
+               "short_name" : "Batman Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Batman/Batman Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.934147,
+                  "lng" : 41.1744038
+               },
+               "southwest" : {
+                  "lat" : 37.85689199999999,
+                  "lng" : 41.08907019999999
+               }
+            },
+            "location" : {
+               "lat" : 37.881168,
+               "lng" : 41.13509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.934147,
+                  "lng" : 41.1744038
+               },
+               "southwest" : {
+                  "lat" : 37.85689199999999,
+                  "lng" : 41.08907019999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

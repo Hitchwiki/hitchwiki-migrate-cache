@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Idaho, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.0011461,
+                  "lng" : -111.043495
+               },
+               "southwest" : {
+                  "lat" : 41.9880051,
+                  "lng" : -117.2413657
+               }
+            },
+            "location" : {
+               "lat" : 44.0682019,
+               "lng" : -114.7420408
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.0011461,
+                  "lng" : -111.043495
+               },
+               "southwest" : {
+                  "lat" : 41.9880051,
+                  "lng" : -117.2413657
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

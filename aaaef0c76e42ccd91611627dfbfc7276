@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laws",
+               "short_name" : "Laws",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Inyo County",
+               "short_name" : "Inyo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93514",
+               "short_name" : "93514",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laws, CA 93514, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.401611,
+               "lng" : -118.340103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4104744,
+                  "lng" : -118.3240956
+               },
+               "southwest" : {
+                  "lat" : 37.3927466,
+                  "lng" : -118.3561104
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

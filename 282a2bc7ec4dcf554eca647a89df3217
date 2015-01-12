@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A23",
+               "short_name" : "A23",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "59",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A23, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5998814,
+                  "lng" : 3.4942736
+               },
+               "southwest" : {
+                  "lat" : 50.3399371,
+                  "lng" : 3.1366697
+               }
+            },
+            "location" : {
+               "lat" : 50.45607270000001,
+               "lng" : 3.3123653
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5998814,
+                  "lng" : 3.4942736
+               },
+               "southwest" : {
+                  "lat" : 50.3399371,
+                  "lng" : 3.1366697
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

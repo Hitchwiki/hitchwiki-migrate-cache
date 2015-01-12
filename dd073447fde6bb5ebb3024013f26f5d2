@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patagonia",
+               "short_name" : "Patagonia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85624",
+               "short_name" : "85624",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patagonia, AZ 85624, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.550689,
+                  "lng" : -110.732896
+               },
+               "southwest" : {
+                  "lat" : 31.5361901,
+                  "lng" : -110.764869
+               }
+            },
+            "location" : {
+               "lat" : 31.5395378,
+               "lng" : -110.7561963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.550689,
+                  "lng" : -110.732896
+               },
+               "southwest" : {
+                  "lat" : 31.5361901,
+                  "lng" : -110.764869
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patagonia",
+               "short_name" : "Patagonia",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Patagonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.9517763,
+                  "lng" : -58.0880073
+               },
+               "southwest" : {
+                  "lat" : -55.98001009999999,
+                  "lng" : -75.7296588
+               }
+            },
+            "location" : {
+               "lat" : -41.8101472,
+               "lng" : -68.9062689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.094386,
+                  "lng" : -62.78731459999999
+               },
+               "southwest" : {
+                  "lat" : -55.98001009999999,
+                  "lng" : -75.69619709999999
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haapsalu",
+               "short_name" : "Haapsalu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haapsalu linn",
+               "short_name" : "Haapsalu linn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Läänemaa",
+               "short_name" : "Läänemaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haapsalu, Läänemaa, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.96314599999999,
+                  "lng" : 23.574317
+               },
+               "southwest" : {
+                  "lat" : 58.9045259,
+                  "lng" : 23.4857899
+               }
+            },
+            "location" : {
+               "lat" : 58.94824860000001,
+               "lng" : 23.5370534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.96314599999999,
+                  "lng" : 23.574317
+               },
+               "southwest" : {
+                  "lat" : 58.9045259,
+                  "lng" : 23.4857899
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

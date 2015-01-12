@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenland",
+               "short_name" : "GL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greenland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 83.60958099999999,
+                  "lng" : -11.3123191
+               },
+               "southwest" : {
+                  "lat" : 59.777401,
+                  "lng" : -73.0350638
+               }
+            },
+            "location" : {
+               "lat" : 71.706936,
+               "lng" : -42.604303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 83.60958099999999,
+                  "lng" : -11.3123191
+               },
+               "southwest" : {
+                  "lat" : 59.777401,
+                  "lng" : -73.0350638
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

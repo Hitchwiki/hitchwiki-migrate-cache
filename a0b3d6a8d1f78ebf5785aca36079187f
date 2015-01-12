@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puerto La Cruz",
+               "short_name" : "Puerto La Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juan Antonio Sotillo",
+               "short_name" : "Sotillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Anzoategui",
+               "short_name" : "Anzoategui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puerto La Cruz, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.2573193,
+                  "lng" : -64.59527369999999
+               },
+               "southwest" : {
+                  "lat" : 10.1483431,
+                  "lng" : -64.66881579999999
+               }
+            },
+            "location" : {
+               "lat" : 10.2007985,
+               "lng" : -64.6334643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2573193,
+                  "lng" : -64.59527369999999
+               },
+               "southwest" : {
+                  "lat" : 10.1483431,
+                  "lng" : -64.66881579999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puerto La Cruz",
+               "short_name" : "Puerto La Cruz",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Puerto La Cruz",
+               "short_name" : "Puerto La Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juan Antonio Sotillo",
+               "short_name" : "Sotillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Anzoategui",
+               "short_name" : "Anzoategui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puerto La Cruz, Puerto La Cruz, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.2350721,
+                  "lng" : -64.61113340000001
+               },
+               "southwest" : {
+                  "lat" : 10.2095631,
+                  "lng" : -64.62863609999999
+               }
+            },
+            "location" : {
+               "lat" : 10.2236833,
+               "lng" : -64.6184657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.2350721,
+                  "lng" : -64.61113340000001
+               },
+               "southwest" : {
+                  "lat" : 10.2095631,
+                  "lng" : -64.62863609999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fundacion Mendoza",
+               "short_name" : "Fundacion Mendoza",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Puerto La Cruz",
+               "short_name" : "Puerto La Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juan Antonio Sotillo",
+               "short_name" : "Sotillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Anzoátegui",
+               "short_name" : "Anzoátegui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fundacion Mendoza, Puerto La Cruz, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.1884631,
+                  "lng" : -64.63658839999999
+               },
+               "southwest" : {
+                  "lat" : 10.1691512,
+                  "lng" : -64.6562524
+               }
+            },
+            "location" : {
+               "lat" : 10.1735283,
+               "lng" : -64.65241619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.1884631,
+                  "lng" : -64.63658839999999
+               },
+               "southwest" : {
+                  "lat" : 10.1691512,
+                  "lng" : -64.6562524
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

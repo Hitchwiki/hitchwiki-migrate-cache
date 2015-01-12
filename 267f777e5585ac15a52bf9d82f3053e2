@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Linz",
+               "short_name" : "Linz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Linz",
+               "short_name" : "Linz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Upper Austria",
+               "short_name" : "Upper Austria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Linz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.37876,
+                  "lng" : 14.40908
+               },
+               "southwest" : {
+                  "lat" : 48.2113699,
+                  "lng" : 14.24573
+               }
+            },
+            "location" : {
+               "lat" : 48.30694,
+               "lng" : 14.28583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.37876,
+                  "lng" : 14.40908
+               },
+               "southwest" : {
+                  "lat" : 48.2113699,
+                  "lng" : 14.24573
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

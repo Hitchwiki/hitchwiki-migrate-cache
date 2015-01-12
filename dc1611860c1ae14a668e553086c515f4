@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Magog",
+               "short_name" : "Magog",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Memphrémagog Regional County Municipality",
+               "short_name" : "Memphrémagog Regional County Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Magog, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.305704,
+                  "lng" : -72.05018919999999
+               },
+               "southwest" : {
+                  "lat" : 45.16098,
+                  "lng" : -72.2411412
+               }
+            },
+            "location" : {
+               "lat" : 45.2664863,
+               "lng" : -72.1479889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.305704,
+                  "lng" : -72.05018919999999
+               },
+               "southwest" : {
+                  "lat" : 45.16098,
+                  "lng" : -72.2411412
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

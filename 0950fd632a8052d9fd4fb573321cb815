@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A1, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4287862,
+                  "lng" : 14.3278575
+               },
+               "southwest" : {
+                  "lat" : 40.8522875,
+                  "lng" : 9.2453676
+               }
+            },
+            "location" : {
+               "lat" : 43.1645966,
+               "lng" : 11.840903
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4287862,
+                  "lng" : 14.3278575
+               },
+               "southwest" : {
+                  "lat" : 40.8522875,
+                  "lng" : 9.2453676
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roma",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A1, Roma, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.158907,
+                  "lng" : 12.6165007
+               },
+               "southwest" : {
+                  "lat" : 41.9844714,
+                  "lng" : 12.525599
+               }
+            },
+            "location" : {
+               "lat" : 42.0833675,
+               "lng" : 12.5597344
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.158907,
+                  "lng" : 12.6165007
+               },
+               "southwest" : {
+                  "lat" : 41.9844714,
+                  "lng" : 12.525599
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

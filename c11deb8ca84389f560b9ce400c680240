@@ -1,0 +1,509 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-4, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3785064,
+                  "lng" : -3.3735036
+               },
+               "southwest" : {
+                  "lat" : 36.46809260000001,
+                  "lng" : -6.1890214
+               }
+            },
+            "location" : {
+               "lat" : 37.996482,
+               "lng" : -4.4308169
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3785064,
+                  "lng" : -3.3735036
+               },
+               "southwest" : {
+                  "lat" : 36.46809260000001,
+                  "lng" : -6.1890214
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peñascosa",
+               "short_name" : "Peñascosa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peñascosa",
+               "short_name" : "Peñascosa",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02313",
+               "short_name" : "02313",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-4, 02313 Peñascosa, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6738902,
+                  "lng" : -2.2549147
+               },
+               "southwest" : {
+                  "lat" : 38.6362189,
+                  "lng" : -2.4090655
+               }
+            },
+            "location" : {
+               "lat" : 38.6536237,
+               "lng" : -2.3311029
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6738902,
+                  "lng" : -2.2549147
+               },
+               "southwest" : {
+                  "lat" : 38.6362189,
+                  "lng" : -2.4090655
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Murcia",
+               "short_name" : "Murcia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Murcia",
+               "short_name" : "MU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Región de Murcia",
+               "short_name" : "Región de Murcia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-4, Murcia, Murcia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0486016,
+                  "lng" : -1.0862312
+               },
+               "southwest" : {
+                  "lat" : 38.0389523,
+                  "lng" : -1.114905
+               }
+            },
+            "location" : {
+               "lat" : 38.0432499,
+               "lng" : -1.1000384
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0486016,
+                  "lng" : -1.0862312
+               },
+               "southwest" : {
+                  "lat" : 38.0389523,
+                  "lng" : -1.114905
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alcadozo",
+               "short_name" : "Alcadozo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alcadozo",
+               "short_name" : "Alcadozo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-4, Alcadozo, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.67886439999999,
+                  "lng" : -1.9852164
+               },
+               "southwest" : {
+                  "lat" : 38.6417541,
+                  "lng" : -2.1060316
+               }
+            },
+            "location" : {
+               "lat" : 38.6563355,
+               "lng" : -2.0478876
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.67886439999999,
+                  "lng" : -1.9852164
+               },
+               "southwest" : {
+                  "lat" : 38.6417541,
+                  "lng" : -2.1060316
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pozohondo",
+               "short_name" : "Pozohondo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pozohondo",
+               "short_name" : "Pozohondo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Albacete",
+               "short_name" : "Albacete",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02141",
+               "short_name" : "02141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-4, 02141 Pozohondo, Albacete, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7163841,
+                  "lng" : -1.9160251
+               },
+               "southwest" : {
+                  "lat" : 38.6539279,
+                  "lng" : -1.9745134
+               }
+            },
+            "location" : {
+               "lat" : 38.6850475,
+               "lng" : -1.9456816
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7163841,
+                  "lng" : -1.9160251
+               },
+               "southwest" : {
+                  "lat" : 38.6539279,
+                  "lng" : -1.9745134
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mequinenza",
+               "short_name" : "Mequinenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mequinenza",
+               "short_name" : "Mequinenza",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zaragoza",
+               "short_name" : "Z",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aragón",
+               "short_name" : "Aragón",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50170",
+               "short_name" : "50170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-4, 50170 Mequinenza, Zaragoza, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3795092,
+                  "lng" : 0.3053142
+               },
+               "southwest" : {
+                  "lat" : 41.3791604,
+                  "lng" : 0.3042223
+               }
+            },
+            "location" : {
+               "lat" : 41.3793679,
+               "lng" : 0.3046723
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.38068378029151,
+                  "lng" : 0.306117230291502
+               },
+               "southwest" : {
+                  "lat" : 41.37798581970851,
+                  "lng" : 0.3034192697084979
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montoro",
+               "short_name" : "Montoro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montoro",
+               "short_name" : "Montoro",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "Córdoba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14600",
+               "short_name" : "14600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-4, 14600 Montoro, Córdoba, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.006345,
+                  "lng" : -4.3494817
+               },
+               "southwest" : {
+                  "lat" : 38.0050838,
+                  "lng" : -4.3495237
+               }
+            },
+            "location" : {
+               "lat" : 38.0056697,
+               "lng" : -4.3494887
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0070633802915,
+                  "lng" : -4.348153719708498
+               },
+               "southwest" : {
+                  "lat" : 38.0043654197085,
+                  "lng" : -4.350851680291503
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-4",
+               "short_name" : "A-4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "La Campana",
+               "short_name" : "La Campana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Campana",
+               "short_name" : "La Campana",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Sevilla",
+               "short_name" : "Sevilla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalucía",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41429",
+               "short_name" : "41429",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A-4, 41429 La Campana, Sevilla, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5072106,
+                  "lng" : -5.3786051
+               },
+               "southwest" : {
+                  "lat" : 37.5071269,
+                  "lng" : -5.3786707
+               }
+            },
+            "location" : {
+               "lat" : 37.5072106,
+               "lng" : -5.3786051
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5085177302915,
+                  "lng" : -5.377288919708497
+               },
+               "southwest" : {
+                  "lat" : 37.5058197697085,
+                  "lng" : -5.379986880291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

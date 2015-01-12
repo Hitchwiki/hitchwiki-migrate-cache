@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A84",
+               "short_name" : "A84",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Basse-Normandie",
+               "short_name" : "Basse-Normandie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A84, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1649238,
+                  "lng" : -0.4260180000000001
+               },
+               "southwest" : {
+                  "lat" : 48.7078632,
+                  "lng" : -1.3332018
+               }
+            },
+            "location" : {
+               "lat" : 48.9861067,
+               "lng" : -0.9338822
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1649238,
+                  "lng" : -0.4260180000000001
+               },
+               "southwest" : {
+                  "lat" : 48.7078632,
+                  "lng" : -1.3332018
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

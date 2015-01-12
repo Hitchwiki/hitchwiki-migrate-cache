@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aqaba",
+               "short_name" : "Aqaba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aqaba",
+               "short_name" : "Aqaba",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aqaba, Jordan",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.5319199,
+               "lng" : 35.0060842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5416278,
+                  "lng" : 35.0220916
+               },
+               "southwest" : {
+                  "lat" : 29.5222111,
+                  "lng" : 34.9900768
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

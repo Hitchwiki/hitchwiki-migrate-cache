@@ -1,0 +1,99 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "LTM",
+          "lang": "iata"
+        },
+        {
+          "name": "SYLT",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Lethem_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Guyana",
+      "adminCode1": "19",
+      "score": 31.993349075317383,
+      "lng": "-59.7894",
+      "adminName2": "",
+      "fcodeName": "airport",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Guyana"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Lethem Airport",
+      "fcode": "AIRP",
+      "geonameId": 7730181,
+      "asciiName": "Lethem Airport",
+      "lat": "3.37276",
+      "population": 0,
+      "adminName1": "Upper Takutu-Upper Essequibo",
+      "countryId": "3378535",
+      "adminId1": "3375463",
+      "fclName": "spot, building, farm",
+      "countryCode": "GY",
+      "toponymName": "Lethem Airport",
+      "fcl": "S",
+      "continentCode": "SA"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "LTM",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Lethem%2C_Guyana",
+          "lang": "link"
+        },
+        {
+          "name": "LTM",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Guyana",
+      "adminCode1": "19",
+      "score": 31.298446655273438,
+      "lng": "-59.8",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -4,
+        "timeZoneId": "America/Guyana"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 3.3824339351248573,
+        "east": -59.79909906399183,
+        "north": 3.3842326648751424,
+        "west": -59.80090093600816
+      },
+      "name": "Lethem",
+      "fcode": "PPLA",
+      "geonameId": 3377425,
+      "asciiName": "Lethem",
+      "lat": "3.38333",
+      "population": 716,
+      "adminName1": "Upper Takutu-Upper Essequibo",
+      "countryId": "3378535",
+      "adminId1": "3375463",
+      "fclName": "city, village,...",
+      "countryCode": "GY",
+      "toponymName": "Lethem",
+      "fcl": "P",
+      "continentCode": "SA"
+    }
+  ]
+}

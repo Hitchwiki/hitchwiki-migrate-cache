@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wyoming, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.005904,
+                  "lng" : -104.0522449
+               },
+               "southwest" : {
+                  "lat" : 40.994746,
+                  "lng" : -111.056889
+               }
+            },
+            "location" : {
+               "lat" : 43.0759678,
+               "lng" : -107.2902839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.005904,
+                  "lng" : -104.0522449
+               },
+               "southwest" : {
+                  "lat" : 40.994746,
+                  "lng" : -111.056889
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "Wyoming",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kent County",
+               "short_name" : "Kent County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wyoming, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9422069,
+                  "lng" : -85.641131
+               },
+               "southwest" : {
+                  "lat" : 42.850533,
+                  "lng" : -85.78228
+               }
+            },
+            "location" : {
+               "lat" : 42.9133602,
+               "lng" : -85.7053085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9422069,
+                  "lng" : -85.641131
+               },
+               "southwest" : {
+                  "lat" : 42.850533,
+                  "lng" : -85.78228
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A23",
+               "short_name" : "A23",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Udine",
+               "short_name" : "UD",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Friuli-Venezia Giulia",
+               "short_name" : "Friuli-Venezia Giulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A23, Udine, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5343692,
+                  "lng" : 13.6415544
+               },
+               "southwest" : {
+                  "lat" : 45.9003908,
+                  "lng" : 13.0594857
+               }
+            },
+            "location" : {
+               "lat" : 46.1270547,
+               "lng" : 13.2014642
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5343692,
+                  "lng" : 13.6415544
+               },
+               "southwest" : {
+                  "lat" : 45.9003908,
+                  "lng" : 13.0594857
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

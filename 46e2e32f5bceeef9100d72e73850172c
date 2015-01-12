@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venice",
+               "short_name" : "Venice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Venice",
+               "short_name" : "Venice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Venice",
+               "short_name" : "VE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venice, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5779746,
+                  "lng" : 12.5966574
+               },
+               "southwest" : {
+                  "lat" : 45.233455,
+                  "lng" : 12.1668278
+               }
+            },
+            "location" : {
+               "lat" : 45.4408474,
+               "lng" : 12.3155151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5779746,
+                  "lng" : 12.5966574
+               },
+               "southwest" : {
+                  "lat" : 45.233455,
+                  "lng" : 12.1668278
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venice",
+               "short_name" : "Venice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sarasota County",
+               "short_name" : "Sarasota County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venice, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1690151,
+                  "lng" : -82.35953689999999
+               },
+               "southwest" : {
+                  "lat" : 27.060677,
+                  "lng" : -82.46972140000001
+               }
+            },
+            "location" : {
+               "lat" : 27.0997775,
+               "lng" : -82.4542632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1690151,
+                  "lng" : -82.35953689999999
+               },
+               "southwest" : {
+                  "lat" : 27.060677,
+                  "lng" : -82.46972140000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Venice",
+               "short_name" : "Venice",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "LA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Venice, Los Angeles, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0101101,
+                  "lng" : -118.4401573
+               },
+               "southwest" : {
+                  "lat" : 33.964921,
+                  "lng" : -118.483273
+               }
+            },
+            "location" : {
+               "lat" : 33.9962144,
+               "lng" : -118.4688776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0101101,
+                  "lng" : -118.4401573
+               },
+               "southwest" : {
+                  "lat" : 33.964921,
+                  "lng" : -118.483273
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

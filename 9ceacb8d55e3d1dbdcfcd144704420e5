@@ -1,0 +1,417 @@
+{
+  "totalResultsCount": 165,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -78.26633143614042,
+        "south": 44.26442884003699,
+        "north": 44.33581371396301,
+        "west": -78.36613468785957
+      },
+      "asciiName": "Peterborough",
+      "countryId": "6251999",
+      "fcl": "P",
+      "score": 32.18350601196289,
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.30012",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "08",
+      "lng": "-78.31623",
+      "geonameId": 6101645,
+      "toponymName": "Peterborough",
+      "population": 75877,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "بيتيربوروغ، أونتاريو",
+          "lang": "ar"
+        },
+        {
+          "name": "YPQ",
+          "lang": "iata"
+        },
+        {
+          "name": "ピーターボロ",
+          "lang": "ja"
+        },
+        {
+          "name": "피터버러",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Peterborough%2C_Ontario",
+          "lang": "link"
+        },
+        {
+          "name": "پیٹربروہ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Питерборо",
+          "lang": "ru"
+        },
+        {
+          "name": "Питерборо",
+          "lang": "sr"
+        },
+        {
+          "name": "Пітерборо",
+          "lang": "uk"
+        },
+        {
+          "name": "PBH",
+          "lang": "unlc"
+        },
+        {
+          "name": "彼得堡",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Peterborough",
+      "fclName": "city, village,...",
+      "countryName": "Canada",
+      "fcodeName": "populated place",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -77.72737239899993,
+        "south": 44.083494029000065,
+        "north": 44.91461751300005,
+        "west": -78.65480399899991
+      },
+      "asciiName": "Peterborough County",
+      "countryId": "6251999",
+      "fcl": "A",
+      "score": 26.28614044189453,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.55012",
+      "fcode": "ADM2",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-78.24953",
+      "geonameId": 6101646,
+      "toponymName": "Peterborough County",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Peterborough_County",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Peterborough County",
+      "fclName": "country, state, region,...",
+      "countryName": "Canada",
+      "fcodeName": "second-order administrative division",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Catchacoma Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.75058",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-78.32526",
+      "geonameId": 5918292,
+      "toponymName": "Catchacoma Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Catchacoma_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Catchacoma Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Chandos Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.825",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-77.97861",
+      "geonameId": 5919763,
+      "toponymName": "Chandos Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Chandos_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Chandos Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Buckhorn Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.4856",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-78.39118",
+      "geonameId": 5910571,
+      "toponymName": "Buckhorn Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Buckhorn_Lake_%28Ontario%29",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Buckhorn Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Anstruther Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.74342",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-78.20988",
+      "geonameId": 5886121,
+      "toponymName": "Anstruther Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Anstruther_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Anstruther Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Eels Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.89509",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-78.13984",
+      "geonameId": 5946984,
+      "toponymName": "Eels Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Eels_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Eels Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Jack Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.69486",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-78.03569",
+      "geonameId": 5985081,
+      "toponymName": "Jack Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Jack_Lake_%28Peterborough_County%2C_Ontario%29",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Jack Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Kasshabog Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.63139",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-77.96472",
+      "geonameId": 5989581,
+      "toponymName": "Kasshabog Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Kasshabog_Lake_%28Ontario%29",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Kasshabog Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Katchewanooka Lake",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 17.6313419342041,
+      "adminId2": "6101646",
+      "countryCode": "CA",
+      "adminId1": "6093943",
+      "lat": "44.45749",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "6101646",
+      "adminCode1": "08",
+      "lng": "-78.2587",
+      "geonameId": 5989606,
+      "toponymName": "Katchewanooka Lake",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Katchewanooka_Lake",
+        "lang": "link"
+      }],
+      "adminName2": "Peterborough County",
+      "name": "Katchewanooka Lake",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Ontario"
+    }
+  ]
+}

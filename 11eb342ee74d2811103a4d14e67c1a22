@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Schwerin",
+               "short_name" : "SN",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mecklenburg-Vorpommern",
+               "short_name" : "MV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Schwerin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6873906,
+                  "lng" : 11.4946409
+               },
+               "southwest" : {
+                  "lat" : 53.5444383,
+                  "lng" : 11.2963084
+               }
+            },
+            "location" : {
+               "lat" : 53.6355022,
+               "lng" : 11.4012499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6873906,
+                  "lng" : 11.4946409
+               },
+               "southwest" : {
+                  "lat" : 53.5444383,
+                  "lng" : 11.2963084
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

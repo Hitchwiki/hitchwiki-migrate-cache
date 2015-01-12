@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Andes",
+               "short_name" : "Los Andes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Andes",
+               "short_name" : "Los Andes",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Los Andes Province",
+               "short_name" : "Los Andes Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Los Andes, Los Andes, Valparaíso Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.7258129,
+                  "lng" : -69.99141550000002
+               },
+               "southwest" : {
+                  "lat" : -33.184693,
+                  "lng" : -70.66912289999999
+               }
+            },
+            "location" : {
+               "lat" : -32.8338,
+               "lng" : -70.597218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.7258129,
+                  "lng" : -69.99141550000002
+               },
+               "southwest" : {
+                  "lat" : -33.184693,
+                  "lng" : -70.66912289999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A44",
+               "short_name" : "A44",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A44, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2336002,
+                  "lng" : 4.6508405
+               },
+               "southwest" : {
+                  "lat" : 52.14168129999999,
+                  "lng" : 4.4150047
+               }
+            },
+            "location" : {
+               "lat" : 52.2127642,
+               "lng" : 4.5077337
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2336002,
+                  "lng" : 4.6508405
+               },
+               "southwest" : {
+                  "lat" : 52.14168129999999,
+                  "lng" : 4.4150047
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

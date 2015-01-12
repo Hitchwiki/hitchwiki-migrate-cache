@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M67",
+               "short_name" : "M67",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M67, United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.45871349999999,
+                  "lng" : -2.0254706
+               },
+               "southwest" : {
+                  "lat" : 53.4528338,
+                  "lng" : -2.135299
+               }
+            },
+            "location" : {
+               "lat" : 53.4533157,
+               "lng" : -2.0812305
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.45871349999999,
+                  "lng" : -2.0254706
+               },
+               "southwest" : {
+                  "lat" : 53.4528338,
+                  "lng" : -2.135299
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,159 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3261301,
+                  "lng" : 13.9540404
+               },
+               "southwest" : {
+                  "lat" : 51.1165247,
+                  "lng" : 13.5539601
+               }
+            },
+            "location" : {
+               "lat" : 51.7411289,
+               "lng" : 13.8623758
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3261301,
+                  "lng" : 13.9540404
+               },
+               "southwest" : {
+                  "lat" : 51.1165247,
+                  "lng" : 13.5539601
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2733184,
+                  "lng" : 10.8234017
+               },
+               "southwest" : {
+                  "lat" : 48.2413482,
+                  "lng" : 10.6006524
+               }
+            },
+            "location" : {
+               "lat" : 48.2524486,
+               "lng" : 10.7138798
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2733184,
+                  "lng" : 10.8234017
+               },
+               "southwest" : {
+                  "lat" : 48.2413482,
+                  "lng" : 10.6006524
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A13",
+               "short_name" : "A13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Langenneufnach",
+               "short_name" : "Langenneufnach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schwaben",
+               "short_name" : "Schwaben",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A13, Langenneufnach, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2678556,
+                  "lng" : 10.6053956
+               },
+               "southwest" : {
+                  "lat" : 48.2653748,
+                  "lng" : 10.5823141
+               }
+            },
+            "location" : {
+               "lat" : 48.26753249999999,
+               "lng" : 10.5944775
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.26796418029149,
+                  "lng" : 10.6053956
+               },
+               "southwest" : {
+                  "lat" : 48.26526621970849,
+                  "lng" : 10.5823141
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

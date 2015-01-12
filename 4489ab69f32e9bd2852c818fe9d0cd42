@@ -1,0 +1,147 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Tirane",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.86841938979893,
+        "south": 40.053506351248245,
+        "north": 40.071493648751755,
+        "west": 19.844914010201073
+      },
+      "asciiName": "Borsh",
+      "countryId": "783754",
+      "fcl": "P",
+      "score": 37.932430267333984,
+      "cc2": "AL",
+      "countryCode": "AL",
+      "adminId1": "3344952",
+      "lat": "40.0625",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "51",
+      "lng": "19.85667",
+      "geonameId": 3185997,
+      "toponymName": "Borsh",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Borsh",
+        "lang": "link"
+      }],
+      "adminName2": "",
+      "name": "Borsh",
+      "fclName": "city, village,...",
+      "countryName": "Albania",
+      "fcodeName": "populated place",
+      "adminName1": "Vlorë"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Tirane",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 20.96212218647239,
+        "south": 40.57795075124857,
+        "north": 40.59593804875143,
+        "west": 20.93843341352761
+      },
+      "asciiName": "Borsh",
+      "countryId": "783754",
+      "fcl": "P",
+      "score": 34.627410888671875,
+      "cc2": "AL",
+      "countryCode": "AL",
+      "adminId1": "865734",
+      "lat": "40.58694",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode1": "46",
+      "lng": "20.95028",
+      "geonameId": 783564,
+      "toponymName": "Borsh",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Borsh",
+      "fclName": "city, village,...",
+      "countryName": "Albania",
+      "fcodeName": "populated place",
+      "adminName1": "Korçë"
+    },
+    {
+      "adminCode1": "51",
+      "lng": "19.88333",
+      "geonameId": 3185998,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Tirane",
+        "dstOffset": 2
+      },
+      "toponymName": "Borsh",
+      "asciiName": "Borsh",
+      "countryId": "783754",
+      "fcl": "A",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 30.971698760986328,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AL",
+      "name": "Borsh",
+      "fclName": "country, state, region,...",
+      "countryName": "Albania",
+      "fcodeName": "administrative division",
+      "adminId1": "3344952",
+      "adminName1": "Vlorë",
+      "lat": "40.06667",
+      "fcode": "ADMD",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 3.5,
+        "timeZoneId": "Asia/Tehran",
+        "dstOffset": 4.5
+      },
+      "asciiName": "Karkhaneh-ye Moqavvasazi-ye Alvand Borsh",
+      "countryId": "130758",
+      "fcl": "S",
+      "score": 9.483107566833496,
+      "countryCode": "IR",
+      "adminId1": "443793",
+      "lat": "35.89547",
+      "fcode": "FRM",
+      "continentCode": "AS",
+      "adminCode1": "38",
+      "lng": "50.06266",
+      "geonameId": 8701662,
+      "toponymName": "Kārkhāneh-ye Moqavvāsāzī-ye Alvand Borsh",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [{
+        "name": "کارخانه مقواسازی الوند برش",
+        "lang": "fa"
+      }],
+      "adminName2": "",
+      "name": "Kārkhāneh-ye Moqavvāsāzī-ye Alvand Borsh",
+      "fclName": "spot, building, farm",
+      "countryName": "Iran",
+      "fcodeName": "farm",
+      "adminName1": "Qazvīn"
+    }
+  ]
+}

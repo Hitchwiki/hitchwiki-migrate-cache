@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darwin",
+               "short_name" : "Darwin",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Northern Territory",
+               "short_name" : "NT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darwin NT, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.3300116,
+                  "lng" : 131.2006001
+               },
+               "southwest" : {
+                  "lat" : -12.8597102,
+                  "lng" : 130.8151517
+               }
+            },
+            "location" : {
+               "lat" : -12.4628271,
+               "lng" : 130.8417772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.3300116,
+                  "lng" : 131.2006001
+               },
+               "southwest" : {
+                  "lat" : -12.8597102,
+                  "lng" : 130.8151517
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

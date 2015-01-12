@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yoshkar-Ola",
+               "short_name" : "Yoshkar-Ola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Yoshkar-Ola",
+               "short_name" : "g. Yoshkar-Ola",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mari El Republic",
+               "short_name" : "Mari El Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yoshkar-Ola, Mari El Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6688941,
+                  "lng" : 47.991495
+               },
+               "southwest" : {
+                  "lat" : 56.601172,
+                  "lng" : 47.807985
+               }
+            },
+            "location" : {
+               "lat" : 56.633333,
+               "lng" : 47.866667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6688941,
+                  "lng" : 47.991495
+               },
+               "southwest" : {
+                  "lat" : 56.601172,
+                  "lng" : 47.807985
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

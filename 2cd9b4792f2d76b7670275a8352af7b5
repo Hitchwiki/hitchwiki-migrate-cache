@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.2032835,
+                  "lng" : 33.7022219
+               },
+               "southwest" : {
+                  "lat" : -18.077418,
+                  "lng" : 21.9963878
+               }
+            },
+            "location" : {
+               "lat" : -13.133897,
+               "lng" : 27.849332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.2032835,
+                  "lng" : 33.7022219
+               },
+               "southwest" : {
+                  "lat" : -18.077418,
+                  "lng" : 21.9963878
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

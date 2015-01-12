@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hegyeshalom",
+               "short_name" : "Hegyeshalom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mosonmagyaróvári",
+               "short_name" : "Mosonmagyaróvári",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gyõr-Moson-Sopron",
+               "short_name" : "Gyõr-Moson-Sopron",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hegyeshalom, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.965331,
+                  "lng" : 17.2088629
+               },
+               "southwest" : {
+                  "lat" : 47.87381209999999,
+                  "lng" : 17.085191
+               }
+            },
+            "location" : {
+               "lat" : 47.9117445,
+               "lng" : 17.156071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.965331,
+                  "lng" : 17.2088629
+               },
+               "southwest" : {
+                  "lat" : 47.87381209999999,
+                  "lng" : 17.085191
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

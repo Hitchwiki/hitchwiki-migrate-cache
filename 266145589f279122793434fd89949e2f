@@ -1,0 +1,328 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon",
+               "short_name" : "Vernon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eure",
+               "short_name" : "27",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Upper Normandy",
+               "short_name" : "Upper Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vernon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1325329,
+                  "lng" : 1.539792
+               },
+               "southwest" : {
+                  "lat" : 49.05141,
+                  "lng" : 1.425379
+               }
+            },
+            "location" : {
+               "lat" : 49.091958,
+               "lng" : 1.488107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1325329,
+                  "lng" : 1.539792
+               },
+               "southwest" : {
+                  "lat" : 49.05141,
+                  "lng" : 1.425379
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon",
+               "short_name" : "Vernon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tolland County",
+               "short_name" : "Tolland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vernon, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8744895,
+                  "lng" : -72.418891
+               },
+               "southwest" : {
+                  "lat" : 41.798499,
+                  "lng" : -72.50753
+               }
+            },
+            "location" : {
+               "lat" : 41.8186802,
+               "lng" : -72.47903699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8744895,
+                  "lng" : -72.418891
+               },
+               "southwest" : {
+                  "lat" : 41.798499,
+                  "lng" : -72.50753
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon",
+               "short_name" : "Vernon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vernon, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0159851,
+                  "lng" : -118.1671559
+               },
+               "southwest" : {
+                  "lat" : 33.983331,
+                  "lng" : -118.2397449
+               }
+            },
+            "location" : {
+               "lat" : 34.003903,
+               "lng" : -118.230073
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0159851,
+                  "lng" : -118.1671559
+               },
+               "southwest" : {
+                  "lat" : 33.983331,
+                  "lng" : -118.2397449
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon",
+               "short_name" : "Vernon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilbarger County",
+               "short_name" : "Wilbarger County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76384",
+               "short_name" : "76384",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vernon, TX 76384, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1701201,
+                  "lng" : -99.2586609
+               },
+               "southwest" : {
+                  "lat" : 34.121334,
+                  "lng" : -99.332793
+               }
+            },
+            "location" : {
+               "lat" : 34.1545306,
+               "lng" : -99.2650804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1701201,
+                  "lng" : -99.2586609
+               },
+               "southwest" : {
+                  "lat" : 34.121334,
+                  "lng" : -99.332793
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon Township",
+               "short_name" : "Vernon Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sussex County",
+               "short_name" : "Sussex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vernon Township, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.284709,
+                  "lng" : -74.3658969
+               },
+               "southwest" : {
+                  "lat" : 41.1037959,
+                  "lng" : -74.5772329
+               }
+            },
+            "location" : {
+               "lat" : 41.1947018,
+               "lng" : -74.49379429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.284709,
+                  "lng" : -74.3658969
+               },
+               "southwest" : {
+                  "lat" : 41.1037959,
+                  "lng" : -74.5772329
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon",
+               "short_name" : "Vernon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lamar County",
+               "short_name" : "Lamar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vernon, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7899641,
+                  "lng" : -88.080489
+               },
+               "southwest" : {
+                  "lat" : 33.7352621,
+                  "lng" : -88.1372501
+               }
+            },
+            "location" : {
+               "lat" : 33.7570541,
+               "lng" : -88.1089185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7899641,
+                  "lng" : -88.080489
+               },
+               "southwest" : {
+                  "lat" : 33.7352621,
+                  "lng" : -88.1372501
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

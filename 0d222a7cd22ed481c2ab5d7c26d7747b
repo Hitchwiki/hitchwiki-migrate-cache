@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akureyri",
+               "short_name" : "Akureyri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northeast",
+               "short_name" : "Northeast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akureyri, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.7283686,
+                  "lng" : -18.0628235
+               },
+               "southwest" : {
+                  "lat" : 65.6079886,
+                  "lng" : -18.2086371
+               }
+            },
+            "location" : {
+               "lat" : 65.68849209999999,
+               "lng" : -18.1261693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.7283686,
+                  "lng" : -18.0628235
+               },
+               "southwest" : {
+                  "lat" : 65.6079886,
+                  "lng" : -18.2086371
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

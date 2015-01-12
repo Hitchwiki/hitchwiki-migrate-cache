@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adapazarı",
+               "short_name" : "Adapazarı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sakarya Province",
+               "short_name" : "Sakarya Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adapazarı, Sakarya Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.953458,
+                  "lng" : 30.60662
+               },
+               "southwest" : {
+                  "lat" : 40.702623,
+                  "lng" : 30.233237
+               }
+            },
+            "location" : {
+               "lat" : 40.8291144,
+               "lng" : 30.4154737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.953458,
+                  "lng" : 30.60662
+               },
+               "southwest" : {
+                  "lat" : 40.702623,
+                  "lng" : 30.233237
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Košice",
+               "short_name" : "Košice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Košice Region",
+               "short_name" : "Košice Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Košice, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8242797,
+                  "lng" : 21.3584561
+               },
+               "southwest" : {
+                  "lat" : 48.57055,
+                  "lng" : 21.1199289
+               }
+            },
+            "location" : {
+               "lat" : 48.72100529999999,
+               "lng" : 21.2577999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8242797,
+                  "lng" : 21.3584561
+               },
+               "southwest" : {
+                  "lat" : 48.57055,
+                  "lng" : 21.1199289
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Košice",
+               "short_name" : "Košice",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Košice",
+               "short_name" : "Košice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Košice Region",
+               "short_name" : "Košice Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Košice, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7693695,
+                  "lng" : 21.3135728
+               },
+               "southwest" : {
+                  "lat" : 48.66679629999999,
+                  "lng" : 21.1808136
+               }
+            },
+            "location" : {
+               "lat" : 48.7134489,
+               "lng" : 21.2618872
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7693695,
+                  "lng" : 21.3135728
+               },
+               "southwest" : {
+                  "lat" : 48.66679629999999,
+                  "lng" : 21.1808136
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

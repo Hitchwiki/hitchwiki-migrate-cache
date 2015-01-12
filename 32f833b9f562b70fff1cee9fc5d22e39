@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Timor-Leste",
+               "short_name" : "TL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Timor-Leste",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.126831899999999,
+                  "lng" : 127.3420679
+               },
+               "southwest" : {
+                  "lat" : -9.504194999999999,
+                  "lng" : 124.041738
+               }
+            },
+            "location" : {
+               "lat" : -8.874217,
+               "lng" : 125.727539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.126831899999999,
+                  "lng" : 127.3420679
+               },
+               "southwest" : {
+                  "lat" : -9.462655999999999,
+                  "lng" : 124.931763
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

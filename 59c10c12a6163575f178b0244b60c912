@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kars",
+               "short_name" : "Kars",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kars",
+               "short_name" : "Kars",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kars Province",
+               "short_name" : "Kars Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kars/Kars Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.623337,
+                  "lng" : 43.1325241
+               },
+               "southwest" : {
+                  "lat" : 40.570057,
+                  "lng" : 43.071051
+               }
+            },
+            "location" : {
+               "lat" : 40.616667,
+               "lng" : 43.1
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.623337,
+                  "lng" : 43.1325241
+               },
+               "southwest" : {
+                  "lat" : 40.570057,
+                  "lng" : 43.071051
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

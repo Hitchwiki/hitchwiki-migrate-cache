@@ -1,0 +1,333 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Berks County",
+               "short_name" : "Berks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.371134,
+                  "lng" : -75.890512
+               },
+               "southwest" : {
+                  "lat" : 40.296401,
+                  "lng" : -75.9598731
+               }
+            },
+            "location" : {
+               "lat" : 40.3356483,
+               "lng" : -75.9268747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.371134,
+                  "lng" : -75.890512
+               },
+               "southwest" : {
+                  "lat" : 40.296401,
+                  "lng" : -75.9598731
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, Reading, Reading, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4931339,
+                  "lng" : -0.9284944000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4097795,
+                  "lng" : -1.0636011
+               }
+            },
+            "location" : {
+               "lat" : 51.4542645,
+               "lng" : -0.9781303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4931339,
+                  "lng" : -0.9284944000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4097795,
+                  "lng" : -1.0636011
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.566432,
+                  "lng" : -71.07103499999999
+               },
+               "southwest" : {
+                  "lat" : 42.5006449,
+                  "lng" : -71.1361789
+               }
+            },
+            "location" : {
+               "lat" : 42.5256563,
+               "lng" : -71.0952891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.566432,
+                  "lng" : -71.07103499999999
+               },
+               "southwest" : {
+                  "lat" : 42.5006449,
+                  "lng" : -71.1361789
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton County",
+               "short_name" : "Hamilton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.240921,
+                  "lng" : -84.407549
+               },
+               "southwest" : {
+                  "lat" : 39.2038819,
+                  "lng" : -84.454735
+               }
+            },
+            "location" : {
+               "lat" : 39.2236694,
+               "lng" : -84.44216410000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.240921,
+                  "lng" : -84.407549
+               },
+               "southwest" : {
+                  "lat" : 39.2038819,
+                  "lng" : -84.454735
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windsor County",
+               "short_name" : "Windsor County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reading, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.561169,
+                  "lng" : -72.53007579999999
+               },
+               "southwest" : {
+                  "lat" : 43.4440849,
+                  "lng" : -72.66064299999999
+               }
+            },
+            "location" : {
+               "lat" : 43.494167,
+               "lng" : -72.59638900000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.561169,
+                  "lng" : -72.53007579999999
+               },
+               "southwest" : {
+                  "lat" : 43.4440849,
+                  "lng" : -72.66064299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit Lake",
+               "short_name" : "Summit Lake",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nobles County",
+               "short_name" : "Nobles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56165",
+               "short_name" : "56165",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Reading, MN 56165, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7035752,
+               "lng" : -95.7130676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70492418029149,
+                  "lng" : -95.71171861970849
+               },
+               "southwest" : {
+                  "lat" : 43.70222621970849,
+                  "lng" : -95.71441658029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

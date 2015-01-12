@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Subotica",
+               "short_name" : "SU",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Bačka District",
+               "short_name" : "North Bačka District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vojvodina",
+               "short_name" : "Vojvodina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Subotica, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1897987,
+                  "lng" : 19.777043
+               },
+               "southwest" : {
+                  "lat" : 45.9975281,
+                  "lng" : 19.5711993
+               }
+            },
+            "location" : {
+               "lat" : 46.1005467,
+               "lng" : 19.6650593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1897987,
+                  "lng" : 19.777043
+               },
+               "southwest" : {
+                  "lat" : 45.9975281,
+                  "lng" : 19.5711993
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

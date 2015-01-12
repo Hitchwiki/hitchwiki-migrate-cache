@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koszalin",
+               "short_name" : "Koszalin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koszalin",
+               "short_name" : "Koszalin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Koszalin County",
+               "short_name" : "Koszalin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Pomeranian Voivodeship",
+               "short_name" : "West Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koszalin, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2769933,
+                  "lng" : 16.3239339
+               },
+               "southwest" : {
+                  "lat" : 54.1374471,
+                  "lng" : 16.1100708
+               }
+            },
+            "location" : {
+               "lat" : 54.1943219,
+               "lng" : 16.1714908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2769933,
+                  "lng" : 16.3239339
+               },
+               "southwest" : {
+                  "lat" : 54.1374471,
+                  "lng" : 16.1100708
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

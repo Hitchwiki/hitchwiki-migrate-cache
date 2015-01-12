@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7919337,
+                  "lng" : 14.1394899
+               }
+            },
+            "location" : {
+               "lat" : 40.8517746,
+               "lng" : 14.2681244
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7919337,
+                  "lng" : 14.1394899
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nola",
+               "short_name" : "Nola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8764789,
+                  "lng" : 14.520785
+               },
+               "southwest" : {
+                  "lat" : 40.8757361,
+                  "lng" : 14.5181075
+               }
+            },
+            "location" : {
+               "lat" : 40.87613410000001,
+               "lng" : 14.5198315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87745648029149,
+                  "lng" : 14.5207952302915
+               },
+               "southwest" : {
+                  "lat" : 40.87475851970849,
+                  "lng" : 14.5180972697085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

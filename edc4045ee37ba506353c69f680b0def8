@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ravensburg",
+               "short_name" : "Ravensburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravensburg",
+               "short_name" : "RV",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "TÜ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ravensburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8155914,
+                  "lng" : 9.6631962
+               },
+               "southwest" : {
+                  "lat" : 47.7011635,
+                  "lng" : 9.4836797
+               }
+            },
+            "location" : {
+               "lat" : 47.7782704,
+               "lng" : 9.612130299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8155914,
+                  "lng" : 9.6631962
+               },
+               "southwest" : {
+                  "lat" : 47.7011635,
+                  "lng" : 9.4836797
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

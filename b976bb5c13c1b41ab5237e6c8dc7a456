@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trois-Rivières",
+               "short_name" : "Trois-Rivières",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Francheville Regional County Municipality",
+               "short_name" : "Francheville Regional County Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trois-Rivières, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.468269,
+                  "lng" : -72.4229586
+               },
+               "southwest" : {
+                  "lat" : 46.27726209999999,
+                  "lng" : -72.777884
+               }
+            },
+            "location" : {
+               "lat" : 46.3432397,
+               "lng" : -72.54328340000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.468269,
+                  "lng" : -72.4229586
+               },
+               "southwest" : {
+                  "lat" : 46.27726209999999,
+                  "lng" : -72.777884
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

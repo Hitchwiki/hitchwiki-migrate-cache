@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Africa",
+               "short_name" : "Central Africa",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.449235,
+                  "lng" : 31.31461149999999
+               },
+               "southwest" : {
+                  "lat" : -18.0391039,
+                  "lng" : 5.5419
+               }
+            },
+            "location" : {
+               "lat" : 2.3184621,
+               "lng" : 19.5687103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.449235,
+                  "lng" : 31.31461149999999
+               },
+               "southwest" : {
+                  "lat" : -18.0391039,
+                  "lng" : 5.5419
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blois",
+               "short_name" : "Blois",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loir-et-Cher",
+               "short_name" : "41",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blois, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6209599,
+                  "lng" : 1.355632
+               },
+               "southwest" : {
+                  "lat" : 47.541759,
+                  "lng" : 1.2541009
+               }
+            },
+            "location" : {
+               "lat" : 47.58609209999999,
+               "lng" : 1.3359475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6209599,
+                  "lng" : 1.355632
+               },
+               "southwest" : {
+                  "lat" : 47.541759,
+                  "lng" : 1.2541009
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

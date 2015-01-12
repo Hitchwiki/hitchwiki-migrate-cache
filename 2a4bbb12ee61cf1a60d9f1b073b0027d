@@ -1,0 +1,72 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "lng": "4.37599",
+      "geonameId": 6695072,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Brussels",
+        "dstOffset": 2
+      },
+      "toponymName": "European Union",
+      "asciiName": "European Union",
+      "fcl": "A",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 40.88431930541992,
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "EU",
+          "lang": "abbr"
+        },
+        {
+          "name": "Union Européenne",
+          "lang": "fr"
+        }
+      ],
+      "adminName2": "",
+      "name": "European Union",
+      "fclName": "country, state, region,...",
+      "countryName": "",
+      "fcodeName": "zone",
+      "adminName1": "",
+      "lat": "50.83857",
+      "fcode": "ZN"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Brussels",
+        "dstOffset": 2
+      },
+      "asciiName": "European Union Flats",
+      "countryId": "2802361",
+      "fcl": "S",
+      "score": 3.418445110321045,
+      "adminId2": "6693370",
+      "countryCode": "BE",
+      "adminId1": "2800867",
+      "lat": "50.845",
+      "fcode": "HTL",
+      "continentCode": "EU",
+      "adminCode2": "BRU",
+      "adminCode1": "BRU",
+      "lng": "4.38873",
+      "geonameId": 9255565,
+      "toponymName": "European Union Flats",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Bruxelles-Capitale",
+      "name": "European Union Flats",
+      "fclName": "spot, building, farm",
+      "countryName": "Belgium",
+      "fcodeName": "hotel",
+      "adminName1": "Brussels Capital"
+    }
+  ]
+}

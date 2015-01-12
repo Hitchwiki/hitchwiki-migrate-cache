@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A643",
+               "short_name" : "A643",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A643, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0654316,
+                  "lng" : 8.220285499999999
+               },
+               "southwest" : {
+                  "lat" : 50.00245049999999,
+                  "lng" : 8.1850878
+               }
+            },
+            "location" : {
+               "lat" : 50.03268019999999,
+               "lng" : 8.2118833
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0654316,
+                  "lng" : 8.220285499999999
+               },
+               "southwest" : {
+                  "lat" : 50.00245049999999,
+                  "lng" : 8.1850878
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

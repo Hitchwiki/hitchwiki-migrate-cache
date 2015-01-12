@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "O4",
+               "short_name" : "O4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "O4, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.76595,
+                  "lng" : 12.512283
+               },
+               "southwest" : {
+                  "lat" : 55.619094,
+                  "lng" : 12.3111363
+               }
+            },
+            "location" : {
+               "lat" : 55.6934481,
+               "lng" : 12.4091274
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.76595,
+                  "lng" : 12.512283
+               },
+               "southwest" : {
+                  "lat" : 55.619094,
+                  "lng" : 12.3111363
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

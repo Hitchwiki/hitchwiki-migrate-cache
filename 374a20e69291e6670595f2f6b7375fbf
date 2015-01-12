@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suwalki",
+               "short_name" : "Suwalki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Suwałki",
+               "short_name" : "Gmina Suwałki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suwałki County",
+               "short_name" : "Suwałki County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podlaskie Voivodeship",
+               "short_name" : "Podlaskie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suwalki, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1648911,
+                  "lng" : 22.9945758
+               },
+               "southwest" : {
+                  "lat" : 54.04053589999999,
+                  "lng" : 22.8636798
+               }
+            },
+            "location" : {
+               "lat" : 54.1115218,
+               "lng" : 22.9307881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1648911,
+                  "lng" : 22.9945758
+               },
+               "southwest" : {
+                  "lat" : 54.04053589999999,
+                  "lng" : 22.8636798
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

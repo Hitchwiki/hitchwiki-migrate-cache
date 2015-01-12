@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A6",
+               "short_name" : "A6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A6, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9573057,
+                  "lng" : 5.8159703
+               },
+               "southwest" : {
+                  "lat" : 52.3152786,
+                  "lng" : 5.1075765
+               }
+            },
+            "location" : {
+               "lat" : 52.5889435,
+               "lng" : 5.5556396
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9573057,
+                  "lng" : 5.8159703
+               },
+               "southwest" : {
+                  "lat" : 52.3152786,
+                  "lng" : 5.1075765
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

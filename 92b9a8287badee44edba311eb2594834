@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Languedoc-Roussillon",
+               "short_name" : "Languedoc-Roussillon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Languedoc-Roussillon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.975761,
+                  "lng" : 4.845564
+               },
+               "southwest" : {
+                  "lat" : 42.333014,
+                  "lng" : 1.688426
+               }
+            },
+            "location" : {
+               "lat" : 43.5912356,
+               "lng" : 3.2583626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.975761,
+                  "lng" : 4.845564
+               },
+               "southwest" : {
+                  "lat" : 42.333014,
+                  "lng" : 1.688426
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

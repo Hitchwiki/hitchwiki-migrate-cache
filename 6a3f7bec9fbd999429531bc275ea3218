@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A50",
+               "short_name" : "A50",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A50, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.29480969999999,
+                  "lng" : 5.952772
+               },
+               "southwest" : {
+                  "lat" : 43.119406,
+                  "lng" : 5.392712899999999
+               }
+            },
+            "location" : {
+               "lat" : 43.193237,
+               "lng" : 5.6699432
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.29480969999999,
+                  "lng" : 5.952772
+               },
+               "southwest" : {
+                  "lat" : 43.119406,
+                  "lng" : 5.392712899999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

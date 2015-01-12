@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S35",
+               "short_name" : "S35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bruck an der Mur",
+               "short_name" : "Bruck an der Mur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bruck an der Mur",
+               "short_name" : "Bruck an der Mur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bruck an der Mur",
+               "short_name" : "Bruck an der Mur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Steiermark",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8600",
+               "short_name" : "8600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S35, 8600 Bruck an der Mur, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4068686,
+                  "lng" : 15.3733207
+               },
+               "southwest" : {
+                  "lat" : 47.1873947,
+                  "lng" : 15.2751709
+               }
+            },
+            "location" : {
+               "lat" : 47.29243659999999,
+               "lng" : 15.3266555
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4068686,
+                  "lng" : 15.3733207
+               },
+               "southwest" : {
+                  "lat" : 47.1873947,
+                  "lng" : 15.2751709
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

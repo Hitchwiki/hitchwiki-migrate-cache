@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A450",
+               "short_name" : "A450",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "69",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A450, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6967003,
+                  "lng" : 4.8342298
+               },
+               "southwest" : {
+                  "lat" : 45.6598105,
+                  "lng" : 4.75181
+               }
+            },
+            "location" : {
+               "lat" : 45.67864720000001,
+               "lng" : 4.792693799999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6967003,
+                  "lng" : 4.8342298
+               },
+               "southwest" : {
+                  "lat" : 45.6598105,
+                  "lng" : 4.75181
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

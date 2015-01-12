@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Djibouti",
+               "short_name" : "Djibouti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Djibouti",
+               "short_name" : "Djibouti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Djibouti",
+               "short_name" : "DJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Djibouti, Djibouti",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.6233859,
+                  "lng" : 43.1838837
+               },
+               "southwest" : {
+                  "lat" : 11.5259804,
+                  "lng" : 43.1276753
+               }
+            },
+            "location" : {
+               "lat" : 11.588333,
+               "lng" : 43.145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.6233859,
+                  "lng" : 43.1838837
+               },
+               "southwest" : {
+                  "lat" : 11.5259804,
+                  "lng" : 43.1276753
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

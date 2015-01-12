@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A48",
+               "short_name" : "A48",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Isère",
+               "short_name" : "38",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhône-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A48, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5660823,
+                  "lng" : 5.679914999999999
+               },
+               "southwest" : {
+                  "lat" : 45.2159626,
+                  "lng" : 5.3462817
+               }
+            },
+            "location" : {
+               "lat" : 45.3698365,
+               "lng" : 5.4980989
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5660823,
+                  "lng" : 5.679914999999999
+               },
+               "southwest" : {
+                  "lat" : 45.2159626,
+                  "lng" : 5.3462817
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

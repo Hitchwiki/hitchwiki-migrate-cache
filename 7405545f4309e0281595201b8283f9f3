@@ -1,0 +1,81 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Netherlands Antilles",
+               "short_name" : "Netherlands Antilles",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Netherlands Antilles",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0645971,
+                  "lng" : -63.0026221
+               },
+               "southwest" : {
+                  "lat" : 11.9780353,
+                  "lng" : -69.16284089999999
+               }
+            },
+            "location" : {
+               "lat" : 12.2018902,
+               "lng" : -68.26238219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.3122467,
+                  "lng" : -68.1954003
+               },
+               "southwest" : {
+                  "lat" : 12.0245041,
+                  "lng" : -68.4209633
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "",
+               "short_name" : "",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0641707,
+                  "lng" : -62.9228
+               },
+               "southwest" : {
+                  "lat" : 11.9224,
+                  "lng" : -69.29899999999999
+               }
+            },
+            "location" : {
+               "lat" : 12.2248767,
+               "lng" : -68.81088489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.4942,
+                  "lng" : -68.11659999999999
+               },
+               "southwest" : {
+                  "lat" : 11.9224,
+                  "lng" : -69.29899999999999
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

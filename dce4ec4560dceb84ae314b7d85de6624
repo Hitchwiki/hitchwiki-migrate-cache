@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khujand",
+               "short_name" : "Khujand",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sughd Province",
+               "short_name" : "Sughd Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tajikistan",
+               "short_name" : "TJ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khujand, Tajikistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3351609,
+                  "lng" : 69.727993
+               },
+               "southwest" : {
+                  "lat" : 40.233674,
+                  "lng" : 69.54586019999999
+               }
+            },
+            "location" : {
+               "lat" : 40.283333,
+               "lng" : 69.63333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3351609,
+                  "lng" : 69.727993
+               },
+               "southwest" : {
+                  "lat" : 40.233674,
+                  "lng" : 69.54586019999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

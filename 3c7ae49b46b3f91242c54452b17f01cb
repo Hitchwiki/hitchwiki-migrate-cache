@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A30",
+               "short_name" : "A30",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lorraine",
+               "short_name" : "Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A30, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4414773,
+                  "lng" : 6.173789900000001
+               },
+               "southwest" : {
+                  "lat" : 49.281994,
+                  "lng" : 5.9023128
+               }
+            },
+            "location" : {
+               "lat" : 49.3313052,
+               "lng" : 6.0499059
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4414773,
+                  "lng" : 6.173789900000001
+               },
+               "southwest" : {
+                  "lat" : 49.281994,
+                  "lng" : 5.9023128
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

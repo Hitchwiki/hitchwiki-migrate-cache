@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A1",
+               "short_name" : "A1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A1, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3628677,
+                  "lng" : 10.9686067
+               },
+               "southwest" : {
+                  "lat" : 49.259777,
+                  "lng" : 6.663363899999999
+               }
+            },
+            "location" : {
+               "lat" : 52.2508821,
+               "lng" : 7.913066100000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3628677,
+                  "lng" : 10.9686067
+               },
+               "southwest" : {
+                  "lat" : 49.259777,
+                  "lng" : 6.663363899999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

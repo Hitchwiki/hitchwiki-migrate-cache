@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Omsk",
+               "short_name" : "Omsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Omsk",
+               "short_name" : "g. Omsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Omsk Oblast",
+               "short_name" : "Omsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Omsk, Omsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.141854,
+                  "lng" : 73.61482389999999
+               },
+               "southwest" : {
+                  "lat" : 54.8298979,
+                  "lng" : 73.097454
+               }
+            },
+            "location" : {
+               "lat" : 54.98333299999999,
+               "lng" : 73.36666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.141854,
+                  "lng" : 73.61482389999999
+               },
+               "southwest" : {
+                  "lat" : 54.8298979,
+                  "lng" : 73.097454
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

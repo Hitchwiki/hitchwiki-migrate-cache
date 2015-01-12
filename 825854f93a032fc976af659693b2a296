@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Autoroute 20",
+               "short_name" : "Autoroute 20",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Autoroute 20, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7386689,
+                  "lng" : -71.2263684
+               },
+               "southwest" : {
+                  "lat" : 46.7098564,
+                  "lng" : -71.29685189999999
+               }
+            },
+            "location" : {
+               "lat" : 46.7275337,
+               "lng" : -71.2623583
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7386689,
+                  "lng" : -71.2263684
+               },
+               "southwest" : {
+                  "lat" : 46.7098564,
+                  "lng" : -71.29685189999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

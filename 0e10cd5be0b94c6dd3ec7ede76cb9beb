@@ -1,0 +1,768 @@
+{
+  "totalResultsCount": 269557,
+  "geonames": [
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Western_Africa",
+        "lang": "link"
+      }],
+      "countryName": "Nigeria",
+      "cc2": "NG,GH,CI,BF,NE,ML,SN,GN,BJ,TG,SL,LR,MR,GM,GW,CV,SH",
+      "score": 57.738468170166016,
+      "lng": "-4.83398",
+      "adminName2": "",
+      "fcodeName": "region",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Bamako"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": -40.37054124358255,
+        "east": 15.995643,
+        "north": 27.298073,
+        "west": -25.358747
+      },
+      "name": "Western Africa",
+      "fcode": "RGN",
+      "geonameId": 7729885,
+      "asciiName": "Western Africa",
+      "lat": "18.31281",
+      "population": 340000000,
+      "adminName1": "",
+      "countryId": "2328926",
+      "fclName": "parks,area, ...",
+      "countryCode": "NG",
+      "toponymName": "Western Africa",
+      "fcl": "L",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "TKD",
+          "lang": "iata"
+        },
+        {
+          "name": "TKD",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Ghana",
+      "adminCode1": "09",
+      "score": 28.710580825805664,
+      "lng": "-1.75536",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Accra"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 4.821837484080755,
+        "east": -1.6924962851714644,
+        "north": 4.947104515919244,
+        "west": -1.8182317148285354
+      },
+      "name": "Takoradi",
+      "fcode": "PPL",
+      "geonameId": 2294915,
+      "asciiName": "Takoradi",
+      "lat": "4.88447",
+      "population": 232919,
+      "adminName1": "Western",
+      "countryId": "2300660",
+      "adminId1": "2294076",
+      "fclName": "city, village,...",
+      "countryCode": "GH",
+      "toponymName": "Takoradi",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Brikama",
+          "lang": "de"
+        },
+        {
+          "name": "Brikama",
+          "lang": "en"
+        },
+        {
+          "name": "Brikama",
+          "lang": "et"
+        },
+        {
+          "name": "ブリカマ",
+          "lang": "ja"
+        },
+        {
+          "name": "브리카마",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Brikama",
+          "lang": "link"
+        },
+        {
+          "name": "Брикама",
+          "lang": "ru"
+        },
+        {
+          "name": "BRB",
+          "lang": "unlc"
+        },
+        {
+          "name": "布里卡馬",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Gambia",
+      "adminCode1": "05",
+      "score": 26.909608840942383,
+      "lng": "-16.64944",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Banjul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 13.23538339933068,
+        "east": -16.612469765195492,
+        "north": 13.307332589342096,
+        "west": -16.686404136171696
+      },
+      "name": "Brikama",
+      "fcode": "PPLA",
+      "geonameId": 2413753,
+      "asciiName": "Brikama",
+      "lat": "13.27136",
+      "population": 77700,
+      "adminName1": "Western",
+      "countryId": "2413451",
+      "adminId1": "2411683",
+      "fclName": "city, village,...",
+      "countryCode": "GM",
+      "toponymName": "Brikama",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "واو",
+          "lang": "ar"
+        },
+        {
+          "name": "Уау",
+          "lang": "bg"
+        },
+        {
+          "name": "Waw",
+          "lang": "da"
+        },
+        {
+          "name": "Waw",
+          "lang": "de"
+        },
+        {
+          "name": "Wau",
+          "lang": "en"
+        },
+        {
+          "name": "Vav",
+          "lang": "eo"
+        },
+        {
+          "name": "ואו",
+          "lang": "he"
+        },
+        {
+          "name": "WUU",
+          "lang": "iata"
+        },
+        {
+          "name": "Wāw",
+          "lang": "it"
+        },
+        {
+          "name": "ワーウ",
+          "lang": "ja"
+        },
+        {
+          "name": "ვაუ",
+          "lang": "ka"
+        },
+        {
+          "name": "와우",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Wau%2C_South_Sudan",
+          "lang": "link"
+        },
+        {
+          "name": "Vau",
+          "lang": "lt"
+        },
+        {
+          "name": "Wau",
+          "lang": "no"
+        },
+        {
+          "name": "Вау",
+          "lang": "ru"
+        },
+        {
+          "name": "Вав",
+          "lang": "sr"
+        },
+        {
+          "name": "WAU",
+          "lang": "unlc"
+        },
+        {
+          "name": "瓦烏",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "South Sudan",
+      "adminCode1": "09",
+      "score": 23.065378189086914,
+      "lng": "27.9953",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Juba"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 7.656563359418679,
+        "east": 28.042024333020947,
+        "north": 7.749158640581322,
+        "west": 27.948575666979053
+      },
+      "name": "Wau",
+      "fcode": "PPLA",
+      "geonameId": 363885,
+      "asciiName": "Wau",
+      "lat": "7.70286",
+      "population": 127384,
+      "adminName1": "Western Bahr al Ghazal",
+      "countryId": "7909807",
+      "adminId1": "408657",
+      "fclName": "city, village,...",
+      "countryCode": "SS",
+      "toponymName": "Wau",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Sukuta",
+        "lang": "link"
+      }],
+      "countryName": "Gambia",
+      "adminCode1": "05",
+      "score": 23.065378189086914,
+      "lng": "-16.70815",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Banjul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 13.394748655169918,
+        "east": -16.692130007388933,
+        "north": 13.425903568335718,
+        "west": -16.724160275814192
+      },
+      "name": "Sukuta",
+      "fcode": "PPL",
+      "geonameId": 2411880,
+      "asciiName": "Sukuta",
+      "lat": "13.41033",
+      "population": 15131,
+      "adminName1": "Western",
+      "countryId": "2413451",
+      "adminId1": "2411683",
+      "fclName": "city, village,...",
+      "countryCode": "GM",
+      "toponymName": "Sukuta",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "adminCode2": "52",
+      "alternateNames": [
+        {
+          "name": "Mbarara",
+          "lang": "de"
+        },
+        {
+          "name": "Μπαράρα",
+          "lang": "el"
+        },
+        {
+          "name": "Mbarara",
+          "lang": "en"
+        },
+        {
+          "name": "MBQ",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Mbarara",
+          "lang": "link"
+        },
+        {
+          "name": "Мбарара",
+          "lang": "ru"
+        },
+        {
+          "name": "MBQ",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Uganda",
+      "adminCode1": "W",
+      "score": 22.440624237060547,
+      "lng": "30.64851",
+      "adminName2": "Mbarara",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Kampala"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": -0.6451373953236709,
+        "east": 30.688981453504162,
+        "north": -0.5641945565608276,
+        "west": 30.608034690294666
+      },
+      "name": "Mbarara",
+      "fcode": "PPLA",
+      "geonameId": 229268,
+      "asciiName": "Mbarara",
+      "lat": "-0.60467",
+      "population": 97500,
+      "adminName1": "Western Region",
+      "adminId1": "8260675",
+      "countryId": "226074",
+      "fclName": "city, village,...",
+      "countryCode": "UG",
+      "adminId2": "443355",
+      "toponymName": "Mbarara",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Бо",
+          "lang": "bg"
+        },
+        {
+          "name": "Bo",
+          "lang": "de"
+        },
+        {
+          "name": "Bo",
+          "lang": "en"
+        },
+        {
+          "name": "בו",
+          "lang": "he"
+        },
+        {
+          "name": "KBS",
+          "lang": "iata"
+        },
+        {
+          "name": "Bo",
+          "lang": "id"
+        },
+        {
+          "name": "ボー",
+          "lang": "ja"
+        },
+        {
+          "name": "보",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bo%2C_Sierra_Leone",
+          "lang": "link"
+        },
+        {
+          "name": "Bo",
+          "lang": "pl"
+        },
+        {
+          "name": "Бо",
+          "lang": "ru"
+        },
+        {
+          "name": "KBS",
+          "lang": "unlc"
+        },
+        {
+          "name": "博城",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Sierra Leone",
+      "adminCode1": "03",
+      "score": 22.440624237060547,
+      "lng": "-11.73833",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Freetown"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 7.9105732639756265,
+        "east": -11.683649677028525,
+        "north": 8.018871136024373,
+        "west": -11.793016922971477
+      },
+      "name": "Bo",
+      "fcode": "PPLA",
+      "geonameId": 2410048,
+      "asciiName": "Bo",
+      "lat": "7.96472",
+      "population": 174354,
+      "adminName1": "Southern Province",
+      "countryId": "2403846",
+      "adminId1": "2403745",
+      "fclName": "city, village,...",
+      "countryCode": "SL",
+      "toponymName": "Bo",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Kakata",
+        "lang": "link"
+      }],
+      "countryName": "Liberia",
+      "adminCode1": "17",
+      "score": 22.034944534301758,
+      "lng": "-10.35357",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Monrovia"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 6.507674042024658,
+        "east": -10.329622451665657,
+        "north": 6.555263957975343,
+        "west": -10.377525548334344
+      },
+      "name": "Kakata",
+      "fcode": "PPLA",
+      "geonameId": 2276086,
+      "asciiName": "Kakata",
+      "lat": "6.53147",
+      "population": 33945,
+      "adminName1": "Margibi",
+      "countryId": "2275384",
+      "adminId1": "2588491",
+      "fclName": "city, village,...",
+      "countryCode": "LR",
+      "toponymName": "Kakata",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Bamako",
+          "lang": "af"
+        },
+        {
+          "name": "ባማኮ",
+          "lang": "am"
+        },
+        {
+          "name": "باماكو",
+          "lang": "ar"
+        },
+        {
+          "name": "Бамако",
+          "lang": "bg"
+        },
+        {
+          "name": "Bamakɔ",
+          "lang": "bm"
+        },
+        {
+          "name": "Bamako",
+          "lang": "ca"
+        },
+        {
+          "name": "Bamako",
+          "lang": "cs"
+        },
+        {
+          "name": "Bamako",
+          "lang": "da"
+        },
+        {
+          "name": "Bamako",
+          "lang": "de"
+        },
+        {
+          "name": "Μπαμάκο",
+          "lang": "el"
+        },
+        {
+          "name": "Bamako",
+          "lang": "en"
+        },
+        {
+          "name": "Bamako",
+          "lang": "eo"
+        },
+        {
+          "name": "Bamako",
+          "lang": "es"
+        },
+        {
+          "name": "Bamako",
+          "lang": "et"
+        },
+        {
+          "name": "باماکو",
+          "lang": "fa"
+        },
+        {
+          "name": "Bamako",
+          "lang": "fi"
+        },
+        {
+          "name": "Bamako",
+          "lang": "fr"
+        },
+        {
+          "name": "Bamaco - Bamako",
+          "lang": "gl"
+        },
+        {
+          "name": "במקו",
+          "lang": "he"
+        },
+        {
+          "name": "Բամակո",
+          "lang": "hy"
+        },
+        {
+          "name": "BKO",
+          "lang": "iata"
+        },
+        {
+          "name": "Bamako",
+          "lang": "id"
+        },
+        {
+          "name": "Bamako",
+          "lang": "io"
+        },
+        {
+          "name": "Bamakó",
+          "lang": "is"
+        },
+        {
+          "name": "Bamako",
+          "lang": "it"
+        },
+        {
+          "name": "バマコ",
+          "lang": "ja"
+        },
+        {
+          "name": "바마코",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Bamako",
+          "lang": "link"
+        },
+        {
+          "name": "Bamakas",
+          "lang": "lt"
+        },
+        {
+          "name": "Bamako",
+          "lang": "nl"
+        },
+        {
+          "name": "Bamako",
+          "lang": "no"
+        },
+        {
+          "name": "Бамако",
+          "lang": "os"
+        },
+        {
+          "name": "Bamako",
+          "lang": "pl"
+        },
+        {
+          "name": "Bamako",
+          "lang": "pt"
+        },
+        {
+          "name": "Бамако",
+          "lang": "ru"
+        },
+        {
+          "name": "Bamako",
+          "lang": "sk"
+        },
+        {
+          "name": "Bamako",
+          "lang": "sv"
+        },
+        {
+          "name": "Bamako",
+          "lang": "sw"
+        },
+        {
+          "name": "Bamako",
+          "lang": "tr"
+        },
+        {
+          "name": "Бамако",
+          "lang": "uk"
+        },
+        {
+          "name": "BKO",
+          "lang": "unlc"
+        },
+        {
+          "name": "巴馬科",
+          "lang": "zh-TW"
+        }
+      ],
+      "countryName": "Mali",
+      "adminCode1": "01",
+      "score": 22.034944534301758,
+      "lng": "-8",
+      "adminName2": "",
+      "fcodeName": "capital of a political entity",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Bamako"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 12.502150869962795,
+        "east": -7.848384383945911,
+        "north": 12.797849130037205,
+        "west": -8.15161561605409
+      },
+      "name": "Bamako",
+      "fcode": "PPLC",
+      "geonameId": 2460596,
+      "asciiName": "Bamako",
+      "lat": "12.65",
+      "population": 1297281,
+      "adminName1": "Bamako",
+      "countryId": "2453866",
+      "adminId1": "2460594",
+      "fclName": "city, village,...",
+      "countryCode": "ML",
+      "toponymName": "Bamako",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Bakau",
+          "lang": "link"
+        },
+        {
+          "name": "BAK",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Gambia",
+      "adminCode1": "01",
+      "score": 22.034944534301758,
+      "lng": "-16.68194",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 0,
+        "gmtOffset": 0,
+        "timeZoneId": "Africa/Banjul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 13.451452428222693,
+        "east": -16.65458394811145,
+        "north": 13.504659571777308,
+        "west": -16.70930405188855
+      },
+      "name": "Bakau",
+      "fcode": "PPL",
+      "geonameId": 2413920,
+      "asciiName": "Bakau",
+      "lat": "13.47806",
+      "population": 43098,
+      "adminName1": "Banjul",
+      "countryId": "2413451",
+      "adminId1": "2413875",
+      "fclName": "city, village,...",
+      "countryCode": "GM",
+      "toponymName": "Bakau",
+      "fcl": "P",
+      "continentCode": "AF"
+    }
+  ]
+}

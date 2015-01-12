@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M6",
+               "short_name" : "M6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "M6, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.77896089999999,
+                  "lng" : 48.0130063
+               },
+               "southwest" : {
+                  "lat" : 46.37169,
+                  "lng" : 38.1338391
+               }
+            },
+            "location" : {
+               "lat" : 50.4221903,
+               "lng" : 42.7591426
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.77896089999999,
+                  "lng" : 48.0130063
+               },
+               "southwest" : {
+                  "lat" : 46.37169,
+                  "lng" : 38.1338391
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

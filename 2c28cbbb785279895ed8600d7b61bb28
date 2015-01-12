@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Andrychów",
+               "short_name" : "Andrychów",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Andrychów",
+               "short_name" : "Gmina Andrychów",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wadowice County",
+               "short_name" : "Wadowice County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lesser Poland Voivodeship",
+               "short_name" : "Lesser Poland Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Andrychów, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8715897,
+                  "lng" : 19.3703941
+               },
+               "southwest" : {
+                  "lat" : 49.8363906,
+                  "lng" : 19.307393
+               }
+            },
+            "location" : {
+               "lat" : 49.85489339999999,
+               "lng" : 19.3412842
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8715897,
+                  "lng" : 19.3703941
+               },
+               "southwest" : {
+                  "lat" : 49.8363906,
+                  "lng" : 19.307393
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,967 @@
+{
+  "totalResultsCount": 660,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 11.794461726225412,
+        "south": 47.991718786084505,
+        "north": 48.2831463135373,
+        "west": 11.356521130524987
+      },
+      "asciiName": "Munich",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 103.29696655273438,
+      "adminId2": "2861322",
+      "adminId3": "3220837",
+      "countryCode": "DE",
+      "adminId4": "6559171",
+      "adminId1": "2951839",
+      "lat": "48.13743",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "091",
+      "adminCode3": "09162",
+      "adminCode1": "02",
+      "lng": "11.57549",
+      "geonameId": 2867714,
+      "toponymName": "Munich",
+      "adminCode4": "09162000",
+      "population": 1260391,
+      "adminName5": "",
+      "adminName4": "Munich",
+      "adminName3": "Munich, Urban District",
+      "alternateNames": [
+        {
+          "name": "München",
+          "lang": "af"
+        },
+        {
+          "name": "Múnich",
+          "lang": "an"
+        },
+        {
+          "name": "ميونخ",
+          "lang": "ar"
+        },
+        {
+          "name": "ميونيخ",
+          "lang": "arz"
+        },
+        {
+          "name": "Munich",
+          "lang": "ast"
+        },
+        {
+          "name": "Münhen",
+          "lang": "az"
+        },
+        {
+          "name": "Minga",
+          "lang": "bar"
+        },
+        {
+          "name": "Горад Мюнхен",
+          "lang": "be"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "bg"
+        },
+        {
+          "name": "মিউনিখ",
+          "lang": "bn"
+        },
+        {
+          "name": "München",
+          "lang": "br"
+        },
+        {
+          "name": "Minhen",
+          "lang": "bs"
+        },
+        {
+          "name": "Munic",
+          "lang": "ca"
+        },
+        {
+          "name": "میونخ",
+          "lang": "ckb"
+        },
+        {
+          "name": "Monacu di Baviera",
+          "lang": "co"
+        },
+        {
+          "name": "Mnichov",
+          "lang": "cs"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "cv"
+        },
+        {
+          "name": "München",
+          "lang": "da"
+        },
+        {
+          "name": "München",
+          "lang": "de"
+        },
+        {
+          "name": "Munix",
+          "lang": "diq"
+        },
+        {
+          "name": "Μόναχο",
+          "lang": "el"
+        },
+        {
+          "name": "Munich",
+          "lang": "en"
+        },
+        {
+          "name": "Munkeno",
+          "lang": "eo"
+        },
+        {
+          "name": "Múnich",
+          "lang": "es"
+        },
+        {
+          "name": "München",
+          "lang": "et"
+        },
+        {
+          "name": "Munich",
+          "lang": "eu"
+        },
+        {
+          "name": "Múnich",
+          "lang": "ext"
+        },
+        {
+          "name": "مونیخ",
+          "lang": "fa"
+        },
+        {
+          "name": "München",
+          "lang": "fi"
+        },
+        {
+          "name": "Munich",
+          "lang": "fr"
+        },
+        {
+          "name": "Múnic",
+          "lang": "gl"
+        },
+        {
+          "name": "Múnich",
+          "lang": "gn"
+        },
+        {
+          "name": "Minhen",
+          "lang": "hbs"
+        },
+        {
+          "name": "מינכן",
+          "lang": "he"
+        },
+        {
+          "name": "म्यूनिख",
+          "lang": "hi"
+        },
+        {
+          "name": "München",
+          "lang": "hr"
+        },
+        {
+          "name": "Mnichow",
+          "lang": "hsb"
+        },
+        {
+          "name": "München",
+          "lang": "hu"
+        },
+        {
+          "name": "Մյունխեն",
+          "lang": "hy"
+        },
+        {
+          "name": "MUC",
+          "lang": "iata"
+        },
+        {
+          "name": "München",
+          "lang": "id"
+        },
+        {
+          "name": "Munich",
+          "lang": "ilo"
+        },
+        {
+          "name": "München",
+          "lang": "io"
+        },
+        {
+          "name": "München",
+          "lang": "is"
+        },
+        {
+          "name": "Monaco di Baviera",
+          "lang": "it"
+        },
+        {
+          "name": "ミュンヘン",
+          "lang": "ja"
+        },
+        {
+          "name": "მიუნხენი",
+          "lang": "ka"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "kk"
+        },
+        {
+          "name": "ಮ್ಯೂನಿಕ್",
+          "lang": "kn"
+        },
+        {
+          "name": "뮌헨",
+          "lang": "ko"
+        },
+        {
+          "name": "Munîh",
+          "lang": "ku"
+        },
+        {
+          "name": "Monachium",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Munich",
+          "lang": "link"
+        },
+        {
+          "name": "Münegh",
+          "lang": "lmo"
+        },
+        {
+          "name": "Miunchenas",
+          "lang": "lt"
+        },
+        {
+          "name": "Minhene",
+          "lang": "lv"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "mhr"
+        },
+        {
+          "name": "Минхен",
+          "lang": "mk"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "mn"
+        },
+        {
+          "name": "म्युन्शेन",
+          "lang": "mr"
+        },
+        {
+          "name": "Мӱнхен",
+          "lang": "mrj"
+        },
+        {
+          "name": "Munich",
+          "lang": "ms"
+        },
+        {
+          "name": "မြူးနစ်ချ်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Munich",
+          "lang": "nah"
+        },
+        {
+          "name": "Monaco e Baviera",
+          "lang": "nap"
+        },
+        {
+          "name": "München",
+          "lang": "nds"
+        },
+        {
+          "name": "München",
+          "lang": "nl"
+        },
+        {
+          "name": "München",
+          "lang": "nn"
+        },
+        {
+          "name": "München",
+          "lang": "no"
+        },
+        {
+          "name": "Munic",
+          "lang": "oc"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "os"
+        },
+        {
+          "name": "Munich",
+          "lang": "pam"
+        },
+        {
+          "name": "München",
+          "lang": "pdc"
+        },
+        {
+          "name": "Minche",
+          "lang": "pfl"
+        },
+        {
+          "name": "Monachium",
+          "lang": "pl"
+        },
+        {
+          "name": "Mùnich ëd Baviera",
+          "lang": "pms"
+        },
+        {
+          "name": "میونخ",
+          "lang": "pnb"
+        },
+        {
+          "name": "Munique",
+          "lang": "pt"
+        },
+        {
+          "name": "Minca",
+          "lang": "rm"
+        },
+        {
+          "name": "München",
+          "lang": "ro"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "ru"
+        },
+        {
+          "name": "Мүнхэн",
+          "lang": "sah"
+        },
+        {
+          "name": "Monaco de Baviera",
+          "lang": "sc"
+        },
+        {
+          "name": "Mònacu",
+          "lang": "scn"
+        },
+        {
+          "name": "Munich",
+          "lang": "sco"
+        },
+        {
+          "name": "Mníchov",
+          "lang": "sk"
+        },
+        {
+          "name": "München",
+          "lang": "sl"
+        },
+        {
+          "name": "Mynihu",
+          "lang": "sq"
+        },
+        {
+          "name": "Минхен",
+          "lang": "sr"
+        },
+        {
+          "name": "München",
+          "lang": "sv"
+        },
+        {
+          "name": "மியூனிக்",
+          "lang": "ta"
+        },
+        {
+          "name": "Munike",
+          "lang": "tet"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "tg"
+        },
+        {
+          "name": "มิวนิก",
+          "lang": "th"
+        },
+        {
+          "name": "Lungsod ng München",
+          "lang": "tl"
+        },
+        {
+          "name": "Münih",
+          "lang": "tr"
+        },
+        {
+          "name": "Мүнхен",
+          "lang": "tt"
+        },
+        {
+          "name": "Munich",
+          "lang": "tum"
+        },
+        {
+          "name": "Myunxén",
+          "lang": "ug"
+        },
+        {
+          "name": "Мюнхен",
+          "lang": "uk"
+        },
+        {
+          "name": "MUC",
+          "lang": "unlc"
+        },
+        {
+          "name": "میونخ",
+          "lang": "ur"
+        },
+        {
+          "name": "Munhen",
+          "lang": "uz"
+        },
+        {
+          "name": "Monaco de Baviera",
+          "lang": "vec"
+        },
+        {
+          "name": "München",
+          "lang": "vi"
+        },
+        {
+          "name": "München",
+          "lang": "vo"
+        },
+        {
+          "name": "Munich",
+          "lang": "war"
+        },
+        {
+          "name": "მიუნხენი",
+          "lang": "xmf"
+        },
+        {
+          "name": "מינכן",
+          "lang": "yi"
+        },
+        {
+          "name": "Munich",
+          "lang": "yo"
+        },
+        {
+          "name": "慕尼黑",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Upper Bavaria",
+      "name": "Munich",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 11.492300861265024,
+        "south": 48.11724724523278,
+        "north": 48.16567952597669,
+        "west": 11.419686443422476
+      },
+      "asciiName": "Pasing",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 19.476261138916016,
+      "adminId2": "2861322",
+      "adminId3": "3220837",
+      "countryCode": "DE",
+      "adminId4": "6559171",
+      "adminId1": "2951839",
+      "lat": "48.14146",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode2": "091",
+      "adminCode3": "09162",
+      "adminCode1": "02",
+      "lng": "11.45599",
+      "geonameId": 2855334,
+      "toponymName": "Pasing",
+      "adminCode4": "09162000",
+      "population": 35728,
+      "adminName5": "",
+      "adminName4": "Munich",
+      "adminName3": "Munich, Urban District",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Pasing",
+        "lang": "link"
+      }],
+      "adminName2": "Upper Bavaria",
+      "name": "Pasing",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "section of populated place",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "asciiName": "Munich International Airport",
+      "countryId": "2921044",
+      "fcl": "S",
+      "score": 18.74104118347168,
+      "cc2": "DE",
+      "adminId2": "2861322",
+      "adminId3": "2929716",
+      "countryCode": "DE",
+      "adminId4": "6556189",
+      "adminId1": "2951839",
+      "lat": "48.35378",
+      "fcode": "AIRP",
+      "continentCode": "EU",
+      "elevation": 453,
+      "adminCode2": "091",
+      "adminCode3": "09177",
+      "adminCode1": "02",
+      "lng": "11.78609",
+      "geonameId": 3208399,
+      "toponymName": "Munich International Airport",
+      "adminCode4": "09177133",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "Oberding",
+      "adminName3": "Landkreis Erding",
+      "alternateNames": [
+        {
+          "name": "Flughafen München Franz Josef Strauß",
+          "lang": "de"
+        },
+        {
+          "name": "Munich International Airport",
+          "lang": "en"
+        },
+        {
+          "name": "Aéroport de Munich-Franz-Josef Strauss",
+          "lang": "fr"
+        },
+        {
+          "name": "MUC",
+          "lang": "iata"
+        },
+        {
+          "name": "EDDM",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Munich_Airport",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "Upper Bavaria",
+      "name": "Munich International Airport",
+      "fclName": "spot, building, farm",
+      "countryName": "Germany",
+      "fcodeName": "airport",
+      "adminName1": "Bavaria"
+    },
+    {
+      "adminCode1": "04",
+      "lng": "13.45",
+      "geonameId": 2771031,
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Vienna",
+        "dstOffset": 2
+      },
+      "toponymName": "Münich See",
+      "asciiName": "Munich See",
+      "countryId": "2782113",
+      "fcl": "H",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 17.779314041137695,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "AT",
+      "name": "Münich See",
+      "fclName": "stream, lake, ...",
+      "countryName": "Austria",
+      "fcodeName": "lake",
+      "adminId1": "2769848",
+      "adminName1": "Upper Austria",
+      "lat": "47.76667",
+      "fcode": "LK",
+      "continentCode": "EU"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 11.607813895462881,
+        "south": 48.25976896191137,
+        "north": 48.300983038088624,
+        "west": 11.54585810453712
+      },
+      "asciiName": "Unterschleissheim",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 17.779314041137695,
+      "adminId2": "2861322",
+      "adminId3": "3220838",
+      "countryCode": "DE",
+      "adminId4": "6558224",
+      "adminId1": "2951839",
+      "lat": "48.28038",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "091",
+      "adminCode3": "09184",
+      "adminCode1": "02",
+      "lng": "11.57684",
+      "geonameId": 2818766,
+      "toponymName": "Unterschleißheim",
+      "adminCode4": "09184149",
+      "population": 25567,
+      "adminName5": "",
+      "adminName4": "Unterschleißheim",
+      "adminName3": "Munich",
+      "alternateNames": [
+        {
+          "name": "اونتراشلایسهایم",
+          "lang": "fa"
+        },
+        {
+          "name": "Унтершлайсхайм",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Unterschlei%C3%9Fheim",
+          "lang": "link"
+        },
+        {
+          "name": "Унтершлайсхайм",
+          "lang": "ru"
+        },
+        {
+          "name": "Унтершлајсхајм",
+          "lang": "sr"
+        },
+        {
+          "name": "USL",
+          "lang": "unlc"
+        },
+        {
+          "name": "翁特尔斯希莱斯海姆",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Upper Bavaria",
+      "name": "Unterschleißheim",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 11.669809319535258,
+        "south": 48.1162384049943,
+        "north": 48.18818759500571,
+        "west": 11.561888680464744
+      },
+      "asciiName": "Bogenhausen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 16.2302188873291,
+      "adminId2": "2861322",
+      "adminId3": "3220837",
+      "countryCode": "DE",
+      "adminId4": "6559171",
+      "adminId1": "2951839",
+      "lat": "48.15221",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode2": "091",
+      "adminCode3": "09162",
+      "adminCode1": "02",
+      "lng": "11.61585",
+      "geonameId": 2947022,
+      "toponymName": "Bogenhausen",
+      "adminCode4": "09162000",
+      "population": 77542,
+      "adminName5": "",
+      "adminName4": "Munich",
+      "adminName3": "Munich, Urban District",
+      "adminName2": "Upper Bavaria",
+      "name": "Bogenhausen",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "section of populated place",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -5,
+        "timeZoneId": "America/Toronto",
+        "dstOffset": -4
+      },
+      "asciiName": "Lac Munich",
+      "countryId": "6251999",
+      "fcl": "H",
+      "score": 15.902300834655762,
+      "adminId2": "6050541",
+      "countryCode": "CA",
+      "adminId1": "6115047",
+      "lat": "45.96917",
+      "fcode": "LK",
+      "continentCode": "NA",
+      "adminCode2": "15",
+      "adminCode1": "10",
+      "lng": "-74.5025",
+      "geonameId": 6034192,
+      "toponymName": "Lac Munich",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "Laurentides",
+      "name": "Lac Munich",
+      "fclName": "stream, lake, ...",
+      "countryName": "Canada",
+      "fcodeName": "lake",
+      "adminName1": "Quebec"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 11.662017098626695,
+        "south": 48.17980768384686,
+        "north": 48.20524556392584,
+        "west": 11.623848685064711
+      },
+      "asciiName": "Unterfoehring",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 14.816094398498535,
+      "adminId2": "2861322",
+      "adminId3": "3220838",
+      "countryCode": "DE",
+      "adminId4": "6556329",
+      "adminId1": "2951839",
+      "lat": "48.19253",
+      "fcode": "PPLA4",
+      "continentCode": "EU",
+      "adminCode2": "091",
+      "adminCode3": "09184",
+      "adminCode1": "02",
+      "lng": "11.64293",
+      "geonameId": 2819568,
+      "toponymName": "Unterföhring",
+      "adminCode4": "09184147",
+      "population": 10500,
+      "adminName5": "",
+      "adminName4": "Unterföhring",
+      "adminName3": "Munich",
+      "alternateNames": [
+        {
+          "name": "Untafering",
+          "lang": "bar"
+        },
+        {
+          "name": "Унтерфёринг",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Unterf%C3%B6hring",
+          "lang": "link"
+        },
+        {
+          "name": "Унтерфёринг",
+          "lang": "ru"
+        },
+        {
+          "name": "Унтерферинг",
+          "lang": "sr"
+        },
+        {
+          "name": "UAA",
+          "lang": "unlc"
+        },
+        {
+          "name": "翁特尔弗赫林格",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Upper Bavaria",
+      "name": "Unterföhring",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "seat of a fourth-order administrative division",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 11.674406386519474,
+        "south": 48.233384543417095,
+        "north": 48.2645394565829,
+        "west": 11.627605613480528
+      },
+      "asciiName": "Garching bei Munchen",
+      "countryId": "2921044",
+      "fcl": "P",
+      "score": 14.816094398498535,
+      "adminId2": "2861322",
+      "adminId3": "3220838",
+      "countryCode": "DE",
+      "adminId4": "6559193",
+      "adminId1": "2951839",
+      "lat": "48.24896",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "091",
+      "adminCode3": "09184",
+      "adminCode1": "02",
+      "lng": "11.65101",
+      "geonameId": 2922582,
+      "toponymName": "Garching bei München",
+      "adminCode4": "09184119",
+      "population": 15303,
+      "adminName5": "",
+      "adminName4": "Garching b.München",
+      "adminName3": "Munich",
+      "alternateNames": [
+        {
+          "name": "Garching bei Minga",
+          "lang": "bar"
+        },
+        {
+          "name": "گارشینگ بای مونیخ",
+          "lang": "fa"
+        },
+        {
+          "name": "ガーヒンク・バイ・ミュンヘン",
+          "lang": "ja"
+        },
+        {
+          "name": "Гархинг",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Garching_bei_M%C3%BCnchen",
+          "lang": "link"
+        },
+        {
+          "name": "Гархинг",
+          "lang": "ru"
+        },
+        {
+          "name": "Гархинг код Минхена",
+          "lang": "sr"
+        },
+        {
+          "name": "GBM",
+          "lang": "unlc"
+        },
+        {
+          "name": "加兴",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Upper Bavaria",
+      "name": "Garching bei München",
+      "fclName": "city, village,...",
+      "countryName": "Germany",
+      "fcodeName": "populated place",
+      "adminName1": "Bavaria"
+    },
+    {
+      "timezone": {
+        "gmtOffset": -4,
+        "timeZoneId": "America/Grenada",
+        "dstOffset": -4
+      },
+      "bbox": {
+        "east": -61.63532830907836,
+        "south": 12.073070351248575,
+        "north": 12.091057648751427,
+        "west": -61.65372369092164
+      },
+      "asciiName": "Munich",
+      "countryId": "3580239",
+      "fcl": "P",
+      "score": 13.251916885375977,
+      "countryCode": "GD",
+      "adminId1": "3579938",
+      "lat": "12.08206",
+      "fcode": "PPL",
+      "continentCode": "NA",
+      "adminCode1": "01",
+      "lng": "-61.64453",
+      "geonameId": 3580031,
+      "toponymName": "Munich",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Munich",
+      "fclName": "city, village,...",
+      "countryName": "Grenada",
+      "fcodeName": "populated place",
+      "adminName1": "Saint Andrew"
+    }
+  ]
+}

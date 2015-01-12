@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jasper",
+               "short_name" : "Jasper",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jasper",
+               "short_name" : "Jasper",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 15",
+               "short_name" : "Division No. 15",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T0E",
+               "short_name" : "T0E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jasper, AB T0E, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.87927699999999,
+               "lng" : -118.079256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8860103,
+                  "lng" : -118.0632486
+               },
+               "southwest" : {
+                  "lat" : 52.8725427,
+                  "lng" : -118.0952634
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

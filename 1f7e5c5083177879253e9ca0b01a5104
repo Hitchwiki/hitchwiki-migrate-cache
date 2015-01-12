@@ -1,0 +1,174 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Londonderry",
+               "short_name" : "Londonderry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Londonderry",
+               "short_name" : "Londonderry",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derry",
+               "short_name" : "Derry",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Londonderry, Londonderry, Derry, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0436191,
+                  "lng" : -7.262598799999999
+               },
+               "southwest" : {
+                  "lat" : 54.96971199999999,
+                  "lng" : -7.3606922
+               }
+            },
+            "location" : {
+               "lat" : 54.9966124,
+               "lng" : -7.3085748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0436191,
+                  "lng" : -7.262598799999999
+               },
+               "southwest" : {
+                  "lat" : 54.96971199999999,
+                  "lng" : -7.3606922
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derry",
+               "short_name" : "Derry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derry",
+               "short_name" : "Derry",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rockingham County",
+               "short_name" : "Rockingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derry, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9418281,
+                  "lng" : -71.20654209999999
+               },
+               "southwest" : {
+                  "lat" : 42.8411428,
+                  "lng" : -71.3481049
+               }
+            },
+            "location" : {
+               "lat" : 42.8806437,
+               "lng" : -71.3273346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9418281,
+                  "lng" : -71.20654209999999
+               },
+               "southwest" : {
+                  "lat" : 42.8411428,
+                  "lng" : -71.3481049
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derry",
+               "short_name" : "Derry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westmoreland County",
+               "short_name" : "Westmoreland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derry, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.341682,
+                  "lng" : -79.2892858
+               },
+               "southwest" : {
+                  "lat" : 40.3224949,
+                  "lng" : -79.3121139
+               }
+            },
+            "location" : {
+               "lat" : 40.3339589,
+               "lng" : -79.29975730000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.341682,
+                  "lng" : -79.2892858
+               },
+               "southwest" : {
+                  "lat" : 40.3224949,
+                  "lng" : -79.3121139
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

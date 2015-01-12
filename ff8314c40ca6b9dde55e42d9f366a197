@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valga",
+               "short_name" : "Valga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valga",
+               "short_name" : "Valga",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Caldas",
+               "short_name" : "Caldas",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pontevedra",
+               "short_name" : "PO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36645",
+               "short_name" : "36645",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "36645 Valga, Pontevedra, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7022827,
+                  "lng" : -8.645670299999999
+               },
+               "southwest" : {
+                  "lat" : 42.6986877,
+                  "lng" : -8.651994499999999
+               }
+            },
+            "location" : {
+               "lat" : 42.7003636,
+               "lng" : -8.6489195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7022827,
+                  "lng" : -8.645670299999999
+               },
+               "southwest" : {
+                  "lat" : 42.6986877,
+                  "lng" : -8.651994499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

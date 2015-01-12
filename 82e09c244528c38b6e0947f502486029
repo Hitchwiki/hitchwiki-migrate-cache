@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Steinbach",
+               "short_name" : "Steinbach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 2",
+               "short_name" : "Division No. 2",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manitoba",
+               "short_name" : "MB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Steinbach, MB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5672619,
+                  "lng" : -96.6459739
+               },
+               "southwest" : {
+                  "lat" : 49.49552389999999,
+                  "lng" : -96.71405689999999
+               }
+            },
+            "location" : {
+               "lat" : 49.525833,
+               "lng" : -96.68388899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5672619,
+                  "lng" : -96.6459739
+               },
+               "southwest" : {
+                  "lat" : 49.49552389999999,
+                  "lng" : -96.71405689999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

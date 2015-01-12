@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "C-Z Road",
+               "short_name" : "C-Z Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tillamook",
+               "short_name" : "Tillamook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tillamook County",
+               "short_name" : "Tillamook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97141",
+               "short_name" : "97141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "C-Z Road, Tillamook, OR 97141, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4587248,
+                  "lng" : -123.8879682
+               },
+               "southwest" : {
+                  "lat" : 45.4548171,
+                  "lng" : -123.8936548
+               }
+            },
+            "location" : {
+               "lat" : 45.4565686,
+               "lng" : -123.8903015
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4587248,
+                  "lng" : -123.8879682
+               },
+               "southwest" : {
+                  "lat" : 45.4548171,
+                  "lng" : -123.8936548
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rue CZ",
+               "short_name" : "Rue CZ",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tissemsilt",
+               "short_name" : "Tissemsilt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilaya de Tissemsilt",
+               "short_name" : "Wilaya de Tissemsilt",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Algeria",
+               "short_name" : "DZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rue CZ, Tissemsilt, Algeria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6037615,
+                  "lng" : 1.8100346
+               },
+               "southwest" : {
+                  "lat" : 35.6028563,
+                  "lng" : 1.8095538
+               }
+            },
+            "location" : {
+               "lat" : 35.6037615,
+               "lng" : 1.8100346
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6046578802915,
+                  "lng" : 1.811143180291501
+               },
+               "southwest" : {
+                  "lat" : 35.6019599197085,
+                  "lng" : 1.808445219708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rua Cz",
+               "short_name" : "R. Cz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Frimisa",
+               "short_name" : "Frimisa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Santa Luzia",
+               "short_name" : "Santa Luzia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Benedito (Santa Luzia)",
+               "short_name" : "São Benedito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33045-630",
+               "short_name" : "33045-630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Cz - Frimisa, Santa Luzia - MG, 33045-630, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.7569734,
+                  "lng" : -43.8815764
+               },
+               "southwest" : {
+                  "lat" : -19.7571242,
+                  "lng" : -43.8822887
+               }
+            },
+            "location" : {
+               "lat" : -19.7570326,
+               "lng" : -43.8819327
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.7556998197085,
+                  "lng" : -43.8805835697085
+               },
+               "southwest" : {
+                  "lat" : -19.7583977802915,
+                  "lng" : -43.8832815302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bartoszyce",
+               "short_name" : "Bartoszyce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Bartoszyce",
+               "short_name" : "Gmina Bartoszyce",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bartoszyce County",
+               "short_name" : "Bartoszyce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Warmian-Masurian Voivodeship",
+               "short_name" : "Warmian-Masurian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bartoszyce, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.27211,
+                  "lng" : 20.8520498
+               },
+               "southwest" : {
+                  "lat" : 54.23475999999999,
+                  "lng" : 20.7686898
+               }
+            },
+            "location" : {
+               "lat" : 54.2533,
+               "lng" : 20.80806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.27211,
+                  "lng" : 20.8520498
+               },
+               "southwest" : {
+                  "lat" : 54.23475999999999,
+                  "lng" : 20.7686898
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A2",
+               "short_name" : "A2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A2, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1517473,
+                  "lng" : 16.347359
+               },
+               "southwest" : {
+                  "lat" : 46.5342194,
+                  "lng" : 13.6414612
+               }
+            },
+            "location" : {
+               "lat" : 46.9937358,
+               "lng" : 15.1360796
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1517473,
+                  "lng" : 16.347359
+               },
+               "southwest" : {
+                  "lat" : 46.5342194,
+                  "lng" : 13.6414612
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,857 @@
+{
+  "totalResultsCount": 346,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.294186606945182,
+        "south": 47.3267760185861,
+        "north": 47.6692439600221,
+        "west": 18.78562830394342
+      },
+      "asciiName": "Budapest",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 202.73948669433594,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.49801",
+      "fcode": "PPLC",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.03991",
+      "geonameId": 3054643,
+      "toponymName": "Budapest",
+      "population": 1741041,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Budapèst",
+          "lang": "ace"
+        },
+        {
+          "name": "Boedapest",
+          "lang": "af"
+        },
+        {
+          "name": "ቡዳፔስት",
+          "lang": "am"
+        },
+        {
+          "name": "Budapest",
+          "lang": "an"
+        },
+        {
+          "name": "بودابست",
+          "lang": "ar"
+        },
+        {
+          "name": "بودابيست",
+          "lang": "arz"
+        },
+        {
+          "name": "Budapest",
+          "lang": "ast"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "av"
+        },
+        {
+          "name": "Budapeşt",
+          "lang": "az"
+        },
+        {
+          "name": "Горад Будапешт",
+          "lang": "be"
+        },
+        {
+          "name": "Будапеща",
+          "lang": "bg"
+        },
+        {
+          "name": "বুদাপেস্ট",
+          "lang": "bn"
+        },
+        {
+          "name": "བུ་ད་ཕེ་སིད།",
+          "lang": "bo"
+        },
+        {
+          "name": "Budapest",
+          "lang": "br"
+        },
+        {
+          "name": "Budimpešta",
+          "lang": "bs"
+        },
+        {
+          "name": "Budapest",
+          "lang": "ca"
+        },
+        {
+          "name": "بوداپێست",
+          "lang": "ckb"
+        },
+        {
+          "name": "Budapeşt",
+          "lang": "crh"
+        },
+        {
+          "name": "Budapešť",
+          "lang": "cs"
+        },
+        {
+          "name": "Bùdapeszt",
+          "lang": "csb"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "cv"
+        },
+        {
+          "name": "Budapest",
+          "lang": "da"
+        },
+        {
+          "name": "Budapest",
+          "lang": "de"
+        },
+        {
+          "name": "Budapeşt",
+          "lang": "diq"
+        },
+        {
+          "name": "Budapešt",
+          "lang": "dsb"
+        },
+        {
+          "name": "Βουδαπέστη",
+          "lang": "el"
+        },
+        {
+          "name": "Budapest",
+          "lang": "en"
+        },
+        {
+          "name": "Budapeŝto",
+          "lang": "eo"
+        },
+        {
+          "name": "Budapest",
+          "lang": "es"
+        },
+        {
+          "name": "Budapest",
+          "lang": "et"
+        },
+        {
+          "name": "Budapest",
+          "lang": "eu"
+        },
+        {
+          "name": "بوداپست",
+          "lang": "fa"
+        },
+        {
+          "name": "Budapest",
+          "lang": "fi"
+        },
+        {
+          "name": "Budapest",
+          "lang": "fo"
+        },
+        {
+          "name": "Budapest",
+          "lang": "fr"
+        },
+        {
+          "name": "Budapèst",
+          "lang": "frp"
+        },
+        {
+          "name": "Boedapest",
+          "lang": "fy"
+        },
+        {
+          "name": "Búdaipeist",
+          "lang": "ga"
+        },
+        {
+          "name": "Budapeşt",
+          "lang": "gag"
+        },
+        {
+          "name": "Budapest",
+          "lang": "gd"
+        },
+        {
+          "name": "Budapest",
+          "lang": "gl"
+        },
+        {
+          "name": "બુડાપેસ્ટ",
+          "lang": "gu"
+        },
+        {
+          "name": "Budimpešta",
+          "lang": "hbs"
+        },
+        {
+          "name": "בודפשט",
+          "lang": "he"
+        },
+        {
+          "name": "बुडापेस्ट",
+          "lang": "hi"
+        },
+        {
+          "name": "Budimpešta",
+          "lang": "hr"
+        },
+        {
+          "name": "Boudapès",
+          "lang": "ht"
+        },
+        {
+          "name": "Budapest",
+          "lang": "hu"
+        },
+        {
+          "name": "Բուդապեշտ",
+          "lang": "hy"
+        },
+        {
+          "name": "BUD",
+          "lang": "iata"
+        },
+        {
+          "name": "Budapest",
+          "lang": "id"
+        },
+        {
+          "name": "Budapest",
+          "lang": "io"
+        },
+        {
+          "name": "Búdapest",
+          "lang": "is"
+        },
+        {
+          "name": "Budapest",
+          "lang": "it"
+        },
+        {
+          "name": "ブダペスト",
+          "lang": "ja"
+        },
+        {
+          "name": "ბუდაპეშტი",
+          "lang": "ka"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "kk"
+        },
+        {
+          "name": "ಬುಡಾಪೆಸ್ಟ್",
+          "lang": "kn"
+        },
+        {
+          "name": "부다페스트",
+          "lang": "ko"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "koi"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "krc"
+        },
+        {
+          "name": "Budapeşt",
+          "lang": "ku"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "kv"
+        },
+        {
+          "name": "Budapest",
+          "lang": "kw"
+        },
+        {
+          "name": "Budapestinum",
+          "lang": "la"
+        },
+        {
+          "name": "Budapest",
+          "lang": "lb"
+        },
+        {
+          "name": "Boedapes",
+          "lang": "li"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Budapest",
+          "lang": "link"
+        },
+        {
+          "name": "Budapeštas",
+          "lang": "lt"
+        },
+        {
+          "name": "Budapešta",
+          "lang": "lv"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "mdf"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "mhr"
+        },
+        {
+          "name": "Будимпешта",
+          "lang": "mk"
+        },
+        {
+          "name": "ബുഡാപെസ്റ്റ്",
+          "lang": "ml"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "mn"
+        },
+        {
+          "name": "बुडापेस्ट",
+          "lang": "mr"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "mrj"
+        },
+        {
+          "name": "ဗူးဒပက်မြို့",
+          "lang": "my"
+        },
+        {
+          "name": "Будапешт ош",
+          "lang": "myv"
+        },
+        {
+          "name": "बुदापेस्त",
+          "lang": "new"
+        },
+        {
+          "name": "Boedapest",
+          "lang": "nl"
+        },
+        {
+          "name": "Budapest",
+          "lang": "nn"
+        },
+        {
+          "name": "Budapest",
+          "lang": "no"
+        },
+        {
+          "name": "Budapesht",
+          "lang": "nov"
+        },
+        {
+          "name": "Budapèst",
+          "lang": "oc"
+        },
+        {
+          "name": "ବୁଦାପେଷ୍ଟ",
+          "lang": "or"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "os"
+        },
+        {
+          "name": "ਬੁਦਾਪੈਸਤ",
+          "lang": "pa"
+        },
+        {
+          "name": "Budapescht",
+          "lang": "pdc"
+        },
+        {
+          "name": "Budapeszt",
+          "lang": "pl"
+        },
+        {
+          "name": "Bùdapest",
+          "lang": "pms"
+        },
+        {
+          "name": "بوداپست",
+          "lang": "pnb"
+        },
+        {
+          "name": "بوډاپسټ",
+          "lang": "ps"
+        },
+        {
+          "name": "Budapeste",
+          "lang": "pt"
+        },
+        {
+          "name": "Budapest",
+          "lang": "rm"
+        },
+        {
+          "name": "Budapesta",
+          "lang": "ro"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "ru"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "sah"
+        },
+        {
+          "name": "Budapest",
+          "lang": "scn"
+        },
+        {
+          "name": "Budapešť",
+          "lang": "sk"
+        },
+        {
+          "name": "Budimpešta",
+          "lang": "sl"
+        },
+        {
+          "name": "Budapesti",
+          "lang": "sq"
+        },
+        {
+          "name": "Будимпешта",
+          "lang": "sr"
+        },
+        {
+          "name": "Budapest",
+          "lang": "sv"
+        },
+        {
+          "name": "Budapeszt",
+          "lang": "szl"
+        },
+        {
+          "name": "புடாபெஸ்ட்",
+          "lang": "ta"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "tg"
+        },
+        {
+          "name": "บูดาเปสต์",
+          "lang": "th"
+        },
+        {
+          "name": "Budapeşte",
+          "lang": "tr"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "tt"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "udm"
+        },
+        {
+          "name": "Budapésht",
+          "lang": "ug"
+        },
+        {
+          "name": "Будапешт",
+          "lang": "uk"
+        },
+        {
+          "name": "BUD",
+          "lang": "unlc"
+        },
+        {
+          "name": "بوداپست",
+          "lang": "ur"
+        },
+        {
+          "name": "Budapesht",
+          "lang": "uz"
+        },
+        {
+          "name": "Budapešt",
+          "lang": "vep"
+        },
+        {
+          "name": "בודאפעשט",
+          "lang": "yi"
+        },
+        {
+          "name": "Boedapest",
+          "lang": "zea"
+        },
+        {
+          "name": "布达佩斯",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Budapest",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "capital of a political entity",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.107457242425937,
+        "south": 47.427804652248035,
+        "north": 47.52425079034783,
+        "west": 18.964632906499844
+      },
+      "asciiName": "Budapest XI. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 88.90715026855469,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.47603",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.03605",
+      "geonameId": 7284824,
+      "toponymName": "Budapest XI. kerület",
+      "population": 139049,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest XI. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.174527136560915,
+        "south": 47.473333822600786,
+        "north": 47.56327031011505,
+        "west": 19.041243584874632
+      },
+      "asciiName": "Budapest XIV. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 71.12571716308594,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.5183",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.10789",
+      "geonameId": 7284829,
+      "toponymName": "Budapest XIV. kerület",
+      "population": 120148,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest XIV. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.112679322713078,
+        "south": 47.495932533329295,
+        "north": 47.58720809928205,
+        "west": 18.977349440104305
+      },
+      "asciiName": "Budapest III. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 71.12571716308594,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.54157",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.04501",
+      "geonameId": 7284842,
+      "toponymName": "Budapest III. kerület",
+      "population": 123723,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest III. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.328887939453125,
+        "south": 47.34722137451172,
+        "north": 47.605552673339844,
+        "west": 18.938053131103516
+      },
+      "asciiName": "Budapest fovaros",
+      "countryId": "719819",
+      "fcl": "A",
+      "score": 59.04130554199219,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.5",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.08333",
+      "geonameId": 3054638,
+      "toponymName": "Budapest főváros",
+      "population": 1696128,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "부다페스트",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Budapest",
+          "lang": "link"
+        }
+      ],
+      "adminName2": "",
+      "name": "Budapest főváros",
+      "fclName": "country, state, region,...",
+      "countryName": "Hungary",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.125035305350327,
+        "south": 47.45211322298107,
+        "north": 47.52627675050475,
+        "west": 19.015204410225845
+      },
+      "asciiName": "Budapest VIII. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 35.56285858154297,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.48919",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.07012",
+      "geonameId": 7284826,
+      "toponymName": "Budapest VIII. kerület",
+      "population": 82222,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest VIII. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.14530109951352,
+        "south": 47.486179779998885,
+        "north": 47.57337643979283,
+        "west": 19.016052965427885
+      },
+      "asciiName": "Budapest XIII. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 35.56285858154297,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.52978",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.08068",
+      "geonameId": 7284830,
+      "toponymName": "Budapest XIII. kerület",
+      "population": 113531,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest XIII. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.149110757751245,
+        "south": 47.52134517139603,
+        "north": 47.602288010158865,
+        "west": 19.029066122131567
+      },
+      "asciiName": "Budapest IV. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 35.56285858154297,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.56182",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.08909",
+      "geonameId": 7284831,
+      "toponymName": "Budapest IV. kerület",
+      "population": 98374,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest IV. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.170988914470847,
+        "south": 47.5260950634827,
+        "north": 47.5991598113371,
+        "west": 19.062634590167825
+      },
+      "asciiName": "Budapest XV. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 35.56285858154297,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.56263",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.11681",
+      "geonameId": 7284832,
+      "toponymName": "Budapest XV. kerület",
+      "population": 80218,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest XV. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Budapest",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 19.212444672625498,
+        "south": 47.44256993814947,
+        "north": 47.51563468600387,
+        "west": 19.104262938458486
+      },
+      "asciiName": "Budapest X. keruelet",
+      "countryId": "719819",
+      "fcl": "P",
+      "score": 35.56285858154297,
+      "countryCode": "HU",
+      "adminId1": "3054638",
+      "lat": "47.4791",
+      "fcode": "PPLX",
+      "continentCode": "EU",
+      "adminCode1": "05",
+      "lng": "19.15835",
+      "geonameId": 7284834,
+      "toponymName": "Budapest X. kerület",
+      "population": 79270,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "adminName2": "",
+      "name": "Budapest X. kerület",
+      "fclName": "city, village,...",
+      "countryName": "Hungary",
+      "fcodeName": "section of populated place",
+      "adminName1": "Budapest"
+    }
+  ]
+}

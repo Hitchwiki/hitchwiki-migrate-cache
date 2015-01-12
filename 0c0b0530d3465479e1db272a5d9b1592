@@ -1,0 +1,342 @@
+{
+  "totalResultsCount": 9,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "OYL",
+          "lang": "iata"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Moyale",
+          "lang": "link"
+        },
+        {
+          "name": "OYL",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Kenya",
+      "adminCode1": "34",
+      "score": 54.35186004638672,
+      "lng": "39.05472",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Nairobi"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 3.497807476341023,
+        "east": 39.07856337209483,
+        "north": 3.5453973922917084,
+        "west": 39.03088219980459
+      },
+      "name": "Moyale",
+      "fcode": "PPL",
+      "geonameId": 186180,
+      "asciiName": "Moyale",
+      "lat": "3.5216",
+      "population": 34314,
+      "adminName1": "Marsabit",
+      "countryId": "192950",
+      "adminId1": "187583",
+      "fclName": "city, village,...",
+      "countryCode": "KE",
+      "toponymName": "Moyale",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "adminCode2": "7733024",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Moyale_District",
+        "lang": "link"
+      }],
+      "countryName": "Kenya",
+      "adminCode1": "34",
+      "score": 52.30010223388672,
+      "lng": "38.844",
+      "adminName2": "Moyale District",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Nairobi"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Moyale District",
+      "fcode": "ADM2",
+      "geonameId": 7733024,
+      "asciiName": "Moyale District",
+      "lat": "3.093",
+      "population": 0,
+      "adminName1": "Marsabit",
+      "countryId": "192950",
+      "adminId1": "187583",
+      "fclName": "country, state, region,...",
+      "countryCode": "KE",
+      "adminId2": "7733024",
+      "toponymName": "Moyale District",
+      "fcl": "A",
+      "continentCode": "AF"
+    },
+    {
+      "countryId": "192950",
+      "alternateNames": [
+        {
+          "name": "Moyale Lower Airport",
+          "lang": "en"
+        },
+        {
+          "name": "OYL",
+          "lang": "iata"
+        },
+        {
+          "name": "HKMY",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Moyale_Airport",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Kenya",
+      "fclName": "spot, building, farm",
+      "elevation": 1097,
+      "score": 45.293216705322266,
+      "countryCode": "KE",
+      "lng": "39.05",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "airport",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Nairobi"
+      },
+      "toponymName": "Moyale Airport",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "AF",
+      "name": "Moyale Lower Airport",
+      "fcode": "AIRP",
+      "asciiName": "Moyale Airport",
+      "geonameId": 6297320,
+      "lat": "3.53333",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "Moyalē",
+          "lang": "en"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Moyale",
+          "lang": "link"
+        },
+        {
+          "name": "MYS",
+          "lang": "unlc"
+        }
+      ],
+      "countryName": "Ethiopia",
+      "adminCode1": "51",
+      "score": 34.245582580566406,
+      "lng": "39.05279",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Addis_Ababa"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 3.5319268575170106,
+        "east": 39.06180253407702,
+        "north": 3.5499141550198647,
+        "west": 39.04378065684095
+      },
+      "name": "Moyalē",
+      "fcode": "PPL",
+      "geonameId": 330415,
+      "asciiName": "Moyale",
+      "lat": "3.54092",
+      "population": 0,
+      "adminName1": "Oromiya",
+      "countryId": "337996",
+      "adminId1": "444185",
+      "fclName": "city, village,...",
+      "countryCode": "ET",
+      "toponymName": "Moyale",
+      "fcl": "P",
+      "continentCode": "AF"
+    },
+    {
+      "adminId1": "444185",
+      "countryId": "337996",
+      "adminCode1": "51",
+      "countryName": "Ethiopia",
+      "fclName": "parks,area, ...",
+      "score": 14.792702674865723,
+      "countryCode": "ET",
+      "lng": "39.71667",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "locality",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Addis_Ababa"
+      },
+      "toponymName": "Moyalē Bota",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "AF",
+      "name": "Moyalē Bota",
+      "fcode": "LCTY",
+      "asciiName": "Moyale Bota",
+      "geonameId": 330412,
+      "lat": "4.16667",
+      "adminName1": "Oromiya",
+      "population": 0
+    },
+    {
+      "adminId1": "444185",
+      "countryId": "337996",
+      "adminCode1": "51",
+      "countryName": "Ethiopia",
+      "fclName": "parks,area, ...",
+      "score": 14.792702674865723,
+      "countryCode": "ET",
+      "lng": "39.16667",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "locality",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Addis_Ababa"
+      },
+      "toponymName": "Moyalē Bota",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "AF",
+      "name": "Moyalē Bota",
+      "fcode": "LCTY",
+      "asciiName": "Moyale Bota",
+      "geonameId": 330413,
+      "lat": "3.95",
+      "adminName1": "Oromiya",
+      "population": 0
+    },
+    {
+      "adminId1": "444185",
+      "countryId": "337996",
+      "adminCode1": "51",
+      "countryName": "Ethiopia",
+      "fclName": "parks,area, ...",
+      "score": 14.792702674865723,
+      "countryCode": "ET",
+      "lng": "39",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "locality",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Addis_Ababa"
+      },
+      "toponymName": "Moyalē Bota",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "AF",
+      "name": "Moyalē Bota",
+      "fcode": "LCTY",
+      "asciiName": "Moyale Bota",
+      "geonameId": 330414,
+      "lat": "3.83333",
+      "adminName1": "Oromiya",
+      "population": 0
+    },
+    {
+      "adminId1": "444186",
+      "countryId": "337996",
+      "adminCode1": "52",
+      "countryName": "Ethiopia",
+      "fclName": "parks,area, ...",
+      "score": 14.792702674865723,
+      "countryCode": "ET",
+      "lng": "44.24278",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "area",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Africa/Addis_Ababa"
+      },
+      "toponymName": "Burada Moyale",
+      "adminName5": "",
+      "fcl": "L",
+      "continentCode": "AF",
+      "name": "Burada Moyale",
+      "fcode": "AREA",
+      "asciiName": "Burada Moyale",
+      "geonameId": 6310975,
+      "lat": "8.57861",
+      "adminName1": "Somali",
+      "population": 0
+    },
+    {
+      "alternateNames": [{
+        "name": "Moyale",
+        "lang": "en"
+      }],
+      "countryName": "Zimbabwe",
+      "adminCode1": "05",
+      "score": 6.202029228210449,
+      "lng": "29.89713",
+      "adminName2": "",
+      "fcodeName": "farm",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 2,
+        "timeZoneId": "Africa/Harare"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Moyale",
+      "fcode": "FRM",
+      "geonameId": 7370867,
+      "asciiName": "Moyale",
+      "lat": "-16.8356",
+      "population": 0,
+      "adminName1": "Mashonaland West",
+      "countryId": "878675",
+      "adminId1": "886841",
+      "fclName": "spot, building, farm",
+      "countryCode": "ZW",
+      "toponymName": "Moyale",
+      "fcl": "S",
+      "continentCode": "AF"
+    }
+  ]
+}

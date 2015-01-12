@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minsk",
+               "short_name" : "Minsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minsk, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9715871,
+                  "lng" : 28.0641033
+               },
+               "southwest" : {
+                  "lat" : 53.7961897,
+                  "lng" : 27.3753548
+               }
+            },
+            "location" : {
+               "lat" : 53.9,
+               "lng" : 27.566667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9715871,
+                  "lng" : 27.8145933
+               },
+               "southwest" : {
+                  "lat" : 53.7961897,
+                  "lng" : 27.3753548
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

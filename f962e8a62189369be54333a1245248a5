@@ -1,0 +1,179 @@
+{
+  "totalResultsCount": 4,
+  "geonames": [
+    {
+      "countryId": "2921044",
+      "alternateNames": [
+        {
+          "name": "Heeresflugplatz Mendig",
+          "lang": "de"
+        },
+        {
+          "name": "Mendig Air Base",
+          "lang": "en"
+        },
+        {
+          "name": "ETHM",
+          "lang": "icao"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Mendig_Air_Base",
+          "lang": "link"
+        }
+      ],
+      "countryName": "Germany",
+      "fclName": "spot, building, farm",
+      "elevation": 181,
+      "score": 56.89781188964844,
+      "countryCode": "DE",
+      "lng": "7.31533",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "airport",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "toponymName": "Mendig",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "EU",
+      "name": "Mendig Air Base",
+      "fcode": "AIRP",
+      "asciiName": "Mendig",
+      "geonameId": 6296841,
+      "lat": "50.366",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "alternateNames": [
+        {
+          "name": "مندیگ",
+          "lang": "fa"
+        },
+        {
+          "name": "Мендиг",
+          "lang": "ru"
+        },
+        {
+          "name": "Мендиг",
+          "lang": "sr"
+        },
+        {
+          "name": "MND",
+          "lang": "unlc"
+        },
+        {
+          "name": "门迪希",
+          "lang": "zh"
+        }
+      ],
+      "countryName": "Germany",
+      "adminCode1": "08",
+      "score": 20.485551834106445,
+      "lng": "7.28333",
+      "adminName2": "",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 50.35476922101233,
+        "east": 7.301989803082174,
+        "north": 50.37856417898767,
+        "west": 7.264676796917826
+      },
+      "name": "Mendig",
+      "fcode": "PPL",
+      "geonameId": 2871979,
+      "asciiName": "Mendig",
+      "lat": "50.36667",
+      "population": 8813,
+      "adminName1": "Rheinland-Pfalz",
+      "countryId": "2921044",
+      "adminId1": "2847618",
+      "fclName": "city, village,...",
+      "countryCode": "DE",
+      "toponymName": "Mendig",
+      "fcl": "P",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode3": "07137",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/Mendig",
+        "lang": "link"
+      }],
+      "adminCode2": "00",
+      "countryName": "Germany",
+      "adminCode1": "08",
+      "score": 11.614216804504395,
+      "lng": "7.2824",
+      "adminCode4": "07137069",
+      "adminName2": "",
+      "fcodeName": "fourth-order administrative division",
+      "adminName3": "Landkreis Mayen-Koblenz",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "adminName4": "Mendig",
+      "adminName5": "",
+      "name": "Mendig",
+      "fcode": "ADM4",
+      "geonameId": 6557865,
+      "asciiName": "Mendig",
+      "lat": "50.3705",
+      "population": 8585,
+      "adminName1": "Rheinland-Pfalz",
+      "adminId1": "2847618",
+      "countryId": "2921044",
+      "fclName": "country, state, region,...",
+      "countryCode": "DE",
+      "adminId4": "6557865",
+      "adminId3": "3247461",
+      "toponymName": "Mendig",
+      "fcl": "A",
+      "continentCode": "EU"
+    },
+    {
+      "adminId1": "2847618",
+      "countryId": "2921044",
+      "adminCode1": "08",
+      "countryName": "Germany",
+      "fclName": "spot, building, farm",
+      "score": 2.419628620147705,
+      "countryCode": "DE",
+      "lng": "7.3",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "airfield",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Berlin"
+      },
+      "toponymName": "Mendig",
+      "adminName5": "",
+      "fcl": "S",
+      "continentCode": "EU",
+      "name": "Mendig",
+      "fcode": "AIRF",
+      "asciiName": "Mendig",
+      "geonameId": 3207989,
+      "lat": "50.35",
+      "adminName1": "Rheinland-Pfalz",
+      "population": 0
+    }
+  ]
+}

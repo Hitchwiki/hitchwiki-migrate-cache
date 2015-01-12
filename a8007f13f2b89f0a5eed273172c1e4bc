@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Västra Götaland County",
+               "short_name" : "Västra Götaland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Västra Götaland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.26203409999999,
+                  "lng" : 14.7147078
+               },
+               "southwest" : {
+                  "lat" : 57.14008,
+                  "lng" : 10.9631866
+               }
+            },
+            "location" : {
+               "lat" : 58.2527926,
+               "lng" : 13.0596425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.26203409999999,
+                  "lng" : 14.7147078
+               },
+               "southwest" : {
+                  "lat" : 57.14008,
+                  "lng" : 10.9636245
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

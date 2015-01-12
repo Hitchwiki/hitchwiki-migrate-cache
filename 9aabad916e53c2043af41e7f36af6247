@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Međugorje",
+               "short_name" : "Međugorje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Čitluk",
+               "short_name" : "Čitluk",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Herzegovina-Neretva Canton",
+               "short_name" : "Herzegovina-Neretva Canton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Federation of Bosnia and Herzegovina",
+               "short_name" : "Federation of Bosnia and Herzegovina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Međugorje, Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2178747,
+                  "lng" : 17.7048969
+               },
+               "southwest" : {
+                  "lat" : 43.177736,
+                  "lng" : 17.6366615
+               }
+            },
+            "location" : {
+               "lat" : 43.2,
+               "lng" : 17.683333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2178747,
+                  "lng" : 17.7048969
+               },
+               "southwest" : {
+                  "lat" : 43.177736,
+                  "lng" : 17.6366615
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

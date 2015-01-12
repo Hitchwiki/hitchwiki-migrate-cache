@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sofia",
+               "short_name" : "Sofia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sofia",
+               "short_name" : "Sofia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sofia-city",
+               "short_name" : "Sofia-city",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sofia, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7877752,
+                  "lng" : 23.4569049
+               },
+               "southwest" : {
+                  "lat" : 42.4900111,
+                  "lng" : 23.1909885
+               }
+            },
+            "location" : {
+               "lat" : 42.6977082,
+               "lng" : 23.3218675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7877752,
+                  "lng" : 23.4569049
+               },
+               "southwest" : {
+                  "lat" : 42.6030891,
+                  "lng" : 23.1909885
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

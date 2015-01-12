@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taupo",
+               "short_name" : "Taupo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taupo District",
+               "short_name" : "Taupo District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Waikato",
+               "short_name" : "Waikato",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taupo, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.628094,
+                  "lng" : 176.1350791
+               },
+               "southwest" : {
+                  "lat" : -39.2919345,
+                  "lng" : 175.7631549
+               }
+            },
+            "location" : {
+               "lat" : -38.6856924,
+               "lng" : 176.0702098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.628094,
+                  "lng" : 176.1350791
+               },
+               "southwest" : {
+                  "lat" : -38.7515594,
+                  "lng" : 175.9549453
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

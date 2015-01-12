@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iquique",
+               "short_name" : "Iquique",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iquique",
+               "short_name" : "Iquique",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Iquique Province",
+               "short_name" : "Iquique Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tarapaca",
+               "short_name" : "Tarapaca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iquique, Iquique, Tarapacá Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.0629941,
+                  "lng" : -69.8267422
+               },
+               "southwest" : {
+                  "lat" : -21.4412212,
+                  "lng" : -70.2130032
+               }
+            },
+            "location" : {
+               "lat" : -20.2167,
+               "lng" : -70.142223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.0629941,
+                  "lng" : -69.8267422
+               },
+               "southwest" : {
+                  "lat" : -21.4412212,
+                  "lng" : -70.2130032
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

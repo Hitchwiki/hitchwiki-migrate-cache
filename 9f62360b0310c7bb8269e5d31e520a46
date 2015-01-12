@@ -1,0 +1,106 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lima, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.0308632,
+                  "lng" : -77.0020311
+               },
+               "southwest" : {
+                  "lat" : -12.0798252,
+                  "lng" : -77.0883395
+               }
+            },
+            "location" : {
+               "lat" : -12.046374,
+               "lng" : -77.04279339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.0308632,
+                  "lng" : -77.0020311
+               },
+               "southwest" : {
+                  "lat" : -12.0798252,
+                  "lng" : -77.0883395
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allen County",
+               "short_name" : "Allen County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lima, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.796018,
+                  "lng" : -84.07071999999999
+               },
+               "southwest" : {
+                  "lat" : 40.6876749,
+                  "lng" : -84.161643
+               }
+            },
+            "location" : {
+               "lat" : 40.742551,
+               "lng" : -84.1052256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.796018,
+                  "lng" : -84.07071999999999
+               },
+               "southwest" : {
+                  "lat" : 40.6876749,
+                  "lng" : -84.161643
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

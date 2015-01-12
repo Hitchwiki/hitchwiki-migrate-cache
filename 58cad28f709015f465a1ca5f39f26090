@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A10",
+               "short_name" : "A10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A10, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7108814,
+                  "lng" : 13.8016034
+               },
+               "southwest" : {
+                  "lat" : 52.2904421,
+                  "lng" : 12.8146389
+               }
+            },
+            "location" : {
+               "lat" : 52.6349873,
+               "lng" : 13.4428709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7108814,
+                  "lng" : 13.8016034
+               },
+               "southwest" : {
+                  "lat" : 52.2904421,
+                  "lng" : 12.8146389
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

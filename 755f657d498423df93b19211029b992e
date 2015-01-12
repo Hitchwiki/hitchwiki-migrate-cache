@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Graz",
+               "short_name" : "Graz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Styria",
+               "short_name" : "Steiermark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Graz, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.13460000000001,
+                  "lng" : 15.5340499
+               },
+               "southwest" : {
+                  "lat" : 47.01204,
+                  "lng" : 15.3495298
+               }
+            },
+            "location" : {
+               "lat" : 47.070714,
+               "lng" : 15.439504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.13460000000001,
+                  "lng" : 15.5340499
+               },
+               "southwest" : {
+                  "lat" : 47.01204,
+                  "lng" : 15.3495298
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

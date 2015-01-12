@@ -1,0 +1,328 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, The City of Brighton and Hove, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8735837,
+                  "lng" : -0.03626
+               },
+               "southwest" : {
+                  "lat" : 50.8012522,
+                  "lng" : -0.1761194
+               }
+            },
+            "location" : {
+               "lat" : 50.82253000000001,
+               "lng" : -0.137163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8735837,
+                  "lng" : -0.03626
+               },
+               "southwest" : {
+                  "lat" : 50.8012522,
+                  "lng" : -0.1761194
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adams County",
+               "short_name" : "Adams County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.018542,
+                  "lng" : -104.7182759
+               },
+               "southwest" : {
+                  "lat" : 39.89961599999999,
+                  "lng" : -104.8838168
+               }
+            },
+            "location" : {
+               "lat" : 39.9852617,
+               "lng" : -104.8205283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.018542,
+                  "lng" : -104.7182759
+               },
+               "southwest" : {
+                  "lat" : 39.89961599999999,
+                  "lng" : -104.8838168
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Livingston County",
+               "short_name" : "Livingston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.551464,
+                  "lng" : -83.7634619
+               },
+               "southwest" : {
+                  "lat" : 42.5073409,
+                  "lng" : -83.8107418
+               }
+            },
+            "location" : {
+               "lat" : 42.5294773,
+               "lng" : -83.7802214
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.551464,
+                  "lng" : -83.7634619
+               },
+               "southwest" : {
+                  "lat" : 42.5073409,
+                  "lng" : -83.8107418
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.167063,
+                  "lng" : -77.516379
+               },
+               "southwest" : {
+                  "lat" : 43.0919389,
+                  "lng" : -77.6807819
+               }
+            },
+            "location" : {
+               "lat" : 43.123333,
+               "lng" : -77.568056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.167063,
+                  "lng" : -77.516379
+               },
+               "southwest" : {
+                  "lat" : 43.0919389,
+                  "lng" : -77.6807819
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, Boston, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3601961,
+                  "lng" : -71.1225359
+               },
+               "southwest" : {
+                  "lat" : 42.33009699999999,
+                  "lng" : -71.17479779999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3463503,
+               "lng" : -71.1626756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3601961,
+                  "lng" : -71.1225359
+               },
+               "southwest" : {
+                  "lat" : 42.33009699999999,
+                  "lng" : -71.17479779999999
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84121",
+               "short_name" : "84121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brighton, UT 84121, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.60384,
+               "lng" : -111.5821429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6051889802915,
+                  "lng" : -111.5807939197085
+               },
+               "southwest" : {
+                  "lat" : 40.6024910197085,
+                  "lng" : -111.5834918802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.61380510000001,
+                  "lng" : 22.5589339
+               },
+               "southwest" : {
+                  "lat" : 47.7337012,
+                  "lng" : 16.8331821
+               }
+            },
+            "location" : {
+               "lat" : 48.669026,
+               "lng" : 19.699024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.61380510000001,
+                  "lng" : 22.5589339
+               },
+               "southwest" : {
+                  "lat" : 47.7337012,
+                  "lng" : 16.8331821
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

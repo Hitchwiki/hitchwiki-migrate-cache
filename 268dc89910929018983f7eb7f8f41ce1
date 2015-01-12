@@ -1,0 +1,84 @@
+{
+  "totalResultsCount": 2,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "http://en.wikipedia.org/wiki/Gooi",
+          "lang": "link"
+        },
+        {
+          "name": "Gooi en Vechtstreek",
+          "lang": "nl"
+        }
+      ],
+      "countryName": "Netherlands",
+      "adminCode1": "09",
+      "cc2": "NL",
+      "score": 38.29197692871094,
+      "lng": "5.18333",
+      "adminName2": "",
+      "fcodeName": "area",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Amsterdam"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "Gooi",
+      "fcode": "AREA",
+      "geonameId": 2755457,
+      "asciiName": "Gooi",
+      "lat": "52.25",
+      "population": 0,
+      "adminName1": "Utrecht",
+      "countryId": "2750405",
+      "adminId1": "2745909",
+      "fclName": "parks,area, ...",
+      "countryCode": "NL",
+      "toponymName": "Gooi",
+      "fcl": "L",
+      "continentCode": "EU"
+    },
+    {
+      "adminCode2": "1876",
+      "countryName": "Netherlands",
+      "adminCode1": "03",
+      "score": 32.821693420410156,
+      "lng": "6.28796",
+      "adminName2": "Gemeente Bronckhorst",
+      "fcodeName": "populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Amsterdam"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 52.032871635124856,
+        "east": 6.289424943376856,
+        "north": 52.03467036487515,
+        "west": 6.286501056623145
+      },
+      "name": "Gooi",
+      "fcode": "PPL",
+      "geonameId": 2755458,
+      "asciiName": "Gooi",
+      "lat": "52.03377",
+      "population": 370,
+      "adminName1": "Gelderland",
+      "countryId": "2750405",
+      "adminId1": "2755634",
+      "fclName": "city, village,...",
+      "countryCode": "NL",
+      "adminId2": "6544290",
+      "toponymName": "Gooi",
+      "fcl": "P",
+      "continentCode": "EU"
+    }
+  ]
+}

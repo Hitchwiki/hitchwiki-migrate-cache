@@ -1,0 +1,824 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Police",
+               "short_name" : "Gmina Police",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Police County",
+               "short_name" : "Police County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Pomeranian Voivodeship",
+               "short_name" : "West Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6034971,
+                  "lng" : 14.6358178
+               },
+               "southwest" : {
+                  "lat" : 53.5306765,
+                  "lng" : 14.5183675
+               }
+            },
+            "location" : {
+               "lat" : 53.5520416,
+               "lng" : 14.5720608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6034971,
+                  "lng" : 14.6358178
+               },
+               "southwest" : {
+                  "lat" : 53.5306765,
+                  "lng" : 14.5183675
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Općina Klanjec",
+               "short_name" : "Općina Klanjec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krapinsko-zagorska županija",
+               "short_name" : "Krapinsko-zagorska županija",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Police, Police, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0541127,
+                  "lng" : 15.7886051
+               },
+               "southwest" : {
+                  "lat" : 46.0305229,
+                  "lng" : 15.767746
+               }
+            },
+            "location" : {
+               "lat" : 46.0416698,
+               "lng" : 15.7770123
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0541127,
+                  "lng" : 15.7886051
+               },
+               "southwest" : {
+                  "lat" : 46.0305229,
+                  "lng" : 15.767746
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Tehran, Police, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7240086,
+                  "lng" : 51.4524066
+               },
+               "southwest" : {
+                  "lat" : 35.7205699,
+                  "lng" : 51.4425166
+               }
+            },
+            "location" : {
+               "lat" : 35.7219774,
+               "lng" : 51.4477736
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7240086,
+                  "lng" : 51.4524066
+               },
+               "southwest" : {
+                  "lat" : 35.7205699,
+                  "lng" : 51.4425166
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gornja Radgona",
+               "short_name" : "Gornja Radgona",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Municipality of Gornja Radgona",
+               "short_name" : "Municipality of Gornja Radgona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gornja Radgona",
+               "short_name" : "Gornja Radgona",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9250",
+               "short_name" : "9250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police, 9250 Police, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6733819,
+                  "lng" : 15.9804345
+               },
+               "southwest" : {
+                  "lat" : 46.6441776,
+                  "lng" : 15.9480044
+               }
+            },
+            "location" : {
+               "lat" : 46.6584104,
+               "lng" : 15.9624357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6733819,
+                  "lng" : 15.9804345
+               },
+               "southwest" : {
+                  "lat" : 46.6441776,
+                  "lng" : 15.9480044
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poliția",
+               "short_name" : "Poliția",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Str. Suveranităţii",
+               "short_name" : "Str. Suveranităţii",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glodeni",
+               "short_name" : "Glodeni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raionul Glodeni",
+               "short_name" : "Raionul Glodeni",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4901",
+               "short_name" : "4901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Poliția, Str. Suveranităţii 2, Glodeni 4901, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7752035,
+                  "lng" : 27.5161628
+               },
+               "southwest" : {
+                  "lat" : 47.7748789,
+                  "lng" : 27.5157492
+               }
+            },
+            "location" : {
+               "lat" : 47.7750296,
+               "lng" : 27.5159609
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7763901802915,
+                  "lng" : 27.5173049802915
+               },
+               "southwest" : {
+                  "lat" : 47.7736922197085,
+                  "lng" : 27.5146070197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neuilly-en-Sancerre",
+               "short_name" : "Neuilly-en-Sancerre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cher",
+               "short_name" : "18",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18250",
+               "short_name" : "18250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police, 18250 Neuilly-en-Sancerre, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3013947,
+                  "lng" : 2.6762028
+               },
+               "southwest" : {
+                  "lat" : 47.299912,
+                  "lng" : 2.6735272
+               }
+            },
+            "location" : {
+               "lat" : 47.3007443,
+               "lng" : 2.6748554
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3020023302915,
+                  "lng" : 2.676213980291501
+               },
+               "southwest" : {
+                  "lat" : 47.2993043697085,
+                  "lng" : 2.673516019708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Absard",
+               "short_name" : "Absard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tehran, Absard, Police, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.64575320000001,
+                  "lng" : 52.149521
+               },
+               "southwest" : {
+                  "lat" : 35.6357134,
+                  "lng" : 52.145716
+               }
+            },
+            "location" : {
+               "lat" : 35.641368,
+               "lng" : 52.1469551
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.64575320000001,
+                  "lng" : 52.149521
+               },
+               "southwest" : {
+                  "lat" : 35.6357134,
+                  "lng" : 52.145716
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cerkno",
+               "short_name" : "Cerkno",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Idrija",
+               "short_name" : "Idrija",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5282",
+               "short_name" : "5282",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police, 5282 Cerkno, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1298018,
+                  "lng" : 13.9075815
+               },
+               "southwest" : {
+                  "lat" : 46.1202762,
+                  "lng" : 13.8874874
+               }
+            },
+            "location" : {
+               "lat" : 46.125349,
+               "lng" : 13.8985021
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1298018,
+                  "lng" : 13.9075815
+               },
+               "southwest" : {
+                  "lat" : 46.1202762,
+                  "lng" : 13.8874874
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ardabil",
+               "short_name" : "Ardabil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ardabil",
+               "short_name" : "Ardabil",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ardabil, Ardabil, Police, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2545606,
+                  "lng" : 48.2768569
+               },
+               "southwest" : {
+                  "lat" : 38.2533744,
+                  "lng" : 48.2758534
+               }
+            },
+            "location" : {
+               "lat" : 38.2545518,
+               "lng" : 48.2768494
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2553164802915,
+                  "lng" : 48.2777041302915
+               },
+               "southwest" : {
+                  "lat" : 38.2526185197085,
+                  "lng" : 48.2750061697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zagreb",
+               "short_name" : "Zagreb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Zagreb",
+               "short_name" : "City of Zagreb",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10000",
+               "short_name" : "10000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police, 10000, Zagreb, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.81598520000001,
+                  "lng" : 15.9041149
+               },
+               "southwest" : {
+                  "lat" : 45.8148841,
+                  "lng" : 15.903812
+               }
+            },
+            "location" : {
+               "lat" : 45.8151647,
+               "lng" : 15.9039377
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.81678363029151,
+                  "lng" : 15.9053124302915
+               },
+               "southwest" : {
+                  "lat" : 45.81408566970851,
+                  "lng" : 15.9026144697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Alushta",
+               "short_name" : "Alushta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crimea",
+               "short_name" : "Crimea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Police, Alushta",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.682285,
+               "lng" : 34.409039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6836339802915,
+                  "lng" : 34.4103879802915
+               },
+               "southwest" : {
+                  "lat" : 44.6809360197085,
+                  "lng" : 34.4076900197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police",
+               "short_name" : "Police",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Tarbes",
+               "short_name" : "Tarbes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hautes-Pyrénées",
+               "short_name" : "65",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "65000",
+               "short_name" : "65000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police, 65000 Tarbes, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2336152,
+               "lng" : 0.0755555
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2349641802915,
+                  "lng" : 0.07690448029150203
+               },
+               "southwest" : {
+                  "lat" : 43.2322662197085,
+                  "lng" : 0.07420651970849797
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comisariatului de poliţie",
+               "short_name" : "Comisariatului de poliţie",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "strada Ştefan cel Mare",
+               "short_name" : "strada Ştefan cel Mare",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centru",
+               "short_name" : "Centru",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bălți",
+               "short_name" : "Bălți",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bălți",
+               "short_name" : "Bălți",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3100",
+               "short_name" : "3100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Comisariatului de poliţie, strada Ştefan cel Mare 50, Bălți 3100, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7614459,
+                  "lng" : 27.9247785
+               },
+               "southwest" : {
+                  "lat" : 47.761188,
+                  "lng" : 27.9243761
+               }
+            },
+            "location" : {
+               "lat" : 47.7613197,
+               "lng" : 27.9246396
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7626659302915,
+                  "lng" : 27.9259262802915
+               },
+               "southwest" : {
+                  "lat" : 47.7599679697085,
+                  "lng" : 27.9232283197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Police House",
+               "short_name" : "Police House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lochwinnoch Road",
+               "short_name" : "Lochwinnoch Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kilmacolm",
+               "short_name" : "Kilmacolm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kilmacolm",
+               "short_name" : "Kilmacolm",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Inverclyde",
+               "short_name" : "Inverclyde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PA13 4LG",
+               "short_name" : "PA13 4LG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Police House, Lochwinnoch Road, Kilmacolm, Inverclyde PA13 4LG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.89214,
+               "lng" : -4.630769
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.89348898029149,
+                  "lng" : -4.629420019708498
+               },
+               "southwest" : {
+                  "lat" : 55.8907910197085,
+                  "lng" : -4.632117980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

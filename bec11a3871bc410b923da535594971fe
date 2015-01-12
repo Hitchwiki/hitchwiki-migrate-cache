@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niagara",
+               "short_name" : "Niagara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marinette County",
+               "short_name" : "Marinette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niagara, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7956369,
+                  "lng" : -87.9728449
+               },
+               "southwest" : {
+                  "lat" : 45.7620699,
+                  "lng" : -88.019289
+               }
+            },
+            "location" : {
+               "lat" : 45.7713461,
+               "lng" : -87.9948467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7956369,
+                  "lng" : -87.9728449
+               },
+               "southwest" : {
+                  "lat" : 45.7620699,
+                  "lng" : -88.019289
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niagara Falls",
+               "short_name" : "Niagara Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Niagara Regional Municipality",
+               "short_name" : "Niagara Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niagara Falls, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.148289,
+                  "lng" : -78.999667
+               },
+               "southwest" : {
+                  "lat" : 42.95957600000001,
+                  "lng" : -79.17640209999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0895577,
+               "lng" : -79.0849436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.148289,
+                  "lng" : -78.999667
+               },
+               "southwest" : {
+                  "lat" : 42.95957600000001,
+                  "lng" : -79.17640209999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

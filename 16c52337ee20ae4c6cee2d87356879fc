@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Republic of Bashkortostan",
+               "short_name" : "Republic of Bashkortostan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Republic of Bashkortostan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.53352,
+                  "lng" : 60.00295010000001
+               },
+               "southwest" : {
+                  "lat" : 51.57122589999999,
+                  "lng" : 53.1579969
+               }
+            },
+            "location" : {
+               "lat" : 54.2312172,
+               "lng" : 56.1645257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.53352,
+                  "lng" : 60.00295010000001
+               },
+               "southwest" : {
+                  "lat" : 51.57122589999999,
+                  "lng" : 53.1579969
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

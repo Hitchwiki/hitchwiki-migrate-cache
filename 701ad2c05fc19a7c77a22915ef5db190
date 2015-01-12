@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eritrea",
+               "short_name" : "ER",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eritrea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0212099,
+                  "lng" : 43.1429772
+               },
+               "southwest" : {
+                  "lat" : 12.354723,
+                  "lng" : 36.4333479
+               }
+            },
+            "location" : {
+               "lat" : 15.179384,
+               "lng" : 39.782334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.0212099,
+                  "lng" : 43.1429772
+               },
+               "southwest" : {
+                  "lat" : 12.354723,
+                  "lng" : 36.4333479
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

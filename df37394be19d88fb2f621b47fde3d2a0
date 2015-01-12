@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A105",
+               "short_name" : "A105",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seine-et-Marne",
+               "short_name" : "77",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A105, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6564127,
+                  "lng" : 2.6408822
+               },
+               "southwest" : {
+                  "lat" : 48.5712927,
+                  "lng" : 2.6132255
+               }
+            },
+            "location" : {
+               "lat" : 48.6145479,
+               "lng" : 2.6316161
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6564127,
+                  "lng" : 2.6408822
+               },
+               "southwest" : {
+                  "lat" : 48.5712927,
+                  "lng" : 2.6132255
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

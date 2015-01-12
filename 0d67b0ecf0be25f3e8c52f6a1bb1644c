@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Africa",
+               "short_name" : "East Africa",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "East Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0212099,
+                  "lng" : 63.80859390000001
+               },
+               "southwest" : {
+                  "lat" : -26.9612,
+                  "lng" : 21.9963878
+               }
+            },
+            "location" : {
+               "lat" : 1.957709,
+               "lng" : 37.2972044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.0212099,
+                  "lng" : 63.80859390000001
+               },
+               "southwest" : {
+                  "lat" : -26.9612,
+                  "lng" : 21.9963878
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

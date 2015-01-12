@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hargeisa",
+               "short_name" : "Hargeisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hargeysa",
+               "short_name" : "Hargeysa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Woqooyi Galbeed",
+               "short_name" : "Woqooyi Galbeed",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Somalia",
+               "short_name" : "SO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hargeisa, Somalia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.5980691,
+                  "lng" : 44.1095878
+               },
+               "southwest" : {
+                  "lat" : 9.499730699999999,
+                  "lng" : 44.0191206
+               }
+            },
+            "location" : {
+               "lat" : 9.5625,
+               "lng" : 44.0697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.5980691,
+                  "lng" : 44.1095878
+               },
+               "southwest" : {
+                  "lat" : 9.499730699999999,
+                  "lng" : 44.0191206
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Apeldoorn",
+               "short_name" : "Apeldoorn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Apeldoorn",
+               "short_name" : "Apeldoorn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Apeldoorn, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.25032119999999,
+                  "lng" : 6.0582248
+               },
+               "southwest" : {
+                  "lat" : 52.172528,
+                  "lng" : 5.901383800000001
+               }
+            },
+            "location" : {
+               "lat" : 52.21115700000001,
+               "lng" : 5.9699231
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.25032119999999,
+                  "lng" : 6.0582248
+               },
+               "southwest" : {
+                  "lat" : 52.172528,
+                  "lng" : 5.901383800000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Talsi",
+               "short_name" : "Talsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Talsu pilsēta",
+               "short_name" : "Talsu pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Talsi Municipality",
+               "short_name" : "Talsi Municipality",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Talsi, Talsu pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.265104,
+                  "lng" : 22.6215941
+               },
+               "southwest" : {
+                  "lat" : 57.2275979,
+                  "lng" : 22.5537861
+               }
+            },
+            "location" : {
+               "lat" : 57.2480409,
+               "lng" : 22.5873859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.265104,
+                  "lng" : 22.6215941
+               },
+               "southwest" : {
+                  "lat" : 57.2275979,
+                  "lng" : 22.5537861
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

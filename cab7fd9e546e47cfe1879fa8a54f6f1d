@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Varberg",
+               "short_name" : "Varberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Varberg",
+               "short_name" : "Varberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Halland County",
+               "short_name" : "Halland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Varberg, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.138234,
+                  "lng" : 12.317277
+               },
+               "southwest" : {
+                  "lat" : 57.080507,
+                  "lng" : 12.1893748
+               }
+            },
+            "location" : {
+               "lat" : 57.107118,
+               "lng" : 12.2520907
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.138234,
+                  "lng" : 12.317277
+               },
+               "southwest" : {
+                  "lat" : 57.080507,
+                  "lng" : 12.1893748
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vårberg",
+               "short_name" : "Vårberg",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Skärholmen",
+               "short_name" : "Skärholmen",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Stockholm",
+               "short_name" : "Stockholm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockholm",
+               "short_name" : "Stockholm",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Stockholm County",
+               "short_name" : "Stockholm County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vårberg, Skärholmen, Stockholm, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.287229,
+                  "lng" : 17.8957511
+               },
+               "southwest" : {
+                  "lat" : 59.26825599999999,
+                  "lng" : 17.86006
+               }
+            },
+            "location" : {
+               "lat" : 59.275903,
+               "lng" : 17.889947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.287229,
+                  "lng" : 17.8957511
+               },
+               "southwest" : {
+                  "lat" : 59.26825599999999,
+                  "lng" : 17.86006
+               }
+            }
+         },
+         "types" : [ "sublocality_level_2", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

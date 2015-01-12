@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanets'-Podil's'kyi",
+               "short_name" : "Kam'yanets'-Podil's'kyi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kam'yanets'-Podil's'ka city council",
+               "short_name" : "Kam'yanets'-Podil's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khmel'nyts'ka oblast",
+               "short_name" : "Khmel'nyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanets'-Podil's'kyi, Khmel'nyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7268671,
+                  "lng" : 26.628204
+               },
+               "southwest" : {
+                  "lat" : 48.64738,
+                  "lng" : 26.5539759
+               }
+            },
+            "location" : {
+               "lat" : 48.683333,
+               "lng" : 26.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7268671,
+                  "lng" : 26.628204
+               },
+               "southwest" : {
+                  "lat" : 48.64738,
+                  "lng" : 26.5539759
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

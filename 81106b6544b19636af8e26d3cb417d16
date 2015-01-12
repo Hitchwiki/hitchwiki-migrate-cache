@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalimantan",
+               "short_name" : "Kalimantan",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Kalimantan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.0372045,
+                  "lng" : 119.2693619
+               },
+               "southwest" : {
+                  "lat" : -4.178474899999999,
+                  "lng" : 108.8406735
+               }
+            },
+            "location" : {
+               "lat" : 1.0682368,
+               "lng" : 114.2335361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.0372045,
+                  "lng" : 119.2693619
+               },
+               "southwest" : {
+                  "lat" : -4.178474899999999,
+                  "lng" : 108.8406735
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

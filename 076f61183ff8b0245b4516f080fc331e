@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asuncion",
+               "short_name" : "Asuncion",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paraguay",
+               "short_name" : "PY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Asuncion, Paraguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.2251891,
+                  "lng" : -57.52467170000001
+               },
+               "southwest" : {
+                  "lat" : -25.3685162,
+                  "lng" : -57.67150650000001
+               }
+            },
+            "location" : {
+               "lat" : -25.282197,
+               "lng" : -57.63509999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.2251891,
+                  "lng" : -57.52467170000001
+               },
+               "southwest" : {
+                  "lat" : -25.3685162,
+                  "lng" : -57.67150650000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

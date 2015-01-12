@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A98",
+               "short_name" : "A98",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A98, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6339493,
+                  "lng" : 7.763795399999999
+               },
+               "southwest" : {
+                  "lat" : 47.58619849999999,
+                  "lng" : 7.5849281
+               }
+            },
+            "location" : {
+               "lat" : 47.6139448,
+               "lng" : 7.68327
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6339493,
+                  "lng" : 7.763795399999999
+               },
+               "southwest" : {
+                  "lat" : 47.58619849999999,
+                  "lng" : 7.5849281
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

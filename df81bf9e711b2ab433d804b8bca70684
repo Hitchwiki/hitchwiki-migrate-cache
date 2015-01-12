@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sighetu Marmației",
+               "short_name" : "Sighetu Marmației",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sighetu Marmatiei",
+               "short_name" : "Sighetu Marmatiei",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maramureș County",
+               "short_name" : "MM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "435500",
+               "short_name" : "435500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sighetu Marmației 435500, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9471088,
+                  "lng" : 23.9345098
+               },
+               "southwest" : {
+                  "lat" : 47.91202759999999,
+                  "lng" : 23.846984
+               }
+            },
+            "location" : {
+               "lat" : 47.928611,
+               "lng" : 23.8925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9471088,
+                  "lng" : 23.9345098
+               },
+               "southwest" : {
+                  "lat" : 47.91202759999999,
+                  "lng" : 23.846984
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

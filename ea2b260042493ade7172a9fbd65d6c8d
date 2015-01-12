@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bad Bentheim",
+               "short_name" : "Bad Bentheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bentheim",
+               "short_name" : "Bentheim",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bad Bentheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3728545,
+                  "lng" : 7.209255799999999
+               },
+               "southwest" : {
+                  "lat" : 52.2412353,
+                  "lng" : 7.0262004
+               }
+            },
+            "location" : {
+               "lat" : 52.3010399,
+               "lng" : 7.1578539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3728545,
+                  "lng" : 7.209255799999999
+               },
+               "southwest" : {
+                  "lat" : 52.2412353,
+                  "lng" : 7.0262004
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

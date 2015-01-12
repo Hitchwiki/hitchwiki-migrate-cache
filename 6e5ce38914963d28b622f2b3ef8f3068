@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokaj",
+               "short_name" : "Tokaj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokaji",
+               "short_name" : "Tokaji",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Borsod-Abaúj-Zemplén",
+               "short_name" : "Borsod-Abaúj-Zemplén",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tokaj, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.158228,
+                  "lng" : 21.4621149
+               },
+               "southwest" : {
+                  "lat" : 48.06665779999999,
+                  "lng" : 21.376934
+               }
+            },
+            "location" : {
+               "lat" : 48.1172148,
+               "lng" : 21.4089015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.158228,
+                  "lng" : 21.4621149
+               },
+               "southwest" : {
+                  "lat" : 48.06665779999999,
+                  "lng" : 21.376934
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

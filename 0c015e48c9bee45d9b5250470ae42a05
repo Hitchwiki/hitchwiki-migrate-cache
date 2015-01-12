@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tangier",
+               "short_name" : "Tangier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tangier-Assilah",
+               "short_name" : "Tangier-Assilah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tangier-Tetouan",
+               "short_name" : "Tangier-Tetouan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Morocco",
+               "short_name" : "MA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tangier, Morocco",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8257368,
+                  "lng" : -5.718555500000001
+               },
+               "southwest" : {
+                  "lat" : 35.7008015,
+                  "lng" : -5.9487489
+               }
+            },
+            "location" : {
+               "lat" : 35.7594651,
+               "lng" : -5.833954299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8257368,
+                  "lng" : -5.718555500000001
+               },
+               "southwest" : {
+                  "lat" : 35.7008015,
+                  "lng" : -5.9487489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

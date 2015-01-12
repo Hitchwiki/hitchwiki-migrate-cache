@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kinsale",
+               "short_name" : "Kinsale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cork",
+               "short_name" : "Cork",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kinsale, Co. Cork, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7060502,
+               "lng" : -8.522501399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.71296419999999,
+                  "lng" : -8.506494
+               },
+               "southwest" : {
+                  "lat" : 51.6991351,
+                  "lng" : -8.538508799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kinsale",
+               "short_name" : "Kinsale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cople",
+               "short_name" : "Cople",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westmoreland County",
+               "short_name" : "Westmoreland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22488",
+               "short_name" : "22488",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kinsale, VA 22488, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0295744,
+               "lng" : -76.580789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0309233802915,
+                  "lng" : -76.57944001970849
+               },
+               "southwest" : {
+                  "lat" : 38.0282254197085,
+                  "lng" : -76.58213798029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M606",
+               "short_name" : "M606",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cleckheaton",
+               "short_name" : "Cleckheaton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD19",
+               "short_name" : "BD19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M606, Cleckheaton, West Yorkshire BD19, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7698064,
+                  "lng" : -1.7260981
+               },
+               "southwest" : {
+                  "lat" : 53.7290535,
+                  "lng" : -1.7505985
+               }
+            },
+            "location" : {
+               "lat" : 53.7494418,
+               "lng" : -1.7383014
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7698064,
+                  "lng" : -1.7260981
+               },
+               "southwest" : {
+                  "lat" : 53.7290535,
+                  "lng" : -1.7505985
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

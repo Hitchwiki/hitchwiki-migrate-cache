@@ -1,0 +1,348 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elton",
+               "short_name" : "Elton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jefferson Davis Parish",
+               "short_name" : "Jefferson Davis Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Elton, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4882321,
+                  "lng" : -92.67950089999999
+               },
+               "southwest" : {
+                  "lat" : 30.4743231,
+                  "lng" : -92.71439789999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4813125,
+               "lng" : -92.6956982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4882321,
+                  "lng" : -92.67950089999999
+               },
+               "southwest" : {
+                  "lat" : 30.4743231,
+                  "lng" : -92.71439789999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elton",
+               "short_name" : "Elton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Evergreen",
+               "short_name" : "Evergreen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Langlade County",
+               "short_name" : "Langlade County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54418",
+               "short_name" : "54418",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elton, WI 54418, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.1683023,
+               "lng" : -88.8864975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1696512802915,
+                  "lng" : -88.88514851970851
+               },
+               "southwest" : {
+                  "lat" : 45.1669533197085,
+                  "lng" : -88.88784648029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elton",
+               "short_name" : "Elton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adams",
+               "short_name" : "Adams",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cambria County",
+               "short_name" : "Cambria County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15963",
+               "short_name" : "15963",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elton, PA 15963, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.279798,
+               "lng" : -78.8022438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2811469802915,
+                  "lng" : -78.8008948197085
+               },
+               "southwest" : {
+                  "lat" : 40.2784490197085,
+                  "lng" : -78.80359278029151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elton",
+               "short_name" : "Elton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New River",
+               "short_name" : "New River",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Summers County",
+               "short_name" : "Summers County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25976",
+               "short_name" : "25976",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elton, WV 25976, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.82845150000001,
+               "lng" : -80.8031431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.82980048029151,
+                  "lng" : -80.80179411970849
+               },
+               "southwest" : {
+                  "lat" : 37.82710251970851,
+                  "lng" : -80.8044920802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elton",
+               "short_name" : "Elton",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Summit Street",
+               "short_name" : "Summit St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barry Square",
+               "short_name" : "Barry Square",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford County",
+               "short_name" : "Hartford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06106",
+               "short_name" : "06106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elton, Summit Street, Hartford, CT 06106, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7459181,
+               "lng" : -72.69240549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7472670802915,
+                  "lng" : -72.69105651970848
+               },
+               "southwest" : {
+                  "lat" : 41.7445691197085,
+                  "lng" : -72.69375448029149
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elton",
+               "short_name" : "Elton",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alvin",
+               "short_name" : "Alvin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazoria County",
+               "short_name" : "Brazoria County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77511",
+               "short_name" : "77511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elton, Alvin, TX 77511, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4334583,
+                  "lng" : -95.294652
+               },
+               "southwest" : {
+                  "lat" : 29.4273302,
+                  "lng" : -95.3008244
+               }
+            },
+            "location" : {
+               "lat" : 29.4307276,
+               "lng" : -95.29730269999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4334583,
+                  "lng" : -95.294652
+               },
+               "southwest" : {
+                  "lat" : 29.4273302,
+                  "lng" : -95.3008244
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

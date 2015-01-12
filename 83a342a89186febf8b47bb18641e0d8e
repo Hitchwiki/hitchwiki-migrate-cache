@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puttgarden",
+               "short_name" : "Puttgarden",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fehmarn",
+               "short_name" : "Fehmarn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23769",
+               "short_name" : "23769",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Puttgarden, 23769 Fehmarn, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5016212,
+                  "lng" : 11.2176327
+               },
+               "southwest" : {
+                  "lat" : 54.4905734,
+                  "lng" : 11.2075755
+               }
+            },
+            "location" : {
+               "lat" : 54.5,
+               "lng" : 11.216667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5016212,
+                  "lng" : 11.2176327
+               },
+               "southwest" : {
+                  "lat" : 54.4905734,
+                  "lng" : 11.2075755
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

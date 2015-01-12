@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vioolsdrif",
+               "short_name" : "Vioolsdrif",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karas",
+               "short_name" : "Karas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vioolsdrif, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.7536639,
+                  "lng" : 17.6236154
+               },
+               "southwest" : {
+                  "lat" : -28.759834,
+                  "lng" : 17.6175427
+               }
+            },
+            "location" : {
+               "lat" : -28.7561978,
+               "lng" : 17.6200524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.7536639,
+                  "lng" : 17.6236154
+               },
+               "southwest" : {
+                  "lat" : -28.759834,
+                  "lng" : 17.6175427
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

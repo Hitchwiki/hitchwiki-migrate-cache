@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A-10",
+               "short_name" : "A-10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Navarra",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Navarra",
+               "short_name" : "Navarra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A-10, Navarra, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.923371,
+                  "lng" : -1.8435475
+               },
+               "southwest" : {
+                  "lat" : 42.8874027,
+                  "lng" : -2.1712889
+               }
+            },
+            "location" : {
+               "lat" : 42.9201263,
+               "lng" : -2.0171703
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.923371,
+                  "lng" : -1.8435475
+               },
+               "southwest" : {
+                  "lat" : 42.8874027,
+                  "lng" : -2.1712889
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

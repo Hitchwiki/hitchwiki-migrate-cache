@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aschaffenburg",
+               "short_name" : "AB",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Franconia",
+               "short_name" : "Lower Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aschaffenburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0212787,
+                  "lng" : 9.238002999999999
+               },
+               "southwest" : {
+                  "lat" : 49.92006139999999,
+                  "lng" : 9.080245399999999
+               }
+            },
+            "location" : {
+               "lat" : 49.9806625,
+               "lng" : 9.135555400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0212787,
+                  "lng" : 9.238002999999999
+               },
+               "southwest" : {
+                  "lat" : 49.92006139999999,
+                  "lng" : 9.080245399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

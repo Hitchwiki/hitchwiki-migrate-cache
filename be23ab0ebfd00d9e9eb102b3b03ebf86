@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "R5",
+               "short_name" : "R5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mons",
+               "short_name" : "Mons",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Région wallonne",
+               "short_name" : "Région wallonne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R5, Mons, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4523215,
+                  "lng" : 3.9672565
+               },
+               "southwest" : {
+                  "lat" : 50.3887195,
+                  "lng" : 3.9074637
+               }
+            },
+            "location" : {
+               "lat" : 50.41283199999999,
+               "lng" : 3.9311262
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4523215,
+                  "lng" : 3.9672565
+               },
+               "southwest" : {
+                  "lat" : 50.3887195,
+                  "lng" : 3.9074637
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

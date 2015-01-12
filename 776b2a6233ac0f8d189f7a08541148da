@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A31",
+               "short_name" : "A31",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vicenza",
+               "short_name" : "VI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A31, Vicenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7587474,
+                  "lng" : 11.6369353
+               },
+               "southwest" : {
+                  "lat" : 45.3353724,
+                  "lng" : 11.4328303
+               }
+            },
+            "location" : {
+               "lat" : 45.5774556,
+               "lng" : 11.6026902
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7587474,
+                  "lng" : 11.6369353
+               },
+               "southwest" : {
+                  "lat" : 45.3353724,
+                  "lng" : 11.4328303
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

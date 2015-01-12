@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A623",
+               "short_name" : "A623",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saarland",
+               "short_name" : "SL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A623, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3188203,
+                  "lng" : 7.0781618
+               },
+               "southwest" : {
+                  "lat" : 49.2582032,
+                  "lng" : 6.9931382
+               }
+            },
+            "location" : {
+               "lat" : 49.2922276,
+               "lng" : 7.0279387
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3188203,
+                  "lng" : 7.0781618
+               },
+               "southwest" : {
+                  "lat" : 49.2582032,
+                  "lng" : 6.9931382
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

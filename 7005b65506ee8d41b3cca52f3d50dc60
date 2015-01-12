@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Espoo",
+               "short_name" : "Espoo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Espoo",
+               "short_name" : "Espoo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Espoo, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.3636105,
+                  "lng" : 24.8505714
+               },
+               "southwest" : {
+                  "lat" : 60.0524163,
+                  "lng" : 24.4996566
+               }
+            },
+            "location" : {
+               "lat" : 60.2054911,
+               "lng" : 24.6559001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.3636105,
+                  "lng" : 24.8505714
+               },
+               "southwest" : {
+                  "lat" : 60.0524163,
+                  "lng" : 24.4996566
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

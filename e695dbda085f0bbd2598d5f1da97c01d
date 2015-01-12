@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zoetermeer",
+               "short_name" : "Zoetermeer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zoetermeer",
+               "short_name" : "Zoetermeer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zuid-Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zoetermeer, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0933022,
+                  "lng" : 4.5584845
+               },
+               "southwest" : {
+                  "lat" : 52.0310295,
+                  "lng" : 4.414743899999999
+               }
+            },
+            "location" : {
+               "lat" : 52.060669,
+               "lng" : 4.494025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0933022,
+                  "lng" : 4.5584845
+               },
+               "southwest" : {
+                  "lat" : 52.0310295,
+                  "lng" : 4.414743899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

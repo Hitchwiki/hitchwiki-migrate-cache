@@ -1,0 +1,215 @@
+{
+  "totalResultsCount": 3,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "bbox": {
+        "east": 29.133413592723123,
+        "south": 37.90372167583341,
+        "north": 37.92915955591239,
+        "west": 29.101163586231877
+      },
+      "asciiName": "Pamukkale",
+      "countryId": "298795",
+      "fcl": "P",
+      "score": 49.98570251464844,
+      "countryCode": "TR",
+      "adminId1": "317106",
+      "lat": "37.91644",
+      "fcode": "PPL",
+      "continentCode": "AS",
+      "adminCode1": "20",
+      "lng": "29.11729",
+      "geonameId": 302903,
+      "toponymName": "Pamukkale",
+      "population": 10000,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Памукале",
+          "lang": "be"
+        },
+        {
+          "name": "Памуккале",
+          "lang": "bg"
+        },
+        {
+          "name": "পামুক্কালে",
+          "lang": "bn"
+        },
+        {
+          "name": "Hieràpolis de Frígia",
+          "lang": "ca"
+        },
+        {
+          "name": "Hierapolis",
+          "lang": "de"
+        },
+        {
+          "name": "Pamukkale",
+          "lang": "en"
+        },
+        {
+          "name": "Hierápolis",
+          "lang": "es"
+        },
+        {
+          "name": "پاموک‌کاله",
+          "lang": "fa"
+        },
+        {
+          "name": "פמוקלה",
+          "lang": "he"
+        },
+        {
+          "name": "Փամուքքալե",
+          "lang": "hy"
+        },
+        {
+          "name": "Pamukkale",
+          "lang": "it"
+        },
+        {
+          "name": "ヒエラポリス-パムッカレ",
+          "lang": "ja"
+        },
+        {
+          "name": "ფამუქ-ქალე",
+          "lang": "ka"
+        },
+        {
+          "name": "파묵칼레",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Pamukkale",
+          "lang": "link"
+        },
+        {
+          "name": "Pamukalė",
+          "lang": "lt"
+        },
+        {
+          "name": "Памуккале",
+          "lang": "mk"
+        },
+        {
+          "name": "Hieropolis",
+          "lang": "nl"
+        },
+        {
+          "name": "Hierapolis",
+          "lang": "no"
+        },
+        {
+          "name": "Hierapolis",
+          "lang": "pl"
+        },
+        {
+          "name": "Hierápolis-Pamukkale",
+          "lang": "pt"
+        },
+        {
+          "name": "Памуккале",
+          "lang": "ru"
+        },
+        {
+          "name": "Памукале",
+          "lang": "sr"
+        },
+        {
+          "name": "பமுக்கலெ",
+          "lang": "ta"
+        },
+        {
+          "name": "ปามุคคาเล",
+          "lang": "th"
+        },
+        {
+          "name": "Hierapolis",
+          "lang": "tr"
+        },
+        {
+          "name": "Памуккале",
+          "lang": "uk"
+        },
+        {
+          "name": "棉花堡",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "",
+      "name": "Pamukkale",
+      "fclName": "city, village,...",
+      "countryName": "Turkey",
+      "fcodeName": "populated place",
+      "adminName1": "Denizli"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "29.12493",
+      "geonameId": 7733051,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "Pamukkale White Terraces",
+      "asciiName": "Pamukkale White Terraces",
+      "countryId": "298795",
+      "fcl": "T",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 9.818120956420898,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "Pamukkale White Terraces",
+      "fclName": "mountain,hill,rock,... ",
+      "countryName": "Turkey",
+      "fcodeName": "terrace",
+      "adminId1": "317106",
+      "adminName1": "Denizli",
+      "lat": "37.92037",
+      "fcode": "TRR",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode1": "20",
+      "lng": "29.11929",
+      "geonameId": 6482601,
+      "timezone": {
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul",
+        "dstOffset": 3
+      },
+      "toponymName": "venus hotel",
+      "asciiName": "venus hotel",
+      "countryId": "298795",
+      "fcl": "S",
+      "population": 0,
+      "adminName5": "",
+      "adminName4": "",
+      "score": 1.7181711196899414,
+      "adminName3": "",
+      "adminName2": "",
+      "countryCode": "TR",
+      "name": "venus hotel",
+      "fclName": "spot, building, farm",
+      "countryName": "Turkey",
+      "fcodeName": "hotel",
+      "adminId1": "317106",
+      "adminName1": "Denizli",
+      "lat": "37.91164",
+      "fcode": "HTL",
+      "continentCode": "AS"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Winona",
+               "short_name" : "Winona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winona County",
+               "short_name" : "Winona County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Winona, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.1291589,
+                  "lng" : -91.599655
+               },
+               "southwest" : {
+                  "lat" : 43.977526,
+                  "lng" : -91.720462
+               }
+            },
+            "location" : {
+               "lat" : 44.05,
+               "lng" : -91.63333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1291589,
+                  "lng" : -91.599655
+               },
+               "southwest" : {
+                  "lat" : 43.977526,
+                  "lng" : -91.720462
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

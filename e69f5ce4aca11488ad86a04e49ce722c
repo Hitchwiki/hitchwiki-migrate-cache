@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Constanța",
+               "short_name" : "Constanța",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Constanta",
+               "short_name" : "Constanta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Constanța County",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Constanța, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2782744,
+                  "lng" : 28.7076575
+               },
+               "southwest" : {
+                  "lat" : 44.08428139999999,
+                  "lng" : 28.5510205
+               }
+            },
+            "location" : {
+               "lat" : 44.173333,
+               "lng" : 28.638333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2782744,
+                  "lng" : 28.7076575
+               },
+               "southwest" : {
+                  "lat" : 44.08428139999999,
+                  "lng" : 28.5510205
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

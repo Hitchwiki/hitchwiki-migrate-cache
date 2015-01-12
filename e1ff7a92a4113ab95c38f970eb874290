@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Steinfurt",
+               "short_name" : "Steinfurt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Steinfurt",
+               "short_name" : "ST",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Steinfurt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1945613,
+                  "lng" : 7.455575899999999
+               },
+               "southwest" : {
+                  "lat" : 52.0811305,
+                  "lng" : 7.260985499999999
+               }
+            },
+            "location" : {
+               "lat" : 52.1445658,
+               "lng" : 7.333463600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1945613,
+                  "lng" : 7.455575899999999
+               },
+               "southwest" : {
+                  "lat" : 52.0811305,
+                  "lng" : 7.260985499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

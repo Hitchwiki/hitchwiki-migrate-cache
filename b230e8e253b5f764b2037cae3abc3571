@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belgorod",
+               "short_name" : "Belgorod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Belgorod",
+               "short_name" : "g. Belgorod",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorod Oblast",
+               "short_name" : "Belgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belgorod, Belgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6662121,
+                  "lng" : 36.6817813
+               },
+               "southwest" : {
+                  "lat" : 50.51279299999999,
+                  "lng" : 36.4644879
+               }
+            },
+            "location" : {
+               "lat" : 50.5997134,
+               "lng" : 36.5982621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6662121,
+                  "lng" : 36.6817813
+               },
+               "southwest" : {
+                  "lat" : 50.51279299999999,
+                  "lng" : 36.4644879
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

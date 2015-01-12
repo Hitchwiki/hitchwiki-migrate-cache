@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalotina",
+               "short_name" : "Kalotina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dragoman",
+               "short_name" : "Dragoman",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sofia Province",
+               "short_name" : "Sofia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2212",
+               "short_name" : "2212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2212 Kalotina, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9997893,
+                  "lng" : 22.8764086
+               },
+               "southwest" : {
+                  "lat" : 42.9926364,
+                  "lng" : 22.8647761
+               }
+            },
+            "location" : {
+               "lat" : 42.99402509999999,
+               "lng" : 22.8681801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9997893,
+                  "lng" : 22.8764086
+               },
+               "southwest" : {
+                  "lat" : 42.9926364,
+                  "lng" : 22.8647761
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

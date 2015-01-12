@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A648",
+               "short_name" : "A648",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Frankfurt am Main",
+               "short_name" : "Frankfurt am Main",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A648, Frankfurt am Main, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1276971,
+                  "lng" : 8.637684400000001
+               },
+               "southwest" : {
+                  "lat" : 50.11398390000001,
+                  "lng" : 8.575671
+               }
+            },
+            "location" : {
+               "lat" : 50.1152467,
+               "lng" : 8.6080928
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1276971,
+                  "lng" : 8.637684400000001
+               },
+               "southwest" : {
+                  "lat" : 50.11398390000001,
+                  "lng" : 8.575671
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Petrozavodsk",
+               "short_name" : "Petrozavodsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Petrozavodsk",
+               "short_name" : "g. Petrozavodsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Karelia",
+               "short_name" : "Republic of Karelia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Petrozavodsk, Republic of Karelia, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.860201,
+                  "lng" : 34.4795016
+               },
+               "southwest" : {
+                  "lat" : 61.71253900000001,
+                  "lng" : 34.2032958
+               }
+            },
+            "location" : {
+               "lat" : 61.783333,
+               "lng" : 34.333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.860201,
+                  "lng" : 34.4795016
+               },
+               "southwest" : {
+                  "lat" : 61.71253900000001,
+                  "lng" : 34.2032958
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

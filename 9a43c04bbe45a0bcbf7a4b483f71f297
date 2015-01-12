@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barranquilla",
+               "short_name" : "Barranquilla D.E.I y P.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlantico",
+               "short_name" : "Atlantico",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barranquilla, Atlantico, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.1067254,
+                  "lng" : -74.75827
+               },
+               "southwest" : {
+                  "lat" : 10.91627,
+                  "lng" : -74.91996
+               }
+            },
+            "location" : {
+               "lat" : 10.9642103,
+               "lng" : -74.7970435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.1067254,
+                  "lng" : -74.75827
+               },
+               "southwest" : {
+                  "lat" : 10.91627,
+                  "lng" : -74.91996
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barranquilla",
+               "short_name" : "Barranquilla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Barranquilla (Distrito Especial, Industrial Y Portuario)",
+               "short_name" : "Barranquilla D.E.I y P.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlántico",
+               "short_name" : "Atlántico",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barranquilla, Barranquilla (Distrito Especial, Industrial Y Portuario), Atlántico, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 10.96976,
+               "lng" : -74.79276
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9711089802915,
+                  "lng" : -74.79141101970849
+               },
+               "southwest" : {
+                  "lat" : 10.9684110197085,
+                  "lng" : -74.79410898029151
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

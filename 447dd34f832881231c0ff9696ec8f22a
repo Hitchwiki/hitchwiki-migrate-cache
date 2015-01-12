@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penang Island",
+               "short_name" : "Penang Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Penang",
+               "short_name" : "Penang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Penang Island, Penang, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.482654999999999,
+                  "lng" : 100.345982
+               },
+               "southwest" : {
+                  "lat" : 5.257159,
+                  "lng" : 100.1753842
+               }
+            },
+            "location" : {
+               "lat" : 5.3673161,
+               "lng" : 100.2486493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.482654999999999,
+                  "lng" : 100.345982
+               },
+               "southwest" : {
+                  "lat" : 5.257159,
+                  "lng" : 100.1753842
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

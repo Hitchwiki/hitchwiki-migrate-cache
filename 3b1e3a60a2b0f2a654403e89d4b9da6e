@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sigmaringen",
+               "short_name" : "Sigmaringen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sigmaringen",
+               "short_name" : "SIG",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "TÜ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sigmaringen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.15422299999999,
+                  "lng" : 9.2725273
+               },
+               "southwest" : {
+                  "lat" : 48.0279296,
+                  "lng" : 9.084137399999999
+               }
+            },
+            "location" : {
+               "lat" : 48.0912921,
+               "lng" : 9.228612099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.15422299999999,
+                  "lng" : 9.2725273
+               },
+               "southwest" : {
+                  "lat" : 48.0279296,
+                  "lng" : 9.084137399999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

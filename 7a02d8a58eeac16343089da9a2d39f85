@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Theth",
+               "short_name" : "Theth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shkodër",
+               "short_name" : "Shkodër",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Shkodër County",
+               "short_name" : "Shkodër County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Albania",
+               "short_name" : "AL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Theth, Albania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4123043,
+                  "lng" : 19.774146
+               },
+               "southwest" : {
+                  "lat" : 42.3982665,
+                  "lng" : 19.7606276
+               }
+            },
+            "location" : {
+               "lat" : 42.4045655,
+               "lng" : 19.7680967
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4123043,
+                  "lng" : 19.774146
+               },
+               "southwest" : {
+                  "lat" : 42.3982665,
+                  "lng" : 19.7606276
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

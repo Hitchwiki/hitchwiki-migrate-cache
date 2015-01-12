@@ -1,0 +1,96 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyoto",
+               "short_name" : "Kyoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyoto, Kyoto Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.321192,
+                  "lng" : 135.8787786
+               },
+               "southwest" : {
+                  "lat" : 34.8748597,
+                  "lng" : 135.5589842
+               }
+            },
+            "location" : {
+               "lat" : 35.0116363,
+               "lng" : 135.7680294
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0542,
+                  "lng" : 135.8236
+               },
+               "southwest" : {
+                  "lat" : 34.958,
+                  "lng" : 135.6983
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyoto Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7793193,
+                  "lng" : 136.0540826
+               },
+               "southwest" : {
+                  "lat" : 34.70598810000001,
+                  "lng" : 134.8536953
+               }
+            },
+            "location" : {
+               "lat" : 35.0212466,
+               "lng" : 135.7555968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7793193,
+                  "lng" : 136.0540826
+               },
+               "southwest" : {
+                  "lat" : 34.70598810000001,
+                  "lng" : 134.8536953
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

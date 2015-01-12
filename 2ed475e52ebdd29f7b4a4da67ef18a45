@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A31",
+               "short_name" : "A31",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A31, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.388137,
+                  "lng" : 7.5010549
+               },
+               "southwest" : {
+                  "lat" : 51.5579423,
+                  "lng" : 6.917797999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.47568769999999,
+               "lng" : 7.216666399999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.388137,
+                  "lng" : 7.5010549
+               },
+               "southwest" : {
+                  "lat" : 51.5579423,
+                  "lng" : 6.917797999999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

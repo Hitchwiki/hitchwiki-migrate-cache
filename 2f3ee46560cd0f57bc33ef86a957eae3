@@ -1,0 +1,679 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pico",
+               "short_name" : "Pico",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azores",
+               "short_name" : "Azores",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madalena, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5454132,
+                  "lng" : -28.5035991
+               },
+               "southwest" : {
+                  "lat" : 38.5188921,
+                  "lng" : -28.5372881
+               }
+            },
+            "location" : {
+               "lat" : 38.533333,
+               "lng" : -28.527222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5454132,
+                  "lng" : -28.5035991
+               },
+               "southwest" : {
+                  "lat" : 38.5188921,
+                  "lng" : -28.5372881
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto",
+               "short_name" : "Porto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4400-590",
+               "short_name" : "4400-590",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4400",
+               "short_name" : "4400",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4400-590 Madalena, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.1166027,
+               "lng" : -8.653576299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1179516802915,
+                  "lng" : -8.652227319708498
+               },
+               "southwest" : {
+                  "lat" : 41.11525371970851,
+                  "lng" : -8.654925280291502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Vila Nova de Gaia",
+               "short_name" : "Vila Nova de Gaia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto",
+               "short_name" : "Porto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4405",
+               "short_name" : "4405",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Madalena, 4405 Vila Nova de Gaia, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1124035,
+                  "lng" : -8.637605799999999
+               },
+               "southwest" : {
+                  "lat" : 41.11097700000001,
+                  "lng" : -8.637945499999999
+               }
+            },
+            "location" : {
+               "lat" : 41.1117076,
+               "lng" : -8.6377591
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.11303923029151,
+                  "lng" : -8.636426669708497
+               },
+               "southwest" : {
+                  "lat" : 41.11034126970851,
+                  "lng" : -8.639124630291501
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santarém",
+               "short_name" : "Santarém",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2305",
+               "short_name" : "2305",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2305 Madalena, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.5742831,
+               "lng" : -8.438898999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.57563208029149,
+                  "lng" : -8.437550019708496
+               },
+               "southwest" : {
+                  "lat" : 39.57293411970849,
+                  "lng" : -8.440247980291501
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatu Hiva",
+               "short_name" : "Fatu Hiva",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Southern Group",
+               "short_name" : "Southern Group",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fatu Hiva, French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.4187671,
+                  "lng" : -138.6092926
+               },
+               "southwest" : {
+                  "lat" : -10.5535782,
+                  "lng" : -138.6919257
+               }
+            },
+            "location" : {
+               "lat" : -10.4904907,
+               "lng" : -138.6489134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.4187671,
+                  "lng" : -138.6092926
+               },
+               "southwest" : {
+                  "lat" : -10.5535782,
+                  "lng" : -138.6919257
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Recife",
+               "short_name" : "Recife",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Recife",
+               "short_name" : "Recife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Pernambuco",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madalena, Recife - State of Pernambuco, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -8.0454463,
+                  "lng" : -34.9005918
+               },
+               "southwest" : {
+                  "lat" : -8.062127,
+                  "lng" : -34.9164389
+               }
+            },
+            "location" : {
+               "lat" : -8.053580199999999,
+               "lng" : -34.9087328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.0454463,
+                  "lng" : -34.9005918
+               },
+               "southwest" : {
+                  "lat" : -8.062127,
+                  "lng" : -34.9164389
+               }
+            }
+         },
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madliena",
+               "short_name" : "Madliena",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Triq Hal-Tartarni",
+               "short_name" : "Triq Hal-Tartarni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ħad-Dingli",
+               "short_name" : "Ħad-Dingli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madliena, Triq Hal-Tartarni, Ħad-Dingli, Malta",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.8521961,
+               "lng" : 14.3855721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8535450802915,
+                  "lng" : 14.3869210802915
+               },
+               "southwest" : {
+                  "lat" : 35.8508471197085,
+                  "lng" : 14.3842231197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barro",
+               "short_name" : "Barro",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Pontevedra",
+               "short_name" : "Pontevedra",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pontevedra",
+               "short_name" : "PO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36190",
+               "short_name" : "36190",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "36190 Madalena, Pontevedra, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.53613929999999,
+                  "lng" : -8.6559331
+               },
+               "southwest" : {
+                  "lat" : 42.5343098,
+                  "lng" : -8.6597662
+               }
+            },
+            "location" : {
+               "lat" : 42.5351334,
+               "lng" : -8.658167799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5365735302915,
+                  "lng" : -8.6559331
+               },
+               "southwest" : {
+                  "lat" : 42.5338755697085,
+                  "lng" : -8.6597662
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lavínia",
+               "short_name" : "Lavínia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madalena - SP, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -21.066667,
+               "lng" : -50.933333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.0653180197085,
+                  "lng" : -50.9319840197085
+               },
+               "southwest" : {
+                  "lat" : -21.0680159802915,
+                  "lng" : -50.9346819802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Me-Zochi",
+               "short_name" : "Me-Zochi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sao Tome",
+               "short_name" : "Sao Tome",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "São Tomé and Príncipe",
+               "short_name" : "ST",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madalena, São Tomé and Príncipe",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3310364,
+                  "lng" : 6.6670167
+               },
+               "southwest" : {
+                  "lat" : 0.3275281,
+                  "lng" : 6.6642915
+               }
+            },
+            "location" : {
+               "lat" : 0.3296542,
+               "lng" : 6.6658167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3310364,
+                  "lng" : 6.6670167
+               },
+               "southwest" : {
+                  "lat" : 0.3275281,
+                  "lng" : 6.6642915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Distrito de Vila Real",
+               "short_name" : "Distrito de Vila Real",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5400-223",
+               "short_name" : "5400-223",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5400",
+               "short_name" : "5400",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5400-223 Madalena, Portugal",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.735278,
+               "lng" : -7.4625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7366269802915,
+                  "lng" : -7.461151019708498
+               },
+               "southwest" : {
+                  "lat" : 41.7339290197085,
+                  "lng" : -7.463848980291503
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bacabal",
+               "short_name" : "Bacabal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maranhão",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madalena - MA, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -4.149999999999999,
+               "lng" : -44.883333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -4.148651019708497,
+                  "lng" : -44.8819840197085
+               },
+               "southwest" : {
+                  "lat" : -4.151348980291502,
+                  "lng" : -44.8846819802915
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "913",
+               "short_name" : "913",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Visconde de Albuquerque",
+               "short_name" : "Av. Visc. de Albuquerque",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madalena",
+               "short_name" : "Madalena",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Recife",
+               "short_name" : "Recife",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Recife",
+               "short_name" : "Recife",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pernambuco",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50610",
+               "short_name" : "50610",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Madalena - Avenida Visconde de Albuquerque, 913 - Madalena, Recife - PE, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.057628599999999,
+               "lng" : -34.9071127
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.056279619708498,
+                  "lng" : -34.9057637197085
+               },
+               "southwest" : {
+                  "lat" : -8.058977580291502,
+                  "lng" : -34.9084616802915
+               }
+            }
+         },
+         "types" : [ "post_office", "finance", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lusaka",
+               "short_name" : "Lusaka",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Zambia",
+               "short_name" : "ZM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lusaka, Zambia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.2992532,
+                  "lng" : 28.4887506
+               },
+               "southwest" : {
+                  "lat" : -15.5344065,
+                  "lng" : 28.1987555
+               }
+            },
+            "location" : {
+               "lat" : -15.416667,
+               "lng" : 28.283333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.2992532,
+                  "lng" : 28.4887506
+               },
+               "southwest" : {
+                  "lat" : -15.5344065,
+                  "lng" : 28.1987555
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

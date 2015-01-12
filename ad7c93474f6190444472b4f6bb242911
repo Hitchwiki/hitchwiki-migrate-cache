@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zvolen",
+               "short_name" : "Zvolen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zvolen District",
+               "short_name" : "Zvolen District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Banská Bystrica Region",
+               "short_name" : "Banská Bystrica Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zvolen, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6372597,
+                  "lng" : 19.2794827
+               },
+               "southwest" : {
+                  "lat" : 48.4790321,
+                  "lng" : 19.0803308
+               }
+            },
+            "location" : {
+               "lat" : 48.5758623,
+               "lng" : 19.1256291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6372597,
+                  "lng" : 19.2794827
+               },
+               "southwest" : {
+                  "lat" : 48.4790321,
+                  "lng" : 19.0803308
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zvolen",
+               "short_name" : "Zvolen",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Zvolen",
+               "short_name" : "Zvolen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zvolen District",
+               "short_name" : "Zvolen District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Banská Bystrica Region",
+               "short_name" : "Banská Bystrica Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zvolen, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5986975,
+                  "lng" : 19.1665411
+               },
+               "southwest" : {
+                  "lat" : 48.55963999999999,
+                  "lng" : 19.1013102
+               }
+            },
+            "location" : {
+               "lat" : 48.5767392,
+               "lng" : 19.1354454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5986975,
+                  "lng" : 19.1665411
+               },
+               "southwest" : {
+                  "lat" : 48.55963999999999,
+                  "lng" : 19.1013102
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

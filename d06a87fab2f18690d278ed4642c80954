@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A12",
+               "short_name" : "A12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tirol",
+               "short_name" : "Tirol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A12, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6050513,
+                  "lng" : 12.1937159
+               },
+               "southwest" : {
+                  "lat" : 47.172467,
+                  "lng" : 10.6011623
+               }
+            },
+            "location" : {
+               "lat" : 47.268605,
+               "lng" : 11.4646331
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6050513,
+                  "lng" : 12.1937159
+               },
+               "southwest" : {
+                  "lat" : 47.172467,
+                  "lng" : 10.6011623
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

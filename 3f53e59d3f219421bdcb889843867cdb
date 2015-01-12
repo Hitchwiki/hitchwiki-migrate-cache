@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunkirk",
+               "short_name" : "Dunkirk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "59",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dunkirk, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.057893,
+                  "lng" : 2.4464731
+               },
+               "southwest" : {
+                  "lat" : 50.9758991,
+                  "lng" : 2.239696
+               }
+            },
+            "location" : {
+               "lat" : 51.0343684,
+               "lng" : 2.3767763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.057893,
+                  "lng" : 2.4464731
+               },
+               "southwest" : {
+                  "lat" : 50.9758991,
+                  "lng" : 2.239696
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

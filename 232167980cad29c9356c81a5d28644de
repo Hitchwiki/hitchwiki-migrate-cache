@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Ligua",
+               "short_name" : "La Ligua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Ligua",
+               "short_name" : "La Ligua",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Petorca Province",
+               "short_name" : "Petorca Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Ligua, La Ligua, Valparaíso Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.132057,
+                  "lng" : -71.0465943
+               },
+               "southwest" : {
+                  "lat" : -32.6236167,
+                  "lng" : -71.5432948
+               }
+            },
+            "location" : {
+               "lat" : -32.449902,
+               "lng" : -71.232596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.132057,
+                  "lng" : -71.0465943
+               },
+               "southwest" : {
+                  "lat" : -32.6236167,
+                  "lng" : -71.5432948
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

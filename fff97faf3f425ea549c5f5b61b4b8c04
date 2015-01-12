@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M60",
+               "short_name" : "M60",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M34",
+               "short_name" : "M34",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M60, Manchester M34, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.54764650000001,
+                  "lng" : -2.1151932
+               },
+               "southwest" : {
+                  "lat" : 53.3983982,
+                  "lng" : -2.384797
+               }
+            },
+            "location" : {
+               "lat" : 53.4299981,
+               "lng" : -2.2981406
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54764650000001,
+                  "lng" : -2.1151932
+               },
+               "southwest" : {
+                  "lat" : 53.3983982,
+                  "lng" : -2.384797
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "M60",
+               "short_name" : "M60",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Buckingham",
+               "short_name" : "Buckingham",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK18 5LD",
+               "short_name" : "MK18 5LD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M60, Buckingham MK18 5LD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0370655,
+                  "lng" : -1.0283479
+               },
+               "southwest" : {
+                  "lat" : 52.036075,
+                  "lng" : -1.0302133
+               }
+            },
+            "location" : {
+               "lat" : 52.0360793,
+               "lng" : -1.0302044
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0379192302915,
+                  "lng" : -1.027931619708498
+               },
+               "southwest" : {
+                  "lat" : 52.0352212697085,
+                  "lng" : -1.030629580291502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

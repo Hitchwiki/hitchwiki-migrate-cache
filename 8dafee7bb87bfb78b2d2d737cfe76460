@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meppel",
+               "short_name" : "Meppel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meppel",
+               "short_name" : "Meppel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Drenthe",
+               "short_name" : "DR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Meppel, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7484747,
+                  "lng" : 6.2424092
+               },
+               "southwest" : {
+                  "lat" : 52.6746338,
+                  "lng" : 6.1555654
+               }
+            },
+            "location" : {
+               "lat" : 52.6921234,
+               "lng" : 6.1937187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7484747,
+                  "lng" : 6.2424092
+               },
+               "southwest" : {
+                  "lat" : 52.6746338,
+                  "lng" : 6.1555654
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A559",
+               "short_name" : "A559",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "Köln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Köln",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nordrhein-Westfalen",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A559, Köln, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9341687,
+                  "lng" : 7.0767365
+               },
+               "southwest" : {
+                  "lat" : 50.90199759999999,
+                  "lng" : 6.9837511
+               }
+            },
+            "location" : {
+               "lat" : 50.9174878,
+               "lng" : 7.027228000000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9341687,
+                  "lng" : 7.0767365
+               },
+               "southwest" : {
+                  "lat" : 50.90199759999999,
+                  "lng" : 6.9837511
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

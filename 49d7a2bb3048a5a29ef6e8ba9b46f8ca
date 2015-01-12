@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malta",
+               "short_name" : "MT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malta",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0822238,
+                  "lng" : 14.5755001
+               },
+               "southwest" : {
+                  "lat" : 35.805811,
+                  "lng" : 14.1835484
+               }
+            },
+            "location" : {
+               "lat" : 35.937496,
+               "lng" : 14.375416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0822238,
+                  "lng" : 14.5755001
+               },
+               "southwest" : {
+                  "lat" : 35.805811,
+                  "lng" : 14.1835484
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

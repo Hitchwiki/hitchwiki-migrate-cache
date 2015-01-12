@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A66",
+               "short_name" : "A66",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A66, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4238672,
+                  "lng" : 1.6747373
+               },
+               "southwest" : {
+                  "lat" : 43.1288859,
+                  "lng" : 1.5916267
+               }
+            },
+            "location" : {
+               "lat" : 43.2627727,
+               "lng" : 1.6627089
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4238672,
+                  "lng" : 1.6747373
+               },
+               "southwest" : {
+                  "lat" : 43.1288859,
+                  "lng" : 1.5916267
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

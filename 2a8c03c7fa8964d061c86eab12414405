@@ -1,0 +1,154 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melbourne VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.4598457,
+                  "lng" : 145.76474
+               },
+               "southwest" : {
+                  "lat" : -38.2607199,
+                  "lng" : 144.3944921
+               }
+            },
+            "location" : {
+               "lat" : -37.814107,
+               "lng" : 144.96328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.4598457,
+                  "lng" : 145.76474
+               },
+               "southwest" : {
+                  "lat" : -38.2607199,
+                  "lng" : 144.3944921
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melbourne VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.7994893,
+                  "lng" : 144.9890618
+               },
+               "southwest" : {
+                  "lat" : -37.8546255,
+                  "lng" : 144.9514222
+               }
+            },
+            "location" : {
+               "lat" : -37.8142155,
+               "lng" : 144.9632307
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.7994893,
+                  "lng" : 144.9890618
+               },
+               "southwest" : {
+                  "lat" : -37.8546255,
+                  "lng" : 144.9514222
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brevard County",
+               "short_name" : "Brevard County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melbourne, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.199865,
+                  "lng" : -80.57501289999999
+               },
+               "southwest" : {
+                  "lat" : 28.035096,
+                  "lng" : -80.73554209999999
+               }
+            },
+            "location" : {
+               "lat" : 28.0836269,
+               "lng" : -80.60810889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.199865,
+                  "lng" : -80.57501289999999
+               },
+               "southwest" : {
+                  "lat" : 28.035096,
+                  "lng" : -80.73554209999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

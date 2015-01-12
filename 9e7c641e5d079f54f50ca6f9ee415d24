@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A23",
+               "short_name" : "A23",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wien",
+               "short_name" : "Wien",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A23, Wien, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2404666,
+                  "lng" : 16.4601584
+               },
+               "southwest" : {
+                  "lat" : 48.1503925,
+                  "lng" : 16.3218231
+               }
+            },
+            "location" : {
+               "lat" : 48.1861308,
+               "lng" : 16.4062388
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2404666,
+                  "lng" : 16.4601584
+               },
+               "southwest" : {
+                  "lat" : 48.1503925,
+                  "lng" : 16.3218231
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

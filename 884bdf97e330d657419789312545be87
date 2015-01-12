@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A41",
+               "short_name" : "A41",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A41, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.148419,
+                  "lng" : 6.131882
+               },
+               "southwest" : {
+                  "lat" : 45.2005259,
+                  "lng" : 5.759049699999999
+               }
+            },
+            "location" : {
+               "lat" : 45.6776118,
+               "lng" : 5.9306223
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.148419,
+                  "lng" : 6.131882
+               },
+               "southwest" : {
+                  "lat" : 45.2005259,
+                  "lng" : 5.759049699999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

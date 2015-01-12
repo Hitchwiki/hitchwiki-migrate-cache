@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Republic of the Union of Myanmar",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Republic of the Union of Myanmar",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5478351,
+                  "lng" : 101.1702717
+               },
+               "southwest" : {
+                  "lat" : 9.5990942,
+                  "lng" : 92.171808
+               }
+            },
+            "location" : {
+               "lat" : 21.913965,
+               "lng" : 95.95622299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5478351,
+                  "lng" : 101.1702717
+               },
+               "southwest" : {
+                  "lat" : 9.5990942,
+                  "lng" : 92.171808
+               }
+            }
+         },
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

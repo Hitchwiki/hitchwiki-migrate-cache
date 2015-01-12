@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A620",
+               "short_name" : "A620",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saarland",
+               "short_name" : "SL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A620, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3357602,
+                  "lng" : 7.040494499999999
+               },
+               "southwest" : {
+                  "lat" : 49.20516199999999,
+                  "lng" : 6.722561499999999
+               }
+            },
+            "location" : {
+               "lat" : 49.25116329999999,
+               "lng" : 6.8790407
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3357602,
+                  "lng" : 7.040494499999999
+               },
+               "southwest" : {
+                  "lat" : 49.20516199999999,
+                  "lng" : 6.722561499999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

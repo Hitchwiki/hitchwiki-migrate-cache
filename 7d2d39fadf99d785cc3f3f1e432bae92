@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kinlochbervie",
+               "short_name" : "Kinlochbervie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lairg",
+               "short_name" : "Lairg",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highld",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IV27",
+               "short_name" : "IV27",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kinlochbervie, Lairg, Highland IV27, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.458818,
+               "lng" : -5.049151999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.4646544,
+                  "lng" : -5.033144600000001
+               },
+               "southwest" : {
+                  "lat" : 58.45298059999999,
+                  "lng" : -5.0651594
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

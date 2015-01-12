@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nowy Sacz",
+               "short_name" : "Nowy Sacz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nowy Sącz",
+               "short_name" : "Nowy Sącz",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nowy Sącz County",
+               "short_name" : "Nowy Sącz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lesser Poland Voivodeship",
+               "short_name" : "Lesser Poland Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nowy Sacz, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6579511,
+                  "lng" : 20.7621654
+               },
+               "southwest" : {
+                  "lat" : 49.55641,
+                  "lng" : 20.6469789
+               }
+            },
+            "location" : {
+               "lat" : 49.6174535,
+               "lng" : 20.7153326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6579511,
+                  "lng" : 20.7621654
+               },
+               "southwest" : {
+                  "lat" : 49.55641,
+                  "lng" : 20.6469789
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "M62",
+               "short_name" : "M62",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Goole",
+               "short_name" : "Goole",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN14",
+               "short_name" : "DN14",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "M62, Goole DN14, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7711423,
+                  "lng" : -0.6685905
+               },
+               "southwest" : {
+                  "lat" : 53.3960484,
+                  "lng" : -2.896436
+               }
+            },
+            "location" : {
+               "lat" : 53.6625082,
+               "lng" : -1.8533994
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7711423,
+                  "lng" : -0.6685905
+               },
+               "southwest" : {
+                  "lat" : 53.3960484,
+                  "lng" : -2.896436
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

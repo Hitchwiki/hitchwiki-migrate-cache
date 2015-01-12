@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A17",
+               "short_name" : "A17",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Noord-Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A17, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6968985,
+                  "lng" : 4.6462442
+               },
+               "southwest" : {
+                  "lat" : 51.524348,
+                  "lng" : 4.4257244
+               }
+            },
+            "location" : {
+               "lat" : 51.6238694,
+               "lng" : 4.519487300000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6968985,
+                  "lng" : 4.6462442
+               },
+               "southwest" : {
+                  "lat" : 51.524348,
+                  "lng" : 4.4257244
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

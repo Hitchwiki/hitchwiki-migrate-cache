@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A38",
+               "short_name" : "A38",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ridderkerk",
+               "short_name" : "Ridderkerk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ridderkerk",
+               "short_name" : "Ridderkerk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zuid-Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2987",
+               "short_name" : "2987",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A38, 2987 Ridderkerk, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8861952,
+                  "lng" : 4.580880899999999
+               },
+               "southwest" : {
+                  "lat" : 51.880686,
+                  "lng" : 4.5793723
+               }
+            },
+            "location" : {
+               "lat" : 51.88335989999999,
+               "lng" : 4.5803067
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8861952,
+                  "lng" : 4.581475580291502
+               },
+               "southwest" : {
+                  "lat" : 51.880686,
+                  "lng" : 4.578777619708498
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

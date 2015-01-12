@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guayaquil",
+               "short_name" : "Guayaquil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guayas",
+               "short_name" : "Guayas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ecuador",
+               "short_name" : "EC",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guayaquil, Ecuador",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.0401082,
+                  "lng" : -79.86081829999999
+               },
+               "southwest" : {
+                  "lat" : -2.2873981,
+                  "lng" : -80.06389709999999
+               }
+            },
+            "location" : {
+               "lat" : -2.1709979,
+               "lng" : -79.9223592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.0401082,
+                  "lng" : -79.86081829999999
+               },
+               "southwest" : {
+                  "lat" : -2.2873981,
+                  "lng" : -80.06389709999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,973 @@
+{
+  "totalResultsCount": 724,
+  "geonames": [
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.45511091317046,
+        "south": 47.1374782971103,
+        "north": 47.6211034746385,
+        "west": 7.71357464539846
+      },
+      "asciiName": "Kanton Aargau",
+      "countryId": "2658434",
+      "fcl": "A",
+      "score": 40.70163345336914,
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.39557",
+      "fcode": "ADM1",
+      "continentCode": "EU",
+      "adminCode1": "AG",
+      "lng": "8.17214",
+      "geonameId": 2661876,
+      "toponymName": "Kanton Aargau",
+      "population": 574171,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "",
+      "alternateNames": [
+        {
+          "name": "Aargau",
+          "lang": "de"
+        },
+        {
+          "name": "Aargau",
+          "lang": "en"
+        },
+        {
+          "name": "Argovie",
+          "lang": "fr"
+        },
+        {
+          "name": "Argovia",
+          "lang": "it"
+        },
+        {
+          "name": "아르가우 주",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Aargau",
+          "lang": "link"
+        },
+        {
+          "name": "Argovia",
+          "lang": "rm"
+        }
+      ],
+      "adminName2": "",
+      "name": "Aargau",
+      "fclName": "country, state, region,...",
+      "countryName": "Switzerland",
+      "fcodeName": "first-order administrative division",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.067241086408425,
+        "south": 47.376961568378945,
+        "north": 47.40811648154475,
+        "west": 8.021206484392357
+      },
+      "asciiName": "Aarau",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 26.272790908813477,
+      "adminId2": "6458846",
+      "adminId3": "7285013",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.39254",
+      "fcode": "PPLA",
+      "continentCode": "EU",
+      "adminCode2": "1901",
+      "adminCode3": "4001",
+      "adminCode1": "AG",
+      "lng": "8.04422",
+      "geonameId": 2661881,
+      "toponymName": "Aarau",
+      "population": 15501,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Aarau",
+      "alternateNames": [
+        {
+          "name": "Aarau",
+          "lang": "als"
+        },
+        {
+          "name": "أراو",
+          "lang": "ar"
+        },
+        {
+          "name": "Горад Аарау",
+          "lang": "be"
+        },
+        {
+          "name": "Аарау",
+          "lang": "bg"
+        },
+        {
+          "name": "Арау",
+          "lang": "ce"
+        },
+        {
+          "name": "Aarau",
+          "lang": "cs"
+        },
+        {
+          "name": "Aarau",
+          "lang": "de"
+        },
+        {
+          "name": "Άαραου",
+          "lang": "el"
+        },
+        {
+          "name": "Aarau",
+          "lang": "en"
+        },
+        {
+          "name": "Araŭo",
+          "lang": "eo"
+        },
+        {
+          "name": "Aarau",
+          "lang": "es"
+        },
+        {
+          "name": "Aarau",
+          "lang": "et"
+        },
+        {
+          "name": "ارو، سوئیس",
+          "lang": "fa"
+        },
+        {
+          "name": "Aarau",
+          "lang": "fi"
+        },
+        {
+          "name": "Aarau",
+          "lang": "fr"
+        },
+        {
+          "name": "Aarau",
+          "lang": "gl"
+        },
+        {
+          "name": "Aarau",
+          "lang": "hu"
+        },
+        {
+          "name": "ZDA",
+          "lang": "iata"
+        },
+        {
+          "name": "Aarau",
+          "lang": "it"
+        },
+        {
+          "name": "アーラウ",
+          "lang": "ja"
+        },
+        {
+          "name": "აარაუ",
+          "lang": "ka"
+        },
+        {
+          "name": "Арау",
+          "lang": "kk"
+        },
+        {
+          "name": "아라우",
+          "lang": "ko"
+        },
+        {
+          "name": "Aravia",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Aarau",
+          "lang": "link"
+        },
+        {
+          "name": "Arau",
+          "lang": "lt"
+        },
+        {
+          "name": "Ārava",
+          "lang": "lv"
+        },
+        {
+          "name": "Aarau",
+          "lang": "nl"
+        },
+        {
+          "name": "Aarau",
+          "lang": "no"
+        },
+        {
+          "name": "Aarau",
+          "lang": "pl"
+        },
+        {
+          "name": "آراؤ",
+          "lang": "pnb"
+        },
+        {
+          "name": "5000",
+          "lang": "post"
+        },
+        {
+          "name": "Aarau",
+          "lang": "pt"
+        },
+        {
+          "name": "Aarau",
+          "lang": "rm"
+        },
+        {
+          "name": "Aarau",
+          "lang": "ro"
+        },
+        {
+          "name": "Арау",
+          "lang": "ru"
+        },
+        {
+          "name": "Арау",
+          "lang": "sr"
+        },
+        {
+          "name": "Aarau",
+          "lang": "sv"
+        },
+        {
+          "name": "อาเรา",
+          "lang": "th"
+        },
+        {
+          "name": "Аарау",
+          "lang": "uk"
+        },
+        {
+          "name": "AAR",
+          "lang": "unlc"
+        },
+        {
+          "name": "阿劳",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Bezirk Aarau",
+      "name": "Aarau",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.329915839240213,
+        "south": 47.45711652394183,
+        "north": 47.489543585668606,
+        "west": 8.281927269890646
+      },
+      "asciiName": "Baden",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 23.49909782409668,
+      "adminId2": "6458813",
+      "adminId3": "7285134",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.47333",
+      "fcode": "PPLA2",
+      "continentCode": "EU",
+      "adminCode2": "1902",
+      "adminCode3": "4021",
+      "adminCode1": "AG",
+      "lng": "8.30592",
+      "geonameId": 2661646,
+      "toponymName": "Baden",
+      "population": 16118,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Baden",
+      "alternateNames": [
+        {
+          "name": "Baden AG",
+          "lang": "als"
+        },
+        {
+          "name": "Баден",
+          "lang": "bg"
+        },
+        {
+          "name": "Baden AG",
+          "lang": "de"
+        },
+        {
+          "name": "Baden",
+          "lang": "en"
+        },
+        {
+          "name": "Baden",
+          "lang": "eo"
+        },
+        {
+          "name": "بدان، سوئیس",
+          "lang": "fa"
+        },
+        {
+          "name": "Baden",
+          "lang": "fr"
+        },
+        {
+          "name": "ZDG",
+          "lang": "iata"
+        },
+        {
+          "name": "Baden",
+          "lang": "it"
+        },
+        {
+          "name": "バーデン",
+          "lang": "ja"
+        },
+        {
+          "name": "바덴",
+          "lang": "ko"
+        },
+        {
+          "name": "Aquae Helveticae",
+          "lang": "la"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Baden%2C_Switzerland",
+          "lang": "link"
+        },
+        {
+          "name": "Badenas",
+          "lang": "lt"
+        },
+        {
+          "name": "Baden",
+          "lang": "nl"
+        },
+        {
+          "name": "Baden i Aargau",
+          "lang": "nn"
+        },
+        {
+          "name": "Baden",
+          "lang": "pl"
+        },
+        {
+          "name": "5400",
+          "lang": "post"
+        },
+        {
+          "name": "Baden",
+          "lang": "pt"
+        },
+        {
+          "name": "Baden",
+          "lang": "ro"
+        },
+        {
+          "name": "Баден",
+          "lang": "ru"
+        },
+        {
+          "name": "Баден",
+          "lang": "sr"
+        },
+        {
+          "name": "Baden",
+          "lang": "sv"
+        },
+        {
+          "name": "BAD",
+          "lang": "unlc"
+        },
+        {
+          "name": "巴登",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Bezirk Baden",
+      "name": "Baden",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.965755067062774,
+        "south": 47.27429761393799,
+        "north": 47.30127856019227,
+        "west": 7.925968565749726
+      },
+      "asciiName": "Zofingen",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 21.018232345581055,
+      "adminId2": "6458746",
+      "adminId3": "7287639",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.28779",
+      "fcode": "PPLA2",
+      "continentCode": "EU",
+      "adminCode2": "1910",
+      "adminCode3": "4289",
+      "adminCode1": "AG",
+      "lng": "7.94586",
+      "geonameId": 2657915,
+      "toponymName": "Zofingen",
+      "population": 11451,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Zofingen",
+      "alternateNames": [
+        {
+          "name": "Zofinguen",
+          "lang": "ca"
+        },
+        {
+          "name": "Zofingen",
+          "lang": "de"
+        },
+        {
+          "name": "Zofingo",
+          "lang": "eo"
+        },
+        {
+          "name": "زوفنژان",
+          "lang": "fa"
+        },
+        {
+          "name": "Zofingue",
+          "lang": "fr"
+        },
+        {
+          "name": "ZLL",
+          "lang": "iata"
+        },
+        {
+          "name": "ツォフィンゲン",
+          "lang": "ja"
+        },
+        {
+          "name": "Цофинген",
+          "lang": "kk"
+        },
+        {
+          "name": "초핑겐",
+          "lang": "ko"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Zofingen",
+          "lang": "link"
+        },
+        {
+          "name": "زوفنگن",
+          "lang": "pnb"
+        },
+        {
+          "name": "4800",
+          "lang": "post"
+        },
+        {
+          "name": "Цофинген",
+          "lang": "ru"
+        },
+        {
+          "name": "Цофинген",
+          "lang": "sr"
+        },
+        {
+          "name": "ZLL",
+          "lang": "unlc"
+        },
+        {
+          "name": "祖芬根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Bezirk Zofingen",
+      "name": "Zofingen",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "seat of a second-order administrative division",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.30078831815331,
+        "south": 47.337444720798175,
+        "north": 47.367273279201825,
+        "west": 8.256747681846688
+      },
+      "asciiName": "Wohlen",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 21.018232345581055,
+      "adminId2": "6458774",
+      "adminId3": "7286655",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.35236",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "1903",
+      "adminCode3": "4072",
+      "adminCode1": "AG",
+      "lng": "8.27877",
+      "geonameId": 2657963,
+      "toponymName": "Wohlen",
+      "population": 13875,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Niederwil",
+      "alternateNames": [
+        {
+          "name": "Wohlen AG",
+          "lang": "de"
+        },
+        {
+          "name": "5610",
+          "lang": "post"
+        },
+        {
+          "name": "WHL",
+          "lang": "unlc"
+        }
+      ],
+      "adminName2": "Bezirk Bremgarten",
+      "name": "Wohlen",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "populated place",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.342133195151966,
+        "south": 47.45307887408204,
+        "north": 47.48791112591796,
+        "west": 8.290586804848033
+      },
+      "asciiName": "Wettingen",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 21.018232345581055,
+      "adminId2": "6458813",
+      "adminId3": "7287562",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.47049",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "1902",
+      "adminCode3": "4045",
+      "adminCode1": "AG",
+      "lng": "8.31636",
+      "geonameId": 2658011,
+      "toponymName": "Wettingen",
+      "population": 18191,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Wettingen",
+      "alternateNames": [
+        {
+          "name": "Vetingo",
+          "lang": "eo"
+        },
+        {
+          "name": "وتنژان",
+          "lang": "fa"
+        },
+        {
+          "name": "ZLF",
+          "lang": "iata"
+        },
+        {
+          "name": "Веттинген",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Wettingen",
+          "lang": "link"
+        },
+        {
+          "name": "Vetingenas",
+          "lang": "lt"
+        },
+        {
+          "name": "5430",
+          "lang": "post"
+        },
+        {
+          "name": "Веттинген",
+          "lang": "ru"
+        },
+        {
+          "name": "WTG",
+          "lang": "unlc"
+        },
+        {
+          "name": "韋廷根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Bezirk Baden",
+      "name": "Wettingen",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "populated place",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.153869469814332,
+        "south": 47.43346068953003,
+        "north": 47.44245433828146,
+        "west": 8.1405717533302
+      },
+      "asciiName": "Veltheim",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 21.018232345581055,
+      "adminId2": "6458826",
+      "adminId3": "7287428",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.43796",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "1904",
+      "adminCode3": "4120",
+      "adminCode1": "AG",
+      "lng": "8.14722",
+      "geonameId": 2658173,
+      "toponymName": "Veltheim",
+      "population": 1374,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Veltheim",
+      "alternateNames": [
+        {
+          "name": "http://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D0%B9%D0%BC",
+          "lang": "link"
+        },
+        {
+          "name": "5106",
+          "lang": "post"
+        }
+      ],
+      "adminName2": "Bezirk Brugg",
+      "name": "Veltheim",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "populated place",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.381808388596582,
+        "south": 47.40744005996051,
+        "north": 47.43287794003949,
+        "west": 8.344203611403419
+      },
+      "asciiName": "Spreitenbach",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 21.018232345581055,
+      "adminId2": "6458813",
+      "adminId3": "7287207",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.42016",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "1902",
+      "adminCode3": "4040",
+      "adminCode1": "AG",
+      "lng": "8.36301",
+      "geonameId": 2658524,
+      "toponymName": "Spreitenbach",
+      "population": 10562,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Spreitenbach",
+      "alternateNames": [
+        {
+          "name": "Spreitenbach",
+          "lang": "de"
+        },
+        {
+          "name": "Spreitenbach",
+          "lang": "en"
+        },
+        {
+          "name": "سپره تانبک",
+          "lang": "fa"
+        },
+        {
+          "name": "Spreitenbach",
+          "lang": "fr"
+        },
+        {
+          "name": "Spreitenbach",
+          "lang": "it"
+        },
+        {
+          "name": "Шпрайтенбах",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Spreitenbach",
+          "lang": "link"
+        },
+        {
+          "name": "8957",
+          "lang": "post"
+        },
+        {
+          "name": "Spreitenbach",
+          "lang": "pt"
+        },
+        {
+          "name": "Шпрайтенбах",
+          "lang": "ru"
+        },
+        {
+          "name": "Spreitenbach",
+          "lang": "sv"
+        },
+        {
+          "name": "SPB",
+          "lang": "unlc"
+        },
+        {
+          "name": "斯普賴滕巴赫",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Bezirk Baden",
+      "name": "Spreitenbach",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "populated place",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 8.140277865131717,
+        "south": 47.39352127170855,
+        "north": 47.409098728291454,
+        "west": 8.117260134868284
+      },
+      "asciiName": "Rupperswil",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 21.018232345581055,
+      "adminId2": "6458826",
+      "adminId3": "7285116",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.40131",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "1904",
+      "adminCode3": "4091",
+      "adminCode1": "AG",
+      "lng": "8.12877",
+      "geonameId": 2658924,
+      "toponymName": "Rupperswil",
+      "population": 4137,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Auenstein",
+      "alternateNames": [
+        {
+          "name": "Rupperswil",
+          "lang": "de"
+        },
+        {
+          "name": "Rupperswil",
+          "lang": "en"
+        },
+        {
+          "name": "Rupperswil",
+          "lang": "es"
+        },
+        {
+          "name": "Rupperswil",
+          "lang": "fr"
+        },
+        {
+          "name": "Rupperswil",
+          "lang": "it"
+        },
+        {
+          "name": "Рупперсвиль",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Rupperswil",
+          "lang": "link"
+        },
+        {
+          "name": "5102",
+          "lang": "post"
+        },
+        {
+          "name": "Rupperswil",
+          "lang": "pt"
+        },
+        {
+          "name": "Рупперсвиль",
+          "lang": "ru"
+        },
+        {
+          "name": "Rupperswil",
+          "lang": "sv"
+        },
+        {
+          "name": "RPP",
+          "lang": "unlc"
+        },
+        {
+          "name": "魯珀斯維爾",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Bezirk Brugg",
+      "name": "Rupperswil",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "populated place",
+      "adminName1": "Aargau"
+    },
+    {
+      "timezone": {
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Zurich",
+        "dstOffset": 2
+      },
+      "bbox": {
+        "east": 7.9440915039961455,
+        "south": 47.30110105996051,
+        "north": 47.32653894003949,
+        "west": 7.906562496003855
+      },
+      "asciiName": "Oftringen",
+      "countryId": "2658434",
+      "fcl": "P",
+      "score": 21.018232345581055,
+      "adminId2": "6458746",
+      "adminId3": "7286733",
+      "countryCode": "CH",
+      "adminId1": "2661876",
+      "lat": "47.31382",
+      "fcode": "PPL",
+      "continentCode": "EU",
+      "adminCode2": "1910",
+      "adminCode3": "4280",
+      "adminCode1": "AG",
+      "lng": "7.92533",
+      "geonameId": 2659303,
+      "toponymName": "Oftringen",
+      "population": 10390,
+      "adminName5": "",
+      "adminName4": "",
+      "adminName3": "Oftringen",
+      "alternateNames": [
+        {
+          "name": "اوفترنژان",
+          "lang": "fa"
+        },
+        {
+          "name": "Офтринген",
+          "lang": "kk"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Oftringen",
+          "lang": "link"
+        },
+        {
+          "name": "4665",
+          "lang": "post"
+        },
+        {
+          "name": "Офтринген",
+          "lang": "ru"
+        },
+        {
+          "name": "OFT",
+          "lang": "unlc"
+        },
+        {
+          "name": "奧夫特林根",
+          "lang": "zh"
+        }
+      ],
+      "adminName2": "Bezirk Zofingen",
+      "name": "Oftringen",
+      "fclName": "city, village,...",
+      "countryName": "Switzerland",
+      "fcodeName": "populated place",
+      "adminName1": "Aargau"
+    }
+  ]
+}
