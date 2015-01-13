@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Östergötland County",
+               "short_name" : "Östergötland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Östergötland County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.01996210000001,
+                  "lng" : 17.0853315
+               },
+               "southwest" : {
+                  "lat" : 57.702259,
+                  "lng" : 14.5409236
+               }
+            },
+            "location" : {
+               "lat" : 58.3453635,
+               "lng" : 15.5197843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.01996210000001,
+                  "lng" : 17.0853315
+               },
+               "southwest" : {
+                  "lat" : 57.702259,
+                  "lng" : 14.5409236
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ölüdeniz",
+               "short_name" : "Ölüdeniz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48300",
+               "short_name" : "48300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48300 Ölüdeniz, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.598071,
+                  "lng" : 29.174036
+               },
+               "southwest" : {
+                  "lat" : 36.540098,
+                  "lng" : 29.107071
+               }
+            },
+            "location" : {
+               "lat" : 36.5800892,
+               "lng" : 29.1448793
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.598071,
+                  "lng" : 29.174036
+               },
+               "southwest" : {
+                  "lat" : 36.540098,
+                  "lng" : 29.107071
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

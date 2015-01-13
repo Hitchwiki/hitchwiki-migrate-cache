@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41000",
+               "short_name" : "41000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "41000 İzmit, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.805401,
+                  "lng" : 30.014834
+               },
+               "southwest" : {
+                  "lat" : 40.736827,
+                  "lng" : 29.8541678
+               }
+            },
+            "location" : {
+               "lat" : 40.775986,
+               "lng" : 29.948357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.805401,
+                  "lng" : 30.014834
+               },
+               "southwest" : {
+                  "lat" : 40.736827,
+                  "lng" : 29.8541678
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

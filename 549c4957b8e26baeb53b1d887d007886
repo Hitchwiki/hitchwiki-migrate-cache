@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Žilina",
+               "short_name" : "Žilina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Žilina District",
+               "short_name" : "Žilina District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Žilina Region",
+               "short_name" : "Žilina Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Žilina, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.27728640000001,
+                  "lng" : 18.8365041
+               },
+               "southwest" : {
+                  "lat" : 49.1630457,
+                  "lng" : 18.6600272
+               }
+            },
+            "location" : {
+               "lat" : 49.2215903,
+               "lng" : 18.7419519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27728640000001,
+                  "lng" : 18.8365041
+               },
+               "southwest" : {
+                  "lat" : 49.1630457,
+                  "lng" : 18.6600272
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Žilina",
+               "short_name" : "Žilina",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Žilina",
+               "short_name" : "Žilina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Žilina District",
+               "short_name" : "Žilina District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Žilina Region",
+               "short_name" : "Žilina Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovakia",
+               "short_name" : "SK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Žilina, Slovakia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.2346653,
+                  "lng" : 18.8014321
+               },
+               "southwest" : {
+                  "lat" : 49.177741,
+                  "lng" : 18.7088642
+               }
+            },
+            "location" : {
+               "lat" : 49.2215056,
+               "lng" : 18.7419549
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2346653,
+                  "lng" : 18.8014321
+               },
+               "southwest" : {
+                  "lat" : 49.177741,
+                  "lng" : 18.7088642
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

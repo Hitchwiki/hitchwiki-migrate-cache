@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Łódź Voivodeship",
+               "short_name" : "Łódź Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Łódź Voivodeship, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3940561,
+                  "lng" : 20.6591903
+               },
+               "southwest" : {
+                  "lat" : 50.8430329,
+                  "lng" : 18.0750521
+               }
+            },
+            "location" : {
+               "lat" : 51.4634771,
+               "lng" : 19.1726974
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3940561,
+                  "lng" : 20.6591903
+               },
+               "southwest" : {
+                  "lat" : 50.8430329,
+                  "lng" : 18.0750521
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

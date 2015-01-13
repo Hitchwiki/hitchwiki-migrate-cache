@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Łódź Voivodeship",
+               "short_name" : "Łódź Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Łódź, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8601374,
+                  "lng" : 19.6399235
+               },
+               "southwest" : {
+                  "lat" : 51.6860984,
+                  "lng" : 19.3212617
+               }
+            },
+            "location" : {
+               "lat" : 51.7592485,
+               "lng" : 19.4559833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8601374,
+                  "lng" : 19.6399235
+               },
+               "southwest" : {
+                  "lat" : 51.6860984,
+                  "lng" : 19.3212617
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

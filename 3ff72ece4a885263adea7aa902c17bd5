@@ -1,0 +1,288 @@
+{
+  "totalResultsCount": 7,
+  "geonames": [
+    {
+      "alternateNames": [
+        {
+          "name": "İzmit",
+          "lang": "en"
+        },
+        {
+          "name": "Kocaeli",
+          "lang": "fr"
+        },
+        {
+          "name": "Izmit",
+          "lang": "hu"
+        },
+        {
+          "name": "Nicomedia",
+          "lang": "it"
+        },
+        {
+          "name": "イズミット",
+          "lang": "ja"
+        },
+        {
+          "name": "http://en.wikipedia.org/wiki/Nicomedia",
+          "lang": "link"
+        },
+        {
+          "name": "Izmit",
+          "lang": "nl"
+        },
+        {
+          "name": "Izmit",
+          "lang": "pl"
+        },
+        {
+          "name": "Измит",
+          "lang": "ru"
+        },
+        {
+          "name": "İzmit",
+          "lang": "tr"
+        },
+        {
+          "name": "KCO",
+          "lang": "unlc"
+        },
+        {
+          "name": "伊兹密特",
+          "lang": "zh-CN"
+        }
+      ],
+      "countryName": "Turkey",
+      "adminCode1": "41",
+      "score": 62.252410888671875,
+      "lng": "29.91694",
+      "adminName2": "",
+      "fcodeName": "seat of a first-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.709532789650176,
+        "east": 29.99281370985283,
+        "north": 40.824356010349824,
+        "west": 29.841075090147168
+      },
+      "name": "İzmit",
+      "fcode": "PPLA",
+      "geonameId": 745028,
+      "asciiName": "Izmit",
+      "lat": "40.76694",
+      "population": 196571,
+      "adminName1": "Kocaeli",
+      "countryId": "298795",
+      "adminId1": "742865",
+      "fclName": "city, village,...",
+      "countryCode": "TR",
+      "toponymName": "İzmit",
+      "fcl": "P",
+      "continentCode": "AS"
+    },
+    {
+      "adminCode2": "9544571",
+      "alternateNames": [{
+        "name": "http://en.wikipedia.org/wiki/%C4%B0zmit",
+        "lang": "link"
+      }],
+      "countryName": "Turkey",
+      "adminCode1": "41",
+      "score": 27.585872650146484,
+      "lng": "29.94624",
+      "adminName2": "İzmit",
+      "fcodeName": "second-order administrative division",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "İzmit",
+      "fcode": "ADM2",
+      "geonameId": 9544571,
+      "asciiName": "Izmit",
+      "lat": "40.77521",
+      "population": 332754,
+      "adminName1": "Kocaeli",
+      "countryId": "298795",
+      "adminId1": "742865",
+      "fclName": "country, state, region,...",
+      "countryCode": "TR",
+      "adminId2": "9544571",
+      "toponymName": "İzmit",
+      "fcl": "A",
+      "continentCode": "AS"
+    },
+    {
+      "countryId": "298795",
+      "adminCode1": "00",
+      "countryName": "Turkey",
+      "cc2": "TR",
+      "fclName": "mountain,hill,rock,... ",
+      "score": 15.92671012878418,
+      "countryCode": "TR",
+      "lng": "29.5",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "peninsula",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "toponymName": "Kocaeli Yarımadası",
+      "adminName5": "",
+      "fcl": "T",
+      "continentCode": "AS",
+      "name": "Kocaeli Yarımadası",
+      "fcode": "PEN",
+      "asciiName": "Kocaeli Yarimadasi",
+      "geonameId": 742864,
+      "lat": "41",
+      "adminName1": "",
+      "population": 0
+    },
+    {
+      "countryName": "Turkey",
+      "adminCode1": "41",
+      "cc2": "TR",
+      "score": 9.195290565490723,
+      "lng": "29.58333",
+      "adminName2": "",
+      "fcodeName": "gulf",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "name": "İzmit Körfezi",
+      "fcode": "GULF",
+      "geonameId": 745027,
+      "asciiName": "Izmit Korfezi",
+      "lat": "40.75",
+      "population": 0,
+      "adminName1": "Kocaeli",
+      "countryId": "298795",
+      "adminId1": "742865",
+      "fclName": "stream, lake, ...",
+      "countryCode": "TR",
+      "toponymName": "İzmit Körfezi",
+      "fcl": "H",
+      "continentCode": "AS"
+    },
+    {
+      "adminId1": "76183",
+      "countryId": "69543",
+      "adminCode1": "11",
+      "countryName": "Yemen",
+      "fclName": "stream, lake, ...",
+      "score": 4.063782215118408,
+      "countryCode": "YE",
+      "lng": "44.23929",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "wadi",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 3,
+        "timeZoneId": "Asia/Aden"
+      },
+      "toponymName": "Sā’ilat ‘Iz̧miţ",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "AS",
+      "name": "Sā’ilat ‘Iz̧miţ",
+      "fcode": "WAD",
+      "asciiName": "Sa'ilat `Izmit",
+      "geonameId": 7361536,
+      "lat": "14.69276",
+      "adminName1": "Dhamār",
+      "population": 0
+    },
+    {
+      "adminId1": "742865",
+      "countryId": "298795",
+      "adminCode1": "41",
+      "countryName": "Turkey",
+      "fclName": "stream, lake, ...",
+      "score": 3.2847163677215576,
+      "countryCode": "TR",
+      "lng": "29.86667",
+      "adminName2": "",
+      "adminName3": "",
+      "fcodeName": "bay",
+      "adminName4": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "toponymName": "İzmit Limanı",
+      "adminName5": "",
+      "fcl": "H",
+      "continentCode": "AS",
+      "name": "İzmit Limanı",
+      "fcode": "BAY",
+      "asciiName": "Izmit Limani",
+      "geonameId": 864212,
+      "lat": "40.73889",
+      "adminName1": "Kocaeli",
+      "population": 0
+    },
+    {
+      "alternateNames": [{
+        "name": "Gündoğdu",
+        "lang": "tr"
+      }],
+      "countryName": "Turkey",
+      "adminCode1": "41",
+      "score": 2.8154711723327637,
+      "lng": "29.95946",
+      "adminName2": "",
+      "fcodeName": "section of populated place",
+      "adminName3": "",
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Istanbul"
+      },
+      "adminName4": "",
+      "adminName5": "",
+      "bbox": {
+        "south": 40.766568540499435,
+        "east": 29.964212412400556,
+        "north": 40.77376345950057,
+        "west": 29.95471158759944
+      },
+      "name": "Gündoğdu",
+      "fcode": "PPLX",
+      "geonameId": 746378,
+      "asciiName": "Gundogdu",
+      "lat": "40.77017",
+      "population": 0,
+      "adminName1": "Kocaeli",
+      "countryId": "298795",
+      "adminId1": "742865",
+      "fclName": "city, village,...",
+      "countryCode": "TR",
+      "toponymName": "Gündoğdu",
+      "fcl": "P",
+      "continentCode": "AS"
+    }
+  ]
+}

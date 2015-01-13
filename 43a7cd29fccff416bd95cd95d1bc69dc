@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çardak",
+               "short_name" : "Çardak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Çardak",
+               "short_name" : "Çardak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denizli",
+               "short_name" : "Denizli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Çardak/Denizli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.832758,
+                  "lng" : 29.6880502
+               },
+               "southwest" : {
+                  "lat" : 37.819854,
+                  "lng" : 29.662299
+               }
+            },
+            "location" : {
+               "lat" : 37.8262544,
+               "lng" : 29.6701969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.832758,
+                  "lng" : 29.6880502
+               },
+               "southwest" : {
+                  "lat" : 37.819854,
+                  "lng" : 29.662299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

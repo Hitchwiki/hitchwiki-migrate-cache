@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Örnsköldsvik",
+               "short_name" : "Örnsköldsvik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Örnsköldsvik",
+               "short_name" : "Örnsköldsvik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västernorrland County",
+               "short_name" : "Västernorrland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Örnsköldsvik, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.32695699999999,
+                  "lng" : 18.7993949
+               },
+               "southwest" : {
+                  "lat" : 63.239483,
+                  "lng" : 18.5708369
+               }
+            },
+            "location" : {
+               "lat" : 63.29004740000001,
+               "lng" : 18.7166166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.32695699999999,
+                  "lng" : 18.7993949
+               },
+               "southwest" : {
+                  "lat" : 63.239483,
+                  "lng" : 18.5708369
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

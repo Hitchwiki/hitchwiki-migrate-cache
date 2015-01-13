@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Örebro County",
+               "short_name" : "Örebro County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Örebro County, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.1056601,
+                  "lng" : 15.7880099
+               },
+               "southwest" : {
+                  "lat" : 58.6566057,
+                  "lng" : 14.243871
+               }
+            },
+            "location" : {
+               "lat" : 59.535036,
+               "lng" : 15.0065731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.1056601,
+                  "lng" : 15.7880099
+               },
+               "southwest" : {
+                  "lat" : 58.6566057,
+                  "lng" : 14.243871
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

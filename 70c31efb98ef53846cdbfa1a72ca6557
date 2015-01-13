@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lomza",
+               "short_name" : "Lomza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Łomża",
+               "short_name" : "Gmina Łomża",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Łomża County",
+               "short_name" : "Łomża County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podlaskie Voivodeship",
+               "short_name" : "Podlaskie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lomza, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1926566,
+                  "lng" : 22.1051914
+               },
+               "southwest" : {
+                  "lat" : 53.1458117,
+                  "lng" : 22.0112514
+               }
+            },
+            "location" : {
+               "lat" : 53.1781197,
+               "lng" : 22.0590321
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1926566,
+                  "lng" : 22.1051914
+               },
+               "southwest" : {
+                  "lat" : 53.1458117,
+                  "lng" : 22.0112514
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
