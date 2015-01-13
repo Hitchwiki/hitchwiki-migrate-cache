@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Åmål",
+               "short_name" : "Åmål",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Åmål",
+               "short_name" : "Åmål",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västra Götaland County",
+               "short_name" : "Västra Götaland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Åmål, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.07592210000001,
+                  "lng" : 12.723915
+               },
+               "southwest" : {
+                  "lat" : 59.02733600000001,
+                  "lng" : 12.6741189
+               }
+            },
+            "location" : {
+               "lat" : 59.05111699999999,
+               "lng" : 12.6977323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.07592210000001,
+                  "lng" : 12.723915
+               },
+               "southwest" : {
+                  "lat" : 59.02733600000001,
+                  "lng" : 12.6741189
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

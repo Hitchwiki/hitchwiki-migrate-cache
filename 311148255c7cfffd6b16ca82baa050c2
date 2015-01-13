@@ -1,0 +1,209 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Station de taxi",
+               "short_name" : "Station de taxi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sfax",
+               "short_name" : "Sfax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sfax Sud",
+               "short_name" : "Sfax Sud",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sfax",
+               "short_name" : "Sfax",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Station de taxi, Sfax, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.73375910000001,
+                  "lng" : 10.7607192
+               },
+               "southwest" : {
+                  "lat" : 34.7333502,
+                  "lng" : 10.7598987
+               }
+            },
+            "location" : {
+               "lat" : 34.73375910000001,
+               "lng" : 10.7606336
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.73490363029151,
+                  "lng" : 10.7616579302915
+               },
+               "southwest" : {
+                  "lat" : 34.73220566970851,
+                  "lng" : 10.7589599697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taxi",
+               "short_name" : "Taxi",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale Cento Fiori",
+               "short_name" : "Viale Cento Fiori",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montelupo Fiorentino",
+               "short_name" : "Montelupo Fiorentino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montelupo Fiorentino",
+               "short_name" : "Montelupo Fiorentino",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Firenze",
+               "short_name" : "FI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50056",
+               "short_name" : "50056",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taxi, Viale Cento Fiori, 10, 50056 Montelupo fiorentino FI, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7306877,
+               "lng" : 11.0188266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7320366802915,
+                  "lng" : 11.0201755802915
+               },
+               "southwest" : {
+                  "lat" : 43.7293387197085,
+                  "lng" : 11.0174776197085
+               }
+            }
+         },
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taxi",
+               "short_name" : "Taxi",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Vittorio Emanuele",
+               "short_name" : "Piazza Vittorio Emanuele",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Monreale",
+               "short_name" : "Monreale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monreale",
+               "short_name" : "Monreale",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90046",
+               "short_name" : "90046",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taxi, Piazza Vittorio Emanuele, 12, 90046 Monreale PA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0821437,
+               "lng" : 13.2917503
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.08349268029149,
+                  "lng" : 13.2930992802915
+               },
+               "southwest" : {
+                  "lat" : 38.0807947197085,
+                  "lng" : 13.2904013197085
+               }
+            }
+         },
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

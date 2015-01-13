@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torugart Pass",
+               "short_name" : "Torugart Pass",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "At-Bashi District",
+               "short_name" : "At-Bashi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Naryn Province",
+               "short_name" : "Naryn Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torugart Pass, Kyrgyzstan",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.583333,
+               "lng" : 75.41666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5918065,
+                  "lng" : 75.4326744
+               },
+               "southwest" : {
+                  "lat" : 40.5748584,
+                  "lng" : 75.4006596
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

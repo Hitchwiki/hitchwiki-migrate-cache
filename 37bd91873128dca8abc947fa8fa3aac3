@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Courmayeur",
+               "short_name" : "Courmayeur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Courmayeur",
+               "short_name" : "Courmayeur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valle d'Aosta",
+               "short_name" : "AO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle d'Aosta",
+               "short_name" : "Valle d'Aosta",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Courmayeur AO, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.81091560000001,
+                  "lng" : 6.9798458
+               },
+               "southwest" : {
+                  "lat" : 45.7815176,
+                  "lng" : 6.961157999999999
+               }
+            },
+            "location" : {
+               "lat" : 45.7969221,
+               "lng" : 6.968962599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.81091560000001,
+                  "lng" : 6.9798458
+               },
+               "southwest" : {
+                  "lat" : 45.7815176,
+                  "lng" : 6.961157999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

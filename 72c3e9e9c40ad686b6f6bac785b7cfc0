@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mestia",
+               "short_name" : "Mestia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Samegrelo-Zemo Svaneti",
+               "short_name" : "Samegrelo-Zemo Svaneti",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mestia, Georgia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0626172,
+                  "lng" : 42.7510643
+               },
+               "southwest" : {
+                  "lat" : 43.0261099,
+                  "lng" : 42.6669074
+               }
+            },
+            "location" : {
+               "lat" : 43.0425393,
+               "lng" : 42.7168385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0626172,
+                  "lng" : 42.7510643
+               },
+               "southwest" : {
+                  "lat" : 43.0261099,
+                  "lng" : 42.6669074
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

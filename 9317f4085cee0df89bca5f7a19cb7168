@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matsumoto",
+               "short_name" : "Matsumoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nagano Prefecture",
+               "short_name" : "Nagano Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matsumoto, Nagano Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.37950379999999,
+                  "lng" : 138.1311163
+               },
+               "southwest" : {
+                  "lat" : 36.0096058,
+                  "lng" : 137.55083
+               }
+            },
+            "location" : {
+               "lat" : 36.2380381,
+               "lng" : 137.9720341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.37950379999999,
+                  "lng" : 138.1311163
+               },
+               "southwest" : {
+                  "lat" : 36.0096058,
+                  "lng" : 137.55083
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

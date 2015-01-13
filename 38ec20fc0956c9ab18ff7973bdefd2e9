@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Cook",
+               "short_name" : "Mount Cook",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Aoraki/Mount Cook National Park",
+               "short_name" : "Aoraki/Mount Cook National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7999",
+               "short_name" : "7999",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mount Cook, Aoraki/Mount Cook National Park, Canterbury 7999, New Zealand",
+         "geometry" : {
+            "location" : {
+               "lat" : -43.595,
+               "lng" : 170.1416666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.5303175,
+                  "lng" : 170.269726
+               },
+               "southwest" : {
+                  "lat" : -43.6596131,
+                  "lng" : 170.0136072
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

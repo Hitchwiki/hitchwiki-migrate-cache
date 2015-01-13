@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pitsunda",
+               "short_name" : "Pitsunda",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Pitsunda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1733231,
+                  "lng" : 40.3731252
+               },
+               "southwest" : {
+                  "lat" : 43.1465265,
+                  "lng" : 40.313325
+               }
+            },
+            "location" : {
+               "lat" : 43.1659836,
+               "lng" : 40.344164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1733231,
+                  "lng" : 40.3731252
+               },
+               "southwest" : {
+                  "lat" : 43.1465265,
+                  "lng" : 40.313325
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

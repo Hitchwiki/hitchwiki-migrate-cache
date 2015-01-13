@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Issyk Kul",
+               "short_name" : "Issyk Kul",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Ysyk Kol Province",
+               "short_name" : "Ysyk Kol Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kyrgyzstan",
+               "short_name" : "KG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Issyk Kul, Kyrgyzstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.77004489999999,
+                  "lng" : 78.32739409999999
+               },
+               "southwest" : {
+                  "lat" : 42.1541366,
+                  "lng" : 76.1834846
+               }
+            },
+            "location" : {
+               "lat" : 42.3882639,
+               "lng" : 77.2864879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.77004489999999,
+                  "lng" : 78.32739409999999
+               },
+               "southwest" : {
+                  "lat" : 42.1541366,
+                  "lng" : 76.1834846
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brenner Pass",
+               "short_name" : "Brenner Pass",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Brenner",
+               "short_name" : "Brenner",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bolzano",
+               "short_name" : "BZ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trentino-Alto Adige/South Tyrol",
+               "short_name" : "Trentino-Alto Adige/South Tyrol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39041",
+               "short_name" : "39041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brenner Pass, 39041 Brenner, Bolzano, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.003333,
+               "lng" : 11.5075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0109417,
+                  "lng" : 11.5235074
+               },
+               "southwest" : {
+                  "lat" : 46.9957232,
+                  "lng" : 11.4914926
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

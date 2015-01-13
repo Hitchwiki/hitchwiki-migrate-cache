@@ -1,0 +1,315 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ely, Ely, Cambridgeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4225278,
+                  "lng" : 0.3344561
+               },
+               "southwest" : {
+                  "lat" : 52.3634287,
+                  "lng" : 0.2163658
+               }
+            },
+            "location" : {
+               "lat" : 52.399539,
+               "lng" : 0.262363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4225278,
+                  "lng" : 0.3344561
+               },
+               "southwest" : {
+                  "lat" : 52.3634287,
+                  "lng" : 0.2163658
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55731",
+               "short_name" : "55731",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ely, MN 55731, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.91895299999999,
+                  "lng" : -91.83008
+               },
+               "southwest" : {
+                  "lat" : 47.8902499,
+                  "lng" : -91.8807867
+               }
+            },
+            "location" : {
+               "lat" : 47.9032372,
+               "lng" : -91.86708729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.91895299999999,
+                  "lng" : -91.83008
+               },
+               "southwest" : {
+                  "lat" : 47.8902499,
+                  "lng" : -91.8807867
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "White Pine County",
+               "short_name" : "White Pine County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89301",
+               "short_name" : "89301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ely, NV 89301, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3095019,
+                  "lng" : -114.845162
+               },
+               "southwest" : {
+                  "lat" : 39.229369,
+                  "lng" : -114.900767
+               }
+            },
+            "location" : {
+               "lat" : 39.2474393,
+               "lng" : -114.8886296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3095019,
+                  "lng" : -114.845162
+               },
+               "southwest" : {
+                  "lat" : 39.229369,
+                  "lng" : -114.900767
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Putnam",
+               "short_name" : "Putnam",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Linn County",
+               "short_name" : "Linn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52227",
+               "short_name" : "52227",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ely, IA 52227, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.886446,
+                  "lng" : -91.5679871
+               },
+               "southwest" : {
+                  "lat" : 41.864183,
+                  "lng" : -91.60170189999999
+               }
+            },
+            "location" : {
+               "lat" : 41.8736182,
+               "lng" : -91.58517499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.886446,
+                  "lng" : -91.5679871
+               },
+               "southwest" : {
+                  "lat" : 41.864183,
+                  "lng" : -91.60170189999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ely Airport",
+               "short_name" : "Ely Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1472",
+               "short_name" : "1472",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "McGill Street",
+               "short_name" : "McGill Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "White Pine County",
+               "short_name" : "White Pine County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89315",
+               "short_name" : "89315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ely Airport (ELY), Ely Airport, 1472 McGill Street, Ely, NV 89315, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.310876,
+                  "lng" : -114.8330073
+               },
+               "southwest" : {
+                  "lat" : 39.2890387,
+                  "lng" : -114.8569647
+               }
+            },
+            "location" : {
+               "lat" : 39.2994735,
+               "lng" : -114.834786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.310876,
+                  "lng" : -114.8330073
+               },
+               "southwest" : {
+                  "lat" : 39.2890387,
+                  "lng" : -114.8569647
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

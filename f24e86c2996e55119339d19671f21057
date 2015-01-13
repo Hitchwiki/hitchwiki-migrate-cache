@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hisarya",
+               "short_name" : "Hisarya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hisarya",
+               "short_name" : "Hisarya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4180",
+               "short_name" : "4180",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4180 Hisarya, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5262233,
+                  "lng" : 24.730883
+               },
+               "southwest" : {
+                  "lat" : 42.4815079,
+                  "lng" : 24.6855759
+               }
+            },
+            "location" : {
+               "lat" : 42.5043656,
+               "lng" : 24.7062087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5262233,
+                  "lng" : 24.730883
+               },
+               "southwest" : {
+                  "lat" : 42.4815079,
+                  "lng" : 24.6855759
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

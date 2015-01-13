@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Sea",
+               "short_name" : "North Sea",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "North Sea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.117848,
+                  "lng" : 9.0103714
+               },
+               "southwest" : {
+                  "lat" : 50.9838639,
+                  "lng" : -4.0128295
+               }
+            },
+            "location" : {
+               "lat" : 56.511018,
+               "lng" : 3.515625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.117848,
+                  "lng" : 9.0103714
+               },
+               "southwest" : {
+                  "lat" : 50.9838639,
+                  "lng" : -4.0128295
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

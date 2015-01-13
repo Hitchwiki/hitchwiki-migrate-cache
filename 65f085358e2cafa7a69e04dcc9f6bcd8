@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pacific Ocean",
+               "short_name" : "Pacific Ocean",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Pacific Ocean",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.17546900000001,
+                  "lng" : -66.51908109999999
+               },
+               "southwest" : {
+                  "lat" : -85.5827637,
+                  "lng" : 128.576489
+               }
+            },
+            "location" : {
+               "lat" : -8.783194999999999,
+               "lng" : -124.508523
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.17546900000001,
+                  "lng" : -66.51908109999999
+               },
+               "southwest" : {
+                  "lat" : -77.82257850000001,
+                  "lng" : 128.576489
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

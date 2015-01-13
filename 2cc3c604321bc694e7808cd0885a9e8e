@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Earth",
+               "short_name" : "Earth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lamb County",
+               "short_name" : "Lamb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79031",
+               "short_name" : "79031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Earth, TX 79031, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2476349,
+                  "lng" : -102.384555
+               },
+               "southwest" : {
+                  "lat" : 34.225743,
+                  "lng" : -102.419618
+               }
+            },
+            "location" : {
+               "lat" : 34.2331373,
+               "lng" : -102.4107493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2476349,
+                  "lng" : -102.384555
+               },
+               "southwest" : {
+                  "lat" : 34.225743,
+                  "lng" : -102.419618
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baltic Sea",
+               "short_name" : "Baltic Sea",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Baltic Sea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.5910945,
+                  "lng" : 30.23889089999999
+               },
+               "southwest" : {
+                  "lat" : 53.8948619,
+                  "lng" : 9.496664299999999
+               }
+            },
+            "location" : {
+               "lat" : 58.48795200000001,
+               "lng" : 19.863281
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.5910945,
+                  "lng" : 30.23889089999999
+               },
+               "southwest" : {
+                  "lat" : 53.8948619,
+                  "lng" : 9.496664299999999
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

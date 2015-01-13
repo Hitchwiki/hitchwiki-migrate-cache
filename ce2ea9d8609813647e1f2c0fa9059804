@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Funen",
+               "short_name" : "Funen",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Funen, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6231477,
+                  "lng" : 10.8565127
+               },
+               "southwest" : {
+                  "lat" : 55.0266179,
+                  "lng" : 9.6773899
+               }
+            },
+            "location" : {
+               "lat" : 55.3290605,
+               "lng" : 10.2352908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6231477,
+                  "lng" : 10.8565127
+               },
+               "southwest" : {
+                  "lat" : 55.0266179,
+                  "lng" : 9.6773899
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

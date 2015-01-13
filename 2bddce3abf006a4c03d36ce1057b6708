@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roudbar Alamout",
+               "short_name" : "Roudbar Alamout",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Qazvin",
+               "short_name" : "Qazvin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alamut, Qazvin, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.6835634,
+                  "lng" : 50.8816338
+               },
+               "southwest" : {
+                  "lat" : 36.2885286,
+                  "lng" : 49.85321039999999
+               }
+            },
+            "location" : {
+               "lat" : 36.48421769999999,
+               "lng" : 50.3894858
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.6835634,
+                  "lng" : 50.8816338
+               },
+               "southwest" : {
+                  "lat" : 36.2885286,
+                  "lng" : 49.85321039999999
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edward G. Pitka Sr. Airport",
+               "short_name" : "Edward G. Pitka Sr. Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "900",
+               "short_name" : "900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Airport Road",
+               "short_name" : "Airport Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Galena",
+               "short_name" : "Galena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yukon-Koyukuk",
+               "short_name" : "Yukon-Koyukuk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99741",
+               "short_name" : "99741",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Edward G. Pitka Sr. Airport (GAL), 900 Airport Road, Galena, AK 99741, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.7389075,
+                  "lng" : -156.9120438
+               },
+               "southwest" : {
+                  "lat" : 64.7354912,
+                  "lng" : -156.9606161
+               }
+            },
+            "location" : {
+               "lat" : 64.737027,
+               "lng" : -156.952618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.7389075,
+                  "lng" : -156.9120438
+               },
+               "southwest" : {
+                  "lat" : 64.7354912,
+                  "lng" : -156.9606161
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shoulder",
+               "short_name" : "Shoulder",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Bowling Green Bay National Park",
+               "short_name" : "Bowling Green Bay National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Mount Elliot",
+               "short_name" : "Mount Elliot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Townsville",
+               "short_name" : "Townsville",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4816",
+               "short_name" : "4816",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shoulder, Bowling Green Bay National Park, Mount Elliot QLD 4816, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -19.5333333,
+               "lng" : 147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.4912646,
+                  "lng" : 147.0640297
+               },
+               "southwest" : {
+                  "lat" : -19.5753911,
+                  "lng" : 146.9359703
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shoulder",
+               "short_name" : "Shoulder",
+               "types" : []
+            },
+            {
+               "long_name" : "Uinta-Wasatch-Cache National Forest",
+               "short_name" : "Uinta-Wasatch-Cache National Forest",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84121",
+               "short_name" : "84121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shoulder, Uinta-Wasatch-Cache National Forest, Utah 84121, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5912997,
+                  "lng" : -111.5782552
+               },
+               "southwest" : {
+                  "lat" : 40.5904854,
+                  "lng" : -111.5803509
+               }
+            },
+            "location" : {
+               "lat" : 40.5908926,
+               "lng" : -111.579303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5922415302915,
+                  "lng" : -111.5779540697085
+               },
+               "southwest" : {
+                  "lat" : 40.5895435697085,
+                  "lng" : -111.5806520302915
+               }
+            }
+         },
+         "types" : []
+      }
+   ],
+   "status" : "OK"
+}

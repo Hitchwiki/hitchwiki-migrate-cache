@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sossusvlei",
+               "short_name" : "Sossusvlei",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Namib-Naukluft National Park",
+               "short_name" : "Namib-Naukluft National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hardap",
+               "short_name" : "Hardap",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Namibia",
+               "short_name" : "NA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sossusvlei, Namib-Naukluft National Park, Namibia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.712724,
+                  "lng" : 15.3788424
+               },
+               "southwest" : {
+                  "lat" : -24.77752,
+                  "lng" : 15.2620696
+               }
+            },
+            "location" : {
+               "lat" : -24.7350069,
+               "lng" : 15.3248269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.712724,
+                  "lng" : 15.3788424
+               },
+               "southwest" : {
+                  "lat" : -24.77752,
+                  "lng" : 15.2620696
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

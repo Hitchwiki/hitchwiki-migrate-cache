@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Easter Island",
+               "short_name" : "Easter Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Easter Island, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.058699,
+                  "lng" : -109.229095
+               },
+               "southwest" : {
+                  "lat" : -27.202959,
+                  "lng" : -109.455894
+               }
+            },
+            "location" : {
+               "lat" : -27.1211919,
+               "lng" : -109.3664237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.058699,
+                  "lng" : -109.229095
+               },
+               "southwest" : {
+                  "lat" : -27.202959,
+                  "lng" : -109.455894
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

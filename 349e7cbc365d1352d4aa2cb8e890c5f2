@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Engadin",
+               "short_name" : "Engadin",
+               "types" : [ "colloquial_area", "political" ]
+            }
+         ],
+         "formatted_address" : "Engadin",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.73280159999999,
+                  "lng" : 10.2680969
+               },
+               "southwest" : {
+                  "lat" : 46.3346026,
+                  "lng" : 9.670200399999999
+               }
+            },
+            "location" : {
+               "lat" : 46.650234,
+               "lng" : 10.0287409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.73280159999999,
+                  "lng" : 10.2680969
+               },
+               "southwest" : {
+                  "lat" : 46.3346026,
+                  "lng" : 9.670200399999999
+               }
+            }
+         },
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Engadin Apotheke",
+               "short_name" : "Engadin Apotheke",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Neurieder Straße",
+               "short_name" : "Neurieder Str.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+               "short_name" : "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "München",
+               "short_name" : "M",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oberbayern",
+               "short_name" : "Oberbayern",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bayern",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81475",
+               "short_name" : "81475",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Engadin Apotheke, Neurieder Straße 16, 81475 München, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.0873458,
+               "lng" : 11.4845688
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0886947802915,
+                  "lng" : 11.4859177802915
+               },
+               "southwest" : {
+                  "lat" : 48.08599681970851,
+                  "lng" : 11.4832198197085
+               }
+            }
+         },
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

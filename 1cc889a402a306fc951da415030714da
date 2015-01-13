@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Davis",
+               "short_name" : "Davis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yolo County",
+               "short_name" : "Yolo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Davis, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.578756,
+                  "lng" : -121.6756133
+               },
+               "southwest" : {
+                  "lat" : 38.534878,
+                  "lng" : -121.7942741
+               }
+            },
+            "location" : {
+               "lat" : 38.5449065,
+               "lng" : -121.7405167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.578756,
+                  "lng" : -121.6756133
+               },
+               "southwest" : {
+                  "lat" : 38.534878,
+                  "lng" : -121.7942741
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

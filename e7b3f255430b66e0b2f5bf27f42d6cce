@@ -1,0 +1,270 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mytikas",
+               "short_name" : "Mytikas",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Olimpos",
+               "short_name" : "Olimpos",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Elassona",
+               "short_name" : "Elassona",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Larissa",
+               "short_name" : "Larissa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "402 00",
+               "short_name" : "402 00",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mytikas, Olimpos 402 00, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0857221,
+               "lng" : 22.3585296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1027935,
+                  "lng" : 22.3905444
+               },
+               "southwest" : {
+                  "lat" : 40.0686464,
+                  "lng" : 22.3265148
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olympos",
+               "short_name" : "Olympos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olimpos",
+               "short_name" : "Olimpos",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Karpathos",
+               "short_name" : "Karpathos",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Karpathos",
+               "short_name" : "Karpathos",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Notio Aigaio",
+               "short_name" : "Notio Aigaio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Egeo",
+               "short_name" : "Egeo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "857 00",
+               "short_name" : "857 00",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Olympos 857 00, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7427906,
+                  "lng" : 27.1814107
+               },
+               "southwest" : {
+                  "lat" : 35.7373269,
+                  "lng" : 27.1702629
+               }
+            },
+            "location" : {
+               "lat" : 35.7406819,
+               "lng" : 27.1733129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7427906,
+                  "lng" : 27.1814107
+               },
+               "southwest" : {
+                  "lat" : 35.7373269,
+                  "lng" : 27.1702629
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Olympos",
+               "short_name" : "Mount Olympos",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Troodos",
+               "short_name" : "Troodos",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Limassol",
+               "short_name" : "Limassol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cyprus",
+               "short_name" : "CY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mount Olympos, Troodos, Cyprus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.9391804,
+                  "lng" : 32.8651714
+               },
+               "southwest" : {
+                  "lat" : 34.9357634,
+                  "lng" : 32.8598286
+               }
+            },
+            "location" : {
+               "lat" : 34.9366412,
+               "lng" : 32.8637965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.9391804,
+                  "lng" : 32.8651714
+               },
+               "southwest" : {
+                  "lat" : 34.9357634,
+                  "lng" : 32.8598286
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olympos",
+               "short_name" : "Olympos",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Skiros",
+               "short_name" : "Skiros",
+               "types" : [ "administrative_area_level_5", "political" ]
+            },
+            {
+               "long_name" : "Skyros",
+               "short_name" : "Skyros",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Evia",
+               "short_name" : "Evia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "340 07",
+               "short_name" : "340 07",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Olympos, Skiros 340 07, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9166667,
+               "lng" : 24.5166667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9180156802915,
+                  "lng" : 24.5180156802915
+               },
+               "southwest" : {
+                  "lat" : 38.9153177197085,
+                  "lng" : 24.5153177197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ziya Tepe",
+               "short_name" : "Ziya Tepe",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Tatlısu",
+               "short_name" : "Tatlısu",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Ziya Tepe, Tatlısu",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.3541667,
+               "lng" : 33.7458333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3555156802915,
+                  "lng" : 33.7471822802915
+               },
+               "southwest" : {
+                  "lat" : 35.3528177197085,
+                  "lng" : 33.7444843197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Modane",
+               "short_name" : "Modane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Savoie",
+               "short_name" : "73",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Modane, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.281397,
+                  "lng" : 6.7145939
+               },
+               "southwest" : {
+                  "lat" : 45.1093301,
+                  "lng" : 6.576444899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.201491,
+               "lng" : 6.67292
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.281397,
+                  "lng" : 6.7145939
+               },
+               "southwest" : {
+                  "lat" : 45.1093301,
+                  "lng" : 6.576444899999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

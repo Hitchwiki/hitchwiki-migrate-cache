@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Louise",
+               "short_name" : "Lake Louise",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Improvement District No. 9",
+               "short_name" : "Improvement District No. 9",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 15",
+               "short_name" : "Division No. 15",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T0L",
+               "short_name" : "T0L",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lake Louise, AB T0L, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4253851,
+               "lng" : -116.1773193
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4323419,
+                  "lng" : -116.1613119
+               },
+               "southwest" : {
+                  "lat" : 51.4184272,
+                  "lng" : -116.1933267
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

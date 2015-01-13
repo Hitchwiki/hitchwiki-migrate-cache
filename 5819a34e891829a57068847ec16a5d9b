@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Home Counties Design",
+               "short_name" : "Home Counties Design",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Banstead Road South",
+               "short_name" : "Banstead Rd S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Carshalton",
+               "short_name" : "Carshalton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sutton",
+               "short_name" : "Sutton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SM2 5LF",
+               "short_name" : "SM2 5LF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Home Counties Design, 12 Banstead Road South, Carshalton, Sutton, Greater London SM2 5LF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3498721,
+               "lng" : -0.1796128
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3512210802915,
+                  "lng" : -0.178263819708498
+               },
+               "southwest" : {
+                  "lat" : 51.3485231197085,
+                  "lng" : -0.180961780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Home Counties Toilet Hire",
+               "short_name" : "Home Counties Toilet Hire",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Fairfield Farm",
+               "short_name" : "Fairfield Farm",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Newton Road",
+               "short_name" : "Newton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stoke Hammond",
+               "short_name" : "Stoke Hammond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Buckinghamshire",
+               "short_name" : "Buckinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "MK17 9DE",
+               "short_name" : "MK17 9DE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Home Counties Toilet Hire, Fairfield Farm, Newton Road, Stoke Hammond, Milton Keynes, Buckinghamshire MK17 9DE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.9573376,
+               "lng" : -0.7214969
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9586865802915,
+                  "lng" : -0.720147919708498
+               },
+               "southwest" : {
+                  "lat" : 51.9559886197085,
+                  "lng" : -0.7228458802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

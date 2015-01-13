@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sinai Peninsula",
+               "short_name" : "Sinai Peninsula",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Qesm Nwebaa",
+               "short_name" : "Qesm Nwebaa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Sinai Governorate",
+               "short_name" : "South Sinai Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sinai Peninsula, Qesm Nwebaa, South Sinai Governorate, Egypt",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.5,
+               "lng" : 34
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1196154,
+                  "lng" : 35.0244751
+               },
+               "southwest" : {
+                  "lat" : 28.8765702,
+                  "lng" : 32.9755249
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

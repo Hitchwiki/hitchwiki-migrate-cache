@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stonehenge",
+               "short_name" : "Stonehenge",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Amesbury",
+               "short_name" : "Amesbury",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SP4 7DE",
+               "short_name" : "SP4 7DE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stonehenge, Amesbury, Wiltshire SP4 7DE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1788823,
+               "lng" : -1.8262155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.18023128029149,
+                  "lng" : -1.824866519708498
+               },
+               "southwest" : {
+                  "lat" : 51.1775333197085,
+                  "lng" : -1.827564480291502
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

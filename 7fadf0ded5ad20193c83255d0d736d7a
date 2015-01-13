@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peel",
+               "short_name" : "Peel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin",
+               "short_name" : "Franklin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion County",
+               "short_name" : "Marion County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "72668",
+               "short_name" : "72668",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peel, AR 72668, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.4322891,
+               "lng" : -92.76877999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4412658,
+                  "lng" : -92.7527726
+               },
+               "southwest" : {
+                  "lat" : 36.4233113,
+                  "lng" : -92.7847874
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

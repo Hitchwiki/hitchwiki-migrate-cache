@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hood River",
+               "short_name" : "Hood River",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hood River County",
+               "short_name" : "Hood River County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97031",
+               "short_name" : "97031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hood River, OR 97031, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.71922050000001,
+                  "lng" : -121.4957364
+               },
+               "southwest" : {
+                  "lat" : 45.692881,
+                  "lng" : -121.566086
+               }
+            },
+            "location" : {
+               "lat" : 45.7053966,
+               "lng" : -121.5214623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.71922050000001,
+                  "lng" : -121.4957364
+               },
+               "southwest" : {
+                  "lat" : 45.692881,
+                  "lng" : -121.566086
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

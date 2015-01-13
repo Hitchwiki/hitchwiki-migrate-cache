@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vardenis",
+               "short_name" : "Vardenis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gegharkunik",
+               "short_name" : "Gegharkunik",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "AM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vardenis, Armenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2037882,
+                  "lng" : 45.76003069999999
+               },
+               "southwest" : {
+                  "lat" : 40.1664124,
+                  "lng" : 45.709219
+               }
+            },
+            "location" : {
+               "lat" : 40.180556,
+               "lng" : 45.72
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2037882,
+                  "lng" : 45.76003069999999
+               },
+               "southwest" : {
+                  "lat" : 40.1664124,
+                  "lng" : 45.709219
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

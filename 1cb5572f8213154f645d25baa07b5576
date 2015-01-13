@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kilpisjärvi",
+               "short_name" : "Kilpisjärvi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enontekiö",
+               "short_name" : "Enontekiö",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99490",
+               "short_name" : "99490",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "99490 Kilpisjärvi, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 69.0442888,
+               "lng" : 20.8032994
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.04827899999999,
+                  "lng" : 20.8193068
+               },
+               "southwest" : {
+                  "lat" : 69.04029779999999,
+                  "lng" : 20.787292
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

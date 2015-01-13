@@ -1,0 +1,271 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zorgboerderij het Gooi",
+               "short_name" : "Zorgboerderij het Gooi",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Egelshoek",
+               "short_name" : "Egelshoek",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hilversum",
+               "short_name" : "Hilversum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hilversum",
+               "short_name" : "Hilversum",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1213 RC",
+               "short_name" : "1213 RC",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zorgboerderij het Gooi, Egelshoek 7, 1213 RC Hilversum, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1824723,
+               "lng" : 5.1502567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1838212802915,
+                  "lng" : 5.151605680291502
+               },
+               "southwest" : {
+                  "lat" : 52.1811233197085,
+                  "lng" : 5.148907719708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Het Gooipad",
+               "short_name" : "Het Gooipad",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Son",
+               "short_name" : "Son",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Son en Breugel",
+               "short_name" : "Son en Breugel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5691",
+               "short_name" : "5691",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Het Gooipad, 5691 Son, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.525849,
+                  "lng" : 5.4750136
+               },
+               "southwest" : {
+                  "lat" : 51.5253096,
+                  "lng" : 5.474495399999999
+               }
+            },
+            "location" : {
+               "lat" : 51.5255793,
+               "lng" : 5.4749061
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5269282802915,
+                  "lng" : 5.476103480291501
+               },
+               "southwest" : {
+                  "lat" : 51.5242303197085,
+                  "lng" : 5.473405519708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ISK Het Gooi",
+               "short_name" : "ISK Het Gooi",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "113",
+               "short_name" : "113",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amersfoortsestraatweg",
+               "short_name" : "Amersfoortsestraatweg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laren Nh",
+               "short_name" : "Laren Nh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laren",
+               "short_name" : "Laren",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1251 AV",
+               "short_name" : "1251 AV",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ISK Het Gooi, Amersfoortsestraatweg 113, 1251 AV Laren Nh, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2663459,
+               "lng" : 5.2043215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2676948802915,
+                  "lng" : 5.205670480291502
+               },
+               "southwest" : {
+                  "lat" : 52.2649969197085,
+                  "lng" : 5.202972519708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "autorijschool het Gooi",
+               "short_name" : "autorijschool het Gooi",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Berezinadreef",
+               "short_name" : "Berezinadreef",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wolga- en Donaudreef",
+               "short_name" : "Wolga- en Donaudreef",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Overvecht",
+               "short_name" : "Overvecht",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3561 SM",
+               "short_name" : "3561 SM",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "autorijschool het Gooi, Berezinadreef 48, 3561 SM Utrecht, Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.114141,
+               "lng" : 5.124790099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.11548998029149,
+                  "lng" : 5.126139080291502
+               },
+               "southwest" : {
+                  "lat" : 52.1127920197085,
+                  "lng" : 5.123441119708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

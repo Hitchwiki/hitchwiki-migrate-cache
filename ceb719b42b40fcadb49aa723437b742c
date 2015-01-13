@@ -1,0 +1,43 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlantic Ocean",
+               "short_name" : "Atlantic Ocean",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Atlantic Ocean",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 68.6187515,
+                  "lng" : 20
+               },
+               "southwest" : {
+                  "lat" : -83.0204773,
+                  "lng" : -83.216095
+               }
+            },
+            "location" : {
+               "lat" : -14.5994134,
+               "lng" : -28.6731465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 68.6187515,
+                  "lng" : 20
+               },
+               "southwest" : {
+                  "lat" : -83.0204773,
+                  "lng" : -83.216095
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

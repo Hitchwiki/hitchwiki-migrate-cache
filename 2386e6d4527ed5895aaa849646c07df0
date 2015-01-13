@@ -1,0 +1,204 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Trust Street",
+               "short_name" : "National Trust St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Paarl",
+               "short_name" : "Paarl",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paarl",
+               "short_name" : "Paarl",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Breede River DC",
+               "short_name" : "Breede River DC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Cape",
+               "short_name" : "WC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7646",
+               "short_name" : "7646",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National Trust Street, Paarl, 7646, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.7028,
+                  "lng" : 19.00039
+               },
+               "southwest" : {
+                  "lat" : -33.703447,
+                  "lng" : 18.9985389
+               }
+            },
+            "location" : {
+               "lat" : -33.703159,
+               "lng" : 18.9994421
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.7017745197085,
+                  "lng" : 19.0008134302915
+               },
+               "southwest" : {
+                  "lat" : -33.7044724802915,
+                  "lng" : 18.9981154697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trust",
+               "short_name" : "Trust",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Almanza Dos",
+               "short_name" : "Almanza Dos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Las Piñas",
+               "short_name" : "Las Piñas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Metro Manila",
+               "short_name" : "NCR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Philippines",
+               "short_name" : "PH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trust, Las Piñas, Metro Manila, Philippines",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.4129663,
+                  "lng" : 121.0038351
+               },
+               "southwest" : {
+                  "lat" : 14.412426,
+                  "lng" : 121.0029861
+               }
+            },
+            "location" : {
+               "lat" : 14.4126572,
+               "lng" : 121.0033657
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.4140451302915,
+                  "lng" : 121.0047595802915
+               },
+               "southwest" : {
+                  "lat" : 14.4113471697085,
+                  "lng" : 121.0020616197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trust",
+               "short_name" : "Trust",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kothnur Main Road",
+               "short_name" : "Kothnur Main Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Puttenahalli",
+               "short_name" : "Puttenahalli",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Phase 7",
+               "short_name" : "Phase 7",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "J. P. Nagar",
+               "short_name" : "J. P. Nagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bengaluru",
+               "short_name" : "Bengaluru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bangalore Urban",
+               "short_name" : "Bangalore Urban",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "560078",
+               "short_name" : "560078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trust, Kothnur Main Road, Puttenahalli, Phase 7, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.892208,
+               "lng" : 77.5817031
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.89355698029151,
+                  "lng" : 77.58305208029151
+               },
+               "southwest" : {
+                  "lat" : 12.8908590197085,
+                  "lng" : 77.58035411970849
+               }
+            }
+         },
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

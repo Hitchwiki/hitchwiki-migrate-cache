@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dukla",
+               "short_name" : "Dukla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Dukla",
+               "short_name" : "Gmina Dukla",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "krośnieński",
+               "short_name" : "krośnieński",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podkarpackie Voivodeship",
+               "short_name" : "Podkarpackie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dukla, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.571686,
+                  "lng" : 21.6928779
+               },
+               "southwest" : {
+                  "lat" : 49.5260389,
+                  "lng" : 21.662381
+               }
+            },
+            "location" : {
+               "lat" : 49.5555137,
+               "lng" : 21.6832308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.571686,
+                  "lng" : 21.6928779
+               },
+               "southwest" : {
+                  "lat" : 49.5260389,
+                  "lng" : 21.662381
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

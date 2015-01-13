@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LOGS",
+               "short_name" : "LOGS",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Woodstock Terrace",
+               "short_name" : "Woodstock Terrace",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poplar",
+               "short_name" : "Poplar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "E14 0AD",
+               "short_name" : "E14 0AD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LOGS, 22 Woodstock Terrace, Poplar, London E14 0AD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5099809,
+               "lng" : -0.0156418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51132988029151,
+                  "lng" : -0.01429281970849797
+               },
+               "southwest" : {
+                  "lat" : 51.50863191970851,
+                  "lng" : -0.01699078029150203
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Logs",
+               "short_name" : "Logs",
+               "types" : []
+            },
+            {
+               "long_name" : "Mels",
+               "short_name" : "Mels",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sarganserland",
+               "short_name" : "Sarganserland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "St. Gallen",
+               "short_name" : "SG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7326",
+               "short_name" : "7326",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Logs, 7326 Mels, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.9875817,
+               "lng" : 9.324010999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9889306802915,
+                  "lng" : 9.325359980291502
+               },
+               "southwest" : {
+                  "lat" : 46.9862327197085,
+                  "lng" : 9.322662019708497
+               }
+            }
+         },
+         "types" : []
+      }
+   ],
+   "status" : "OK"
+}

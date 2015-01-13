@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iron Gates",
+               "short_name" : "Iron Gates",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Joplin",
+               "short_name" : "Joplin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galena",
+               "short_name" : "Galena",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jasper County",
+               "short_name" : "Jasper County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64804",
+               "short_name" : "64804",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Iron Gates, Joplin, MO 64804, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.0670057,
+               "lng" : -94.5543922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0759085,
+                  "lng" : -94.53838479999999
+               },
+               "southwest" : {
+                  "lat" : 37.0581019,
+                  "lng" : -94.5703996
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

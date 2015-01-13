@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Killarney",
+               "short_name" : "Killarney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kerry",
+               "short_name" : "Kerry",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerry",
+               "short_name" : "Kerry",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Killarney, Co. Kerry, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.07281,
+                  "lng" : -9.4801901
+               },
+               "southwest" : {
+                  "lat" : 52.04827,
+                  "lng" : -9.5350099
+               }
+            },
+            "location" : {
+               "lat" : 52.05993530000001,
+               "lng" : -9.504426499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.07281,
+                  "lng" : -9.4801901
+               },
+               "southwest" : {
+                  "lat" : 52.04827,
+                  "lng" : -9.5350099
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
